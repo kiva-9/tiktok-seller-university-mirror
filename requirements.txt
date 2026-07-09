@@ -1,0 +1,13 @@
+# 核心依赖
+requests>=2.31
+beautifulsoup4>=4.12
+markdownify>=0.11
+
+# HTML→Markdown 转换备选（可根据实际效果二选一）
+# html2text>=2024.2
+
+# YAML frontmatter
+pyyaml>=6.0
+
+# （可选）更快的 HTTP 客户端
+# httpx>=0.27

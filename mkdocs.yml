@@ -1,0 +1,46 @@
+# TikTok Seller University (BR) - 镜像库
+
+# 站點默認語言（pt-BR = 葡萄牙語巴西）
+site_name: TikTok Shop Academy BR - Mirror
+site_description: Mirror of TikTok Seller University Brazil knowledge base
+site_url: https://<你的用户名>.github.io/tiktok-seller-university-mirror/
+
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search:
+      lang:
+        - pt
+        - en
+
+# 导航由 CI 自动生成，首次手动写一份占位
+nav:
+  - Home: index.md
+  - Cursos: cursos/
+  - Feature Guide: feature-guide/
+  - Policy Center: policy-center/
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/<你的用户名>/tiktok-seller-university-mirror

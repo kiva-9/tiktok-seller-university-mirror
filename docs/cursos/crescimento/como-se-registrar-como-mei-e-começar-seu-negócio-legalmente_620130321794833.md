@@ -1,0 +1,10 @@
+---
+title: "Como se registrar como MEI e começar seu negócio legalmente "
+id: 620130321794833
+category: "Crescimento"
+url: "https://seller-br.tiktok.com/university/essay?knowledge_id=620130321794833"
+update_time: "2025-06-30"
+keywords: "Vendedores"
+---
+Neste guia, você vai aprender passo a passo como se cadastrar gratuitamente como Microempreendedor Individual (MEI) no Portal do Empreendedor. Descubra os benefícios, requisitos e obrigações para atuar legalmente, emitir notas fiscais e expandir suas vendas com segurança.  
+[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oAiqgYDA4Io7F5Tc0QfB1eELxpzxRkL2xEBSaE~tplv-noop.image?dr=18692&refresh_token=7e748506&x-expires=1783526863&x-signature=%2FBd1EgYjSkuqqODgpac17KG8uIc%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd1h4e17og65kvamp7j90)](https://v16m-default.tiktokcdn.com/526d0bae55d469c04294dd55520a9f92/6a4e75cf/video/tos/alisg/tos-alisg-v-9e30d3-sg/oY2KEBxFTIzpF1QgelLYzcEkFSREDfzBQzgoqi/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1451&ft=cApXJCz7ThWH~9DlLGZmo0P&mime_type=video_mp4&rc=PDQ8ZDM3Z2hpZ2Y5NjxoNkBpM21zZG45cjQ3NGYzOGc3NEA2NDMzYzNgXi8xX2JgYDFhYSM2NGpzMmQ0YmVhLS1kXy1zcw%3D%3D&vvpl=1&l=021783505203936fdbddc5300150210100c1dbf1f000075486d88&btag=e00050000)

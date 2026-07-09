@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+venv/
+.venv/
+playwright-mcp/
+*.log
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
+
+# 同步过程的临时文件（如果有）
+/tmp/
+*.tmp
