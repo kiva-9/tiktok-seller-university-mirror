@@ -1,0 +1,18 @@
+---
+title: "Como Aumentar Suas Vendas com o Método de Funil"
+id: 7873413496194817
+category: "Webinar"
+url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7873413496194817"
+update_time: "2026-05-07"
+keywords: "Vendedores"
+video_count: 1
+video_url: "https://v16m-default.tiktokcdn.com/4b444e2073b8168f0d55744cb2852d5b/6a4fcdf3/video/tos/alisg/tos-alisg-v-9e30d3-sg/oABk1uB4fTnfDdG08mk7Qn6iRw5iILpjBEgx0C/?a=6556&bti=ODY2QDQwNWA%3D&&bt=289&ft=cApXJCz7ThWHxG_lLGZmo0P&mime_type=video_mp4&rc=OTxoaGdkZzRkOmVpOztoZkBpMzVsaHM5cndoOmYzOGc3NEAwMi1eLTFgNjMxXjQ1Xy9hYSNsM3JnMmRjMHJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783590712478fdbddc53001105410d0c1dbf1f0000e514a829&btag=e00068000"
+video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/c60695c45a3a4f1ca3e7566482d3482c_1778180679~tplv-noop.image?dr=18692&refresh_token=7571f6eb&x-expires=1783614963&x-signature=p%2FjZ4pukfl28EIa5vVEFh0%2FdCeU%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd7ue3tfog65pjeui62o0"
+videos:
+  - "https://v16m-default.tiktokcdn.com/4b444e2073b8168f0d55744cb2852d5b/6a4fcdf3/video/tos/alisg/tos-alisg-v-9e30d3-sg/oABk1uB4fTnfDdG08mk7Qn6iRw5iILpjBEgx0C/?a=6556&bti=ODY2QDQwNWA%3D&&bt=289&ft=cApXJCz7ThWHxG_lLGZmo0P&mime_type=video_mp4&rc=OTxoaGdkZzRkOmVpOztoZkBpMzVsaHM5cndoOmYzOGc3NEAwMi1eLTFgNjMxXjQ1Xy9hYSNsM3JnMmRjMHJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783590712478fdbddc53001105410d0c1dbf1f0000e514a829&btag=e00068000"
+---
+Aprenda um método prático para impulsionar suas vendas no TikTok Shop em apenas 7 dias! Neste webinar, detalhamos o "Método em Funil" através de 4 pilares essenciais: Exposição (vídeos curtos, lives e afiliados), Cliques (testes A/B e ganchos visuais), Conversão (método das 3 telas e promoções) e Retenção (venda cruzada e fidelização). Domine cada etapa da jornada do cliente e maximize seus resultados.  
+
+🎬 [视频](https://v16m-default.tiktokcdn.com/4b444e2073b8168f0d55744cb2852d5b/6a4fcdf3/video/tos/alisg/tos-alisg-v-9e30d3-sg/oABk1uB4fTnfDdG08mk7Qn6iRw5iILpjBEgx0C/?a=6556&bti=ODY2QDQwNWA%3D&&bt=289&ft=cApXJCz7ThWHxG\_lLGZmo0P&mime\_type=video\_mp4&rc=OTxoaGdkZzRkOmVpOztoZkBpMzVsaHM5cndoOmYzOGc3NEAwMi1eLTFgNjMxXjQ1Xy9hYSNsM3JnMmRjMHJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783590712478fdbddc53001105410d0c1dbf1f0000e514a829&btag=e00068000)
+
+Material: [https://aumentar-vendas.my.canva.site/](https://aumentar-vendas.my.canva.site/ "https://aumentar-vendas.my.canva.site/")
