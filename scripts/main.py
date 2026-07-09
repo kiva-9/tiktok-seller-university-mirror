@@ -163,8 +163,11 @@ def clean_html_to_markdown(html):
     处理步骤：
     1. 去掉 <div class="space"> 等冗余分隔符
     2. 去掉外层 <div class="converted-html">
-    3. markdownify 转换（heading_style='ATX' 用 # 标题）
-    4. 清理多余空行
+    3. 提取 <video> 元数据，替换为显式链接段落
+    4. markdownify 转换（heading_style='ATX' 用 # 标题）
+    5. 清理多余空行
+
+    返回 (markdown_text, videos_list)
     """
     soup = BeautifulSoup(html, "html.parser")
     # 去掉冗余分隔 div
@@ -173,6 +176,25 @@ def clean_html_to_markdown(html):
     # 去掉 <script>/<style>
     for tag in soup.find_all(["script", "style"]):
         tag.decompose()
+
+    videos = []
+    # 处理 <video> 标签：提取元数据，替换为显式链接段落
+    for vid in soup.find_all("video"):
+        source = vid.find("source")
+        video_url = ""
+        if source and source.get("src"):
+            video_url = source["src"]
+        elif vid.get("src"):
+            video_url = vid["src"]
+        poster_url = vid.get("poster", "")
+        if video_url:
+            videos.append({"url": video_url, "cover": poster_url})
+        # 替换为显式链接段落
+        link_text = f"🎬 [视频]({video_url})" if video_url else ""
+        new_p = soup.new_tag("p")
+        new_p.string = link_text
+        vid.replace_with(new_p)
+
     # 解包外层 wrapper
     wrapper = soup.find("div", class_="converted-html")
     inner = wrapper.decode_contents() if wrapper else str(soup)
@@ -180,7 +202,7 @@ def clean_html_to_markdown(html):
     markdown = md(inner, heading_style="ATX", strip=["script", "style"])
     # 清理多余空行（>2 个连续空行 → 2 个）
     markdown = re.sub(r"\n{3,}", "\n\n", markdown)
-    return markdown.strip()
+    return markdown.strip(), videos
 
 
 def extract_router_data(html):
@@ -390,13 +412,28 @@ def write_article_md(article_meta, content_body, category_path, tab_name):
         "keywords": article_meta.get("keywords", ""),
     }
 
+    # 视频结构化数据（如果有）
+    videos = article_meta.get("videos", [])
+    if videos:
+        frontmatter["video_count"] = len(videos)
+        # 第一个视频作为主视频
+        frontmatter["video_url"] = videos[0]["url"]
+        frontmatter["video_cover"] = videos[0]["cover"]
+        # 全部视频 URL 列表（方便 RAG 批量提取）
+        frontmatter["videos"] = [v["url"] for v in videos]
+
     # 组装 Markdown
     yaml_lines = ["---"]
     for k, v in frontmatter.items():
-        # 转义 title 中的引号
         if isinstance(v, str):
             v = v.replace('"', '\\"')
             yaml_lines.append(f'{k}: "{v}"')
+        elif isinstance(v, list):
+            # YAML 列表格式
+            yaml_lines.append(f"{k}:")
+            for item in v:
+                item_str = str(item).replace('"', '\\"')
+                yaml_lines.append(f'  - "{item_str}"')
         else:
             yaml_lines.append(f"{k}: {v}")
     yaml_lines.append("---")
@@ -476,8 +513,8 @@ def sync_tab(tab_config):
                 failed += 1
                 continue
 
-            # HTML → Markdown
-            md_body = clean_html_to_markdown(detail["html_content"])
+            # HTML → Markdown（返回 markdown 文本 + 视频列表）
+            md_body, videos = clean_html_to_markdown(detail["html_content"])
 
             # 写入文件
             meta = {
@@ -485,6 +522,7 @@ def sync_tab(tab_config):
                 "knowledge_name": detail["knowledge_name"],
                 "keywords": detail.get("keywords", ""),
                 "modify_time": modify_time,
+                "videos": videos,  # ← 新增：视频结构化数据
             }
             rel_path = write_article_md(meta, md_body, path, tab_name)
             if rel_path:
