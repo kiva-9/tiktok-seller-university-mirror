@@ -21,6 +21,7 @@ export default defineConfig({
   title: 'TikTok Shop Academy BR',
   description: 'TikTok Seller University Brazil knowledge base mirror',
   lang: 'pt-BR',
+  globalStyles: path.join(__dirname, 'assets/custom.css'),
   // 搜索配置
   search: {
     codeSearch: true,

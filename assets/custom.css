@@ -1,54 +1,93 @@
-/* rspress 风格的 MkDocs Material 微调 */
-
-/* 整体排版更紧凑 */
-.md-typeset {
-  font-size: 15px;
-  line-height: 1.7;
+/* Center the Rspress chrome around one readable documentation column. */
+:root {
+  --mirror-shell-width: 1536px;
+  --mirror-doc-width: 820px;
+  --mirror-gutter: 24px;
+  --rp-sidebar-width: 300px;
+  --rp-aside-width: 244px;
 }
 
-/* 首页卡片化布局 */
-.md-content__inner .first-heading {
-  font-size: 2rem;
-  margin-bottom: 1.5rem;
+.rspress-doc {
+  font-size: 15.5px;
+  line-height: 1.75;
 }
 
-/* 链接颜色更鲜明 */
-.md-typeset a {
-  color: #3b82f6;
-}
-.md-typeset a:hover {
-  color: #1d4ed8;
+.rspress-doc p,
+.rspress-doc li {
+  line-height: 1.75;
 }
 
-/* 代码块更干净 */
-.md-typeset code {
-  background: rgba(59, 130, 246, 0.08);
-  border-radius: 4px;
-  padding: 0.15em 0.4em;
-}
-
-/* 导航栏活跃项高亮 */
-.md-nav__item .md-nav__link--active {
-  color: #3b82f6;
-  font-weight: 600;
-}
-
-/* 表格更紧凑 */
-.md-typeset table {
+.rspress-doc table {
   font-size: 14px;
 }
 
-/* 顶部导航栏阴影更轻 */
-.md-header {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+.rspress-doc :not(pre) > code {
+  border-radius: 5px;
+  background: rgba(0, 149, 255, 0.08);
+  padding: 0.14em 0.36em;
 }
 
-/* 搜索框圆角 */
-.md-search__input {
-  border-radius: 20px;
+.dark .rspress-doc :not(pre) > code {
+  background: rgba(102, 194, 255, 0.12);
 }
 
-/* 文章宽度优化 */
-.md-grid {
-  max-width: 960px;
+@media (min-width: 960px) {
+  .rspress-nav > [class*="container_"] {
+    max-width: var(--mirror-shell-width);
+    margin: 0 auto;
+    padding-inline: var(--mirror-gutter);
+  }
+
+  [class*="docLayout_"] {
+    max-width: var(--mirror-shell-width);
+    margin-inline: auto;
+    padding-inline: var(--mirror-gutter);
+    box-sizing: border-box;
+  }
+
+  .rspress-sidebar {
+    border-right: 1px solid var(--rp-c-divider-light);
+    box-shadow: none;
+  }
+
+  [class*="content_"] {
+    min-width: 0;
+  }
+
+  [class*="content_"] .rspress-doc,
+  [class*="content_"] .rspress-doc-footer {
+    max-width: var(--mirror-doc-width);
+  }
+}
+
+@media (min-width: 1280px) {
+  [class*="content_"] {
+    padding-inline: 0;
+  }
+
+  [class*="content_"] .rspress-doc,
+  [class*="content_"] .rspress-doc-footer {
+    width: min(
+      var(--mirror-doc-width),
+      calc(100vw - var(--rp-sidebar-width) - var(--rp-aside-width) - 96px)
+    );
+    margin-inline: auto;
+    padding-inline: 0;
+  }
+
+  [class*="aside-container_"] {
+    padding-left: 24px;
+  }
+}
+
+@media (min-width: 1560px) {
+  .rspress-sidebar {
+    border-left: 1px solid var(--rp-c-divider-light);
+  }
+}
+
+@media (max-width: 959px) {
+  .rspress-doc {
+    font-size: 15px;
+  }
 }
