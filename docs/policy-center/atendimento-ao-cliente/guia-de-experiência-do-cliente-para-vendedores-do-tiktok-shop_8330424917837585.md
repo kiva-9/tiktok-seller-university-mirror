@@ -5,6 +5,11 @@ category: "Atendimento ao Cliente"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8330424917837585"
 update_time: "2025-11-12"
 keywords: "Vendedores"
+video_count: 1
+video_url: "https://v16m-default.tiktokcdn.com/ac4d531364dc6f95e96976c60bd0a16a/6a50bc2f/video/tos/alisg/tos-alisg-v-9e30d3-sg/owsQiEVZU00Yr5lRFmiRAiil6AXBJwHo8Ifsdv/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1426&ft=cApXJCz7ThWH5WNzLGZmo0P&mime_type=video_mp4&rc=Zzo1Ozg5NTZnZTo4ODszNEBpamlra245cmY3N2YzOGc3NEBjYzVjLjVhXjExMGAzM2MuYSNpb2MxMmRzNF5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654227864fdbddc530015010e2d0c1dbf1f00008c7e4af0&btag=e00050000"
+video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/ocZBiJ3iwH06YE8S0tIUFviVldAUoifRAvDrBM~tplv-noop.image?dr=18692&refresh_token=50b865a7&x-expires=1783675951&x-signature=6VAv8WYi6MNK0iNlkHoeBYiY8JU%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd4a47cvog65k4hfhrflg"
+videos:
+  - "https://v16m-default.tiktokcdn.com/ac4d531364dc6f95e96976c60bd0a16a/6a50bc2f/video/tos/alisg/tos-alisg-v-9e30d3-sg/owsQiEVZU00Yr5lRFmiRAiil6AXBJwHo8Ifsdv/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1426&ft=cApXJCz7ThWH5WNzLGZmo0P&mime_type=video_mp4&rc=Zzo1Ozg5NTZnZTo4ODszNEBpamlra245cmY3N2YzOGc3NEBjYzVjLjVhXjExMGAzM2MuYSNpb2MxMmRzNF5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654227864fdbddc530015010e2d0c1dbf1f00008c7e4af0&btag=e00050000"
 ---
 ![TikTok_Banner_Black Friday Season_V1 (1).png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/8bdb87fd950c4efd9d00815b7cf9cc1d~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2070881935&x-signature=GCvLehsm7tgH5Qg%2BoJoR7hoeu6Q%3D)
 
@@ -12,7 +17,8 @@ Oferecer uma ótima experiência ao cliente não é apenas sobre o que você ven
 
 Este guia foi criado para ajudar você a dominar os pequenos detalhes que fazem uma grande diferença. Desde a embalagem até o controle de estoque e a escrita de descrições de produtos mais atrativas, você encontrará dicas práticas para aumentar suas avaliações, reduzir devoluções e conquistar a confiança dos compradores no TikTok Shop a longo prazo.  
 **Quer construir confiança e reduzir devoluções?** Uma experiência do cliente positiva é essencial para qualquer loja de sucesso. Neste vídeo, guiamos os vendedores através dos três pilares de uma ótima experiência: envio inteligente, embalagem protetora e anúncios de produtos precisos.  
-[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/ocZBiJ3iwH06YE8S0tIUFviVldAUoifRAvDrBM~tplv-noop.image?dr=18692&refresh_token=a9ea3745&x-expires=1783527702&x-signature=RDtYTbVx6VXFCcltkYS4FGnNZHI%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd4a47cvog65k4hfhrflg)](https://v16m-default.tiktokcdn.com/6aeaafeacb807df0c1eb175b95c2921a/6a4e7916/video/tos/alisg/tos-alisg-v-9e30d3-sg/owsQiEVZU00Yr5lRFmiRAiil6AXBJwHo8Ifsdv/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1426&ft=cApXJCz7ThWHcgDlLGZmo0P&mime_type=video_mp4&rc=Zzo1Ozg5NTZnZTo4ODszNEBpamlra245cmY3N2YzOGc3NEBjYzVjLjVhXjExMGAzM2MuYSNpb2MxMmRzNF5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783505978161fdbddc5300150210100c1dbf1f000075cd5f56&btag=e00050000)
+
+🎬 [视频](https://v16m-default.tiktokcdn.com/ac4d531364dc6f95e96976c60bd0a16a/6a50bc2f/video/tos/alisg/tos-alisg-v-9e30d3-sg/owsQiEVZU00Yr5lRFmiRAiil6AXBJwHo8Ifsdv/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1426&ft=cApXJCz7ThWH5WNzLGZmo0P&mime\_type=video\_mp4&rc=Zzo1Ozg5NTZnZTo4ODszNEBpamlra245cmY3N2YzOGc3NEBjYzVjLjVhXjExMGAzM2MuYSNpb2MxMmRzNF5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654227864fdbddc530015010e2d0c1dbf1f00008c7e4af0&btag=e00050000)
 
 # **Parte 1 - Embalagem**
 

@@ -3,7 +3,7 @@ title: "Política do Programa piloto para criadores do TikTok Shop"
 id: 2918995033900817
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2918995033900817"
-update_time: "2026-06-12"
+update_time: "2026-07-09"
 keywords: ""
 ---
 ## Criador de loja oficial e/ou de marketing

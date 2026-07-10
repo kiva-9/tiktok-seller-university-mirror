@@ -5,12 +5,17 @@ category: "Promoção"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5702401538328336"
 update_time: "2025-04-10"
 keywords: "Sellers"
+video_count: 1
+video_url: "https://v16m-default.tiktokcdn.com/4da54315d81bd32cbb7e41560c9e8d51/6a50ba87/video/tos/alisg/tos-alisg-v-9e30d3-sg/osWEgEpQ1HGInxIf3B99vyuof3DDLBFbQr3BsI/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1217&ft=cApXJCz7ThWH5lNzLGZmo0P&mime_type=video_mp4&rc=ZDo0OTQ5ZWloPDc0N2dlO0BpanFyeW45cnBseWYzOGc3NEA2LzBhYy1iNi4xMV9fYzBjYSNyZWxuMmRzMG9gLS1kXy1zcw%3D%3D&vvpl=1&l=021783653779708fdbddc53001202670c0c1dbf1f0000e2c47f43&btag=e00050000"
+video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/ogQI99S13ErGLIfBEnygkHDpFbfAxBsjbID3BR~tplv-noop.image?dr=18692&refresh_token=ab1c5a0f&x-expires=1783675527&x-signature=%2ByfIEOl%2FS4Tj0icqRIhoUOl3Fo8%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000ccvri3mvog65kqvoohnug"
+videos:
+  - "https://v16m-default.tiktokcdn.com/4da54315d81bd32cbb7e41560c9e8d51/6a50ba87/video/tos/alisg/tos-alisg-v-9e30d3-sg/osWEgEpQ1HGInxIf3B99vyuof3DDLBFbQr3BsI/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1217&ft=cApXJCz7ThWH5lNzLGZmo0P&mime_type=video_mp4&rc=ZDo0OTQ5ZWloPDc0N2dlO0BpanFyeW45cnBseWYzOGc3NEA2LzBhYy1iNi4xMV9fYzBjYSNyZWxuMmRzMG9gLS1kXy1zcw%3D%3D&vvpl=1&l=021783653779708fdbddc53001202670c0c1dbf1f0000e2c47f43&btag=e00050000"
 ---
 Este artigo ensina como usar os cupons exclusivos dos criadores para aumentar o seu valor médio por pedido e as taxas de conversão. Você aprenderá a configurar e gerenciar essa ferramenta no PC da Central do vendedor.
 
 Assista a este vídeo para conferir uma visão geral rápida do cupom exclusivo dos criadores:
 
-[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/ogQI99S13ErGLIfBEnygkHDpFbfAxBsjbID3BR~tplv-noop.image?dr=18692&refresh_token=69fd65e1&x-expires=1783527242&x-signature=6UURuz1F9fsnlj2ER2cKuqnPSkY%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000ccvri3mvog65kqvoohnug)](https://v16m-default.tiktokcdn.com/d166478e5221aa503ed8ee74e670ab08/6a4e774a/video/tos/alisg/tos-alisg-v-9e30d3-sg/osWEgEpQ1HGInxIf3B99vyuof3DDLBFbQr3BsI/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1217&ft=cApXJCz7ThWHYQDlLGZmo0P&mime_type=video_mp4&rc=ZDo0OTQ5ZWloPDc0N2dlO0BpanFyeW45cnBseWYzOGc3NEA2LzBhYy1iNi4xMV9fYzBjYSNyZWxuMmRzMG9gLS1kXy1zcw%3D%3D&vvpl=1&l=021783505494389fdbddc5300150210100c1dbf1f000075111ed4&btag=e00050000)
+🎬 [视频](https://v16m-default.tiktokcdn.com/4da54315d81bd32cbb7e41560c9e8d51/6a50ba87/video/tos/alisg/tos-alisg-v-9e30d3-sg/osWEgEpQ1HGInxIf3B99vyuof3DDLBFbQr3BsI/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1217&ft=cApXJCz7ThWH5lNzLGZmo0P&mime\_type=video\_mp4&rc=ZDo0OTQ5ZWloPDc0N2dlO0BpanFyeW45cnBseWYzOGc3NEA2LzBhYy1iNi4xMV9fYzBjYSNyZWxuMmRzMG9gLS1kXy1zcw%3D%3D&vvpl=1&l=021783653779708fdbddc53001202670c0c1dbf1f0000e2c47f43&btag=e00050000)
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/80197846a47a4c60b4a018ed76ea5abb~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059609096&x-signature=d8H6auu3D1r1KnW5oCiF0LaGcTI%3D)
 

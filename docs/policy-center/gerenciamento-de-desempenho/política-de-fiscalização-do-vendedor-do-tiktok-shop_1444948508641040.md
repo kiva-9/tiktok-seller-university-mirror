@@ -3,8 +3,13 @@ title: "Política de Fiscalização do Vendedor do TikTok Shop "
 id: 1444948508641040
 category: "Gerenciamento de Desempenho"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1444948508641040"
-update_time: "2026-02-11"
+update_time: "2026-07-09"
 keywords: "Seller Policy,Sellers"
+video_count: 1
+video_url: "https://v16m-default.tiktokcdn.com/3755eecdb8802e2e2ed8ed33771ef7dc/6a50bc3d/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0FtyYfwoiEQDR64l8w5IZiiHRV110UVBHAiA1/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1345&ft=cApXJCz7ThWHGWNzLGZmo0P&mime_type=video_mp4&rc=NWc2OjtlOjo6ZDg7NTgzNEBpam84dmw5cng3N2YzOGc3NEBgNDJeNGFeNmMxL2JgL2NiYSMuZzRqMmRjMl5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654233612fdbddc5300150210100c1dbf1f000075a1117f&btag=e00050000"
+video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/og0mojUt8A1EiYi6yAZIwP1Dtil5wufsRFRBiD~tplv-noop.image?dr=18692&refresh_token=be81267b&x-expires=1783675965&x-signature=OXziSWaMsd5z3Mv6zg3C0ndaaRA%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd4a45ufog65ims75jl1g"
+videos:
+  - "https://v16m-default.tiktokcdn.com/3755eecdb8802e2e2ed8ed33771ef7dc/6a50bc3d/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0FtyYfwoiEQDR64l8w5IZiiHRV110UVBHAiA1/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1345&ft=cApXJCz7ThWHGWNzLGZmo0P&mime_type=video_mp4&rc=NWc2OjtlOjo6ZDg7NTgzNEBpam84dmw5cng3N2YzOGc3NEBgNDJeNGFeNmMxL2JgL2NiYSMuZzRqMmRjMl5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654233612fdbddc5300150210100c1dbf1f000075a1117f&btag=e00050000"
 ---
 # Política de Fiscalização do Vendedor (Avaliação do Estado da Conta) (**em vigor a partir de 30 de junho de 2025)**
 
@@ -16,7 +21,8 @@ keywords: "Seller Policy,Sellers"
 > * Você pode recorrer ou corrigir suas violações, mas essas opções estão sujeitas a prazos rigorosos. Por isso, verifique sua página de Avaliação do Estado da Conta regularmente! Se seu recurso ou correção for bem-sucedido, removeremos as medidas corretivas para essas violações e restauraremos todos os privilégios retirados.
 
 Esta política descreve como o TikTok Shop lida com violações às nossas políticas. Avaliamos constantemente se sua loja está em conformidade com nossas políticas. Se sua loja violar qualquer uma de nossas políticas ou não atender aos padrões de desempenho, poderemos aplicar medidas corretivas.**Precisa entender a situação da sua loja e evitar restrições?** Sua Avaliação do Estado da Conta (AHR) é a métrica principal que você precisa acompanhar. Neste vídeo, fornecemos uma análise detalhada do sistema de pontos, como funcionam as penalidades e como você pode proteger os privilégios da sua loja.  
-[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/og0mojUt8A1EiYi6yAZIwP1Dtil5wufsRFRBiD~tplv-noop.image?dr=18692&refresh_token=bd0e5525&x-expires=1783527715&x-signature=Wmw6luBQgt0RKCsrPT%2B0bQaY7cY%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd4a45ufog65ims75jl1g)](https://v16m-default.tiktokcdn.com/1c5e4aa10d84fc8253b7894857f9d371/6a4e7923/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0FtyYfwoiEQDR64l8w5IZiiHRV110UVBHAiA1/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1345&ft=cApXJCz7ThWHUgDlLGZmo0P&mime_type=video_mp4&rc=NWc2OjtlOjo6ZDg7NTgzNEBpam84dmw5cng3N2YzOGc3NEBgNDJeNGFeNmMxL2JgL2NiYSMuZzRqMmRjMl5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783505983771fdbddc5300150210100c1dbf1f000075a73141&btag=e00050000)
+
+🎬 [视频](https://v16m-default.tiktokcdn.com/3755eecdb8802e2e2ed8ed33771ef7dc/6a50bc3d/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0FtyYfwoiEQDR64l8w5IZiiHRV110UVBHAiA1/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1345&ft=cApXJCz7ThWHGWNzLGZmo0P&mime\_type=video\_mp4&rc=NWc2OjtlOjo6ZDg7NTgzNEBpam84dmw5cng3N2YzOGc3NEBgNDJeNGFeNmMxL2JgL2NiYSMuZzRqMmRjMl5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654233612fdbddc5300150210100c1dbf1f000075a1117f&btag=e00050000)
 
 ## **Avaliação do Estado da Conta**
 
@@ -30,7 +36,7 @@ A Avaliação do Estado da Conta é o principal componente da nossa política de
  **Adição de Pontos**Você pode **ganhar** pontos de duas formas:  
 
 * Para cada **300 pedidos** marcados como "Concluídos" na Central do vendedor nos últimos 180 dias. Pedidos de amostra, devolvidos, reembolsados, cancelados ou com defeito não são considerados.
-  + Sua loja pode ganhar no máximo **30 pontos** através desse método.
+  + Sua loja pode ganhar no máximo **200 pontos** através desse método.
 * Ao fazer e passar em cada **quiz de política** (disponível em breve) associado a uma violação.
 
 Cada ponto adicionado à sua Avaliação de Estado da Conta será resetadoapós 180 dias.  
@@ -44,16 +50,20 @@ Se sua Avaliação do Estado da Conta cair para **150, 100, 50 ou 0 pontos**, to
 
 * Você não poderá se inscrever em novas megacampanhas por **7 dias.**
 * Você não poderá criar novas listagens por **7 dias.**
+* Você não poderá sacar fundos por **7 dias.**
 
 **Ao atingir 100 pontos:**
 
 * Você não poderá se inscrever em novas megacampanhas por **14 dias.**
 * Você não poderá criar novas listagens por **14 dias**.
+* Você não poderá sacar fundos por **14 dias.**
 
 **Ao atingir 50 pontos:**
 
 * Você não poderá se inscrever em novas megacampanhas por **28 dias.**
 * Você não poderá criar novas listagens por 2**8 dias.**
+* Você não poderá sacar fundos por **28 dias.**
+* Você receberá o Limite de Volumes de Pedidos (OVL) por **28 dias.**
 
 **Ao atingir 0 pontos:**
 

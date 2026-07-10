@@ -5,8 +5,13 @@ category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2704715439834881"
 update_time: "2026-05-13"
 keywords: "Vendedores,Política de vendedor,Criadores,Política de Criador"
+video_count: 1
+video_url: "https://v16m-default.tiktokcdn.com/554976f420ca776362bcb508320537e5/6a50bca7/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8EZEgkfe2QIt2XrU40TAQFLO3cDpHBDiyeUpC/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1299&ft=cApXJCz7ThWH8wNzLGZmo0P&mime_type=video_mp4&rc=aTQ5M2dnMzo1Nzo1aGU1N0BpM2pxZHg5cm94OmYzOGc3NEBeYjRhNWJgXzYxXjFeLjYvYSM0MWEtMmQ0MmhhLS1kXy1zcw%3D%3D&vvpl=1&l=021783654309622fdbddc5300150210100c1dbf1f0000750d887a&btag=e00050000"
+video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4gC0kmi383GWC4ENJfrkpeWXADLTxITBQ4gJf~tplv-noop.image?dr=18692&refresh_token=e2e318e6&x-expires=1783676071&x-signature=2BHgZTCOX8MUT1YdX9ka%2FS04pNI%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd7ku5l7og65u0adn4g70"
+videos:
+  - "https://v16m-default.tiktokcdn.com/554976f420ca776362bcb508320537e5/6a50bca7/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8EZEgkfe2QIt2XrU40TAQFLO3cDpHBDiyeUpC/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1299&ft=cApXJCz7ThWH8wNzLGZmo0P&mime_type=video_mp4&rc=aTQ5M2dnMzo1Nzo1aGU1N0BpM2pxZHg5cm94OmYzOGc3NEBeYjRhNWJgXzYxXjFeLjYvYSM0MWEtMmQ0MmhhLS1kXy1zcw%3D%3D&vvpl=1&l=021783654309622fdbddc5300150210100c1dbf1f0000750d887a&btag=e00050000"
 ---
-[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4gC0kmi383GWC4ENJfrkpeWXADLTxITBQ4gJf~tplv-noop.image?dr=18692&refresh_token=5dd604d6&x-expires=1783527825&x-signature=l1%2BYfTr8LxgXOdibef%2Fa%2FFPbZo8%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd7ku5l7og65u0adn4g70)](https://v16m-default.tiktokcdn.com/1a44fdf33c6122481955bc215ab03136/6a4e7991/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8EZEgkfe2QIt2XrU40TAQFLO3cDpHBDiyeUpC/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1299&ft=cApXJCz7ThWHKqDlLGZmo0P&mime_type=video_mp4&rc=aTQ5M2dnMzo1Nzo1aGU1N0BpM2pxZHg5cm94OmYzOGc3NEBeYjRhNWJgXzYxXjFeLjYvYSM0MWEtMmQ0MmhhLS1kXy1zcw%3D%3D&vvpl=1&l=021783506063599fdbddc5300150210100c1dbf1f000075643eab&btag=e00050000)
+🎬 [视频](https://v16m-default.tiktokcdn.com/554976f420ca776362bcb508320537e5/6a50bca7/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8EZEgkfe2QIt2XrU40TAQFLO3cDpHBDiyeUpC/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1299&ft=cApXJCz7ThWH8wNzLGZmo0P&mime\_type=video\_mp4&rc=aTQ5M2dnMzo1Nzo1aGU1N0BpM2pxZHg5cm94OmYzOGc3NEBeYjRhNWJgXzYxXjFeLjYvYSM0MWEtMmQ0MmhhLS1kXy1zcw%3D%3D&vvpl=1&l=021783654309622fdbddc5300150210100c1dbf1f0000750d887a&btag=e00050000)
 
 **Quer se destacar no TikTok Shop?**
 

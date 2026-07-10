@@ -5,6 +5,11 @@ category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=974093010454289"
 update_time: "2026-01-23"
 keywords: "Criadores,Política de Criador"
+video_count: 1
+video_url: "https://v16m-default.tiktokcdn.com/78950c43846f2034bb4d539d5bec30b4/6a50bc7c/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMA2YRaigiIYyliQI0iBxIfcEMcpwDq1AoUtH6/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1339&ft=cApXJCz7ThWHVwNzLGZmo0P&mime_type=video_mp4&rc=Zjw4aDg3aTQ2aDo5ZGdkOUBpM3Q7Z2s5cnA3N2YzOGc3NEA1YTQuMTViNS4xNi01YzFeYSNiYmFtMmRzMF5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654281504fdbddc5300150210100c1dbf1f00007561f88f&btag=e00050000"
+video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/8f576f8bbc5747bdabf40e9fe095509e_1762935857~tplv-noop.image?dr=18692&refresh_token=33ff84b3&x-expires=1783676028&x-signature=Hz5wXR1FIbMQ9hCPUlci75Jh3oU%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd4a43mvog65hpdd8eqe0"
+videos:
+  - "https://v16m-default.tiktokcdn.com/78950c43846f2034bb4d539d5bec30b4/6a50bc7c/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMA2YRaigiIYyliQI0iBxIfcEMcpwDq1AoUtH6/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1339&ft=cApXJCz7ThWHVwNzLGZmo0P&mime_type=video_mp4&rc=Zjw4aDg3aTQ2aDo5ZGdkOUBpM3Q7Z2s5cnA3N2YzOGc3NEA1YTQuMTViNS4xNi01YzFeYSNiYmFtMmRzMF5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654281504fdbddc5300150210100c1dbf1f00007561f88f&btag=e00050000"
 ---
 ### Esta é uma nova política que entrará em vigor em **dezembro de 2025**
 
@@ -21,7 +26,8 @@ Recomendamos que revise a nova versão com antecedência para entender os princi
 
 As informações fornecidas abaixo oferecem uma visão geral da Classificação de integridade do criador e das ações disciplinares de marcos do TikTok Shop.  
 **Confuso sobre como seu desempenho é medido?** Estamos introduzindo o Índice de Qualidade do Criador (CHR) para trazer mais transparência e controle para sua conta. Neste vídeo, explicaremos o novo sistema de 0 a 1000 pontos, como ganhar pontos e quais deduções evitar.  
-[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/8f576f8bbc5747bdabf40e9fe095509e_1762935857~tplv-noop.image?dr=18692&refresh_token=7a1bf59f&x-expires=1783527780&x-signature=W36gp3fkqmww5jnxyOTnXb5QxWY%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd4a43mvog65hpdd8eqe0)](https://v16m-default.tiktokcdn.com/def0c6a940f3934f4dbe71a5558356a0/6a4e7964/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMA2YRaigiIYyliQI0iBxIfcEMcpwDq1AoUtH6/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1339&ft=cApXJCz7ThWHIzDlLGZmo0P&mime_type=video_mp4&rc=Zjw4aDg3aTQ2aDo5ZGdkOUBpM3Q7Z2s5cnA3N2YzOGc3NEA1YTQuMTViNS4xNi01YzFeYSNiYmFtMmRzMF5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783506033770fdbddc5300150210100c1dbf1f00007557c650&btag=e00050000)
+
+🎬 [视频](https://v16m-default.tiktokcdn.com/78950c43846f2034bb4d539d5bec30b4/6a50bc7c/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMA2YRaigiIYyliQI0iBxIfcEMcpwDq1AoUtH6/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1339&ft=cApXJCz7ThWHVwNzLGZmo0P&mime\_type=video\_mp4&rc=Zjw4aDg3aTQ2aDo5ZGdkOUBpM3Q7Z2s5cnA3N2YzOGc3NEA1YTQuMTViNS4xNi01YzFeYSNiYmFtMmRzMF5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654281504fdbddc5300150210100c1dbf1f00007561f88f&btag=e00050000)
 
 ## Classificação de integridade do criador (CHR)
 

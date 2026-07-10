@@ -5,6 +5,11 @@ category: "TikTok para Shopify"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5787682416969473"
 update_time: "2025-04-16"
 keywords: "Sellers"
+video_count: 1
+video_url: "https://v16m-default.tiktokcdn.com/ab37298d3c14452c0a7b0779e9bdccc4/6a50b9fb/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0fSCUIhEcGDs9MpBPwVL4fYeBAgHfIeCnQne8/?a=6556&bti=ODY2QDQwNWA%3D&&bt=432&ft=cApXJCz7ThWHxaNzLGZmo0P&mime_type=video_mp4&rc=ZzwzZmkzZWU0Z2VpZjo0aUBpam5oeWo5cmZqeWYzOGc3NEAwLS8yMi8wNjAxMjQuMDE2YSNkaW42MmRzZHNgLS1kXy1zcw%3D%3D&vvpl=1&l=021783653752097fdbddc53001202670c0c1dbf1f0000e2cbd53d&btag=e00048000"
+video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/osseYneGAIB9sVfePCwCXfphfUDSnIBuLFjnQM~tplv-noop.image?dr=18692&refresh_token=763ae4e5&x-expires=1783675387&x-signature=lgyji1QaB%2BmtlTLkkbryGdhAuoc%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000ccvvggcvog65g9vqelkgg"
+videos:
+  - "https://v16m-default.tiktokcdn.com/ab37298d3c14452c0a7b0779e9bdccc4/6a50b9fb/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0fSCUIhEcGDs9MpBPwVL4fYeBAgHfIeCnQne8/?a=6556&bti=ODY2QDQwNWA%3D&&bt=432&ft=cApXJCz7ThWHxaNzLGZmo0P&mime_type=video_mp4&rc=ZzwzZmkzZWU0Z2VpZjo0aUBpam5oeWo5cmZqeWYzOGc3NEAwLS8yMi8wNjAxMjQuMDE2YSNkaW42MmRzZHNgLS1kXy1zcw%3D%3D&vvpl=1&l=021783653752097fdbddc53001202670c0c1dbf1f0000e2cbd53d&btag=e00048000"
 ---
 # **Visão geral da sincronização de produtos**
 
@@ -165,7 +170,7 @@ A guia **Sincronizado** fornece aos vendedores o status atual dos produtos que s
 
 **Vídeo de demonstração:**
 
-[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/osseYneGAIB9sVfePCwCXfphfUDSnIBuLFjnQM~tplv-noop.image?dr=18692&refresh_token=18dd4f33&x-expires=1783527100&x-signature=g6Mwg8Zodzq2fhnO%2BoY0CK1qZsY%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000ccvvggcvog65g9vqelkgg)](https://v16m-default.tiktokcdn.com/48e36381bbe3f631f018578913762ab5/6a4e76bc/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0fSCUIhEcGDs9MpBPwVL4fYeBAgHfIeCnQne8/?a=6556&bti=ODY2QDQwNWA%3D&&bt=432&ft=cApXJCz7ThWHMCDlLGZmo0P&mime_type=video_mp4&rc=ZzwzZmkzZWU0Z2VpZjo0aUBpam5oeWo5cmZqeWYzOGc3NEAwLS8yMi8wNjAxMjQuMDE2YSNkaW42MmRzZHNgLS1kXy1zcw%3D%3D&vvpl=1&l=021783505465133fdbddc5300150210100c1dbf1f0000751c75bd&btag=e00048000)
+🎬 [视频](https://v16m-default.tiktokcdn.com/ab37298d3c14452c0a7b0779e9bdccc4/6a50b9fb/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0fSCUIhEcGDs9MpBPwVL4fYeBAgHfIeCnQne8/?a=6556&bti=ODY2QDQwNWA%3D&&bt=432&ft=cApXJCz7ThWHxaNzLGZmo0P&mime\_type=video\_mp4&rc=ZzwzZmkzZWU0Z2VpZjo0aUBpam5oeWo5cmZqeWYzOGc3NEAwLS8yMi8wNjAxMjQuMDE2YSNkaW42MmRzZHNgLS1kXy1zcw%3D%3D&vvpl=1&l=021783653752097fdbddc53001202670c0c1dbf1f0000e2cbd53d&btag=e00048000)
 
 ### **P2: Quais são os requisitos de idioma para o anúncio de produtos?**
 

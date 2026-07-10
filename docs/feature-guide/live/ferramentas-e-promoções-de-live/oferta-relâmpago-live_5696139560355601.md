@@ -5,6 +5,13 @@ category: "Ferramentas e Promoções de LIVE"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5696139560355601"
 update_time: "2026-06-02"
 keywords: "Sellers"
+video_count: 3
+video_url: "https://v16m-default.tiktokcdn.com/22f4770db3ea86033b1475d6df70dab5/6a50ba8c/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8BtMQjiPDbtQfnmiMCzXez7Xg7QgI8rXXJwue/?a=6556&bti=ODY2QDQwNWA%3D&&bt=915&ft=cApXJCz7ThWHSaNzLGZmo0P&mime_type=video_mp4&rc=Z2loOmVkaWQ1NTRlO2dmM0BpajprM3Y5cnZreWYzOGc3NEBfYTVfYDZjXl4xYTEyMF8tYSNzMDZvMmRzcm9gLS1kXy1zcw%3D%3D&vvpl=1&l=021783653729924fdbddc5300150210100c1dbf1f000075718c3c&btag=e00058000"
+video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/ca80d2ae68754b9f80db65c9f6becf91_1744248961~tplv-noop.image?dr=18692&refresh_token=4c249a5a&x-expires=1783675532&x-signature=X1irWzqap3FqRaZARTZZPfkQ6eY%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000ccvrhusvog65sr09h37vg"
+videos:
+  - "https://v16m-default.tiktokcdn.com/22f4770db3ea86033b1475d6df70dab5/6a50ba8c/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8BtMQjiPDbtQfnmiMCzXez7Xg7QgI8rXXJwue/?a=6556&bti=ODY2QDQwNWA%3D&&bt=915&ft=cApXJCz7ThWHSaNzLGZmo0P&mime_type=video_mp4&rc=Z2loOmVkaWQ1NTRlO2dmM0BpajprM3Y5cnZreWYzOGc3NEBfYTVfYDZjXl4xYTEyMF8tYSNzMDZvMmRzcm9gLS1kXy1zcw%3D%3D&vvpl=1&l=021783653729924fdbddc5300150210100c1dbf1f000075718c3c&btag=e00058000"
+  - "https://v16m-default.tiktokcdn.com/65dc6e229ea6acdf72c75dd6f1070c6a/6a50ba42/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMQpEfgrUXkwLoGQDGBLuL1CIeheSvICKQ3bXi/?a=6556&bti=ODY2QDQwNWA%3D&&bt=401&ft=cApXJCz7ThWHSaNzLGZmo0P&mime_type=video_mp4&rc=OjVpZmZmO2U1OWZnZTU1NUBpanF2ZnA5cndyN2YzOGc3NEAzNWMxNjFfX2IxL2IyLTFeYSNjZGltMmRzYV9hLS1kXy1zcw%3D%3D&vvpl=1&l=021783653729924fdbddc5300150210100c1dbf1f00007569553f&btag=e00050000"
+  - "https://v16m-default.tiktokcdn.com/7a9734793c0c2e14a2975f98ecd29ccb/6a50ba26/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8vRQrajRqA19YUQtEkQxJKSIikMRB9iEI2Hw/?a=6556&bti=ODY2QDQwNWA%3D&&bt=609&ft=cApXJCz7ThWHSaNzLGZmo0P&mime_type=video_mp4&rc=NTdlOTs0ZDw8Nmg1ODZpOEBpMzY0Zm85cmRsN2YzOGc3NEBgYjBhXi8tXzExXzBjYl8vYSNvLmI1MmRrazVhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653729924fdbddc5300150210100c1dbf1f000075d6feba&btag=e00050000"
 ---
 **Atualização de Versão**
 
@@ -20,7 +27,7 @@ Este artigo ensina como usar a **Oferta Relâmpago LIVE** e a **Oferta Relâmpag
 
 Assista a este pequeno vídeo para saber mais:
 
-[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/ca80d2ae68754b9f80db65c9f6becf91_1744248961~tplv-noop.image?dr=18692&refresh_token=caf3d63c&x-expires=1783527244&x-signature=zxt1ezE%2Bcm53uivymXBMND2mYeE%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000ccvrhusvog65sr09h37vg)](https://v16m-default.tiktokcdn.com/99a53614910194e8a1b92df532876f20/6a4e774c/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8BtMQjiPDbtQfnmiMCzXez7Xg7QgI8rXXJwue/?a=6556&bti=ODY2QDQwNWA%3D&&bt=915&ft=cApXJCz7ThWHSCDlLGZmo0P&mime_type=video_mp4&rc=Z2loOmVkaWQ1NTRlO2dmM0BpajprM3Y5cnZreWYzOGc3NEBfYTVfYDZjXl4xYTEyMF8tYSNzMDZvMmRzcm9gLS1kXy1zcw%3D%3D&vvpl=1&l=021783505441123fdbddc5300150210100c1dbf1f0000754dc93c&btag=e00058000)
+🎬 [视频](https://v16m-default.tiktokcdn.com/22f4770db3ea86033b1475d6df70dab5/6a50ba8c/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8BtMQjiPDbtQfnmiMCzXez7Xg7QgI8rXXJwue/?a=6556&bti=ODY2QDQwNWA%3D&&bt=915&ft=cApXJCz7ThWHSaNzLGZmo0P&mime\_type=video\_mp4&rc=Z2loOmVkaWQ1NTRlO2dmM0BpajprM3Y5cnZreWYzOGc3NEBfYTVfYDZjXl4xYTEyMF8tYSNzMDZvMmRzcm9gLS1kXy1zcw%3D%3D&vvpl=1&l=021783653729924fdbddc5300150210100c1dbf1f000075718c3c&btag=e00058000)
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/905986ddc5d34001ac6d7fdd77bfccd9~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059608381&x-signature=sEMMM%2Fb6tGBv6Pd1Ne13M%2Btwr7Y%3D)
 
@@ -99,7 +106,9 @@ Uma visão geral rápida da Oferta relâmpago LIVE e da Oferta relâmpago LIVEdo
 
 ### No Central do vendedor (PC)
 
-[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/owKhxDRfSUDEyueXCbLIB3GvXLirGkSIELeQgw~tplv-noop.image?dr=18692&refresh_token=6dcfe87e&x-expires=1783527170&x-signature=wyyivUk%2FRO8VTOLdoST26xvfBMA%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd4bodtvog65mpclsgnfg)](https://v16m-default.tiktokcdn.com/86dc6fe7e4ac8ad46cb831c7a95951b4/6a4e7702/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMQpEfgrUXkwLoGQDGBLuL1CIeheSvICKQ3bXi/?a=6556&bti=ODY2QDQwNWA%3D&&bt=401&ft=cApXJCz7ThWHSCDlLGZmo0P&mime_type=video_mp4&rc=OjVpZmZmO2U1OWZnZTU1NUBpanF2ZnA5cndyN2YzOGc3NEAzNWMxNjFfX2IxL2IyLTFeYSNjZGltMmRzYV9hLS1kXy1zcw%3D%3D&vvpl=1&l=021783505441124fdbddc5300150210100c1dbf1f000075017de2&btag=e00050000)Para criar uma promoção de Oferta relâmpago LIVE no Central do vendedor pelo computador, acesse a aba Promoções e clique em **Criar** na seção Oferta relâmpago.  
+🎬 [视频](https://v16m-default.tiktokcdn.com/65dc6e229ea6acdf72c75dd6f1070c6a/6a50ba42/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMQpEfgrUXkwLoGQDGBLuL1CIeheSvICKQ3bXi/?a=6556&bti=ODY2QDQwNWA%3D&&bt=401&ft=cApXJCz7ThWHSaNzLGZmo0P&mime\_type=video\_mp4&rc=OjVpZmZmO2U1OWZnZTU1NUBpanF2ZnA5cndyN2YzOGc3NEAzNWMxNjFfX2IxL2IyLTFeYSNjZGltMmRzYV9hLS1kXy1zcw%3D%3D&vvpl=1&l=021783653729924fdbddc5300150210100c1dbf1f00007569553f&btag=e00050000)
+
+Para criar uma promoção de Oferta relâmpago LIVE no Central do vendedor pelo computador, acesse a aba Promoções e clique em **Criar** na seção Oferta relâmpago.  
 ![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/795f6ea3b7554154acb9596561a97b7b~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2078092359&x-signature=Gk7UUMwcspKyUkl2GmIapHaMEq4%3D)**Inserir informações básicas**
 
 * Defina **um nome para a promoção**
@@ -155,7 +164,9 @@ Depois de revisar os detalhes da promoção Oferta relâmpago do Vendedor, cliqu
 
 ### **No aplicativo TikTok**
 
-[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oQz98QjEU9aiwABEq2cwQx1wmYKSRvyiAMIRr~tplv-noop.image?dr=18692&refresh_token=7849fe2e&x-expires=1783527142&x-signature=bXyJoTpTy6OaqNpY3LxUEVNqsbI%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd48inanog65l8ce113r0)](https://v16m-default.tiktokcdn.com/d7e729b927d4fc946f8dc8ec09c39567/6a4e76e6/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8vRQrajRqA19YUQtEkQxJKSIikMRB9iEI2Hw/?a=6556&bti=ODY2QDQwNWA%3D&&bt=609&ft=cApXJCz7ThWHSCDlLGZmo0P&mime_type=video_mp4&rc=NTdlOTs0ZDw8Nmg1ODZpOEBpMzY0Zm85cmRsN2YzOGc3NEBgYjBhXi8tXzExXzBjYl8vYSNvLmI1MmRrazVhLS1kXy1zcw%3D%3D&vvpl=1&l=021783505441124fdbddc5300150210100c1dbf1f00007509abbf&btag=e00050000)Você pode criar uma **Oferta relâmpago LIVE**  diretamente no aplicativo TikTok, antes ou durante sua sessão LIVE. Para isso, abra a interface de **Compras de LIVE**  e selecione **Oferta relâmpago LIVE.**
+🎬 [视频](https://v16m-default.tiktokcdn.com/7a9734793c0c2e14a2975f98ecd29ccb/6a50ba26/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8vRQrajRqA19YUQtEkQxJKSIikMRB9iEI2Hw/?a=6556&bti=ODY2QDQwNWA%3D&&bt=609&ft=cApXJCz7ThWHSaNzLGZmo0P&mime\_type=video\_mp4&rc=NTdlOTs0ZDw8Nmg1ODZpOEBpMzY0Zm85cmRsN2YzOGc3NEBgYjBhXi8tXzExXzBjYl8vYSNvLmI1MmRrazVhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653729924fdbddc5300150210100c1dbf1f000075d6feba&btag=e00050000)
+
+Você pode criar uma **Oferta relâmpago LIVE**  diretamente no aplicativo TikTok, antes ou durante sua sessão LIVE. Para isso, abra a interface de **Compras de LIVE**  e selecione **Oferta relâmpago LIVE.**
 
 * Selecione o produto para o qual deseja iniciar uma Oferta Relâmpago LIVE. Note que você precisa ter adicionado os produtos à **Sacola de Compras LIVE** previamente para poder selecioná-los e iniciar a Oferta Relâmpago LIVE.
 * Defina os preços promocionais para os produtos selecionados. Você só pode definir um preço fixo com desconto, e o preço promocional deve ser menor que o menor preço dos últimos 14 dias.

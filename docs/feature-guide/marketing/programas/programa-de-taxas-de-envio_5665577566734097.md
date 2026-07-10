@@ -5,6 +5,11 @@ category: "Programas"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5665577566734097"
 update_time: "2026-05-21"
 keywords: "Sellers"
+video_count: 1
+video_url: "https://v16m-default.tiktokcdn.com/5a567c9f076a4a30f2f8311ce4d0e169/6a50ba5a/video/tos/alisg/tos-alisg-v-9e30d3-sg/osf5ffugaCDFOPKQgIgQgUizSA6BsQc0DXrrEJ/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1559&ft=cApXJCz7ThWHwDNzLGZmo0P&mime_type=video_mp4&rc=NztkNTU5OTY6NzhlOWg0ZEBpajx3OWo5cmV5M2YzOGc3NEA0XjI0NWJiNjAxNDY2YzJfYSMvLWQtMmRrcW5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783653829497fdbddc5300150210100c1dbf1f0000757e81cb&btag=e00048000"
+video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4ZagIuQDOg6fCfSBEfriYBcgFA0kQDXCgKrPr~tplv-noop.image?dr=18692&refresh_token=79d6c46a&x-expires=1783675482&x-signature=NMGNmGe2r9%2F0HcP8%2FiDHXQ2RLoI%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd0qvtbnog65g06gt092g"
+videos:
+  - "https://v16m-default.tiktokcdn.com/5a567c9f076a4a30f2f8311ce4d0e169/6a50ba5a/video/tos/alisg/tos-alisg-v-9e30d3-sg/osf5ffugaCDFOPKQgIgQgUizSA6BsQc0DXrrEJ/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1559&ft=cApXJCz7ThWHwDNzLGZmo0P&mime_type=video_mp4&rc=NztkNTU5OTY6NzhlOWg0ZEBpajx3OWo5cmV5M2YzOGc3NEA0XjI0NWJiNjAxNDY2YzJfYSMvLWQtMmRrcW5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783653829497fdbddc5300150210100c1dbf1f0000757e81cb&btag=e00048000"
 ---
 Estamos animados em apresentar a você o Programa de Taxas de Envio, que permite que os cupons de frete grátis do TikTok Shop sejam aplicados a todos os produtos em suas lojas, melhorando a visibilidade dos produtos e as taxas de conversão.
 
@@ -12,7 +17,7 @@ Estamos animados em apresentar a você o Programa de Taxas de Envio, que permite
 
 O Programa de Taxas de Envio dá aos vendedores acesso a benefícios providos pelo TikTok, que ajudarão a reduzir os custos de envios para os consumidores
 
-[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4ZagIuQDOg6fCfSBEfriYBcgFA0kQDXCgKrPr~tplv-noop.image?dr=18692&refresh_token=4a207a41&x-expires=1783527200&x-signature=jmRhvjdVDDvd2OmBCK3J6ONxWao%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd0qvtbnog65g06gt092g)](https://v16m-default.tiktokcdn.com/100aca31d14529df15e330c97a61364b/6a4e7720/video/tos/alisg/tos-alisg-v-9e30d3-sg/osf5ffugaCDFOPKQgIgQgUizSA6BsQc0DXrrEJ/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1559&ft=cApXJCz7ThWHNVDlLGZmo0P&mime_type=video_mp4&rc=NztkNTU5OTY6NzhlOWg0ZEBpajx3OWo5cmV5M2YzOGc3NEA0XjI0NWJiNjAxNDY2YzJfYSMvLWQtMmRrcW5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783505547313fdbddc5300150210100c1dbf1f00007590d659&btag=e00048000)
+🎬 [视频](https://v16m-default.tiktokcdn.com/5a567c9f076a4a30f2f8311ce4d0e169/6a50ba5a/video/tos/alisg/tos-alisg-v-9e30d3-sg/osf5ffugaCDFOPKQgIgQgUizSA6BsQc0DXrrEJ/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1559&ft=cApXJCz7ThWHwDNzLGZmo0P&mime\_type=video\_mp4&rc=NztkNTU5OTY6NzhlOWg0ZEBpajx3OWo5cmV5M2YzOGc3NEA0XjI0NWJiNjAxNDY2YzJfYSMvLWQtMmRrcW5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783653829497fdbddc5300150210100c1dbf1f0000757e81cb&btag=e00048000)
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/e3b05ce674754babb319712fed138502~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2060178762&x-signature=UgKofp%2F4uBg%2BuYQV2V8XvvtNI3k%3D)
 

@@ -5,6 +5,11 @@ category: "Gerenciamento de Desempenho"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1074592103220993"
 update_time: "2026-03-26"
 keywords: "Política de vendedor"
+video_count: 1
+video_url: "https://v16m-default.tiktokcdn.com/5cded074ecfb45268913783d5964bd06/6a50c5bf/video/tos/alisg/tos-alisg-v-9e30d3-sg/o800oLEMbAkInYi6xAjE7JwRy4lmwCf3mb8Biz/?a=6556&bti=ODY2QDQwNWA%3D&&bt=367&ft=cApXJCz7ThWHzWNzLGZmo0P&mime_type=video_mp4&rc=NTM3ZGc6ZDQ8NGg0MzY5NEBpajd0aGs5cmdoOmYzOGc3NEBjYDM1MTRgNjMxMGEvYmIwYSNtNHAzMmRzby9hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654239784fdbddc5300150210100c1dbf1f00007597fbb8&btag=e00068000"
+video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/6c8f2413e3e64aed8af7bda8a3fde93a_1774513754~tplv-noop.image?dr=18692&refresh_token=3813e94a&x-expires=1783678399&x-signature=d4fqX6ON9hAFNFLRKFc0Qj%2FP7Uo%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd72erdvog65h6esq74pg"
+videos:
+  - "https://v16m-default.tiktokcdn.com/5cded074ecfb45268913783d5964bd06/6a50c5bf/video/tos/alisg/tos-alisg-v-9e30d3-sg/o800oLEMbAkInYi6xAjE7JwRy4lmwCf3mb8Biz/?a=6556&bti=ODY2QDQwNWA%3D&&bt=367&ft=cApXJCz7ThWHzWNzLGZmo0P&mime_type=video_mp4&rc=NTM3ZGc6ZDQ8NGg0MzY5NEBpajd0aGs5cmdoOmYzOGc3NEBjYDM1MTRgNjMxMGEvYmIwYSNtNHAzMmRzby9hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654239784fdbddc5300150210100c1dbf1f00007597fbb8&btag=e00068000"
 ---
 > Este material de treinamento é fornecido apenas para fins de informação geral e referência. O objetivo é ajudar os vendedores a compreender a abordagem da plataforma em relação ao SPS no mercado da América Latina, mais especificamente no Brasil.
 >
@@ -14,7 +19,9 @@ keywords: "Política de vendedor"
 1. Definição do SPS e Como ver sua pontuação do SPS
 2. Quais são os principais indicadores que compõem o SPS: Indicadores e métodos de pontuação
 3. Como melhorar sua pontuação SPS
-4. Respostas a perguntas frequentes[![](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/6c8f2413e3e64aed8af7bda8a3fde93a_1774513754~tplv-noop.image?dr=18692&refresh_token=2d33ac4c&x-expires=1783530150&x-signature=RiJ3km31sgakHs1wjZ34yA0aJys%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd72erdvog65h6esq74pg)](https://v16m-default.tiktokcdn.com/cfe068198808488bb93df7703e3e4bf9/6a4e82a6/video/tos/alisg/tos-alisg-v-9e30d3-sg/o800oLEMbAkInYi6xAjE7JwRy4lmwCf3mb8Biz/?a=6556&bti=ODY2QDQwNWA%3D&&bt=367&ft=cApXJCz7ThWH1zDlLGZmo0P&mime_type=video_mp4&rc=NTM3ZGc6ZDQ8NGg0MzY5NEBpajd0aGs5cmdoOmYzOGc3NEBjYDM1MTRgNjMxMGEvYmIwYSNtNHAzMmRzby9hLS1kXy1zcw%3D%3D&vvpl=1&l=021783505990297fdbddc5300150210100c1dbf1f000075866599&btag=e00068000)
+4. Respostas a perguntas frequentes
+
+   🎬 [视频](https://v16m-default.tiktokcdn.com/5cded074ecfb45268913783d5964bd06/6a50c5bf/video/tos/alisg/tos-alisg-v-9e30d3-sg/o800oLEMbAkInYi6xAjE7JwRy4lmwCf3mb8Biz/?a=6556&bti=ODY2QDQwNWA%3D&&bt=367&ft=cApXJCz7ThWHzWNzLGZmo0P&mime\_type=video\_mp4&rc=NTM3ZGc6ZDQ8NGg0MzY5NEBpajd0aGs5cmdoOmYzOGc3NEBjYDM1MTRgNjMxMGEvYmIwYSNtNHAzMmRzby9hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654239784fdbddc5300150210100c1dbf1f00007597fbb8&btag=e00068000)
 
 # O que é a Pontuação de Desempenho da Loja (SPS) | Entenda o SPS
 
