@@ -31,6 +31,34 @@
   background: rgba(102, 194, 255, 0.12);
 }
 
+.mirror-video-card {
+  overflow: hidden;
+  margin: 28px 0;
+  border: 1px solid var(--rp-c-divider-light);
+  border-radius: 8px;
+  background: var(--rp-c-bg-soft);
+}
+
+.mirror-video-player {
+  display: block;
+  width: 100%;
+  max-height: min(70vh, 640px);
+  background: #000;
+}
+
+.mirror-video-caption {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 14px;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.mirror-video-caption a {
+  color: var(--rp-c-link);
+  font-weight: 500;
+}
+
 @media (min-width: 960px) {
   .rspress-nav > [class*="container_"] {
     max-width: var(--mirror-shell-width);
