@@ -1,0 +1,18 @@
+# crescimento
+
+## 文章
+- [como-começar-a-vender-na-sua-primeira-live-no-tiktok-shop 8529849116034832](como-começar-a-vender-na-sua-primeira-live-no-tiktok-shop_8529849116034832.md)
+- [como-configurar-as-preferências-de-envio-no-tiktok-shop 629376745260816](como-configurar-as-preferências-de-envio-no-tiktok-shop_629376745260816.md)
+- [como-ganhar-recompensas-gerenciando-sua-loja-no-tiktok-shop 8516439888480017](como-ganhar-recompensas-gerenciando-sua-loja-no-tiktok-shop_8516439888480017.md)
+- [como-ganhar-recompensas-no-central-de-crescimento-do-tiktok-shop 8518639956215568](como-ganhar-recompensas-no-central-de-crescimento-do-tiktok-shop_8518639956215568.md)
+- [como-postar-seu-primeiro-vídeo-comprável-no-tiktok-shop 8529849115723536](como-postar-seu-primeiro-vídeo-comprável-no-tiktok-shop_8529849115723536.md)
+- [como-receber-seus-pagamentos-no-tiktok-shop 623469852575504](como-receber-seus-pagamentos-no-tiktok-shop_623469852575504.md)
+- [como-se-registrar-como-mei-e-começar-seu-negócio-legalmente 620130321794833](como-se-registrar-como-mei-e-começar-seu-negócio-legalmente_620130321794833.md)
+- [como-usar-cupons-de-promoção-para-atrair-mais-tráfego-no-tiktok-shop 626322062018320](como-usar-cupons-de-promoção-para-atrair-mais-tráfego-no-tiktok-shop_626322062018320.md)
+- [como-vincular-a-conta-de-marketing-à-conta-oficial-da-loja 8160012418058000](como-vincular-a-conta-de-marketing-à-conta-oficial-da-loja_8160012418058000.md)
+- [configurações-essenciais-no-central-do-vendedor-do-tiktok-shop 623483790034705](configurações-essenciais-no-central-do-vendedor-do-tiktok-shop_623483790034705.md)
+- [entenda-as-métricas-da-pontuação-de-desempenho-da-loja-sps 1265022966302481](entenda-as-métricas-da-pontuação-de-desempenho-da-loja-sps_1265022966302481.md)
+- [o-que-é-o-gmv-max-e-como-ele-impulsiona-suas-vendas 5010289621600016](o-que-é-o-gmv-max-e-como-ele-impulsiona-suas-vendas_5010289621600016.md)
+- [pontuação-de-desempenho-da-loja-sps 1265022965794577](pontuação-de-desempenho-da-loja-sps_1265022965794577.md)
+- [regras-para-escolher-o-nome-da-sua-loja-no-tiktok-shop 635500578817809](regras-para-escolher-o-nome-da-sua-loja-no-tiktok-shop_635500578817809.md)
+- [semana-da-virada-acelere-seu-gmv-no-tiktok-shop-guia-completo-de-9-aulas 2484440631133968](semana-da-virada-acelere-seu-gmv-no-tiktok-shop-guia-completo-de-9-aulas_2484440631133968.md)

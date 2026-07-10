@@ -11,11 +11,11 @@ TikTok Shop 卖家大学（巴西站）知识库的纯文本镜像。
 
 ## 内容结构
 
-| 分类 | 文章数 |
+| 分类 | 说明 |
 |---|---|
-| [Cursos](cursos/) | 课程（Courses） |
-| [Feature Guide](feature-guide/) | 功能指南 |
-| [Policy Center](policy-center/) | 政策中心 |
+| [Cursos](cursos/index.md) | 课程（Courses） |
+| [Feature Guide](feature-guide/index.md) | 功能指南 |
+| [Policy Center](policy-center/index.md) | 政策中心 |
 
 ## 使用方式
 
