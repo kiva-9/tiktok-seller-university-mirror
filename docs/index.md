@@ -1,35 +1,42 @@
-# TikTok Shop Academy BR - 镜像库
+# TikTok Shop Academy BR
 
-TikTok Shop 卖家大学（巴西站）知识库的纯文本镜像。
+TikTok Shop 卖家大学（巴西站）知识库镜像，包含 372 篇文章、视频链接和完整元数据。
 
-## 数据来源
+## 内容分类
 
-- 站点：<https://seller-br.tiktok.com/university/home?identity=1>
-- 语言：葡萄牙语（pt-BR）
-- 同步方式：通过底层 API 抓取 + HTML→Markdown 转换
-- 同步频率：每日自动（GitHub Actions）
+<div class="grid cards" markdown>
 
-## 内容结构
+- :material-school:{ .lg .middle } **Cursos**
 
-| 分类 | 说明 |
-|---|---|
-| [Cursos](cursos/index.md) | 课程（Courses） |
-| [Feature Guide](feature-guide/index.md) | 功能指南 |
-| [Policy Center](policy-center/index.md) | 政策中心 |
+    ---
 
-## 使用方式
+    课程类文章，涵盖入门、成长、直播、短视频等主题
 
-```bash
-# 安装依赖
-pip install -r requirements.txt
+    [:octicons-arrow-right-24: 进入](cursos/index.md)
 
-# 手动同步
-python scripts/main.py
+- :material-book-open-variant:{ .lg .middle } **Feature Guide**
 
-# 本地预览文档站
-pip install mkdocs-material
-mkdocs serve
-```
+    ---
+
+    功能指南，涵盖产品、订单、营销、财务等操作指引
+
+    [:octicons-arrow-right-24: 进入](feature-guide/index.md)
+
+- :material-gavel:{ .lg .middle } **Policy Center**
+
+    ---
+
+    平台规则、知识产权、履约等政策文件
+
+    [:octicons-arrow-right-24: 进入](policy-center/index.md)
+
+</div>
+
+## 技术栈
+
+- 数据抓取：Python requests + BeautifulSoup
+- 文档站：MkDocs Material
+- 自动同步：GitHub Actions（每日 UTC 02:00）
 
 ## 免责声明
 

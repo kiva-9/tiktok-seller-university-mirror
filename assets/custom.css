@@ -1,0 +1,54 @@
+/* rspress 风格的 MkDocs Material 微调 */
+
+/* 整体排版更紧凑 */
+.md-typeset {
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+/* 首页卡片化布局 */
+.md-content__inner .first-heading {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* 链接颜色更鲜明 */
+.md-typeset a {
+  color: #3b82f6;
+}
+.md-typeset a:hover {
+  color: #1d4ed8;
+}
+
+/* 代码块更干净 */
+.md-typeset code {
+  background: rgba(59, 130, 246, 0.08);
+  border-radius: 4px;
+  padding: 0.15em 0.4em;
+}
+
+/* 导航栏活跃项高亮 */
+.md-nav__item .md-nav__link--active {
+  color: #3b82f6;
+  font-weight: 600;
+}
+
+/* 表格更紧凑 */
+.md-typeset table {
+  font-size: 14px;
+}
+
+/* 顶部导航栏阴影更轻 */
+.md-header {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+/* 搜索框圆角 */
+.md-search__input {
+  border-radius: 20px;
+}
+
+/* 文章宽度优化 */
+.md-grid {
+  max-width: 960px;
+}

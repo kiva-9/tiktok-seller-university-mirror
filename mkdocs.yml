@@ -1,7 +1,6 @@
-# TikTok Seller University (BR) - 镜像库
-# 站點默認語言（pt-BR = 葡萄牙語巴西）
+# TikTok Shop Academy BR - 镜像库
 
-site_name: TikTok Shop Academy BR - Mirror
+site_name: TikTok Shop Academy BR
 site_description: TikTok Seller University Brazil knowledge base mirror
 site_url: https://kiva-9.github.io/tiktok-seller-university-mirror/
 repo_url: https://github.com/kiva-9/tiktok-seller-university-mirror
@@ -13,15 +12,16 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.png
   palette:
+    # 白色背景 + 蓝色 accent（rspress 风格）
     - scheme: default
-      primary: black
-      accent: red
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: black
-      accent: red
+      primary: indigo
+      accent: blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -29,20 +29,19 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.top
+    - navigation.tracking
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.copy
     - content.action.edit
+    - header.autohide
 
 plugins:
   - search:
-      lang:
-        - pt
-        - en
+      lang: [en]
 
-# 自动生成目录导航（根据 docs/ 的文件夹结构）
-# 留空 = MkDocs 自动扫描 docs/ 生成 nav
+# 自动生成目录导航
 nav:
   - 首页: index.md
 
@@ -50,7 +49,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/kiva-9/tiktok-seller-university-mirror
-  generator: true
+  analytics:
+    provider: google
+  generator: false
 
 # Markdown 扩展
 markdown_extensions:
@@ -62,6 +63,11 @@ markdown_extensions:
   - tables
   - attr_list
   - md_in_html
+  - toc:
+      permalink: true
 
-# 版权
+# 自定义 CSS（rspress 风格的卡片、间距、排版）
+extra_css:
+  - assets/custom.css
+
 copyright: Copyright &copy; 2026 TikTok Shop Academy Mirror
