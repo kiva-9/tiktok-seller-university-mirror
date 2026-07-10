@@ -82,9 +82,10 @@ RATE_LIMIT_SLEEP = 1.0
 # 文章详情请求间隔（稍大，因为详情请求更重）
 DETAIL_SLEEP = 1.5
 
-# 输出目录
-DOCS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs")
-STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sync_state.json")
+# 输出目录（仓库根目录，不随脚本位置变化）
+REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DOCS_DIR = os.path.join(REPO_DIR, "docs")
+STATE_FILE = os.path.join(REPO_DIR, "sync_state.json")
 
 # requests 会话
 session = requests.Session()
