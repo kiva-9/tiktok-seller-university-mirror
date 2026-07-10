@@ -1,12 +1,17 @@
 # TikTok Seller University (BR) - 镜像库
+# 站點默認語言（pt-BR = 葡萄牙語巴西）
 
 site_name: TikTok Shop Academy BR - Mirror
-site_description: Mirror of TikTok Seller University Brazil knowledge base
+site_description: TikTok Seller University Brazil knowledge base mirror
 site_url: https://kiva-9.github.io/tiktok-seller-university-mirror/
+repo_url: https://github.com/kiva-9/tiktok-seller-university-mirror
+repo_name: kiva-9/tiktok-seller-university-mirror
 
 theme:
   name: material
-  language: pt
+  language: zh
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   palette:
     - scheme: default
       primary: black
@@ -23,9 +28,12 @@ theme:
   features:
     - navigation.expand
     - navigation.indexes
+    - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
+    - content.code.copy
+    - content.action.edit
 
 plugins:
   - search:
@@ -34,13 +42,26 @@ plugins:
         - en
 
 # 自动生成目录导航（根据 docs/ 的文件夹结构）
+# 留空 = MkDocs 自动扫描 docs/ 生成 nav
 nav:
-  - Home: index.md
-  - Cursos: cursos/
-  - Feature Guide: feature-guide/
-  - Policy Center: policy-center/
+  - 首页: index.md
 
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/kiva-9/tiktok-seller-university-mirror
+  generator: true
+
+# Markdown 扩展
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+
+# 版权
+copyright: Copyright &copy; 2026 TikTok Shop Academy Mirror
