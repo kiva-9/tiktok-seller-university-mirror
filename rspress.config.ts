@@ -22,7 +22,6 @@ export default defineConfig({
   description: 'TikTok Seller University Brazil knowledge base mirror',
   lang: 'pt-BR',
   globalStyles: path.join(__dirname, 'assets/custom.css'),
-  globalUIComponents: [path.join(__dirname, 'src/runtime/VideoLinkEnhancer.tsx')],
   // 搜索配置
   search: {
     codeSearch: true,

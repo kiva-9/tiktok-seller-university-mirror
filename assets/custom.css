@@ -32,6 +32,7 @@
 }
 
 .mirror-video-card {
+  display: block;
   overflow: hidden;
   margin: 28px 0;
   border: 1px solid var(--rp-c-divider-light);
