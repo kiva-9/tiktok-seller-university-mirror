@@ -3,6 +3,8 @@ import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
   root: 'docs',
+  // GitHub Pages 项目站点需要 base 路径
+  base: '/tiktok-seller-university-mirror/',
   title: 'TikTok Shop Academy BR',
   description: 'TikTok Seller University Brazil knowledge base mirror',
   lang: 'zh',
