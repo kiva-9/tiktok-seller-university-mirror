@@ -1,5 +1,14 @@
 import * as path from 'path';
 import { defineConfig } from 'rspress/config';
+import * as fs from 'fs';
+import * as yaml from 'js-yaml';
+
+// 动态读取 sidebar.yml（如果存在），否则自动生成
+const SIDEBAR_FILE = path.join(__dirname, 'sidebar.yml');
+if (!fs.existsSync(SIDEBAR_FILE)) {
+  require('child_process').execSync('python scripts/generate_sidebar.py');
+}
+const sidebar = yaml.load(fs.readFileSync(SIDEBAR_FILE, 'utf-8')) as Record<string, any[]>;
 
 export default defineConfig({
   root: 'docs',
@@ -28,7 +37,8 @@ export default defineConfig({
       { text: 'Feature Guide', link: '/feature-guide/' },
       { text: 'Policy Center', link: '/policy-center/' },
     ],
-    // 社交链接
+    // 侧边栏（从 sidebar.yml 自动生成）
+    sidebar,
     socialLinks: [
       {
         icon: 'github',
