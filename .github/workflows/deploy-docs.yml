@@ -38,6 +38,9 @@ jobs:
       - name: Install MkDocs + Material
         run: pip install mkdocs-material
 
+      - name: Generate navigation
+        run: python scripts/generate_nav.py
+
       - name: Build docs
         run: mkdocs build
 
