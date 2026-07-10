@@ -1,11 +1,15 @@
 ---
-title: "Política de segurança de produtos"
+title: Política de segurança de produtos
 id: 3348094809638672
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3348094809638672"
-update_time: "2026-03-31"
+update_time: 2026-03-31
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/8270ec151ad84d97926291fe0b4a2cab~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2090346847&x-signature=vyyk0Vuv4saxsa4LNHvPV6tzcfY%3D)
 
 ## **Finalidade e escopo**

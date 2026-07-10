@@ -1,11 +1,15 @@
 ---
-title: "O que é o reembolso rápido?"
+title: O que é o reembolso rápido?
 id: 1060773486429953
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1060773486429953"
-update_time: "2025-11-28"
-keywords: "Vendedores"
+update_time: 2025-11-28
+keywords: Vendedores
 ---
+
+
+
+
 ![kstk q.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f1fe253a1b04471eb1a9dc3723cb0d69~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2073297463&x-signature=VNv%2B8lCSzBAHflqWG5ujgsKKRTY%3D)O reembolso rápido é um serviço de reembolso mais veloz oferecido pelo TikTok Shop a clientes elegíveis. Assim que o cliente envia com sucesso o pacote de devolução, o processo de reembolso é automaticamente acionado. Esse serviço foi criado para reduzir o tempo de espera dos clientes e melhorar a experiência de devolução e reembolso.  
 
 ## **Como um vendedor pode iniciar um recurso?**

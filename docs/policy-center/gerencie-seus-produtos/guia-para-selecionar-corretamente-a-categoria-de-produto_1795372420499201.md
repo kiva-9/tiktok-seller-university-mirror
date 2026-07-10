@@ -1,11 +1,15 @@
 ---
-title: "Guia para selecionar corretamente a categoria de produto "
+title: Guia para selecionar corretamente a categoria de produto
 id: 1795372420499201
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1795372420499201"
-update_time: "2026-03-30"
+update_time: 2026-03-30
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 ![pt_Banner_prodcategory.jpg](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/4c2455129dcc45b695eaed8ff4c88c92~tplv-nk3i2mqmvs-image.jpg?lk3s=5d1a069b&x-expires=2090261743&x-signature=n2wB5iNGB%2Fg5IBv4vwXRvZxWDR8%3D)
 > **Pontos principais:**
 >

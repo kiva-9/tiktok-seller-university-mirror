@@ -1,11 +1,15 @@
 ---
-title: "Casos Comuns de Taxa de Envio"
+title: Casos Comuns de Taxa de Envio
 id: 4814789939824401
-category: "Serviço de compras"
+category: Serviço de compras
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4814789939824401"
-update_time: "2026-01-13"
-keywords: "Vendedores"
+update_time: 2026-01-13
+keywords: Vendedores
 ---
+
+
+
+
 1. **Por que o vendedor tem pedidos a serem liquidados?**
 
 * O pedido não passou do período de liquidação (6 dias corridos ou 2 dias corridos após a entrega do pedido)

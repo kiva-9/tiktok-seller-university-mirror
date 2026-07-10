@@ -1,11 +1,15 @@
 ---
 title: "Bússola de Dados: Visão Geral"
 id: 6880013740181249
-category: "Visão geral dos dados"
+category: Visão geral dos dados
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6880013740181249"
-update_time: "2025-04-10"
-keywords: "Sellers"
+update_time: 2025-04-10
+keywords: Sellers
 ---
+
+
+
+
 # **Visão geral**
 
 Este artigo explica o que é a Visão geral da Bússola de dados e como usá-la para visualizar dados importantes rapidamente, bem como acessar números de dados detalhados por meio de pontos de entrada.

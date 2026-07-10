@@ -1,11 +1,15 @@
 ---
-title: "[T&C]Aquecimento 11.11 & Black Friday"
+title: "T&C]Aquecimento 11.11 & Black Friday"
 id: 4229657200412432
-category: "Avançado"
+category: Avançado
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4229657200412432"
-update_time: "2025-10-15"
+update_time: 2025-10-15
 keywords: "Criadores,Política de Criador"
 ---
+
+
+
+
 ## Detalhes Básicos
 
 |  |  |

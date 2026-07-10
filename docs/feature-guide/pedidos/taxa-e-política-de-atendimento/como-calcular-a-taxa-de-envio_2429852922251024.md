@@ -1,11 +1,15 @@
 ---
-title: "Como calcular a taxa de envio"
+title: Como calcular a taxa de envio
 id: 2429852922251024
-category: "Taxa e política de atendimento"
+category: Taxa e política de atendimento
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2429852922251024"
-update_time: "2026-04-14"
-keywords: "Vendedores"
+update_time: 2026-04-14
+keywords: Vendedores
 ---
+
+
+
+
 # 1.Introdução Geral
 
 Este documento descreve o processo de envio padrão, os métodos de cálculo e as melhores práticas para vendedores que usam o serviço doméstico padrão no Brasil.  

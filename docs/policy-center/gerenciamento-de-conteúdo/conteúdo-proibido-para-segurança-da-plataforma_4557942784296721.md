@@ -1,11 +1,15 @@
 ---
-title: "Conteúdo proibido para segurança da plataforma"
+title: Conteúdo proibido para segurança da plataforma
 id: 4557942784296721
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4557942784296721"
-update_time: "2026-03-10"
-keywords: "Política de Criador"
+update_time: 2026-03-10
+keywords: Política de Criador
 ---
+
+
+
+
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ccde11f0623048139af78956b6a56945~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2088540406&x-signature=UDdqEPK1W25IBWk8%2BSguJak%2BOiI%3D)
 
 **Publicado em 30/12/2025**

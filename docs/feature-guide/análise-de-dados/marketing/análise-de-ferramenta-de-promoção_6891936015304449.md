@@ -1,11 +1,15 @@
 ---
-title: "Análise de Ferramenta de Promoção"
+title: Análise de Ferramenta de Promoção
 id: 6891936015304449
-category: "Marketing"
+category: Marketing
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6891936015304449"
-update_time: "2025-04-16"
-keywords: "Sellers"
+update_time: 2025-04-16
+keywords: Sellers
 ---
+
+
+
+
 Este artigo mostra uma breve visão geral do que são as ferramentas de promoção e como você pode rastrear o desempenho dessas ferramentas.
 
 # **O que são as ferramentas de promoção?**

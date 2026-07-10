@@ -1,11 +1,15 @@
 ---
-title: "Guia passo a passo para migrar de CPF para CNPJ"
+title: Guia passo a passo para migrar de CPF para CNPJ
 id: 616661158987537
-category: "Registrar e configurar conta"
+category: Registrar e configurar conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=616661158987537"
-update_time: "2026-06-30"
-keywords: "Criadores"
+update_time: 2026-06-30
+keywords: Criadores
 ---
+
+
+
+
 ## **Preparação**
 
 |  |  |  |

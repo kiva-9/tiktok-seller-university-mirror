@@ -1,11 +1,15 @@
 ---
-title: "Gerenciamento de Estoque"
+title: Gerenciamento de Estoque
 id: 6857784697341712
-category: "Gerenciar produtos"
+category: Gerenciar produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6857784697341712"
-update_time: "2026-05-31"
-keywords: "Sellers"
+update_time: 2026-05-31
+keywords: Sellers
 ---
+
+
+
+
 Neste artigo, abordamos como gerenciar o estoque de produtos, monitorar sua condição e definir um alerta para lembrar você de atualizá-lo.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2df473c3f4e940f694c991c6b74c3cec~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2077046762&x-signature=tSeKWxPWfoMShd2KDfQBn3wYMH4%3D)

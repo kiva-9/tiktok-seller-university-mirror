@@ -1,11 +1,15 @@
 ---
-title: "Verificação de Identidade no TikTok Shop"
+title: Verificação de Identidade no TikTok Shop
 id: 1984591137818385
-category: "Gerenciamento de Conta"
+category: Gerenciamento de Conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1984591137818385"
-update_time: "2026-03-03"
+update_time: 2026-03-03
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/06b96ce3b5624f3ba4d797fe9580fd5b~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2087941048&x-signature=2dOIjcdSgvjQg0wCJE5aP2IGTpE%3D)
 
 No TikTok Shop, queremos oferecer aos nossos usuários um ambiente de compras que seja ao mesmo tempo divertido e seguro. Em alguns casos, poderemos solicitar que você realize uma **verificação de identidade**.  

@@ -1,11 +1,15 @@
 ---
-title: "Política de Pagamentos aos Vendedores do TikTok Shop"
+title: Política de Pagamentos aos Vendedores do TikTok Shop
 id: 1442971112769281
-category: "Pagamentos"
+category: Pagamentos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1442971112769281"
-update_time: "2026-06-22"
+update_time: 2026-06-22
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 # 1. Visão Geral
 
 ## 1.1 Introdução

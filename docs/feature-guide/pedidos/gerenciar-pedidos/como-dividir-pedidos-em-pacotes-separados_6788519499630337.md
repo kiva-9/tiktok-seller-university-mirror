@@ -1,11 +1,15 @@
 ---
-title: "Como Dividir Pedidos em Pacotes Separados"
+title: Como Dividir Pedidos em Pacotes Separados
 id: 6788519499630337
-category: "Gerenciar pedidos"
+category: Gerenciar pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6788519499630337"
-update_time: "2025-11-17"
-keywords: "Sellers"
+update_time: 2025-11-17
+keywords: Sellers
 ---
+
+
+
+
 ## **Visão geral**
 
 A opção de dividir pedido estará disponível se as seguintes condições forem atendidas:

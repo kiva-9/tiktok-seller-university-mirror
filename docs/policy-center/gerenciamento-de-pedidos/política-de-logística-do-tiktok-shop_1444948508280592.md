@@ -1,11 +1,15 @@
 ---
-title: "Política de Logística do TikTok Shop"
+title: Política de Logística do TikTok Shop
 id: 1444948508280592
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1444948508280592"
-update_time: "2026-06-03"
-keywords: "Seller Policy"
+update_time: 2026-06-03
+keywords: Seller Policy
 ---
+
+
+
+
 # Visão Geral
 
 A **Política de Logística do TikTok Shop** abrange uma variedade de termos e métricas relacionadas ao processamento de vendas no Brasil.   

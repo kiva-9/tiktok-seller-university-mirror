@@ -1,11 +1,15 @@
 ---
-title: "Campanhas de Parceria"
+title: Campanhas de Parceria
 id: 6320504354424577
-category: "Agência"
+category: Agência
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6320504354424577"
-update_time: "2026-03-30"
-keywords: "Criadores"
+update_time: 2026-03-30
+keywords: Criadores
 ---
+
+
+
+
 # **Atualização de Versão**
 
 |  |  |  |  |

@@ -1,11 +1,15 @@
 ---
 title: "TikTok para Shopify: Configuração e Vinculação de Depósitos"
 id: 5192169866675969
-category: "TikTok para Shopify"
+category: TikTok para Shopify
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5192169866675969"
-update_time: "2025-04-09"
-keywords: "Seller Policy"
+update_time: 2025-04-09
+keywords: Seller Policy
 ---
+
+
+
+
 ### **Visão geral**
 
 A nova lógica de mapeamento de armazéns fornece maior flexibilidade e controle sobre a criação de armazéns. Esta atualização permite que os vendedores modifiquem armazéns criados automaticamente, além de orientá-los pelo processo de configuração do mapeamento de armazéns de forma independente.

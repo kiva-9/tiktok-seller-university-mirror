@@ -1,11 +1,15 @@
 ---
-title: "Requisitos para conteúdo responsável relacionado à saúde"
+title: Requisitos para conteúdo responsável relacionado à saúde
 id: 3537527768876817
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3537527768876817"
-update_time: "2026-04-02"
+update_time: 2026-04-02
 keywords: "Vendedores,Criadores,Política de Criador,Política de vendedor"
 ---
+
+
+
+
 ![飞书文档 - 图片.gif](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/7381205c40f147d89e1f63a0c99139db~tplv-nk3i2mqmvs-image.gif?lk3s=5d1a069b&x-expires=2090463749&x-signature=kU1T8DMq232L2ObZdOtq1yVubZ0%3D)
 > **Pontos principais:**
 >

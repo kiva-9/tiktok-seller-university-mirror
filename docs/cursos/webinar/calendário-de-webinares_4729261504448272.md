@@ -1,11 +1,15 @@
 ---
-title: "Calendário de Webinares"
+title: Calendário de Webinares
 id: 4729261504448272
-category: "Webinar"
+category: Webinar
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4729261504448272"
-update_time: "2026-05-06"
-keywords: "Vendedores"
+update_time: 2026-05-06
+keywords: Vendedores
 ---
+
+
+
+
 # **Calendário de Webinares para as Próximas Semanas (será atualizado semanalmente)**
 
 |  |  |  |  |  |

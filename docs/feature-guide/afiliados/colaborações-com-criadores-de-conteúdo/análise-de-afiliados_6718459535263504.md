@@ -1,11 +1,15 @@
 ---
-title: "Análise de afiliados"
+title: Análise de afiliados
 id: 6718459535263504
-category: "Colaborações com criadores de conteúdo"
+category: Colaborações com criadores de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6718459535263504"
-update_time: "2025-04-14"
-keywords: "Sellers"
+update_time: 2025-04-14
+keywords: Sellers
 ---
+
+
+
+
 Este artigo ensinará a você como navegar na guia **Análise** localizada na **Central de afiliados** no desktop. A guia **Análise** é um recurso da Central de afiliados criado para ajudá-lo a acompanhar o progresso e os dados de suas **colaborações de afiliados** (Aberta e Direcionada).
 
 Atualmente, a guia Insights tem 4 módulos de análise:

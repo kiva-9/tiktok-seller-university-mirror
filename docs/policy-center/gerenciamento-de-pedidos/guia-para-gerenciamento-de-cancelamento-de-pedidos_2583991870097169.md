@@ -1,11 +1,15 @@
 ---
-title: "Guia para gerenciamento de cancelamento de pedidos"
+title: Guia para gerenciamento de cancelamento de pedidos
 id: 2583991870097169
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2583991870097169"
-update_time: "2025-03-24"
-keywords: "Seller Policy"
+update_time: 2025-03-24
+keywords: Seller Policy
 ---
+
+
+
+
 # **Pontos principais:**
 
 * Gerencie os cancelamentos de pedidos com eficiência para manter as operações funcionando sem problemas.

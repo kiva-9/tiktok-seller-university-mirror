@@ -1,11 +1,15 @@
 ---
-title: "Política de fiscalização de feedback negativo do cliente no TikTok Shop"
+title: Política de fiscalização de feedback negativo do cliente no TikTok Shop
 id: 2139103752079121
-category: "Gerenciamento de Desempenho"
+category: Gerenciamento de Desempenho
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2139103752079121"
-update_time: "2025-09-22"
+update_time: 2025-09-22
 keywords: "Política de vendedor,Vendedores"
 ---
+
+
+
+
 # **Visão geral**
 
 ## Introdução

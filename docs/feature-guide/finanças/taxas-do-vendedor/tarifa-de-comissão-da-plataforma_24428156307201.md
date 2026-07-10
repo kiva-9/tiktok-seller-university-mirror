@@ -1,11 +1,15 @@
 ---
-title: "Tarifa de Comissão da Plataforma"
+title: Tarifa de Comissão da Plataforma
 id: 24428156307201
-category: "Taxas do Vendedor"
+category: Taxas do Vendedor
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=24428156307201"
-update_time: "2026-06-12"
-keywords: "Sellers"
+update_time: 2026-06-12
+keywords: Sellers
 ---
+
+
+
+
 Cada pedido vendido no TikTok Shop está sujeito a uma tarifa de comissão e a uma tarifa por item vendido. Este artigo apresenta aos vendedores essas duas tarifas, como elas são calculadas e as isenções às quais os vendedores podem ter direito.  
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/93fea3b666f94696ae5d9476f4d7c9ec~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059616576&x-signature=vKyX%2FeEmmEHpHNklmagH4jmrgs4%3D)

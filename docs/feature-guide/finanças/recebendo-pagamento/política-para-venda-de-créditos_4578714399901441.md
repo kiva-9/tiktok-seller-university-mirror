@@ -1,11 +1,15 @@
 ---
-title: "Política para venda de créditos"
+title: Política para venda de créditos
 id: 4578714399901441
-category: "Recebendo Pagamento"
+category: Recebendo Pagamento
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4578714399901441"
-update_time: "2026-07-07"
-keywords: "Vendedores"
+update_time: 2026-07-07
+keywords: Vendedores
 ---
+
+
+
+
 Em conformidade com [os requisitos regulatórios brasileiros](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=264 "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=264"), nossos parceiros de pagamento registrarão os créditos gerados pelas suas transações com cartão.  
 Caso você tenha assinado um contrato de empréstimo com uma instituição financeira terceirizada e concordado em usar esses créditos para quitar o referido contrato, nossos parceiros efetuarão o pagamento diretamente à instituição financeira na data de liquidação dos créditos.  
 Em primeiro lugar, emitiremos uma fatura no mesmo valor referente a este pagamento. Sua liquidação futura será priorizada para quitar esta fatura, visto que você já recebeu o pagamento referente a esta parte por instituições financeiras terceirizadas. E então o restante do contrato será liquidado como de costume. Observe que:  

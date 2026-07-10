@@ -1,11 +1,15 @@
 ---
-title: "Visão Geral da Opção \"Enviados Pela Plataforma\""
+title: Visão Geral da Opção \\Enviados Pela Plataforma\
 id: 2915348630603521
-category: "Serviço de compras"
+category: Serviço de compras
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2915348630603521"
-update_time: "2026-07-06"
-keywords: "Sellers"
+update_time: 2026-07-06
+keywords: Sellers
 ---
+
+
+
+
 Este artigo apresenta uma visão geral da opção "Enviados pela plataforma", que se trata da opção de envio padrão fácil de configurar e que inclui a criação de etiquetas integradas. Os vendedores podem comprar e imprimir etiquetas de envio diretamente da Central do Vendedor usando as transportadoras designadas do TikTok Shop, eliminando a necessidade de configurar um modelo de envio separado.
 
 Para saber mais sobre o processo de envio na Central do Vendedor, consulte este outro artigo. Ele oferece orientações e o passo a passo para ajudar você a gerenciar e enviar seus pedidos com eficiência.

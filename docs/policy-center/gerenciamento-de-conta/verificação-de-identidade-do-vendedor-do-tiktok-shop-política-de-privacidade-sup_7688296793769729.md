@@ -1,11 +1,15 @@
 ---
-title: "Verificação de Identidade do Vendedor do TikTok Shop - Política de Privacidade Suplementar "
+title: Verificação de Identidade do Vendedor do TikTok Shop - Política de Privacidade Suplementar
 id: 7688296793769729
-category: "Gerenciamento de Conta"
+category: Gerenciamento de Conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7688296793769729"
-update_time: "2026-06-26"
-keywords: "Vendedores"
+update_time: 2026-06-26
+keywords: Vendedores
 ---
+
+
+
+
 A [Política de Privacidade para Parceiros do TikTok](https://www.tiktok.com/legal/page/global/partner-privacy-policy/pt-BR "https://www.tiktok.com/legal/page/global/partner-privacy-policy/pt-BR") descreve as informações pessoais que coletamos de você como vendedor no TikTok Shop ("Vendedor do TTS" ou "você") e como tratamos essas informações. Esta Política Suplementar complementa a [Política de Privacidade para Parceiros do TikTok](https://www.tiktok.com/legal/page/global/partner-privacy-policy/pt-BR "https://www.tiktok.com/legal/page/global/partner-privacy-policy/pt-BR"), explicando as informações adicionais que coletamos, tratamos e compartilhamos sobre você, caso seja um Vendedor do TTS, para verificar e autenticar sua identidade.  
 
 **Quais Informações Coletamos**

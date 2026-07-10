@@ -1,16 +1,15 @@
 ---
-title: "Programa de Taxas de Envio"
+title: Programa de Taxas de Envio
 id: 5665577566734097
-category: "Programas"
+category: Programas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5665577566734097"
-update_time: "2026-05-21"
-keywords: "Sellers"
-video_count: 1
-video_url: "https://v16m-default.tiktokcdn.com/5a567c9f076a4a30f2f8311ce4d0e169/6a50ba5a/video/tos/alisg/tos-alisg-v-9e30d3-sg/osf5ffugaCDFOPKQgIgQgUizSA6BsQc0DXrrEJ/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1559&ft=cApXJCz7ThWHwDNzLGZmo0P&mime_type=video_mp4&rc=NztkNTU5OTY6NzhlOWg0ZEBpajx3OWo5cmV5M2YzOGc3NEA0XjI0NWJiNjAxNDY2YzJfYSMvLWQtMmRrcW5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783653829497fdbddc5300150210100c1dbf1f0000757e81cb&btag=e00048000"
-video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4ZagIuQDOg6fCfSBEfriYBcgFA0kQDXCgKrPr~tplv-noop.image?dr=18692&refresh_token=79d6c46a&x-expires=1783675482&x-signature=NMGNmGe2r9%2F0HcP8%2FiDHXQ2RLoI%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd0qvtbnog65g06gt092g"
-videos:
-  - "https://v16m-default.tiktokcdn.com/5a567c9f076a4a30f2f8311ce4d0e169/6a50ba5a/video/tos/alisg/tos-alisg-v-9e30d3-sg/osf5ffugaCDFOPKQgIgQgUizSA6BsQc0DXrrEJ/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1559&ft=cApXJCz7ThWHwDNzLGZmo0P&mime_type=video_mp4&rc=NztkNTU5OTY6NzhlOWg0ZEBpajx3OWo5cmV5M2YzOGc3NEA0XjI0NWJiNjAxNDY2YzJfYSMvLWQtMmRrcW5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783653829497fdbddc5300150210100c1dbf1f0000757e81cb&btag=e00048000"
+update_time: 2026-05-21
+keywords: Sellers
 ---
+
+
+
+
 Estamos animados em apresentar a você o Programa de Taxas de Envio, que permite que os cupons de frete grátis do TikTok Shop sejam aplicados a todos os produtos em suas lojas, melhorando a visibilidade dos produtos e as taxas de conversão.
 
 # **O que é o** Programa de Taxas de Envio**?**

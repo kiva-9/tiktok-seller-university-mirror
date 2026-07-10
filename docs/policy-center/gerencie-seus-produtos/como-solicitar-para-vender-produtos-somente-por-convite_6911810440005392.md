@@ -1,11 +1,15 @@
 ---
-title: "Como solicitar para vender produtos Somente por convite?"
+title: Como solicitar para vender produtos Somente por convite?
 id: 6911810440005392
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6911810440005392"
-update_time: "2025-10-22"
-keywords: "Vendedores"
+update_time: 2025-10-22
+keywords: Vendedores
 ---
+
+
+
+
 A seguir, estão as etapas que você deve seguir para se tornar um vendedor na categoria "Somente por convite":  
 > Se você for um vendedor experiente em uma categoria específica, poderá solicitar autorização para vender nela, enviando a documentação necessária para análise.  
 > **Observação importante**: no momento, o Centro de qualificação está disponível somente para desktop.

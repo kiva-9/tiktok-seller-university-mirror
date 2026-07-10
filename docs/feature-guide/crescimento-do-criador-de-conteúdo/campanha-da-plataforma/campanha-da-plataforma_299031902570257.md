@@ -1,11 +1,15 @@
 ---
-title: "Campanha da Plataforma"
+title: Campanha da Plataforma
 id: 299031902570257
-category: "Campanha da Plataforma"
+category: Campanha da Plataforma
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=299031902570257"
-update_time: "2025-07-23"
-keywords: "Criadores"
+update_time: 2025-07-23
+keywords: Criadores
 ---
+
+
+
+
 # **O que é uma Campanha da Plataforma?**
 
 Uma Campanha da Plataforma é um evento promocional de alto impacto organizado pelo TikTok Shop.  

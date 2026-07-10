@@ -1,11 +1,15 @@
 ---
-title: "Política de Atendimento ao Cliente do TikTok Shop "
+title: Política de Atendimento ao Cliente do TikTok Shop
 id: 2583022047233809
-category: "Atendimento ao Cliente"
+category: Atendimento ao Cliente
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2583022047233809"
-update_time: "2025-09-30"
-keywords: "Seller Policy"
+update_time: 2025-09-30
+keywords: Seller Policy
 ---
+
+
+
+
 # Visão Geral
 
 Nossa **Política de Atendimento ao Cliente do TikTok Shop** abrange as regras de comunicação entre vendedores e clientes que usam o TikTok Shop Chat. O TikTok Shop Chat é uma ferramenta de mensagens instantâneas que permite aos clientes falar com os vendedores sobre seus produtos e serviços. Os clientes podem acessar o TikTok Shop Chat por meio do aplicativo TikTok, enquanto os vendedores podem acessá-lo por meio da Central do Vendedor > Mensagens do cliente.l  

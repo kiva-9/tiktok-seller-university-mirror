@@ -1,11 +1,15 @@
 ---
-title: "Diversas maneiras de se inscrever em campanhas"
+title: Diversas maneiras de se inscrever em campanhas
 id: 2701559525017361
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2701559525017361"
-update_time: "2026-02-09"
-keywords: "Vendedores"
+update_time: 2026-02-09
+keywords: Vendedores
 ---
+
+
+
+
 Este artigo descreve as seis principais maneiras de participar de uma campanha:  
 
 1. Cadastro on-line

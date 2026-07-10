@@ -1,11 +1,15 @@
 ---
 title: "Desafio: Granado Super Brand Day"
 id: 2290450530715409
-category: "Desafios"
+category: Desafios
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2290450530715409"
-update_time: "2025-10-09"
-keywords: "Creator Policy"
+update_time: 2025-10-09
+keywords: Creator Policy
 ---
+
+
+
+
 ## Basic Details
 
 ## Rewards Description

@@ -1,11 +1,15 @@
 ---
-title: "O que é Limite de Volumes de Pedidos (OVL) ?"
+title: O que é Limite de Volumes de Pedidos (OVL) ?
 id: 3309653722089232
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3309653722089232"
-update_time: "2025-10-27"
+update_time: 2025-10-27
 keywords: "Política de vendedor,Vendedores"
 ---
+
+
+
+
 ![ovl.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/222c42a698df4691a42e5d03fbfca7a1~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2073548826&x-signature=7peBRfQPMq%2BgyMxMseg4mFQQqiA%3D)Pontos principais  
 
 * Um **Limite de volumes de pedidos (OVL)** restringe o número de pedidos diários que sua loja pode receber.

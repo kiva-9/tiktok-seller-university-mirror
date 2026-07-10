@@ -1,11 +1,15 @@
 ---
-title: "Como evitar produtos falsificados"
+title: Como evitar produtos falsificados
 id: 5407942887212801
-category: "Direitos de Propriedade Intelectual"
+category: Direitos de Propriedade Intelectual
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5407942887212801"
-update_time: "2025-03-24"
+update_time: 2025-03-24
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 ## **O que são produtos falsificados?**
 
 A falsificação geralmente se refere à fabricação, distribuição e venda ilegais de réplicas de marca de um produto, que podem incluir, entre outros, o uso não autorizado de uma marca comercial idêntica ou muito semelhante à marca registrada de outra entidade em mercadorias cobertas pela regulamentação de registro de marca, ou em embalagens e/ou materiais de marketing de um produto. A listagem, o promoção e a venda de produtos falsificados são estritamente proibidos no TikTok Shop. Isso inclui a exibição de nomes de marcas, logotipos ou marcas comerciais em produtos ou em imagens ou descrições de produtos, inclusive em transmissões ao vivo (lives) ou vídeos, sem autorização do proprietário da marca.

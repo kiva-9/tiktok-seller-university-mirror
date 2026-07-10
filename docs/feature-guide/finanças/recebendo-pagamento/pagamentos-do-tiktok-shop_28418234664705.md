@@ -1,11 +1,15 @@
 ---
-title: "Pagamentos do TikTok Shop"
+title: Pagamentos do TikTok Shop
 id: 28418234664705
-category: "Recebendo Pagamento"
+category: Recebendo Pagamento
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=28418234664705"
-update_time: "2026-05-29"
-keywords: "Sellers"
+update_time: 2026-05-29
+keywords: Sellers
 ---
+
+
+
+
 # **Como receber pagamentos do TikTok Shop**
 
 Após o período de liquidação, se o pagamento do vendedor for positivo e o vendedor tiver uma conta bancária para retirada, o TikTok Shop iniciará um pagamento na conta bancária.

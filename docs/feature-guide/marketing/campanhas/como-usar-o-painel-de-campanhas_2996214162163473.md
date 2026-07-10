@@ -1,11 +1,15 @@
 ---
-title: "Como usar o Painel de campanhas"
+title: Como usar o Painel de campanhas
 id: 2996214162163473
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2996214162163473"
-update_time: "2026-02-10"
-keywords: "Vendedores"
+update_time: 2026-02-10
+keywords: Vendedores
 ---
+
+
+
+
 # **Visão geral do Painel de campanhas**
 
 As campanhas são oportunidades essenciais para os vendedores impulsionarem as vendas e conquistarem novos clientes. O Painel de campanhas fornece informações em tempo real sobre as vendas da loja, o desempenho do produto e a eficácia do conteúdo durante megacampanhas. Ele também emite alertas oportunos sobre violações de conteúdo e possíveis riscos de falta de estoque. Após participar com sucesso de uma megacampanha, você terá acesso automático ao painel correspondente.  

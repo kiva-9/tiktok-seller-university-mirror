@@ -1,11 +1,15 @@
 ---
 title: "Cartão Fixado na LIVE: produtos em destaque e cupons fixados"
 id: 6327867927545601
-category: "Operação de transmissão ao vivo"
+category: Operação de transmissão ao vivo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6327867927545601"
-update_time: "2025-11-04"
+update_time: 2025-11-04
 keywords: "Criadores,Vendedores"
 ---
+
+
+
+
 Este artigo mostra o que é o Cartão Fixado na LIVE, como ele pode ajudar a fixar cartões de produto ou de cupom durante a sua LIVE, quais tipos de cupons podem ser fixados durante a LIVE e como o público pode resgatá-los.  
 
 |  |  |  |

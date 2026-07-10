@@ -1,11 +1,15 @@
 ---
-title: "Política de Propriedade Intelectual do TikTok Shop "
+title: Política de Propriedade Intelectual do TikTok Shop
 id: 5385814784837393
-category: "Direitos de Propriedade Intelectual"
+category: Direitos de Propriedade Intelectual
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5385814784837393"
-update_time: "2025-03-24"
-keywords: "Sellers"
+update_time: 2025-03-24
+keywords: Sellers
 ---
+
+
+
+
 # Visão Geral
 
 Esta **Política de Propriedade Intelectual do** **TikTok Shop** (a "**Política**") estabelece como os direitos de propriedade intelectual de terceiros ("**DPI**") são protegidos dentro do TikTok Shop. Esta Política complementa as **Diretrizes da Comunidade do TikTok** e os **Termos de Uso do Criador do TikTok Shop** e os **Termos de Serviço do Vendedor** (coletivamente, "**Termos do TikTok**").  

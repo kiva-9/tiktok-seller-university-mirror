@@ -1,11 +1,15 @@
 ---
-title: "Política de qualidade do produto"
+title: Política de qualidade do produto
 id: 8322087832667905
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8322087832667905"
-update_time: "2025-09-08"
+update_time: 2025-09-08
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 ## **Finalidade e escopo**
 
 A **Política de qualidade de produtos do TikTok Shop do Brasil** (a "**Política**") estabelece os requisitos e expectativas para os vendedores ao listarem produtos no TikTok Shop. Esta política complementa as [Diretrizes da comunidade](https://www.tiktok.com/community-guidelines/pt-br/ "https://www.tiktok.com/community-guidelines/pt-br/")TikTok e os Termos de uso do criador da[[TikTok Shop](https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/magellan_ecommerce/2e1bc607-edf1-4d2a-b42c-9dff68e83b61.html "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/magellan_ecommerce/2e1bc607-edf1-4d2a-b42c-9dff68e83b61.html"), e/ou os [Termos de serviço do vendedor](https://shop-academy-us.tiktok.com/university/article/agreement?knowledge_id=10013296&identity=1 "https://shop-academy-us.tiktok.com/university/article/agreement?knowledge_id=10013296&identity=1")] (coletivamente, "**Termos do TikTok**").

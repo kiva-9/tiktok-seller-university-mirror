@@ -1,11 +1,15 @@
 ---
-title: "Organização inteligente na vitrine"
+title: Organização inteligente na vitrine
 id: 6817362679367440
-category: "Adicionar produto à exposição"
+category: Adicionar produto à exposição
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6817362679367440"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 Neste artigo, vamos ensinar o que a função **Organização Inteligente** faz e como ela pode ajudar um criador a impulsionar mais vendas e pedidos na vitrine da sua conta.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f19eeac7aecd4c2d98cf3faf5fa1741a~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059903876&x-signature=iAsWhZ2T4pCpLz1jQsFNcE7lHJA%3D)

@@ -1,11 +1,15 @@
 ---
-title: "Como Desconectar o Storefront"
+title: Como Desconectar o Storefront
 id: 6806023781762832
-category: "Gerenciar contas"
+category: Gerenciar contas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6806023781762832"
-update_time: "2025-04-09"
-keywords: "Sellers"
+update_time: 2025-04-09
+keywords: Sellers
 ---
+
+
+
+
 ## Visão Geral
 
 Se você já era um vendedor do Storefront e migrou para o TikTok Shop, recomendamos desvincular o Storefront depois de fazer a transição para o TikTok Shop para evitar experiências confusas para os usuários. Estas são as instruções passo a passo sobre como desconectar o Storefront.

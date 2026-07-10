@@ -1,11 +1,15 @@
 ---
-title: "Entender e gerenciar sua Taxa de envio atrasado (LDR) "
+title: Entender e gerenciar sua Taxa de envio atrasado (LDR)
 id: 3321767214286609
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3321767214286609"
-update_time: "2026-05-11"
+update_time: 2026-05-11
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 ![ldr br.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/3dcf90a08dd5422ab6a92cc31524257c~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2073550398&x-signature=mj7JaxZQ2Z5bzXTLxRNfUB5dSyE%3D)**Pontos principais**
 
 * **A LDR mede quão rapidamente você despacha os pedidos.**

@@ -1,11 +1,15 @@
 ---
-title: "Guia para avisos de conteúdo em LIVE"
+title: Guia para avisos de conteúdo em LIVE
 id: 4883938720876289
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4883938720876289"
-update_time: "2026-03-11"
+update_time: 2026-03-11
 keywords: "Política de Criador,Criadores"
 ---
+
+
+
+
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6cb915f47c004edf8166c18dfe94961a~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2088618739&x-signature=m2zGmRSUhJr1n2kHNzhAMAtu0MA%3D)
 
 # **O que são avisos de conteúdo?**

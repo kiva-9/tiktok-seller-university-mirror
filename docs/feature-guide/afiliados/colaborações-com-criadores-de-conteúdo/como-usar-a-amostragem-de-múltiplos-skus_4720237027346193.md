@@ -1,11 +1,15 @@
 ---
-title: "Como Usar a Amostragem de Múltiplos SKUs"
+title: Como Usar a Amostragem de Múltiplos SKUs
 id: 4720237027346193
-category: "Colaborações com criadores de conteúdo"
+category: Colaborações com criadores de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4720237027346193"
-update_time: "2026-01-21"
-keywords: "Política de vendedor"
+update_time: 2026-01-21
+keywords: Política de vendedor
 ---
+
+
+
+
 ## Resumo
 
 **O que é a amostragem de múltiplos SKUs no TikTok Shop e como ela beneficia vendedores e criadores?**

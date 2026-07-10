@@ -1,11 +1,15 @@
 ---
-title: "Problemas de Logística"
+title: Problemas de Logística
 id: 6729154985871121
-category: "Gerenciar pedidos"
+category: Gerenciar pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6729154985871121"
-update_time: "2025-04-09"
-keywords: "Sellers"
+update_time: 2025-04-09
+keywords: Sellers
 ---
+
+
+
+
 # **Visão Geral**
 
 Este artigo explora diversos tipos de problemas de logística que podem ocorrer durante o seu processo de envio. Ao aprender sobre isso, você conseguirá entender os problemas que podem acontecer e como resolvê-los, para que você possa atender e enviar seus pedidos dentro do prazo.

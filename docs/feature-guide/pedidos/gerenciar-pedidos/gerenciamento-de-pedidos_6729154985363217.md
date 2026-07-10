@@ -1,11 +1,15 @@
 ---
-title: "Gerenciamento de Pedidos"
+title: Gerenciamento de Pedidos
 id: 6729154985363217
-category: "Gerenciar pedidos"
+category: Gerenciar pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6729154985363217"
-update_time: "2026-02-09"
-keywords: "Sellers"
+update_time: 2026-02-09
+keywords: Sellers
 ---
+
+
+
+
 Este artigo explica como usar a página "Gerenciar pedidos", ajudando você a familiarizar o processo e simplificar sua gestão.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/d2e15918419a423ba0b819eaf46730dd~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059592669&x-signature=hiAD847O4gS2icpUrsYsSQ0Bx%2BQ%3D)

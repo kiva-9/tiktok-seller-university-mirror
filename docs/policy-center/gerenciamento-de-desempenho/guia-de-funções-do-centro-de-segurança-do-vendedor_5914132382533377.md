@@ -1,11 +1,15 @@
 ---
-title: "Guia de Funções do Centro de Segurança do Vendedor"
+title: Guia de Funções do Centro de Segurança do Vendedor
 id: 5914132382533377
-category: "Gerenciamento de Desempenho"
+category: Gerenciamento de Desempenho
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5914132382533377"
-update_time: "2026-06-22"
-keywords: ""
+update_time: 2026-06-22
+keywords: 
 ---
+
+
+
+
 ***Nota: Este recurso está disponível apenas para vendedores que passaram pelo*** [período de experiência de loja nova](https://seller-br.tiktok.com/university/essay?knowledge_id=1444948507379472&role=1&course_type=1&from=search&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=1444948507379472&role=1&course_type=1&from=search&identity=1")***. Se este recurso estiver disponível para você, você receberá um e-mail ou uma mensagem na Central do Vendedor. Reservamo-nos o direito de encerrar seu acesso a esses recursos a qualquer momento, a nosso critério exclusivo e absoluto.***Com o aumento das suas vendas, queremos garantir que você esteja protegido. Use nossos recursos de proteção ao vendedor na **Central de Segurança do Vendedor** para gerenciar seus pedidos com confiança e minimizar os riscos para sua loja!  
 
 * **Proteção e Alertas da Plataforma: O sistema ajudará você a identificar riscos e sugerirá ações que você pode tomar para minimizá-los.**

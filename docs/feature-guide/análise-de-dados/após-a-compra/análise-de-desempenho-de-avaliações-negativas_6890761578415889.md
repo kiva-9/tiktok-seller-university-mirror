@@ -1,11 +1,15 @@
 ---
-title: "Análise de desempenho de avaliações negativas"
+title: Análise de desempenho de avaliações negativas
 id: 6890761578415889
-category: "Após a Compra"
+category: Após a Compra
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6890761578415889"
-update_time: "2025-04-10"
-keywords: "Sellers"
+update_time: 2025-04-10
+keywords: Sellers
 ---
+
+
+
+
 Este artigo aborda as avaliações negativas recentes da sua loja causadas pela responsabilidade da loja de responder a estas perguntas:
 
 * Qual é o desempenho da sua loja em termos de Taxa de avaliação negativa (NRR)?

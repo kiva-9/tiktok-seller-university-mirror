@@ -1,11 +1,15 @@
 ---
-title: "Como Combinar Vários Pedidos em Um Único Pacote"
+title: Como Combinar Vários Pedidos em Um Único Pacote
 id: 6794907302823696
-category: "Gerenciar pedidos"
+category: Gerenciar pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6794907302823696"
-update_time: "2025-04-13"
-keywords: "Sellers"
+update_time: 2025-04-13
+keywords: Sellers
 ---
+
+
+
+
 ## **Visão geral**
 
 Você pode mesclar pedidos aptos a serem consolidados em um pacote único para economizar custos de envio, enquanto ainda fornece uma ótima experiência de entrega ao cliente.

@@ -1,11 +1,15 @@
 ---
-title: "Registro de Vendedores"
+title: Registro de Vendedores
 id: 3995530205677329
-category: "Registro e configuração da conta"
+category: Registro e configuração da conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3995530205677329"
-update_time: "2025-12-18"
-keywords: "Sellers"
+update_time: 2025-12-18
+keywords: Sellers
 ---
+
+
+
+
 # Visão Geral
 
 Neste artigo, você vai aprender o processo básico de registro no TikTok Shop, os requisitos para se tornar um vendedor e os documentos necessários para verificação.

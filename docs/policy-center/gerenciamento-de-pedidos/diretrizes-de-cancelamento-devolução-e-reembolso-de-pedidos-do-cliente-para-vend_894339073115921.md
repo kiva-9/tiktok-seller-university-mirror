@@ -1,11 +1,15 @@
 ---
 title: "Diretrizes de Cancelamento, Devolução e Reembolso de Pedidos do Cliente para Vendedores do TikTok Shop"
 id: 894339073115921
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=894339073115921"
-update_time: "2026-05-18"
-keywords: "Seller Policy"
+update_time: 2026-05-18
+keywords: Seller Policy
 ---
+
+
+
+
 1. # **Introdução**
 
 A **Política de Cancelamento, Devolução e Reembolso de Pedidos do Cliente do TikTok Shop** cobre nossos requisitos pós-venda para cancelamentos de pedidos, devoluções de pedidos e reembolsos.  

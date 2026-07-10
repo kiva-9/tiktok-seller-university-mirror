@@ -1,11 +1,15 @@
 ---
-title: "Explicação de métricas e atribuição de GMV Max"
+title: Explicação de métricas e atribuição de GMV Max
 id: 8198241679017744
-category: "Anúncios de vendas"
+category: Anúncios de vendas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8198241679017744"
-update_time: "2025-06-02"
-keywords: "Vendedores"
+update_time: 2025-06-02
+keywords: Vendedores
 ---
+
+
+
+
 ## **Introdução**
 
 O GMV Max é nossa nova solução de Automação de Publicidade da TikTok Shop que otimiza o ROI total do canal de um vendedor para a TikTok Shop. O GMV Max é uma solução altamente inovadora e inédita que se diferencia principalmente por meio de dois recursos exclusivos:  

@@ -1,11 +1,15 @@
 ---
-title: "Central de criadores do TikTok Shop"
+title: Central de criadores do TikTok Shop
 id: 6975934675273473
-category: "Registrar e configurar conta"
+category: Registrar e configurar conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6975934675273473"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 Este artigo conduzirá você pelo centro de Criadores do TikTok Shop dentro do aplicativo TikTok.
 
 Veremos como navegar e usar os diferentes recursos, maximizando sua experiência de Criador em uma única tela.

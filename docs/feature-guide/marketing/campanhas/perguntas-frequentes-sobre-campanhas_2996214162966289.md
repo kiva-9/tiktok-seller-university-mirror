@@ -1,11 +1,15 @@
 ---
-title: "Perguntas frequentes sobre campanhas"
+title: Perguntas frequentes sobre campanhas
 id: 2996214162966289
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2996214162966289"
-update_time: "2026-05-08"
-keywords: "Vendedores"
+update_time: 2026-05-08
+keywords: Vendedores
 ---
+
+
+
+
 ## **Como sei se minha loja ou meus produtos são elegíveis para as campanhas?**
 
 Sua elegibilidade será exibida na página Detalhes da campanha quando você se inscrever em uma campanha. Para consultar todos os critérios de elegibilidade, clique em "Revisar todos os critérios" na página Detalhes da campanha.  

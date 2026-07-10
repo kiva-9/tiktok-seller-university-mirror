@@ -1,11 +1,15 @@
 ---
-title: "Como usar a análise de resultados financeiros"
+title: Como usar a análise de resultados financeiros
 id: 2385446127290128
-category: "Análise de Ganhos"
+category: Análise de Ganhos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2385446127290128"
-update_time: "2026-02-11"
-keywords: "Criadores"
+update_time: 2026-02-11
+keywords: Criadores
 ---
+
+
+
+
 ## Maximize seu crescimento com a nossa nova ferramenta Análise de receita!
 
 Assuma o controle total de sua receita com nossos novos e poderosos **módulos de Análise de receita.** Esta atualização foi desenvolvida especificamente para oferecer total transparência sobre cada Real que você ganha, para que você possa gastar menos tempo analisando os números e mais tempo aprimorando sua estratégia.

@@ -1,16 +1,15 @@
 ---
 title: "Aula 5/8 | Fundamentos do apresentador: posicionamento, argumentos e produtos campeões"
 id: 7403319807723281
-category: "Live"
+category: Live
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7403319807723281"
-update_time: "2026-06-24"
-keywords: "Vendedores"
-video_count: 1
-video_url: "https://v16m-default.tiktokcdn.com/e1534d4fb8efb5f3c1bc89842406566a/6a50c518/video/tos/alisg/tos-alisg-v-9e30d3-sg/ogsLiegSGGJoLXFv14ITEeQJeFAIG2UDeiWrqE/?a=6556&bti=ODY2QDQwNWA%3D&&bt=229&ft=cApXJCz7ThWHeqNzLGZmo0P&mime_type=video_mp4&rc=NTxlZmg6O2VnOTM0ODdoN0BpampkbHk5cnA1O2YzOGc3NEBeMS1fYl4uNWAxMDAuXzAwYSNhaDUuMmRrXnJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653558264fdbddc5300150210100c1dbf1f0000755ec12e&btag=e00068000"
-video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4Lq1oOoeE2UGg1BIeSEJWSFAS4eQeFCvG2DIG~tplv-noop.image?dr=18692&refresh_token=83e58b1c&x-expires=1783678232&x-signature=mpXyOCbp2hyMfhadOUuED9z1DwI%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd8u2amnog65v1i8akgdg"
-videos:
-  - "https://v16m-default.tiktokcdn.com/e1534d4fb8efb5f3c1bc89842406566a/6a50c518/video/tos/alisg/tos-alisg-v-9e30d3-sg/ogsLiegSGGJoLXFv14ITEeQJeFAIG2UDeiWrqE/?a=6556&bti=ODY2QDQwNWA%3D&&bt=229&ft=cApXJCz7ThWHeqNzLGZmo0P&mime_type=video_mp4&rc=NTxlZmg6O2VnOTM0ODdoN0BpampkbHk5cnA1O2YzOGc3NEBeMS1fYl4uNWAxMDAuXzAwYSNhaDUuMmRrXnJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653558264fdbddc5300150210100c1dbf1f0000755ec12e&btag=e00068000"
+update_time: 2026-06-24
+keywords: Vendedores
 ---
+
+
+
+
 Este curso tem como objetivo capacitar apresentadores para atuar no ambiente de Live Commerce da TikTok Shop, com foco na estruturação de roteiros e na aplicação de técnicas baseadas em dados.O conteúdo aborda desde a configuração operacional mínima até a análise de métricas de desempenho, permitindo que os participantes organizem Live de forma planejada e orientada a resultados.
 
 ### **O que você vai aprender:**

@@ -1,11 +1,15 @@
 ---
-title: "Guia para a página Desempenho do processo de envio"
+title: Guia para a página Desempenho do processo de envio
 id: 8624817789257488
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8624817789257488"
-update_time: "2026-06-30"
-keywords: ""
+update_time: 2026-06-30
+keywords: 
 ---
+
+
+
+
 O desempenho do seu processo de envio é um componente essencial para a integridade geral da sua loja. Isso não afeta apenas a experiência e a confiança do cliente, mas também a [Avaliação de integridade da conta](https://seller-br.tiktok.com/university/essay?knowledge_id=1444948508641040&role=1&course_type=1&from=search&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=1444948508641040&role=1&course_type=1&from=search&identity=1") e a [Pontuação de desempenho da loja (shop performance score, SPS)](https://seller-br.tiktok.com/university/essay?knowledge_id=7517966208927489&role=1&course_type=1&from=search&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=7517966208927489&role=1&course_type=1&from=search&identity=1") da sua loja.
 
 Criamos a página [Desempenho do processo de envio](https://seller-br.tiktok.com/health-center/fulfillment-performance "https://seller-br.tiktok.com/health-center/fulfillment-performance") na **Central do vendedor** (login necessário) para ajudar a fornecer uma visão geral fácil de entender sobre a eficiência e o desempenho da sua logística. Nesta página você pode visualizar:  

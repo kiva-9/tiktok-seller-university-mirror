@@ -1,11 +1,15 @@
 ---
-title: "Como aceitar o registro de uma campanha pendente"
+title: Como aceitar o registro de uma campanha pendente
 id: 2716237918799632
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2716237918799632"
-update_time: "2026-02-09"
-keywords: "Vendedores"
+update_time: 2026-02-09
+keywords: Vendedores
 ---
+
+
+
+
 # **Como concluir os registros de campanha pendentes?**
 
 A equipe de operações do TikTok Shop também pode registrar produtos em seu nome para campanhas de produtos. Isso significa que agora você pode participar de campanhas com facilidade e economizar tempo no processo de registro. Os registros de produtos estão sujeitos a aprovação.  

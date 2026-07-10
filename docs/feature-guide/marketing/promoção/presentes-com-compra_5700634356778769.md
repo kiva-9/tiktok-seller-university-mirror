@@ -1,11 +1,15 @@
 ---
-title: "Presentes com Compra"
+title: Presentes com Compra
 id: 5700634356778769
-category: "Promoção"
+category: Promoção
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5700634356778769"
-update_time: "2025-04-14"
-keywords: "Sellers"
+update_time: 2025-04-14
+keywords: Sellers
 ---
+
+
+
+
 Este artigo ensina como usar a Presentes com compra para aumentar o seu valor médio por pedido e as taxas de conversão. Você aprenderá a configurar e gerenciar as promoções de Presentes com compra no seu PC da Central do vendedor.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/9c10c2ca4cad40419de5fda2c5761aab~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059609484&x-signature=7%2FXKdrQkulLotXapFaH9pSpkWSY%3D)

@@ -1,11 +1,15 @@
 ---
-title: "Cupom de Clientes Recorrentes"
+title: Cupom de Clientes Recorrentes
 id: 5702401538230032
-category: "Promoção"
+category: Promoção
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5702401538230032"
-update_time: "2025-04-10"
-keywords: "Sellers"
+update_time: 2025-04-10
+keywords: Sellers
 ---
+
+
+
+
 Este artigo ensina como usar um Cupom de clientes recorrentes para melhorar a taxa de pedidos e valores de pedidos, impulsionar compras recorrentes, levando à retenção e lealdade do cliente. Você aprenderá como configurar e gerenciar esse Cupom na Central do vendedor no PC.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/84ba3ed8bc3f4405a63a4693d1d2de64~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059608855&x-signature=xqrl4nEOyvx5ggppSJdo5RQ%2Fd3I%3D)

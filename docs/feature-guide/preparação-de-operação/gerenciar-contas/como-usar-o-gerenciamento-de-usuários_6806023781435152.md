@@ -1,11 +1,15 @@
 ---
-title: "Como Usar o Gerenciamento de Usuários"
+title: Como Usar o Gerenciamento de Usuários
 id: 6806023781435152
-category: "Gerenciar contas"
+category: Gerenciar contas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6806023781435152"
-update_time: "2026-06-24"
-keywords: "Sellers"
+update_time: 2026-06-24
+keywords: Sellers
 ---
+
+
+
+
 ## **Visão geral**
 
 O Gerenciamento de usuários permite que você adicione funcionários à sua loja e atribua a eles funções com as permissões necessárias para que eles possam acessar a Central do vendedor e concluir o seu trabalho, desde o gerenciamento de produtos até a criação de promoções etc.

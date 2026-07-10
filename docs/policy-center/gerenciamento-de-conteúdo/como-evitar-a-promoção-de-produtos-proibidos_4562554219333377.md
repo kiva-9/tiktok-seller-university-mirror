@@ -1,11 +1,15 @@
 ---
-title: "Como evitar a promoção de produtos proibidos"
+title: Como evitar a promoção de produtos proibidos
 id: 4562554219333377
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4562554219333377"
-update_time: "2026-03-10"
-keywords: "Política de Criador"
+update_time: 2026-03-10
+keywords: Política de Criador
 ---
+
+
+
+
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/78e5b4d44edb49b8a0e9f3f47283d7b0~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2088535449&x-signature=CCgJ8JoLSZIb19G9UxRoVwOe3Cs%3D)
 
 # **Produtos proibidos no TikTok Shop**

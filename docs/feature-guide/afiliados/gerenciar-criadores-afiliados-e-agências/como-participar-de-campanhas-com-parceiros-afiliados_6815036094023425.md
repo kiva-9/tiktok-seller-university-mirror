@@ -1,11 +1,15 @@
 ---
-title: "Como participar de campanhas com Parceiros Afiliados"
+title: Como participar de campanhas com Parceiros Afiliados
 id: 6815036094023425
-category: "Gerenciar Criadores Afiliados e Agências"
+category: Gerenciar Criadores Afiliados e Agências
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6815036094023425"
-update_time: "2025-04-16"
-keywords: "Sellers"
+update_time: 2025-04-16
+keywords: Sellers
 ---
+
+
+
+
 Este guia mostrará a você, enquanto vendedor, como participar de campanhas com parceiros afiliados para colaborar com os melhores parceiros e criadores na promoção de seus produtos. Com as campanhas de parceiros afiliados, você pode aproveitar nossa rede de parceiros e criadores para aumentar a visibilidade do produto e promover o crescimento das vendas em sua loja.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/085ba7c0360e464c871152d8e8824650~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2060178547&x-signature=El59ORFabVyLqpXrrTaldpMi0do%3D)

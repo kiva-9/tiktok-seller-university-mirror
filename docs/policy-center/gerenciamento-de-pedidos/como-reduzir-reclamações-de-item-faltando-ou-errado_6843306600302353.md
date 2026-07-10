@@ -1,11 +1,15 @@
 ---
-title: "Como Reduzir Reclamações de \"Item Faltando ou Errado\""
+title: Como Reduzir Reclamações de \\Item Faltando ou Errado\
 id: 6843306600302353
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6843306600302353"
-update_time: "2025-12-10"
-keywords: "Política de vendedor"
+update_time: 2025-12-10
+keywords: Política de vendedor
 ---
+
+
+
+
 # **Pontos Principais**
 
 * Resumo das reclamações mais comuns de "Item Faltando ou Errado" e como evitá-las.

@@ -1,11 +1,15 @@
 ---
 title: "Criando com Impacto: um guia para todos os criadores"
 id: 7283201551206160
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7283201551206160"
-update_time: "2025-10-23"
-keywords: "Criadores"
+update_time: 2025-10-23
+keywords: Criadores
 ---
+
+
+
+
 ![TikTok_Banner_2600 x 780 px_ Category Gating_Dietary Supplements_V3.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/a440389642b64af2ad86dbe16665ccc2~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2076579789&x-signature=2AHI8n43Nahy1wat9EZS2fa8kRc%3D)
 > **Pontos principais:**
 >

@@ -1,11 +1,15 @@
 ---
-title: "Termos e Condições do Programa de Nível e Benefícios para Criadores do TikTok Shop"
+title: Termos e Condições do Programa de Nível e Benefícios para Criadores do TikTok Shop
 id: 4496121876662033
-category: "Gestão de desempenho"
+category: Gestão de desempenho
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4496121876662033"
-update_time: "2025-12-15"
-keywords: "Política de Criador"
+update_time: 2025-12-15
+keywords: Política de Criador
 ---
+
+
+
+
 O Programa de Nível e Benefícios para Criadores do TikTok Shop começa em 11 de dezembro de 2025. O TikTok reserva-se o direito de alterar quando as atividades específicas ocorrerão.
 
 **1. INTRODUÇÃO**

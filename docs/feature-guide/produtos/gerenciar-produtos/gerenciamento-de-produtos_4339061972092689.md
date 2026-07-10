@@ -1,11 +1,15 @@
 ---
-title: "Gerenciamento de Produtos"
+title: Gerenciamento de Produtos
 id: 4339061972092689
-category: "Gerenciar produtos"
+category: Gerenciar produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4339061972092689"
-update_time: "2026-07-01"
-keywords: "Sellers"
+update_time: 2026-07-01
+keywords: Sellers
 ---
+
+
+
+
 # **Gerenciamento de produto**
 
 Neste artigo, vamos aprender a gerenciar os produtos no TikTok Shop de maneira simples. Gerenciar os produtos é uma parte muito importante do seu sucesso. Em primeiro lugar, dê uma olhada no processo abaixo para conhecer as etapas de gerenciamento de produtos no TikTok Shop.

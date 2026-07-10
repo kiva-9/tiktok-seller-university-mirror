@@ -1,11 +1,15 @@
 ---
 title: "Anúncios com GMV Max: Otimização de vendas líquidas"
 id: 3334685477029649
-category: "Anúncios de vendas"
+category: Anúncios de vendas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3334685477029649"
-update_time: "2026-05-19"
-keywords: "Vendedores"
+update_time: 2026-05-19
+keywords: Vendedores
 ---
+
+
+
+
 #### O que é GMV Max: Otimização de vendas líquidas?
 
 A Otimização de vendas líquidas com GMV Max é um novo recurso disponível para vendedores selecionados. Ela veicula anúncios automaticamente em todos os seus produtos, criativos e canais, aplicando uma taxa sobre anúncios com GMV Max por item para cada pedido concluído.  

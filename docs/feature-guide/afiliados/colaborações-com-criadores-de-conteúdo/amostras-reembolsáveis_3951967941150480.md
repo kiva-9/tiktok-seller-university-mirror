@@ -1,11 +1,15 @@
 ---
-title: "Amostras Reembolsáveis"
+title: Amostras Reembolsáveis
 id: 3951967941150480
-category: "Colaborações com criadores de conteúdo"
+category: Colaborações com criadores de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3951967941150480"
-update_time: "2025-07-22"
-keywords: "Vendedores"
+update_time: 2025-07-22
+keywords: Vendedores
 ---
+
+
+
+
 ## **Visão geral**
 
 Amostras Reembolsáveis é uma função do TikTok Shop que permite que você se conecte com criadores por meio de colaborações baseadas em desempenho. A partir de 15 de Julho de 2025, os reembolsos de amostras estarão vinculados exclusivamente ao desempenho de vendas, e não apenas à criação de conteúdo.

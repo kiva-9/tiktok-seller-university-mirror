@@ -1,11 +1,15 @@
 ---
-title: "Compre Mais Economize Mais"
+title: Compre Mais Economize Mais
 id: 5702401538524944
-category: "Promoção"
+category: Promoção
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5702401538524944"
-update_time: "2026-02-11"
-keywords: "Sellers"
+update_time: 2026-02-11
+keywords: Sellers
 ---
+
+
+
+
 Este artigo ensina como usar a ferramenta Compre mais e economize mais do vendedor para aumentar o valor médio por pedido na sua loja. Você aprenderá a configurar e gerenciar as promoções da ferramenta Compre mais e economize mais no seu PC.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/c8cf5e2051ba4d99b5fe9395d80c5dbb~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059609404&x-signature=iSq%2BJaem0ABXyqHQcqDY61OWpUk%3D)

@@ -1,11 +1,15 @@
 ---
-title: "Destaques de LIVE para criadores"
+title: Destaques de LIVE para criadores
 id: 5572789743077136
-category: "Operação de transmissão ao vivo"
+category: Operação de transmissão ao vivo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5572789743077136"
-update_time: "2025-09-24"
-keywords: "Criadores"
+update_time: 2025-09-24
+keywords: Criadores
 ---
+
+
+
+
 Destaques de LIVE é uma ferramenta criada para fornecer os segmentos de melhor desempenho das transmissões ao vivo em formatos de vídeo curtos, que você pode publicar como vídeos compráveis ou não compráveis para obter mais conversões ou direcionar tráfego para a sua próxima LIVE.  
 Esta ferramenta está disponível no aplicativo como Destaques de LIVE para vendedores (com contas oficiais ou de marketing) e criadores afiliados, e pode ser usada livremente sem nenhuma limitação de avaliação da loja.  
 *Observação: todas as imagens mostradas abaixo servem apenas para fins ilustrativos e a interface real pode variar.*

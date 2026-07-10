@@ -1,11 +1,15 @@
 ---
-title: "Guia do Programa de tráfego externo (ETP) para vendedores"
+title: Guia do Programa de tráfego externo (ETP) para vendedores
 id: 3892553889384208
-category: "Colaborações com criadores de conteúdo"
+category: Colaborações com criadores de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3892553889384208"
-update_time: "2026-01-19"
-keywords: "Vendedores"
+update_time: 2026-01-19
+keywords: Vendedores
 ---
+
+
+
+
 Neste artigo, veremos como o **Programa de tráfego externo (ETP)** funciona e como pode ajudar no crescimento do seu negócio fora do aplicativo TikTok. Para começar, veremos os seguintes tópicos:  
 
 * **O que é o Programa de tráfego externo (ETP)?**

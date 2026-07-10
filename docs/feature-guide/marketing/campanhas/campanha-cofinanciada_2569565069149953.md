@@ -1,11 +1,15 @@
 ---
-title: "Campanha Cofinanciada"
+title: Campanha Cofinanciada
 id: 2569565069149953
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2569565069149953"
-update_time: "2026-02-10"
-keywords: "Vendedores"
+update_time: 2026-02-10
+keywords: Vendedores
 ---
+
+
+
+
 ## **O que são Campanhas Cofinanciadas?**
 
 Campanhas Cofinanciadas são promoções conjuntas onde TikTok Shop e os vendedores compartilham os custos para oferecer descontos ou subsídios. Isso torna os produtos mais competitivos, atrai mais compradores e reduz suas despesas. Elas podem ser usadas em mega promoções, campanhas de setor ou marca, ofertas relâmpago via LIVE, campanhas de shopping e muito mais.  

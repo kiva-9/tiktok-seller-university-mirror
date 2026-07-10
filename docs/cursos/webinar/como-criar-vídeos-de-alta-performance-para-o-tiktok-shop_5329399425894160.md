@@ -1,16 +1,15 @@
 ---
-title: "Como Criar Vídeos de Alta Performance para o TikTok Shop"
+title: Como Criar Vídeos de Alta Performance para o TikTok Shop
 id: 5329399425894160
-category: "Webinar"
+category: Webinar
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5329399425894160"
-update_time: "2026-04-30"
-keywords: "Vendedores"
-video_count: 1
-video_url: "https://v16m-default.tiktokcdn.com/9900c6b1bf3a21a4ac7016c121faed1a/6a50c426/video/tos/alisg/tos-alisg-v-9e30d3-sg/oQREgEfS1CuIpxsfzKx8L7pSTF6DLBFpQWLBFb/?a=6556&bti=ODY2QDQwNWA%3D&&bt=426&ft=cApXJCz7ThWHuSNzLGZmo0P&mime_type=video_mp4&rc=aTlkOTo6aWg5aDloNTY1N0BpajhzN3k5cmR1OmYzOGc3NEBgXzItLmJhXy4xMC0xYTQzYSNsanFfMmRjLm1hLS1kXy1zcw%3D%3D&vvpl=1&l=021783653600935fdbddc5300150210100c1dbf1f000075cafa1f&btag=e00068000"
-video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/1745d60c8f794b939adcaa331e4156c2_1777578309~tplv-noop.image?dr=18692&refresh_token=4b036abf&x-expires=1783677990&x-signature=MGBiiVrVLSXhXLkHHHpD5RDcOFk%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd7pr1afog65vb4tpm5og"
-videos:
-  - "https://v16m-default.tiktokcdn.com/9900c6b1bf3a21a4ac7016c121faed1a/6a50c426/video/tos/alisg/tos-alisg-v-9e30d3-sg/oQREgEfS1CuIpxsfzKx8L7pSTF6DLBFpQWLBFb/?a=6556&bti=ODY2QDQwNWA%3D&&bt=426&ft=cApXJCz7ThWHuSNzLGZmo0P&mime_type=video_mp4&rc=aTlkOTo6aWg5aDloNTY1N0BpajhzN3k5cmR1OmYzOGc3NEBgXzItLmJhXy4xMC0xYTQzYSNsanFfMmRjLm1hLS1kXy1zcw%3D%3D&vvpl=1&l=021783653600935fdbddc5300150210100c1dbf1f000075cafa1f&btag=e00068000"
+update_time: 2026-04-30
+keywords: Vendedores
 ---
+
+
+
+
 Quer transformar suas visualizações em vendas? Neste webinar exclusivo do TikTok Shop, vamos te ensinar o caminho "Do Conteúdo à Conversão".  
 Aprenda a analisar e aplicar as 8 estratégias de vídeos que mais vendem na plataforma, incluindo:  
 

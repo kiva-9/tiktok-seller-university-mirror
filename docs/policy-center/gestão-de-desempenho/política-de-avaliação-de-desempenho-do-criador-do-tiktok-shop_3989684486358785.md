@@ -1,11 +1,15 @@
 ---
-title: "Política de Avaliação de Desempenho do Criador do TikTok Shop"
+title: Política de Avaliação de Desempenho do Criador do TikTok Shop
 id: 3989684486358785
-category: "Gestão de desempenho"
+category: Gestão de desempenho
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3989684486358785"
-update_time: "2026-06-15"
-keywords: "Creators"
+update_time: 2026-06-15
+keywords: Creators
 ---
+
+
+
+
 # Visão Geral
 
 Nossa **Política de Avaliação de Desempenho do Criador** se aplica a todos os usuários do TikTok Shop que criam e compartilham conteúdo de comércio eletrônico. Você é responsável por garantir que o conteúdo de comércio eletrônico que você compartilha no TikTok Shop esteja em conformidade com as leis e regulamentações aplicáveis. Esta política destina-se a facilitar o cumprimento das regras pelos criadores. Não é exaustiva e não se destina a ser aconselhamento jurídico. Recomendamos que você procure aconselhamento jurídico se tiver alguma dúvida sobre as leis e regulamentos relativos ao conteúdo de comércio eletrônico que você cria oucompartilha.   

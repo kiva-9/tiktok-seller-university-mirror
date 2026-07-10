@@ -1,11 +1,15 @@
 ---
-title: "Como Vincular e Revincular Produtos aos Vídeos"
+title: Como Vincular e Revincular Produtos aos Vídeos
 id: 618995876038401
-category: "Vendas em Vídeos"
+category: Vendas em Vídeos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=618995876038401"
-update_time: "2025-12-17"
-keywords: "Criadores"
+update_time: 2025-12-17
+keywords: Criadores
 ---
+
+
+
+
 ## **Introdução**
 
 O recurso **Revinculação de produtos** abrange dois cenários principais.  

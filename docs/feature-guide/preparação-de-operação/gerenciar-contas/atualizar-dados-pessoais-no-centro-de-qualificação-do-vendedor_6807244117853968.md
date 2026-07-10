@@ -1,11 +1,15 @@
 ---
-title: "Atualizar Dados Pessoais no Centro de Qualificação do Vendedor"
+title: Atualizar Dados Pessoais no Centro de Qualificação do Vendedor
 id: 6807244117853968
-category: "Gerenciar contas"
+category: Gerenciar contas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6807244117853968"
-update_time: "2025-04-09"
-keywords: "Sellers"
+update_time: 2025-04-09
+keywords: Sellers
 ---
+
+
+
+
 # **Introdução**
 
 O Centro de qualificação do vendedor é uma página única que exibe as informações pessoais que estão vinculadas à conta do vendedor. Estas são as informações que você usou para registrar uma conta de vendedor.

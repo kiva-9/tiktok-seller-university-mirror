@@ -1,11 +1,15 @@
 ---
-title: "[T&C]Jornada das Estrelas: O Desafio de Setembro do TikTok Shop"
+title: "T&C]Jornada das Estrelas: O Desafio de Setembro do TikTok Shop"
 id: 890211878291201
-category: "Avançado"
+category: Avançado
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=890211878291201"
-update_time: "2025-09-12"
+update_time: 2025-09-12
 keywords: "Criadores,Política de Criador"
 ---
+
+
+
+
 ## Detalhes Básicos
 
 |  |  |

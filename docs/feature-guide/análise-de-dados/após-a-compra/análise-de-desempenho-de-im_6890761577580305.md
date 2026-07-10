@@ -1,11 +1,15 @@
 ---
-title: "Análise de desempenho de IM"
+title: Análise de desempenho de IM
 id: 6890761577580305
-category: "Após a Compra"
+category: Após a Compra
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6890761577580305"
-update_time: "2025-04-10"
-keywords: "Sellers"
+update_time: 2025-04-10
+keywords: Sellers
 ---
+
+
+
+
 Este artigo apresenta aos vendedores uma visão geral do recurso de chat de IM, ou recurso de chat de atendimento ao cliente, e como ele pode mensurar a eficiência desse canal de compras estratégico.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/dd38699b197c4202804199747b9d7bc8~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2057927198&x-signature=NOoha9BlxeoItS2pCegtBJN7zoQ%3D)

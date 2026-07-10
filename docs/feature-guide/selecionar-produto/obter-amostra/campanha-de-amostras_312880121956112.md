@@ -1,11 +1,15 @@
 ---
-title: "Campanha de Amostras"
+title: Campanha de Amostras
 id: 312880121956112
-category: "Obter amostra"
+category: Obter amostra
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=312880121956112"
-update_time: "2025-07-23"
-keywords: "Criadores"
+update_time: 2025-07-23
+keywords: Criadores
 ---
+
+
+
+
 # **O que é a Campanha de Amostras?**
 
 As campanhas de amostras são eventos por tempo limitado no TikTok Shop em que criadores podem receber amostras grátis de produtos para testar e divulgar.  

@@ -1,11 +1,15 @@
 ---
-title: "Ferramenta de Gestão de Relacionamento com Clientes"
+title: Ferramenta de Gestão de Relacionamento com Clientes
 id: 5041094702597904
-category: "Clientes"
+category: Clientes
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5041094702597904"
-update_time: "2025-09-23"
-keywords: "Vendedores"
+update_time: 2025-09-23
+keywords: Vendedores
 ---
+
+
+
+
 **Visão geral**A ferramenta de gestão de relacionamento com o cliente (CRM) do TikTok Shop é um recurso gratuito e fácil de usar que ajuda você a construir relacionamentos mais fortes com seus clientes por meio de mensagens de marketing e promoções personalizadas. Quer você queira reengajar clientes esporádicos, incentivar novas compras ou converter carrinhos abandonados em vendas, o CRM facilita tudo isso.Atualmente, esta função está disponível apenas para vendedores que estão na lista de permissões. Se deseja ter acesso a esta função, entre em contato com seu gerente de conta.  
 
 * **Aumente as vendas com mensagens direcionadas:** estimule o engajamento e a conversão enviando mensagens personalizadas com base no comportamento do comprador, como compras repetidas e carrinhos abandonados.

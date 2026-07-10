@@ -1,11 +1,15 @@
 ---
-title: "[Manual do usuário] Solicitação eletrônica da Carta de Autorização na Central do vendedor"
+title: "Manual do usuário] Solicitação eletrônica da Carta de Autorização na Central do vendedor"
 id: 4769722757662481
-category: "Gerenciamento de Desempenho"
+category: Gerenciamento de Desempenho
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4769722757662481"
-update_time: "2026-04-29"
+update_time: 2026-04-29
 keywords: "Política de vendedor,Vendedores"
 ---
+
+
+
+
 # 1.Introdução e visão geral
 
 ### 1.1 O que é a Solicitação eletrônica da Carta de Autorização no Centro de proteção de propriedade intelectual?

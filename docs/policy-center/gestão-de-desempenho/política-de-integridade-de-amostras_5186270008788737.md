@@ -1,11 +1,15 @@
 ---
-title: "Política de integridade de amostras"
+title: Política de integridade de amostras
 id: 5186270008788737
-category: "Gestão de desempenho"
+category: Gestão de desempenho
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5186270008788737"
-update_time: "2025-05-22"
+update_time: 2025-05-22
 keywords: "Política de Criador,Criadores"
 ---
+
+
+
+
 # **Introdução à Política de integridade de amostras**
 
 A Política de integridade de amostras no nosso programa de afiliados incentiva o bom comportamento dos criadores no TikTok Shop e protege os vendedores que estão oferecendo [amostras grátis](https://seller-br.tiktok.com/university/essay?identity=1&role=2&knowledge_id=6821109446018832&from=feature_guide "https://seller-br.tiktok.com/university/essay?identity=1&role=2&knowledge_id=6821109446018832&from=feature_guide"). Essa política tem duas finalidades: dar aos criadores bem-intencionados mais opções ao publicar conteúdo de amostras e limitar a capacidade de solicitar amostras grátis dos criadores que as recebem, mas não publicam conteúdo.

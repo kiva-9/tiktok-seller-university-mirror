@@ -1,11 +1,15 @@
 ---
-title: "[T&C]Estrelas em Ascensão: Desafio de Lives"
+title: "T&C]Estrelas em Ascensão: Desafio de Lives"
 id: 1379446494299921
-category: "Avançado"
+category: Avançado
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1379446494299921"
-update_time: "2025-10-07"
+update_time: 2025-10-07
 keywords: "Criadores,Política de Criador"
 ---
+
+
+
+
 ## Detalhes Básicos
 
 |  |  |

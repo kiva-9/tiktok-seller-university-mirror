@@ -1,11 +1,15 @@
 ---
-title: "Reembolso parcial - América Latina"
+title: Reembolso parcial - América Latina
 id: 308876462737168
-category: "Atendimento ao Cliente"
+category: Atendimento ao Cliente
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=308876462737168"
-update_time: "2026-06-30"
-keywords: ""
+update_time: 2026-06-30
+keywords: 
 ---
+
+
+
+
 # Reembolso parcial: uma maneira mais rápida de resolver solicitações pós-venda.
 
 ## O que é reembolso parcial?

@@ -1,11 +1,15 @@
 ---
 title: "Guia de Uso  para Criadores - Conexão com agências, autorização de dados e compartilhamento de comissões"
 id: 8093741534234385
-category: "Agência"
+category: Agência
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8093741534234385"
-update_time: "2025-04-16"
-keywords: "Creators"
+update_time: 2025-04-16
+keywords: Creators
 ---
+
+
+
+
 ### Visão geral
 
 Este guia apresenta o processo atualizado de vinculação e autorização de dados com agências, permitindo que você se conecte com agências e conceda acesso aos seus dados para que elas ofereçam melhor suporte.  

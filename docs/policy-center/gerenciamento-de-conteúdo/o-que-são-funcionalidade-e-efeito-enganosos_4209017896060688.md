@@ -1,11 +1,15 @@
 ---
-title: "O que são funcionalidade e efeito enganosos?"
+title: O que são funcionalidade e efeito enganosos?
 id: 4209017896060688
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4209017896060688"
-update_time: "2025-09-01"
+update_time: 2025-09-01
 keywords: "Criadores,Política de Criador"
 ---
+
+
+
+
 # **A importância do marketing honesto dos produtos**
 
 O TikTok Shop quer criar um ambiente de compras positivo e no qual os clientes possam confiar. Por isso, todos os vendedores devem ser sinceros ao comercializar seus produtos na plataforma. Eles também devem cumprir nossa [Política de Conteúdo do TikTok Shop](https://seller-br.tiktok.com/university/essay?identity=1&role=2&knowledge_id=1413208980588305&from=policy "https://seller-br.tiktok.com/university/essay?identity=1&role=2&knowledge_id=1413208980588305&from=policy").  

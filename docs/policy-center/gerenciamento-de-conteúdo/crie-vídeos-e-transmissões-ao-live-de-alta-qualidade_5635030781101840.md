@@ -1,11 +1,15 @@
 ---
-title: "Crie vídeos e transmissões ao Live de alta qualidade"
+title: Crie vídeos e transmissões ao Live de alta qualidade
 id: 5635030781101840
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5635030781101840"
-update_time: "2026-03-13"
+update_time: 2026-03-13
 keywords: "Política de Criador,Criadores"
 ---
+
+
+
+
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/49ac254cf76148f58dec755cf022ced4~tplv-nk3i2mqmvs-image.gif?lk3s=5d1a069b&x-expires=2088788881&x-signature=lDMAvK5x1lqQjXiw7uuUsLOCy4Q%3D)
 
 > **Pontos principais:**

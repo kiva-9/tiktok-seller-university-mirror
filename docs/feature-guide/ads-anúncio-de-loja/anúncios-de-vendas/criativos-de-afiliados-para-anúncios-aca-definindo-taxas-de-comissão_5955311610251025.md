@@ -1,11 +1,15 @@
 ---
-title: "Criativos de afiliados para anúncios (ACA) - Definindo taxas de comissão"
+title: Criativos de afiliados para anúncios (ACA) - Definindo taxas de comissão
 id: 5955311610251025
-category: "Anúncios de vendas"
+category: Anúncios de vendas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5955311610251025"
-update_time: "2026-04-22"
-keywords: "Vendedores"
+update_time: 2026-04-22
+keywords: Vendedores
 ---
+
+
+
+
 > Este artigo irá orientá-lo sobre como configurar seus anúncios de compra de vídeo em uma colaboração aberta de afiliados. Este guia se concentrará nas operações de afiliados, que implicam configurar sua **taxa de comissão de anúncios de loja** .
 >
 > **Shop Ads Commission Rate** é um recurso opcional que permite definir uma taxa de comissão diferente quando você usa os vídeos curtos do Criador para seus anúncios de compras em vídeo. Neste artigo, vamos diferenciar a **taxa de comissão padrão** e **a taxa de comissão de anúncios** .

@@ -1,11 +1,15 @@
 ---
-title: "Política de Registro de Criadores em Campanhas"
+title: Política de Registro de Criadores em Campanhas
 id: 2875531918870289
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2875531918870289"
-update_time: "2026-01-23"
-keywords: ""
+update_time: 2026-01-23
+keywords: 
 ---
+
+
+
+
 Abaixo estão algumas das perguntas mais frequentes para ajudar a esclarecer a **Elegibilidade de Criadores para Campanhas**.  
 
 ## Eu sou elegível para participar das campanhas?

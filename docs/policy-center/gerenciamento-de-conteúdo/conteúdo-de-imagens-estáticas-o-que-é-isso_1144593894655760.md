@@ -1,11 +1,15 @@
 ---
 title: "Conteúdo de imagens estáticas: o que é isso?"
 id: 1144593894655760
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1144593894655760"
-update_time: "2025-08-26"
+update_time: 2025-08-26
 keywords: "Criadores,Política de Criador"
 ---
+
+
+
+
 "Conteúdo de imagens estáticas" refere-se a qualquer tipo de conteúdo que mostra pouco ou nenhum movimento na tela — normalmente uma imagem estática — e inclui mínima interação falada ou atividade visual. Alguns exemplos são:  
 
 * Imagens estáticas

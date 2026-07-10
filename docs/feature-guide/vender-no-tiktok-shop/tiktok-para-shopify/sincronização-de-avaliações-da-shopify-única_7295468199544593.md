@@ -1,11 +1,15 @@
 ---
-title: "Sincronização de avaliações da Shopify (única)"
+title: Sincronização de avaliações da Shopify (única)
 id: 7295468199544593
-category: "TikTok para Shopify"
+category: TikTok para Shopify
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7295468199544593"
-update_time: "2026-03-18"
-keywords: "Vendedores"
+update_time: 2026-03-18
+keywords: Vendedores
 ---
+
+
+
+
 ## **Visão geral do produto**
 
 **Sincronização de avaliações da Shopify** Impulsione seus anúncios de produtos no TikTok Shop (TTS) importando facilmente suas avaliações existentes da Shopify! Esse recurso facilita muito a obtenção de feedback autêntico dos compradores, ajudando você a construir confiança e impulsionar mais vendas. ***Observação importante:*** *No momento, esse recurso é uma* *importação única ativa em m*arço *de 2026.* *Iterações futuras poderão incluir sincronização incremental de avaliações, portanto, fique de olho na sua caixa de entrada.*

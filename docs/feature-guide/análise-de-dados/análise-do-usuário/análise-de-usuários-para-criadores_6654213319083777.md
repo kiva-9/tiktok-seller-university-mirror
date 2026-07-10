@@ -1,11 +1,15 @@
 ---
-title: "Análise de usuários para criadores"
+title: Análise de usuários para criadores
 id: 6654213319083777
-category: "Análise do Usuário"
+category: Análise do Usuário
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6654213319083777"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 Este artigo ensina como usar a guia Análise do usuário na página Dados para Criadores. Especificamente, esse recurso ajudará você a entender quem são seus seguidores, compradores e espectadores. Com isso, você não apenas entenderá melhor sua base de público-alvo, mas também terá insights práticos para criar conteúdo e aumentar as conversões.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/253b8be75e72443c821b542f884e193d~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059923604&x-signature=XZUBqizkPwtJagcRtDb%2FRPLTcOM%3D)

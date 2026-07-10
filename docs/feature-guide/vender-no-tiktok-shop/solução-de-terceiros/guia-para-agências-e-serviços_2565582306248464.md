@@ -1,11 +1,15 @@
 ---
-title: "Guia Para Agências e Serviços"
+title: Guia Para Agências e Serviços
 id: 2565582306248464
-category: "Solução de Terceiros"
+category: Solução de Terceiros
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2565582306248464"
-update_time: "2025-04-16"
-keywords: "Sellers"
+update_time: 2025-04-16
+keywords: Sellers
 ---
+
+
+
+
 ## **Apresentação do parceiro do TikTok Shop**
 
 O TSP (Parceiro do TikTok Shop) é um especialista terceirizado que pode ajudar você a iniciar um negócio, vender produtos e gerenciar conteúdo para os seus negócios de comércio eletrônico no TikTok Shop. Agora você pode navegar por todos os serviços fornecidos pelo parceiro do TikTok Shop e autorizar os serviços que se adequem ao seu negócio.

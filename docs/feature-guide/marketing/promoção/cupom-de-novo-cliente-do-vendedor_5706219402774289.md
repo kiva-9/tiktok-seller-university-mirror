@@ -1,11 +1,15 @@
 ---
-title: "Cupom de Novo Cliente do Vendedor"
+title: Cupom de Novo Cliente do Vendedor
 id: 5706219402774289
-category: "Promoção"
+category: Promoção
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5706219402774289"
-update_time: "2025-04-10"
-keywords: "Sellers"
+update_time: 2025-04-10
+keywords: Sellers
 ---
+
+
+
+
 Este artigo ensina como usar o cupom de novo cliente do vendedor para aumentar o valor médio por pedido e as taxas de conversão. Você aprenderá como configurar e gerenciar os cupons de novo cliente do vendedor no PC.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/7c78102a265340bbbe1fe0d56f336508~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059608791&x-signature=N8a%2Br%2BsM1HPMCorqFAA5rfLGDKc%3D)

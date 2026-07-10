@@ -1,11 +1,15 @@
 ---
-title: "Guia de Demonstração Financeira"
+title: Guia de Demonstração Financeira
 id: 22854025807617
-category: "Recebendo Pagamento"
+category: Recebendo Pagamento
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=22854025807617"
-update_time: "2026-05-20"
-keywords: "Sellers"
+update_time: 2026-05-20
+keywords: Sellers
 ---
+
+
+
+
 A guia "Demonstração" sob o módulo "Finanças" em "Central do vendedor TikTok Shop" traz informações detalhadas para vendedores sobre suas liquidações financeiras na TikTok Shop.
 
 # Visão geral

@@ -1,11 +1,15 @@
 ---
 title: "Guia de Preços: Combinação de Várias Promoções"
 id: 5137060357031697
-category: "Promoção"
+category: Promoção
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5137060357031697"
-update_time: "2026-02-24"
-keywords: "Sellers"
+update_time: 2026-02-24
+keywords: Sellers
 ---
+
+
+
+
 ## Recursos de combinação de promoções da campanha e do vendedor
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/4a9620ea42e14536885f2451eea36a72~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2087254071&x-signature=%2FDU9Vwu8CIw%2FbfrvtVtGpk3zfPI%3D)

@@ -1,11 +1,15 @@
 ---
 title: "Prepare-se para a Temporada de Compras de Fim de Ano!"
 id: 4675520051971841
-category: "Políticas em Destaque"
+category: Políticas em Destaque
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4675520051971841"
-update_time: "2025-11-10"
-keywords: ""
+update_time: 2025-11-10
+keywords: 
 ---
+
+
+
+
 Nesta temporada de compras, estamos implementando novas atualizações e ajustes de políticas para tornar este período festivo um sucesso para você.  
  Aqui estão as informações essenciais que ajudarão sua loja a **maximizar as vendas** e oferecer uma **experiência de compra excepcional** aos clientes:  
 

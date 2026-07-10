@@ -1,11 +1,15 @@
 ---
-title: "Lógica de Atribuição do GMV"
+title: Lógica de Atribuição do GMV
 id: 6880952660363024
-category: "Visão geral dos dados"
+category: Visão geral dos dados
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6880952660363024"
-update_time: "2025-04-14"
-keywords: "Sellers"
+update_time: 2025-04-14
+keywords: Sellers
 ---
+
+
+
+
 **Primeiro, aqui está o que você precisa de saber**
 
 * A atribuição do Valor Bruto da Mercadoria (GMV) de tipos de conteúdo no TikTok Shop foi simplificada para sua conveniência, resultando em atribuições de transação precisas que se alinham ao comportamento dos seus compradores, o que ajuda a tomar decisões mais orientadas por dados.

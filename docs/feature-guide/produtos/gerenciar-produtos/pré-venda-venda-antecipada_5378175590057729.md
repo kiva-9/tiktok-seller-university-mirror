@@ -1,11 +1,15 @@
 ---
-title: "Pré-venda (venda antecipada)"
+title: Pré-venda (venda antecipada)
 id: 5378175590057729
-category: "Gerenciar produtos"
+category: Gerenciar produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5378175590057729"
-update_time: "2026-01-23"
-keywords: "Vendedores"
+update_time: 2026-01-23
+keywords: Vendedores
 ---
+
+
+
+
 No momento, apenas os vendedores na lista de permissões têm acesso à Pré-venda.   
 Se quiser solicitar acesso, entre em contato com seu **gerente de contas** para obter mais detalhes e informações sobre elegibilidade.  
 

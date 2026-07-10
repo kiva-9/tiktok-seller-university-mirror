@@ -1,11 +1,15 @@
 ---
-title: "Isenção de Verificação no TikTok para Conta Oficial e de marketing"
+title: Isenção de Verificação no TikTok para Conta Oficial e de marketing
 id: 7085517381551888
-category: "Gerenciar contas"
+category: Gerenciar contas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7085517381551888"
-update_time: "2026-02-28"
-keywords: "Sellers"
+update_time: 2026-02-28
+keywords: Sellers
 ---
+
+
+
+
 Neste artigo, vamos explicar os critérios para que a conta oficial e de marketing do TikTok seja isenta de verificação após [ser vinculada à TikTok Shop.](https://seller-br.tiktok.com/university/essay?knowledge_id=6799958289008401&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=6799958289008401&identity=1")
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/d469886baff34e03a9947accb3958c78~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059754548&x-signature=GWSpggO%2BvzF1UEwrAWl5evKQb%2BE%3D)

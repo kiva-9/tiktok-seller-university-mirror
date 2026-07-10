@@ -1,11 +1,15 @@
 ---
-title: "Guia para gerenciamento de devoluções e reembolsos"
+title: Guia para gerenciamento de devoluções e reembolsos
 id: 2578485181925121
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2578485181925121"
-update_time: "2026-04-14"
-keywords: "Seller Policy"
+update_time: 2026-04-14
+keywords: Seller Policy
 ---
+
+
+
+
 **Pontos principais:**
 
 * Analise todas as solicitações de devolução dentro de dois dias úteis após receber os produtos devolvidos.

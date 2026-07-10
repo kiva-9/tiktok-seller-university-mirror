@@ -1,11 +1,15 @@
 ---
-title: "Vendas em LIVE - Centro de LIVE na Central do vendedor"
+title: Vendas em LIVE - Centro de LIVE na Central do vendedor
 id: 2743241766520593
-category: "Ferramentas e Promoções de LIVE"
+category: Ferramentas e Promoções de LIVE
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2743241766520593"
-update_time: "2026-05-20"
-keywords: "Vendedores"
+update_time: 2026-05-20
+keywords: Vendedores
 ---
+
+
+
+
 # Vendas em LIVE
 
 Vendas em LIVE é um centro completo que inclui treinamento, inspiração e etapas fáceis para ajudar você a planejar suas primeiras sessões ao vivo.  

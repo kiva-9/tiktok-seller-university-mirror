@@ -1,11 +1,15 @@
 ---
-title: "Encontrar criadores para afiliados"
+title: Encontrar criadores para afiliados
 id: 6576089779898113
-category: "Gerenciar Criadores Afiliados e Agências"
+category: Gerenciar Criadores Afiliados e Agências
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6576089779898113"
-update_time: "2026-02-25"
-keywords: "Vendedores"
+update_time: 2026-02-25
+keywords: Vendedores
 ---
+
+
+
+
 Este artigo vai te mostrar como encontrar Criadores para suas colaborações de Afiliados. Escolher os Criadores certos para se conectar pode ser decisivo para o sucesso da sua estratégia de Afiliados.  
 Para começar, vamos se ensinar como usar a página “Encontrar Criadores” no Centro de Afiliados e todas as suas função.  
 

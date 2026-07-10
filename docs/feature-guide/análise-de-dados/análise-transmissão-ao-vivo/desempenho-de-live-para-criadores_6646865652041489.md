@@ -1,11 +1,15 @@
 ---
-title: "Desempenho de LIVE para Criadores"
+title: Desempenho de LIVE para Criadores
 id: 6646865652041489
-category: "Análise transmissão ao vivo"
+category: Análise transmissão ao vivo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6646865652041489"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 Neste artigo, você vai aprender como acessar as páginas de “LIVE” e “Detalhes da LIVE” pelo app do criador. Com esses dados em mãos, você poderá entender melhor o desempenho das suas transmissões e fazer melhorias contínuas nas próximas lives.  
 
 **Principais pontos:**

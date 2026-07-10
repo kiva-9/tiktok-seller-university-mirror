@@ -1,11 +1,15 @@
 ---
-title: "Como Processar Pedidos \"Enviados Pela Plataforma\""
+title: Como Processar Pedidos \\Enviados Pela Plataforma\
 id: 5235393047348993
-category: "Gerenciar pedidos"
+category: Gerenciar pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5235393047348993"
-update_time: "2025-05-28"
-keywords: "Sellers"
+update_time: 2025-05-28
+keywords: Sellers
 ---
+
+
+
+
 Aqui está um guia rápido e fácil sobre como processar pedidos "Enviados pela plataforma".  
 
 # **Visão geral do processamento de pedidos**

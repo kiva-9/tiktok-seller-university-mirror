@@ -1,11 +1,15 @@
 ---
 title: "Proteja seu negócio: Guia de Prova de Envio e Embalagem"
 id: 8055182794721040
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8055182794721040"
-update_time: "2026-04-14"
-keywords: "Política de vendedor"
+update_time: 2026-04-14
+keywords: Política de vendedor
 ---
+
+
+
+
 Na TikTok Shop, nosso compromisso é oferecer um ambiente de negócios seguro e justo para nossos vendedores. Para proteger sua loja contra disputas de compradores, reclamações fraudulentas (como "caixa vazia" ou "item incorreto recebido") e danos durante o transporte, recomendamos fortemente que todos os vendedores implementem um processo de **Prova de Envio e Embalagem**.  
 Capturar fotos e vídeos nítidos antes de entregar seus pacotes à transportadora é a maneira mais eficaz de proteger seus direitos durante a mediação da plataforma.  
 

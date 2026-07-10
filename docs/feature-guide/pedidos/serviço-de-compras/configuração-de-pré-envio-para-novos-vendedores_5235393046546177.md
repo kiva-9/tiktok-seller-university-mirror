@@ -1,11 +1,15 @@
 ---
-title: "Configuração de Pré-Envio Para Novos Vendedores"
+title: Configuração de Pré-Envio Para Novos Vendedores
 id: 5235393046546177
-category: "Serviço de compras"
+category: Serviço de compras
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5235393046546177"
-update_time: "2025-07-11"
-keywords: "Sellers"
+update_time: 2025-07-11
+keywords: Sellers
 ---
+
+
+
+
 ## **Configurar o endereço de envio padrão**
 
 No endereço de envio padrão, você pode definir a localização física principal para o envio de pedidos. Verifique se o endereço dos depósitos de coleta e o endereço do depósito de devolução estão corretos, pois o TikTok Shop usará esses endereços para organizar a coleta do entregador (somente serviço de coleta) e a devolução dos pacotes.

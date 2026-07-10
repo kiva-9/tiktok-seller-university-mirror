@@ -1,11 +1,15 @@
 ---
 title: "Amostragem de Múltiplos SKUs: Solicite mais variações de um único produto"
 id: 4776556505564929
-category: "Obter amostra"
+category: Obter amostra
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4776556505564929"
-update_time: "2026-01-21"
-keywords: "Criadores"
+update_time: 2026-01-21
+keywords: Criadores
 ---
+
+
+
+
 ## Amostragem de Múltiplos SKUs
 
 Acesse a gama completa de variações de produtos que você precisa para criar conteúdo diversificado e de alto impacto para o mesmo produto.  

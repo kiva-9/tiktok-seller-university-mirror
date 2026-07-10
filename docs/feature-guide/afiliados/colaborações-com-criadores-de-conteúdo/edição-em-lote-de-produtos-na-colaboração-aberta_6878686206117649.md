@@ -1,11 +1,15 @@
 ---
-title: "Edição em Lote de Produtos na Colaboração Aberta"
+title: Edição em Lote de Produtos na Colaboração Aberta
 id: 6878686206117649
-category: "Colaborações com criadores de conteúdo"
+category: Colaborações com criadores de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6878686206117649"
-update_time: "2025-04-10"
-keywords: "Sellers"
+update_time: 2025-04-10
+keywords: Sellers
 ---
+
+
+
+
 Este artigo vai te ensinar como usar a função **Edição em Lote** na **Colaboração Aberta**. A função de Edição em Lote é uma ótima ferramenta para editar e alterar as configurações dos seus produtos de forma mais rápida, com opções exclusivas de filtragem e rastreamento de amostras grátis offline. Essas configurações podem ser alteradas para uma grande parte dos seus produtos. Basta enviar as alterações e o sistema cuidará do restante.  
 Para te ajudar a começar, vamos explicar onde acessar esse recurso e como realizar os dois (2) principais passos da Edição em Lote.  
 

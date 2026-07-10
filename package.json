@@ -1,0 +1,25 @@
+{
+  "name": "tiktok-seller-university-mirror",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "rspress dev",
+    "build": "rspress build",
+    "preview": "rspress preview"
+  },
+  "dependencies": {
+    "core-js": "^3.43.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "regenerator-runtime": "^0.14.1",
+    "rspress": "~1.40.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.18"
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11"
+  ]
+}

@@ -1,11 +1,15 @@
 ---
-title: "Política de Envio de Pedidos do Cliente do TikTok Shop"
+title: Política de Envio de Pedidos do Cliente do TikTok Shop
 id: 1442971111884545
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1442971111884545"
-update_time: "2026-03-06"
-keywords: "Seller Policy"
+update_time: 2026-03-06
+keywords: Seller Policy
 ---
+
+
+
+
 # Visão Geral
 
 Esta **Política de Envio de Pedidos do Cliente do TikTok Shop** engloba os requisitos de embalagem e envio para transações que ocorrem dentro do Brasil. Todos os vendedores que oferecem produtos para venda por meio do TikTok Shop devem fazê-lo de acordo com a **Política de Envio de Pedidos do Cliente do** **TikTok Shop**. As informações constantes desta política não são exaustivas e não podem ser entendidas como aconselhamento jurídico. Incentivamos os vendedores a procurar aconselhamento jurídico se tiverem quaisquer dúvidas sobre as leis e regulamentos aplicáveis aos seus produtos ou embalagens.  

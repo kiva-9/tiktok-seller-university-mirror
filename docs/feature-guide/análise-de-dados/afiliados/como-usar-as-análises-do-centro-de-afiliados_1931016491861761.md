@@ -1,11 +1,15 @@
 ---
-title: "Como usar as análises do Centro de Afiliados?"
+title: Como usar as análises do Centro de Afiliados?
 id: 1931016491861761
-category: "Afiliados"
+category: Afiliados
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1931016491861761"
-update_time: "2025-10-14"
-keywords: "Vendedores"
+update_time: 2025-10-14
+keywords: Vendedores
 ---
+
+
+
+
 ## **Visão geral do produto**
 
 Analise o desempenho dos seus afiliados e amplie o seu sucesso com uma visão geral clara, confiável e centralizada do desempenho na Central de afiliados.  

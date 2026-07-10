@@ -1,11 +1,15 @@
 ---
-title: "Regras detalhadas para danos"
+title: Regras detalhadas para danos
 id: 1102714779993872
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1102714779993872"
-update_time: "2026-04-17"
-keywords: "Política de vendedor"
+update_time: 2026-04-17
+keywords: Política de vendedor
 ---
+
+
+
+
 # O que é um "problema relacionado a danos"?
 
 Refere-se a problemas como danos físicos, produtos incompletos, deformações, fragmentação, vazamentos, arranhões, amassados, quebras e desprendimento do próprio produto, seus acessórios ou embalagem interna, quando recebidos pelo consumidor.  

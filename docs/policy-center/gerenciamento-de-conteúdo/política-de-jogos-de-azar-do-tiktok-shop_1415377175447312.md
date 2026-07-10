@@ -1,11 +1,15 @@
 ---
-title: "Política de Jogos de Azar do TikTok Shop "
+title: Política de Jogos de Azar do TikTok Shop
 id: 1415377175447312
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1415377175447312"
-update_time: "2025-04-17"
-keywords: "Creators"
+update_time: 2025-04-17
+keywords: Creators
 ---
+
+
+
+
 # **Objetivo e Escopo**
 
 Nossa Política de Jogos de Azar do TikTok Shop descreve os requisitos relacionados a jogos de azar que os vendedores e criadores do TikTok Shop devem seguir. Esta política atua de acordo com nossas [Diretrizes da Comunidade do TikTok](https://www.tiktok.com/community-guidelines/en/ "https://www.tiktok.com/community-guidelines/en/"), nossos [Termos de Uso do Criador](https://seller-br.tiktok.com/university/essay?knowledge_id=3268441302714113&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=3268441302714113&identity=1") e [Termos de Serviço do Vendedor](https://seller-br.tiktok.com/university/essay?knowledge_id=3268441302615809&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=3268441302615809&identity=1").   

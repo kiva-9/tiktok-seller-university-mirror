@@ -1,11 +1,15 @@
 ---
-title: "Oferta Relâmpago em LIVE para Criadores"
+title: Oferta Relâmpago em LIVE para Criadores
 id: 6028204985386769
-category: "Operação de transmissão ao vivo"
+category: Operação de transmissão ao vivo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6028204985386769"
-update_time: "2026-06-15"
-keywords: "Criadores"
+update_time: 2026-06-15
+keywords: Criadores
 ---
+
+
+
+
 ## Introdução às Ofertas Relâmpago em LIVE no Gerenciador de LIVEs
 
 Quando os vendedores convidam criadores para vender um estoque exclusivo com Oferta Relâmpago, os criadores podem gerenciar e aplicar esse estoque diretamente no Gerenciador de LIVEs (LIVE Manager), oferecendo aos espectadores descontos em produtos exclusivos para aumentar o engajamento e as vendas durante suas transmissões ao vivo, enquanto ganham comissões. Os vendedores também podem realizar Ofertas Relâmpago em LIVE por meio de contas de marketing.  

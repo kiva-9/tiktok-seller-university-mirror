@@ -1,11 +1,15 @@
 ---
-title: "Política de Pedidos Fraudulentos do TikTok Shop "
+title: Política de Pedidos Fraudulentos do TikTok Shop
 id: 8994711168665361
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8994711168665361"
-update_time: "2025-03-24"
+update_time: 2025-03-24
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 # Objetivo e Escopo
 
 Nossa **Política de Pedidos Fraudulentos do TikTok Shop** ("a Política") detalha o que se qualifica como atividades proibidas de pedidos fraudulentos no TikTok Shop. Esta política complementa as [**Diretrizes da Comunidade**] do TikTok e nossos [**Termos de Serviço do Vendedor**] (coletivamente, "**Termos do TikTok**").   

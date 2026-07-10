@@ -1,11 +1,15 @@
 ---
-title: "Anúncio sobre a Governança especial de problemas de danos em categorias vulneráveis"
+title: Anúncio sobre a Governança especial de problemas de danos em categorias vulneráveis
 id: 4836025494996752
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4836025494996752"
-update_time: "2026-04-29"
+update_time: 2026-04-29
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 **Prezado(a) vendedor(a),**
 
 Recentemente, a plataforma identificou que algumas categorias de produtos apresentam problemas graves com produtos danificados, o que está afetando a experiência de compra dos consumidores. Para criar um ambiente operacional mais saudável e proteger os direitos e interesses legítimos dos consumidores, a plataforma iniciará uma ação especial de governança voltada a essas categorias vulneráveis, com efeito imediato.  

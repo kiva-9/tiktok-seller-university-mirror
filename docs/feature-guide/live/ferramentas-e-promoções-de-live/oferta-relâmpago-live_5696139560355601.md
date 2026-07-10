@@ -1,18 +1,15 @@
 ---
-title: "Oferta Relâmpago LIVE"
+title: Oferta Relâmpago LIVE
 id: 5696139560355601
-category: "Ferramentas e Promoções de LIVE"
+category: Ferramentas e Promoções de LIVE
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5696139560355601"
-update_time: "2026-06-02"
-keywords: "Sellers"
-video_count: 3
-video_url: "https://v16m-default.tiktokcdn.com/22f4770db3ea86033b1475d6df70dab5/6a50ba8c/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8BtMQjiPDbtQfnmiMCzXez7Xg7QgI8rXXJwue/?a=6556&bti=ODY2QDQwNWA%3D&&bt=915&ft=cApXJCz7ThWHSaNzLGZmo0P&mime_type=video_mp4&rc=Z2loOmVkaWQ1NTRlO2dmM0BpajprM3Y5cnZreWYzOGc3NEBfYTVfYDZjXl4xYTEyMF8tYSNzMDZvMmRzcm9gLS1kXy1zcw%3D%3D&vvpl=1&l=021783653729924fdbddc5300150210100c1dbf1f000075718c3c&btag=e00058000"
-video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/ca80d2ae68754b9f80db65c9f6becf91_1744248961~tplv-noop.image?dr=18692&refresh_token=4c249a5a&x-expires=1783675532&x-signature=X1irWzqap3FqRaZARTZZPfkQ6eY%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000ccvrhusvog65sr09h37vg"
-videos:
-  - "https://v16m-default.tiktokcdn.com/22f4770db3ea86033b1475d6df70dab5/6a50ba8c/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8BtMQjiPDbtQfnmiMCzXez7Xg7QgI8rXXJwue/?a=6556&bti=ODY2QDQwNWA%3D&&bt=915&ft=cApXJCz7ThWHSaNzLGZmo0P&mime_type=video_mp4&rc=Z2loOmVkaWQ1NTRlO2dmM0BpajprM3Y5cnZreWYzOGc3NEBfYTVfYDZjXl4xYTEyMF8tYSNzMDZvMmRzcm9gLS1kXy1zcw%3D%3D&vvpl=1&l=021783653729924fdbddc5300150210100c1dbf1f000075718c3c&btag=e00058000"
-  - "https://v16m-default.tiktokcdn.com/65dc6e229ea6acdf72c75dd6f1070c6a/6a50ba42/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMQpEfgrUXkwLoGQDGBLuL1CIeheSvICKQ3bXi/?a=6556&bti=ODY2QDQwNWA%3D&&bt=401&ft=cApXJCz7ThWHSaNzLGZmo0P&mime_type=video_mp4&rc=OjVpZmZmO2U1OWZnZTU1NUBpanF2ZnA5cndyN2YzOGc3NEAzNWMxNjFfX2IxL2IyLTFeYSNjZGltMmRzYV9hLS1kXy1zcw%3D%3D&vvpl=1&l=021783653729924fdbddc5300150210100c1dbf1f00007569553f&btag=e00050000"
-  - "https://v16m-default.tiktokcdn.com/7a9734793c0c2e14a2975f98ecd29ccb/6a50ba26/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8vRQrajRqA19YUQtEkQxJKSIikMRB9iEI2Hw/?a=6556&bti=ODY2QDQwNWA%3D&&bt=609&ft=cApXJCz7ThWHSaNzLGZmo0P&mime_type=video_mp4&rc=NTdlOTs0ZDw8Nmg1ODZpOEBpMzY0Zm85cmRsN2YzOGc3NEBgYjBhXi8tXzExXzBjYl8vYSNvLmI1MmRrazVhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653729924fdbddc5300150210100c1dbf1f000075d6feba&btag=e00050000"
+update_time: 2026-06-02
+keywords: Sellers
 ---
+
+
+
+
 **Atualização de Versão**
 
 |  |  |  |

@@ -19,3 +19,5 @@ build/
 site/
 site/
 site/
+node_modules/
+doc_build/

@@ -1,11 +1,15 @@
 ---
-title: "Pagamento de saldo negativo"
+title: Pagamento de saldo negativo
 id: 6481737900443409
-category: "Taxas do Vendedor"
+category: Taxas do Vendedor
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6481737900443409"
-update_time: "2026-07-07"
-keywords: "Vendedores"
+update_time: 2026-07-07
+keywords: Vendedores
 ---
+
+
+
+
 # Por que estou com o saldo negativo?
 
 O saldo negativo pode ocorrer quando diversas despesas e reembolsos da plataforma excedem a receita da loja durante o período de liquidação.  

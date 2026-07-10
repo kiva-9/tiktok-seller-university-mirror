@@ -1,11 +1,15 @@
 ---
-title: "Atualização Das Condições de Uso da Música Comercial"
+title: Atualização Das Condições de Uso da Música Comercial
 id: 6804983057843984
-category: "Gerenciar contas"
+category: Gerenciar contas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6804983057843984"
-update_time: "2025-04-09"
-keywords: "Sellers"
+update_time: 2025-04-09
+keywords: Sellers
 ---
+
+
+
+
 ## **Atualização das condições de uso da música comercial**
 
 Estamos comprometidos com a proteção dos direitos autorais da música comercial. Por isso, desde maio de 2022, implementamos um ajuste de condição para a música disponível para a conta oficial (conta vinculada à conta do TikTok Shop). Existem duas opções de música que podem ser previamente selecionadas ao criar um vídeo no TikTok:

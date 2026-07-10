@@ -1,11 +1,15 @@
 ---
 title: "Visão geral dos benefícios de campanha: o que são e tipos comuns"
 id: 3027449152374544
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3027449152374544"
-update_time: "2026-02-10"
-keywords: "Vendedores"
+update_time: 2026-02-10
+keywords: Vendedores
 ---
+
+
+
+
 ## O que são os benefícios de campanha?
 
 Os benefícios de campanha se referem ao pacote completo de recursos, subsídios e incentivos fornecidos pelo TikTok Shop aos vendedores durante as campanhas, com o objetivo de aumentar a exposição, o GMV e reduzir os custos operacionais.  

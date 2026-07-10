@@ -1,11 +1,15 @@
 ---
-title: "Diretrizes De Embalagem De TikTok Shop"
+title: Diretrizes De Embalagem De TikTok Shop
 id: 5238926923269905
-category: "Serviço de compras"
+category: Serviço de compras
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5238926923269905"
-update_time: "2025-10-22"
-keywords: "Sellers"
+update_time: 2025-10-22
+keywords: Sellers
 ---
+
+
+
+
 ## **Responsabilidades relacionadas à embalagem**
 
 * Para reduzir o risco de danos ou vazamentos durante o transporte, o vendedor precisa embalar e rotular os produtos de maneira segura e adequada, de acordo com as leis e regulamentações pertinentes.

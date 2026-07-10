@@ -1,11 +1,15 @@
 ---
-title: "Guia de autointegração para agências TAP"
+title: Guia de autointegração para agências TAP
 id: 6807244118624016
-category: "Agência"
+category: Agência
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6807244118624016"
-update_time: "2025-04-16"
-keywords: "Creators"
+update_time: 2025-04-16
+keywords: Creators
 ---
+
+
+
+
 |  |  |
 | --- | --- |
 | **Desktop**  image  image | **Móvel**  image  image |

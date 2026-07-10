@@ -1,11 +1,15 @@
 ---
-title: "Introdução aos Anúncios da Loja e Instruções Criativas"
+title: Introdução aos Anúncios da Loja e Instruções Criativas
 id: 792603294271249
-category: "Anúncios de vendas"
+category: Anúncios de vendas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=792603294271249"
-update_time: "2026-02-28"
-keywords: "Sellers"
+update_time: 2026-02-28
+keywords: Sellers
 ---
+
+
+
+
 ## Começar
 
 1. **Configurar informações da conta**

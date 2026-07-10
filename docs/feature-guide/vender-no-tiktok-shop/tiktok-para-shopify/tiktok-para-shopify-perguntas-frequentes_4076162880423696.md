@@ -1,11 +1,15 @@
 ---
-title: "TikTok para Shopify: Perguntas Frequentes "
+title: "TikTok para Shopify: Perguntas Frequentes"
 id: 4076162880423696
-category: "TikTok para Shopify"
+category: TikTok para Shopify
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4076162880423696"
-update_time: "2025-04-16"
-keywords: "Sellers"
+update_time: 2025-04-16
+keywords: Sellers
 ---
+
+
+
+
 # **Configuração e login**
 
 ### **P: Estou tendo problemas para conectar minha loja da Shopify com o TikTok Shop. Continuo recebendo uma mensagem de erro ao tentar me conectar à minha loja. O que devo fazer?**

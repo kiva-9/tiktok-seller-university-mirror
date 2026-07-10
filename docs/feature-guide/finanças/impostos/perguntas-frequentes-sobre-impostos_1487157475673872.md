@@ -1,11 +1,15 @@
 ---
-title: "Perguntas Frequentes sobre Impostos"
+title: Perguntas Frequentes sobre Impostos
 id: 1487157475673872
-category: "Impostos"
+category: Impostos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1487157475673872"
-update_time: "2025-05-23"
-keywords: "Vendedores"
+update_time: 2025-05-23
+keywords: Vendedores
 ---
+
+
+
+
 Aviso: As perguntas frequentes abaixo são apenas para referência e não constituem qualquer orientação ou aconselhamento fiscal. Se os vendedores tiverem dúvidas fiscais, recomenda-se que consultem seus contadores/consultores fiscais.
 
 # **O que é NF-e?**

@@ -1,11 +1,15 @@
 ---
-title: "Tarefas do Criador"
+title: Tarefas do Criador
 id: 297041033791233
-category: "Tarefa do criador de conteúdo"
+category: Tarefa do criador de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=297041033791233"
-update_time: "2025-07-24"
-keywords: "Criadores"
+update_time: 2025-07-24
+keywords: Criadores
 ---
+
+
+
+
 # **O que são as Tarefas do Criador?**
 
 São desafios personalizados criados pela plataforma para te ajudar a crescer e vender mais no TikTok Shop.  

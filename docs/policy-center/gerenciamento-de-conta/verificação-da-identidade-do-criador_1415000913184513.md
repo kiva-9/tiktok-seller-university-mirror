@@ -1,11 +1,15 @@
 ---
-title: "Verificação da identidade do criador"
+title: Verificação da identidade do criador
 id: 1415000913184513
-category: "Gerenciamento de Conta"
+category: Gerenciamento de Conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1415000913184513"
-update_time: "2026-04-23"
-keywords: "Creators"
+update_time: 2026-04-23
+keywords: Creators
 ---
+
+
+
+
 # **Verificação da identidade do criador**
 
 Para que os conteúdos de comércio eletrônico sejam exibidos aos usuários da plataforma normalmente, todos os criadores de conteúdo e suas contas associadas devem passar com êxito pelo processo de verificação de identidade. Esse processo de verificação pode envolver o envio de informações de identidade pessoal relevantes, como:  

@@ -1,23 +1,15 @@
 ---
 title: "E-commerce: Regras básicas de conteúdo"
 id: 2926485741143809
-category: "Começar"
+category: Começar
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2926485741143809"
-update_time: "2025-06-12"
-keywords: "Criadores"
-video_count: 8
-video_url: "https://v16m-default.tiktokcdn.com/c69480b372003a5a8b8b083713f1641b/6a50b9ac/video/tos/alisg/tos-alisg-v-9e30d3-sg/oIf5UkRiDgCE0XBcxJDygQIelQbfB7rPOFOXaO/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1340&ft=cApXJCz7ThWHsSNzLGZmo0P&mime_type=video_mp4&rc=OWg7OGY7ZDg7Ojk0NGU1OUBpanNsNHI5cm46NGYzOGc3NEAuLjBhYTQ2Xl4xMy0xXjIxYSMwa29rMmRjYzJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653623733fdbddc5300150210100c1dbf1f0000750b8bb8&btag=e00050000"
-video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oABKLoVoIArJcEiM9f6dls4A8vDHTw5HAuYki0~tplv-noop.image?dr=18692&refresh_token=a4d0b0ce&x-expires=1783675308&x-signature=IrHgpIusq0o0qcDRWkZeZgM9SZA%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd157fkfog65on1rinp3g"
-videos:
-  - "https://v16m-default.tiktokcdn.com/c69480b372003a5a8b8b083713f1641b/6a50b9ac/video/tos/alisg/tos-alisg-v-9e30d3-sg/oIf5UkRiDgCE0XBcxJDygQIelQbfB7rPOFOXaO/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1340&ft=cApXJCz7ThWHsSNzLGZmo0P&mime_type=video_mp4&rc=OWg7OGY7ZDg7Ojk0NGU1OUBpanNsNHI5cm46NGYzOGc3NEAuLjBhYTQ2Xl4xMy0xXjIxYSMwa29rMmRjYzJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653623733fdbddc5300150210100c1dbf1f0000750b8bb8&btag=e00050000"
-  - "https://v16m-default.tiktokcdn.com/f045954e5ac4e7123fa56e903f9342c6/6a50b987/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8QZgegiGGChLXBvtUIedaQCKFAIVeqDYzWieE/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1390&ft=cApXJCz7ThWHsSNzLGZmo0P&mime_type=video_mp4&rc=M2hoODdpNmQ4NGY1aTtlNUBpajs0cHA5cm86NGYzOGc3NEBjMzZjNmEwXy4xMDM2MC5jYSM0aTEvMmRrYzJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653623734fdbddc5300150210100c1dbf1f000075e9c07a&btag=e00048000"
-  - "https://v16m-default.tiktokcdn.com/aa9f53eed6fda71a86072c8199f51ce7/6a50b982/video/tos/alisg/tos-alisg-v-9e30d3-sg/ogurrlEivK5rsUgeXzfa7NBQDfiuFDglkCvQOI/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1007&ft=cApXJCz7ThWHsSNzLGZmo0P&mime_type=video_mp4&rc=Zjk3aDdlZDNmOTY6ZGhnNEBpamx5aG85cnA6NGYzOGc3NEBfMDYuMS82XmMxLTNfNi0xYSNvMWJyMmRrYzJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653623734fdbddc5300150210100c1dbf1f0000757bbf0c&btag=e00048000"
-  - "https://v16m-default.tiktokcdn.com/991fabfe1591fbe50a8cac96550f1f0e/6a50b994/video/tos/alisg/tos-alisg-v-9e30d3-sg/oQQRUQmXGCOUJBrtsGIiyFEDf7Dr4lg81fmnfg/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1350&ft=cApXJCz7ThWHsSNzLGZmo0P&mime_type=video_mp4&rc=ZTtlOmQ2ODo6Z2RpaGc8OEBpanZnZ3A5cnM6NGYzOGc3NEBeYDMvYzRjNjQxXmFeMzQvYSM2M2hhMmRzYzJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653623734fdbddc5300150210100c1dbf1f00007544086d&btag=e00050000"
-  - "https://v16m-default.tiktokcdn.com/0fb3cc470f1ab70f37012814207b45c2/6a50ba02/video/tos/alisg/tos-alisg-v-9e30d3-sg/oIrCsD7CiKiIegFQmPgLIBHlQCBeGikUrBGeXT/?a=6556&bti=ODY2QDQwNWA%3D&&bt=826&ft=cApXJCz7ThWHsSNzLGZmo0P&mime_type=video_mp4&rc=PDY2NTxoMzNlZTg8ZmY2NUBpank1Zmw5cmk6NGYzOGc3NEAwMDFgMjBhXmAxXjNfXjYuYSM2MC9mMmRjZDJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653623734fdbddc5300150210100c1dbf1f000075363114&btag=e00050000"
-  - "https://v16m-default.tiktokcdn.com/965dc97caf7c694475ae41367855da92/6a50b9d8/video/tos/alisg/tos-alisg-v-9e30d3-sg/oUuUfQFpElhOiFzKKggQvBDePvplCMD5XIDfr4/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1324&ft=cApXJCz7ThWHsSNzLGZmo0P&mime_type=video_mp4&rc=Zmg6ZGhnNmc4aDxmPGQ7O0BpM3Z2O3Y5cnU6NGYzOGc3NEAuNGA2LS01XmExLTM2LjIzYSMwXmpuMmRzYzJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653623760fdbddc5300150210100c1dbf1f000075646cd8&btag=e00050000"
-  - "https://v16m-default.tiktokcdn.com/c30551217eee2a91bf2996f2d53d46cb/6a50b9c0/video/tos/alisg/tos-alisg-v-9e30d3-sg/oEDUWdUwhgAevMGPeFKLwyfIRPGAWxElrDeLBk/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1175&ft=cApXJCz7ThWHsSNzLGZmo0P&mime_type=video_mp4&rc=NGY8M2dnZDVpPDk3NGZlaUBpamppdG05cnc6NGYzOGc3NEA2YzRjMl8yX2AxMC42NWMzYSNuZjVuMmRjYzJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653623760fdbddc5300150210100c1dbf1f000075b71cc8&btag=e00050000"
-  - "https://v16m-default.tiktokcdn.com/dba026f18a51e17008f9f04afa14b4da/6a50b989/video/tos/alisg/tos-alisg-v-9e30d3-sg/oACer5D8liOffMMUU98vgO6EgogFQXQ1DIBiDK/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1046&ft=cApXJCz7ThWHsSNzLGZmo0P&mime_type=video_mp4&rc=ZGhlNThnNDUzOWg0NmU0OUBpMzg8Z2o5cng6NGYzOGc3NEAxLTMtMzUwNTUxNF8tLl5iYSNeaXFjMmRrYzJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653623760fdbddc5300150210100c1dbf1f000075f89b5d&btag=e00048000"
+update_time: 2025-06-12
+keywords: Criadores
 ---
+
+
+
+
 # Lembre-se de sempre
 
 adicionar o link do produto  

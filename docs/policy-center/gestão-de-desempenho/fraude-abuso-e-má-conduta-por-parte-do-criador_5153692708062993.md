@@ -1,11 +1,15 @@
 ---
-title: " Fraude, abuso e má conduta por parte do criador"
+title: "Fraude, abuso e má conduta por parte do criador"
 id: 5153692708062993
-category: "Gestão de desempenho"
+category: Gestão de desempenho
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5153692708062993"
-update_time: "2026-06-18"
-keywords: ""
+update_time: 2026-06-18
+keywords: 
 ---
+
+
+
+
 ## O que é fraude, abuso e má conduta por parte do criador?
 
 Os [Termos de Uso do Criador do TikTok Shop](https://seller-br.tiktok.com/university/essay?knowledge_id=3275818982590224&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=3275818982590224&identity=1") descrevem uma lista de comportamentos e práticas que os criadores do TikTok Shop não devem adotar. Isso inclui qualquer forma de atividade fraudulenta, como conteúdo ou engajamento fraudulento em perfis de usuários, publicações, comentários, chats e outras interações na plataforma. Os criadores também devem garantir que seguem as [Diretrizes da Comunidade do TikTok](https://www.tiktok.com/safety/pt-BR/policies-and-engagement/overview "https://www.tiktok.com/safety/pt-BR/policies-and-engagement/overview") e as [Políticas de Criadores do TikTok Shop](https://seller-br.tiktok.com/university/home?knowledge_id=3275818982590224&identity=1&content_id=449043402983170&role=creator&menu=policy "https://seller-br.tiktok.com/university/home?knowledge_id=3275818982590224&identity=1&content_id=449043402983170&role=creator&menu=policy").

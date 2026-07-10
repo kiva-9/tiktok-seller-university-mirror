@@ -1,11 +1,15 @@
 ---
-title: "Campanhas de Produtos"
+title: Campanhas de Produtos
 id: 5668870343608080
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5668870343608080"
-update_time: "2026-02-24"
-keywords: "Sellers"
+update_time: 2026-02-24
+keywords: Sellers
 ---
+
+
+
+
 # **Campanhas de produtos**
 
 Neste artigo, você aprenderá como participar de campanhas de produtos em plataformas digitais para aumentar as vendas da sua loja com alto retorno sobre o investimento (ROI). Você aprenderá como se cadastrar e gerenciar suas campanhas na Central do vendedor em seu computador.  

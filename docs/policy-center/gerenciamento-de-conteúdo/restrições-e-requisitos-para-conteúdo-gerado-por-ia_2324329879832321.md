@@ -1,11 +1,15 @@
 ---
-title: "Restrições e requisitos para conteúdo gerado por IA"
+title: Restrições e requisitos para conteúdo gerado por IA
 id: 2324329879832321
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2324329879832321"
-update_time: "2026-05-13"
-keywords: "Política de vendedor"
+update_time: 2026-05-13
+keywords: Política de vendedor
 ---
+
+
+
+
 ![葡语版头条.jpg](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/aa7f26412705434596b508327b47eb99~tplv-nk3i2mqmvs-image.jpg?lk3s=5d1a069b&x-expires=2092276469&x-signature=qVEcMxHxSH5WON7mqNe1Foy2GbU%3D)**Pontos principais**
 > * Seja transparente e verdadeiro: conteúdo gerado por IA é permitido, mas deve haver honestidade. Não use IA para enganar, iludir ou criar impressões falsas sobre produtos, pessoas ou fatos.
 > * Divulgue claramente o uso de IA: se o seu conteúdo for total ou significativamente criado/alterado por IA, você deve sinalizá-lo como tal. Você pode fazer isso adicionando uma nota de texto/marca d'água ao seu vídeo ou usando a opção "Conteúdo gerado por IA" nas configurações de publicação da plataforma.

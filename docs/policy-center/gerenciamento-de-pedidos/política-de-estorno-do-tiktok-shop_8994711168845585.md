@@ -1,11 +1,15 @@
 ---
-title: "Política de Estorno do TikTok Shop "
+title: Política de Estorno do TikTok Shop
 id: 8994711168845585
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8994711168845585"
-update_time: "2025-03-27"
+update_time: 2025-03-27
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 # **Introdução**
 
 A Política de Estorno do TikTok Shop descreve o procedimento para vendedores lidarem com estornos iniciados por clientes no TikTok Shop.   

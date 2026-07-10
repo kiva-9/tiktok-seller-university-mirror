@@ -1,11 +1,15 @@
 ---
-title: "O que são produtos \"Somente por convite\"? "
+title: O que são produtos \\Somente por convite\\?
 id: 6907568440706832
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6907568440706832"
-update_time: "2025-12-03"
-keywords: "Vendedores"
+update_time: 2025-12-03
+keywords: Vendedores
 ---
+
+
+
+
 Para proteger os compradores e a plataforma, determinadas categorias de alto risco são definidas como "Somente por convite" no TikTok Shop. Essas categorias estão disponíveis apenas para vendedores aprovados no processo de qualificação. Vendedores experientes podem solicitar enviando a documentação necessária em Central do vendedor > Minha conta > Configurações da conta > Centro de qualificação. Os produtos só podem ser anunciados após aprovação, e a veiculação de anúncios sem aprovação pode resultar em medidas disciplinares.
 
 ## Produtos alimentícios e bebidas

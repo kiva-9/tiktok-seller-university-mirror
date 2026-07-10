@@ -1,11 +1,15 @@
 ---
-title: "Campanha Registro em um só clique"
+title: Campanha Registro em um só clique
 id: 6344614546818833
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6344614546818833"
-update_time: "2026-01-08"
-keywords: "Vendedores"
+update_time: 2026-01-08
+keywords: Vendedores
 ---
+
+
+
+
 Registrar um produto em várias subcampanhas sob uma campanha principal é um processo repetitivo e demorado. Para economizar tempo e maximizar a participação da campanha, os vendedores agora podem usar o **Registro de campanha em um só clique.** Este recurso permite registrar todas as subcampanhas elegíveis em uma campanha principal de maneira mais inteligente e rápida.  
 
 ## Informações gerais

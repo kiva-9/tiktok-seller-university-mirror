@@ -1,11 +1,15 @@
 ---
-title: "Configuração De MWH (Vários Depósitos)"
+title: Configuração De MWH (Vários Depósitos)
 id: 2915348630816513
-category: "Serviço de depósito"
+category: Serviço de depósito
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2915348630816513"
-update_time: "2025-04-16"
-keywords: "Sellers"
+update_time: 2025-04-16
+keywords: Sellers
 ---
+
+
+
+
 ## **O que é o recurso de vários depósitos, ou MWH?**
 
 *Lembre-se de que o recurso de vários depósitos estará disponível somente para alguns vendedores.*

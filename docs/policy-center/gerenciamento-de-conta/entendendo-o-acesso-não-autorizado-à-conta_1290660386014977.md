@@ -1,11 +1,15 @@
 ---
-title: "Entendendo o Acesso Não Autorizado à Conta"
+title: Entendendo o Acesso Não Autorizado à Conta
 id: 1290660386014977
-category: "Gerenciamento de Conta"
+category: Gerenciamento de Conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1290660386014977"
-update_time: "2026-07-06"
-keywords: "Vendedores"
+update_time: 2026-07-06
+keywords: Vendedores
 ---
+
+
+
+
 ## Acesso não autorizado
 
 Acesso não autorizado é **quando uma pessoa obtém acesso a uma conta, rede de computadores, sistema, software de aplicativo, dados ou outros recursos sem a permissão do usuário autorizado**.  

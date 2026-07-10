@@ -1,11 +1,15 @@
 ---
-title: "Gerenciamento de Atendimento ao Cliente"
+title: Gerenciamento de Atendimento ao Cliente
 id: 6859244688639760
-category: "Chat Tool"
+category: Chat Tool
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6859244688639760"
-update_time: "2025-04-16"
-keywords: "Sellers"
+update_time: 2025-04-16
+keywords: Sellers
 ---
+
+
+
+
 Este artigo apresentará uma visão geral clara de como gerenciar recursos de atendimento ao cliente, incluindo seus agentes, a fim de alcançar altas taxas de satisfação do cliente.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/7cf47bc72948406c8352df02b18fdcdd~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059615412&x-signature=cl07W37j4QKVDJaHN4M1zTJ%2FHLA%3D)

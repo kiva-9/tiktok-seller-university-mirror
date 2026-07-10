@@ -1,11 +1,15 @@
 ---
-title: "Seu guia sobre produtos proibidos"
+title: Seu guia sobre produtos proibidos
 id: 2953794493466384
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2953794493466384"
-update_time: "2026-03-30"
-keywords: "Vendedores"
+update_time: 2026-03-30
+keywords: Vendedores
 ---
+
+
+
+
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5e3b7ab9cf6848eabd6415a7f5ce1a7e~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2090270558&x-signature=%2Fis9eQ1YdVbj8Z54Yf2iV9V4NdI%3D)
 
 Os vendedores nos disseram que, às vezes, não fica evidente quais produtos podem ser anunciados no TikTok Shop e quais não podem. Este artigo apresenta os pontos principais para ajudar você a entender quais produtos são proibidos e como evitá-los em seus anúncios.  

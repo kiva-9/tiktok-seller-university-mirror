@@ -1,11 +1,15 @@
 ---
-title: "Aprenda a Processar Pedidos Manualmente"
+title: Aprenda a Processar Pedidos Manualmente
 id: 2949477875877649
-category: "Serviço de compras"
+category: Serviço de compras
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2949477875877649"
-update_time: "2025-09-25"
-keywords: "Sellers"
+update_time: 2025-09-25
+keywords: Sellers
 ---
+
+
+
+
 Este guia descreve o processo para vendedores que não utilizam um sistema de Enterprise Resource Planning (ERP) ou cujo sistema ERP em uso não está totalmente integrado à plataforma para cumprir manualmente os pedidos de venda. Clique [aqui](https://seller-br.tiktok.com/services/market?category_id=2986261&sort=3&page=1&dtc=&fromRecommendation= "https://seller-br.tiktok.com/services/market?category_id=2986261&sort=3&page=1&dtc=&fromRecommendation=") para baixar os ERPs integrados à plataforma.  
 
 # **Visão Geral do Processamento**

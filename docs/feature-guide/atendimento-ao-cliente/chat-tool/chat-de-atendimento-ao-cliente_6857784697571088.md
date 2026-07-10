@@ -1,11 +1,15 @@
 ---
-title: "Chat de Atendimento ao Cliente"
+title: Chat de Atendimento ao Cliente
 id: 6857784697571088
-category: "Chat Tool"
+category: Chat Tool
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6857784697571088"
-update_time: "2025-12-09"
-keywords: "Sellers"
+update_time: 2025-12-09
+keywords: Sellers
 ---
+
+
+
+
 O recurso de Chat de Atendimento ao Cliente refere-se à ferramenta de comunicação que pode ser usada pelo agente de Serviço de Atendimento ao Cliente do vendedor e pelos clientes para se comunicar sobre todo o processo de pré-venda, venda e pós-venda. Os agentes de serviço de atendimento ao cliente do vendedor podem ver as mensagens de consulta enviadas pelos clientes e responder de acordo.
 
 Veja como é o chat geral do ponto de vista do Cliente e do Agente de Serviço de Atendimento ao Cliente:

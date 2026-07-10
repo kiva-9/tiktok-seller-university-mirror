@@ -1,11 +1,15 @@
 ---
-title: "Direitos e Regras Sobre a Conta de Marketing de TikTok Shop"
+title: Direitos e Regras Sobre a Conta de Marketing de TikTok Shop
 id: 6804983057696528
-category: "Gerenciar contas"
+category: Gerenciar contas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6804983057696528"
-update_time: "2025-12-08"
-keywords: "Sellers"
+update_time: 2025-12-08
+keywords: Sellers
 ---
+
+
+
+
 ## **Direitos e regras sobre a conta de marketing do TikTok Shop**
 
 Leia este artigo para saber os direitos e as regras sobre a conta de marketing do TikTok Shop.

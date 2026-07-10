@@ -1,11 +1,15 @@
 ---
-title: "Recompensa da LIVE do criador"
+title: Recompensa da LIVE do criador
 id: 3536796485224193
-category: "Operação de transmissão ao vivo"
+category: Operação de transmissão ao vivo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3536796485224193"
-update_time: "2026-05-20"
-keywords: "Criadores"
+update_time: 2026-05-20
+keywords: Criadores
 ---
+
+
+
+
 Este artigo demonstrará como usar a **recompensa da LIVE** como criador para colaborar com vendedores. Esse recurso pode aumentar o engajamento, os espectadores e o tempo médio de visualização. Nosso foco será o lado do criador nessa ferramenta de colaboração para ajudar você com sua estratégia diária de vídeos e transmissões ao vivo.  
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/86126f6c3da5433fbfd6a26993081354~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2071500702&x-signature=NGr4SrUSgnMqc6Z2W1yM6GZCtTk%3D)

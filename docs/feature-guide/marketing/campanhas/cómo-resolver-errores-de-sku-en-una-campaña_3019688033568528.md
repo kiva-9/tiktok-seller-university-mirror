@@ -1,11 +1,15 @@
 ---
-title: "Cómo resolver errores de SKU en una campaña"
+title: Cómo resolver errores de SKU en una campaña
 id: 3019688033568528
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3019688033568528"
-update_time: "2026-02-10"
-keywords: "Vendedores"
+update_time: 2026-02-10
+keywords: Vendedores
 ---
+
+
+
+
 # Onde posso editar as informações do meu produto?
 
 Acesse "Produtos gerenciados" se precisar editar os preços de varejo do seu produto ou adicionar, excluir ou editar um SKU enquanto ele estiver cadastrado em uma campanha.  

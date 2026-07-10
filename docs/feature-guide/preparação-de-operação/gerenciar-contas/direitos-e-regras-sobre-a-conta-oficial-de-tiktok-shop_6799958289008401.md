@@ -1,11 +1,15 @@
 ---
-title: "Direitos e Regras Sobre a Conta Oficial de TikTok Shop"
+title: Direitos e Regras Sobre a Conta Oficial de TikTok Shop
 id: 6799958289008401
-category: "Gerenciar contas"
+category: Gerenciar contas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6799958289008401"
-update_time: "2026-06-29"
-keywords: "Sellers"
+update_time: 2026-06-29
+keywords: Sellers
 ---
+
+
+
+
 ## **Direitos e regras sobre a Conta oficial do TikTok Shop**
 
 Leia este artigo para saber os direitos e as regras sobre a Conta oficial do TikTok Shop.

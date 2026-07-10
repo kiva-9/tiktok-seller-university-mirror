@@ -1,11 +1,15 @@
 ---
-title: "Limite de compra do cliente"
+title: Limite de compra do cliente
 id: 5831830016313105
-category: "Gerenciar produtos"
+category: Gerenciar produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5831830016313105"
-update_time: "2025-09-25"
-keywords: "Vendedores"
+update_time: 2025-09-25
+keywords: Vendedores
 ---
+
+
+
+
 # Introdução: O que são os limites de compra do cliente?
 
 Os **limites de compra do cliente** são restrições definidas pelos vendedores para configurar a quantidade máxima de um produto que pode ser comprada em um único pedido. Esses limites podem ser aplicados a variações individuais de produtos (SKUs) e foram concebidos para proporcionar flexibilidade na gestão do estoque e das vendas.  

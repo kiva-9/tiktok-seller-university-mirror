@@ -1,11 +1,15 @@
 ---
-title: "Como Iniciar Um Recurso Para Solicitações De Devolução/Reembolso"
+title: Como Iniciar Um Recurso Para Solicitações De Devolução/Reembolso
 id: 6736141321324304
-category: "Gerenciar devoluções e reembolsos"
+category: Gerenciar devoluções e reembolsos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6736141321324304"
-update_time: "2026-05-26"
-keywords: "Sellers"
+update_time: 2026-05-26
+keywords: Sellers
 ---
+
+
+
+
 Este artigo tem como objetivo melhorar a compreensão do vendedor em relação ao gerenciamento de recursos na Central do vendedor, desde o envio de recursos para pedidos de devolução/reembolso até o rastreamento do progresso dos recursos e o aprimoramento dos filtros para um monitoramento eficiente.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/cdfb6040229846a59d9a6081081bb216~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059607624&x-signature=n4NiHDApIx4eAkOQYbfSGhK0mNc%3D)

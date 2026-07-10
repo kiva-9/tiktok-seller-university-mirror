@@ -1,11 +1,15 @@
 ---
-title: "Como usar a Análise de amostras"
+title: Como usar a Análise de amostras
 id: 1304181886420753
-category: "Colaborações com criadores de conteúdo"
+category: Colaborações com criadores de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1304181886420753"
-update_time: "2025-10-31"
-keywords: "Vendedores"
+update_time: 2025-10-31
+keywords: Vendedores
 ---
+
+
+
+
 ## Visão geral do produto
 
 Sua análise de amostras em um único lugar! Este painel foi projetado para ajudar você a visualizar com precisão o desempenho de suas amostras, possibilitando o desbloqueio de novas ideias de produtos e a otimização de sua estratégia de crescimento.  

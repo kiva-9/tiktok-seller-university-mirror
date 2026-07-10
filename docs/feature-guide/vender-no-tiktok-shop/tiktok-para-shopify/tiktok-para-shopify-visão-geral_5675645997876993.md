@@ -1,11 +1,15 @@
 ---
-title: "TikTok Para Shopify: Visão Geral "
+title: "TikTok Para Shopify: Visão Geral"
 id: 5675645997876993
-category: "TikTok para Shopify"
+category: TikTok para Shopify
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5675645997876993"
-update_time: "2025-04-09"
-keywords: "Sellers"
+update_time: 2025-04-09
+keywords: Sellers
 ---
+
+
+
+
 # **Introdução**
 
 ✨ O aplicativo TikTok for Shopify foi desenvolvido pelo TikTok e permite que você se conecte à Shopify e ao TikTok Shop para sincronizar catálogo, inventário, envio e pedidos entre a Shopify e o TikTok Shop. Os vendedores da Shopify podem gerenciar o TikTok Shop como um canal de vendas na Shopify.

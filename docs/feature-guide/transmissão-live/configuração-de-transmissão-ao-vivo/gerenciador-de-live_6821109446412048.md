@@ -1,11 +1,15 @@
 ---
-title: "Gerenciador de LIVE"
+title: Gerenciador de LIVE
 id: 6821109446412048
-category: "Configuração de transmissão ao vivo"
+category: Configuração de transmissão ao vivo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6821109446412048"
-update_time: "2026-05-25"
-keywords: "Creators"
+update_time: 2026-05-25
+keywords: Creators
 ---
+
+
+
+
 ## **Visão geral**
 
 **Gerenciador de LIVE** oferece mais controle sobre o planejamento e a gestão das suas sessões de vendas LIVE. Com ele, você gerencia todos os aspectos da sua transmissão LIVE diretamente no computador, sem depender apenas do celular para contar a história da sua marca. É também uma ótima ferramenta para que moderadores e assistentes colaborem, permitindo que você se concentre em oferecer uma experiência de venda LIVE envolvente.  

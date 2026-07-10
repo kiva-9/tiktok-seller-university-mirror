@@ -1,11 +1,15 @@
 ---
-title: "Política de Produtos Proibidos do TikTok Shop"
+title: Política de Produtos Proibidos do TikTok Shop
 id: 6483182812481296
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6483182812481296"
-update_time: "2026-04-30"
+update_time: 2026-04-30
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 ## Visão Geral
 
 A **Política de Produtos Proibidos do TikTok Shop** descreve nossas regras para listagens de produtos no TikTok Shop. Esta política abrange produtos cuja venda é proibida no TikTok Shop de acordo com nossas políticas, bem como em conformidade com leis e regulamentações federais, estaduais e locais.  

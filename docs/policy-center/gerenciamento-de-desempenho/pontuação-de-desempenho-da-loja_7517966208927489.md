@@ -1,11 +1,15 @@
 ---
-title: "Pontuação de desempenho da loja "
+title: Pontuação de desempenho da loja
 id: 7517966208927489
-category: "Gerenciamento de Desempenho"
+category: Gerenciamento de Desempenho
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7517966208927489"
-update_time: "2026-07-07"
+update_time: 2026-07-07
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 # **1. O que é a Pontuação de Desempenho da Loja?**
 
 **A Pontuação de Desempenho da Loja (SPS)** é um sistema dinâmico de pontuação de zero a cinco (0-5) que resume como sua loja se desempenha em três áreas principais da experiência do cliente:  

@@ -1,11 +1,15 @@
 ---
-title: "Como adicionar informações de contato"
+title: Como adicionar informações de contato
 id: 6813185987528465
-category: "Registrar e configurar conta"
+category: Registrar e configurar conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6813185987528465"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 O artigo ajudará você a concluir suas informações de contato como Criador. Leia completamente o guia abaixo e veja quais são os benefícios de ter as informações de contato disponíveis no TikTok Shop.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2c7a6eb1c1384284a5370c0423bffa42~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059646767&x-signature=ucX2jYWQGTnbNI6uCcleXraekRQ%3D)

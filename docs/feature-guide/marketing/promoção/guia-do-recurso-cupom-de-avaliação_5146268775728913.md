@@ -1,11 +1,15 @@
 ---
-title: "Guia do recurso \"Cupom de avaliação\""
+title: Guia do recurso \\Cupom de avaliação\
 id: 5146268775728913
-category: "Promoção"
+category: Promoção
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5146268775728913"
-update_time: "2026-03-12"
-keywords: "Vendedores"
+update_time: 2026-03-12
+keywords: Vendedores
 ---
+
+
+
+
 # Introdução ao cupom de avaliação
 
 O cupom de avaliação é uma nova ferramenta promocional financiada pelo vendedor e projetada para ajudar você a coletar avaliações mais detalhadas e confiáveis. Ao emitir cupons automaticamente para clientes que atendem a critérios específicos de avaliação, ele incentiva clientes a compartilharem feedback mais detalhado, incluindo texto, imagens e vídeos. Este recurso ajuda a fortalecer a credibilidade do seu produto, aumentar a confiança do comprador e gerar mais conversões e compras repetidas.  

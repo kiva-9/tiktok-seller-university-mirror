@@ -1,11 +1,15 @@
 ---
-title: "Práticas recomendadas para conteúdo promocional"
+title: Práticas recomendadas para conteúdo promocional
 id: 7272996599957264
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7272996599957264"
-update_time: "2025-10-23"
-keywords: "Criadores"
+update_time: 2025-10-23
+keywords: Criadores
 ---
+
+
+
+
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/9bedcf7877af4aeeb1e09cb7b59013f4~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2076565750&x-signature=icU4FAfPaLgY%2Bq06TRwpv3ybpAM%3D)
 
 > **Pontos principais:**

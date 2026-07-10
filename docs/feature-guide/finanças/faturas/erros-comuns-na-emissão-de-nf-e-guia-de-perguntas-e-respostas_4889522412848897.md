@@ -1,11 +1,15 @@
 ---
-title: "Erros comuns na emissão de NF-e - Guia de Perguntas e Respostas"
+title: Erros comuns na emissão de NF-e - Guia de Perguntas e Respostas
 id: 4889522412848897
-category: "Faturas"
+category: Faturas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4889522412848897"
-update_time: "2026-06-02"
-keywords: "Vendedores"
+update_time: 2026-06-02
+keywords: Vendedores
 ---
+
+
+
+
 ## **Possíveis erros da ferramenta de emissão de NF-e no TikTok Shop Brasil**
 
 Alguns vendedores que usam a ferramenta de emissão de NF-e do TikTok Shop Brasil podem se deparar com mensagens de erro ao tentar emitir uma nota fiscal, semelhantes ao exemplo abaixo:

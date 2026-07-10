@@ -1,11 +1,15 @@
 ---
-title: "Desconto no Produto"
+title: Desconto no Produto
 id: 5702401537541904
-category: "Promoção"
+category: Promoção
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5702401537541904"
-update_time: "2026-01-20"
-keywords: "Sellers"
+update_time: 2026-01-20
+keywords: Sellers
 ---
+
+
+
+
 Este artigo ensina como usar o desconto no produto para aumentar as taxas de conversão da sua loja. Você aprenderá como configurar e gerenciar descontos no produto na sua Central do vendedor no PC.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/76b71387ea5145a086f65d976b35167e~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059608264&x-signature=0v326WLI5byT5IcayzgFWF2KPKg%3D)

@@ -1,11 +1,15 @@
 ---
-title: "Vitrine do TikTok Shop "
+title: Vitrine do TikTok Shop
 id: 6825383530710785
-category: "Adicione produtos em vídeos curtos"
+category: Adicione produtos em vídeos curtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6825383530710785"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 Este artigo ensinará você a configurar a Vitrine da conta do TikTok após a configuração da Conta de comissão. Abordaremos estas três etapas principais para você conhecer melhor a Vitrine e começar a vender com mais eficiência.
 
 * O que é Vitrine?

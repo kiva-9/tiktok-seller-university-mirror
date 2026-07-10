@@ -1,11 +1,15 @@
 ---
-title: "Guia de Compartilhamento de Links de Afiliados para Criadores"
+title: Guia de Compartilhamento de Links de Afiliados para Criadores
 id: 3901287218562833
-category: "Vendas em Vídeos"
+category: Vendas em Vídeos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3901287218562833"
-update_time: "2026-01-20"
-keywords: "Criadores"
+update_time: 2026-01-20
+keywords: Criadores
 ---
+
+
+
+
 **Neste guia, você vai aprender como usar a função de compartilhamento de links de afiliados para ganhar comissões promovendo produtos do TikTok Shop fora do aplicativo.**Além de ganhar comissões com vídeos curtos e Lives de compras dentro do TikTok, agora você também pode ganhar comissões ao compartilhar **links de afiliados em plataformas externas**.  
 **Importante:** para usar a função de compartilhamento de links, certifique-se de que seu aplicativo do TikTok esteja atualizado para a versão mais recente disponível na Play Store ou App Store.  
 A função de links de afiliados faz parte do **Programa de Tráfego Externo do TikTok Shop**. Esse programa permite que criadores ganhem comissões ao promover produtos de vendedores do TikTok Shop **fora do aplicativo**, por meio de links exclusivos.  

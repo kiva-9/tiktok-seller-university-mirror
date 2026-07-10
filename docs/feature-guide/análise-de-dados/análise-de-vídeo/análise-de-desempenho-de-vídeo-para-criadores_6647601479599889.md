@@ -1,11 +1,15 @@
 ---
-title: "Análise de desempenho de vídeo para criadores"
+title: Análise de desempenho de vídeo para criadores
 id: 6647601479599889
-category: "Análise de vídeo"
+category: Análise de vídeo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6647601479599889"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 Este artigo mostrará como usar o recurso Desempenho do vídeo para compreender como aprimorar os vídeos atuais e continuar criando conteúdo de compras de alto desempenho!  
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/b7ba5f2d37da4fc78535434fe1a6a9b0~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059922630&x-signature=Tgp49mKWFYUsy1sQQWtTeMbUovs%3D)

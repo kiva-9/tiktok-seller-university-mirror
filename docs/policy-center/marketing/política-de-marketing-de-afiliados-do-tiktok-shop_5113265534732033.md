@@ -1,11 +1,15 @@
 ---
-title: "Política de Marketing de Afiliados do TikTok Shop"
+title: Política de Marketing de Afiliados do TikTok Shop
 id: 5113265534732033
-category: "Marketing"
+category: Marketing
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5113265534732033"
-update_time: "2026-01-27"
+update_time: 2026-01-27
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 # **Objetivo e Escopo**
 
 Esta **Política de Marketing de Afiliados** (a “**Política**”) estabelece os requisitos que os vendedores devem cumprir ao participar de atividades de marketing de afiliados no TikTok Shop. Esta Política complementa as [Diretrizes da Comunidade](https://www.tiktok.com/community-guidelines/pt "https://www.tiktok.com/community-guidelines/pt") do TikTok, os [Termos de Uso do Criador do TikTok Shop](https://seller-br.tiktok.com/university/essay?knowledge_id=3275818982590224&default_language=en&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=3275818982590224&default_language=en&identity=1") e os[Termos de Serviço do Vendedor do TikTok Shop](https://seller-br.tiktok.com/university/essay?knowledge_id=3268441302615809&default_language=en&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=3268441302615809&default_language=en&identity=1") (coletivamente, os “**Termos do TikTok**”).  

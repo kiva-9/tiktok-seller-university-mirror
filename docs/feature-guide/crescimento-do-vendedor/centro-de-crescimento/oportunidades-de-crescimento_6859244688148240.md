@@ -1,11 +1,15 @@
 ---
-title: "Oportunidades de Crescimento"
+title: Oportunidades de Crescimento
 id: 6859244688148240
-category: "Centro de crescimento"
+category: Centro de crescimento
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6859244688148240"
-update_time: "2026-01-07"
-keywords: "Sellers"
+update_time: 2026-01-07
+keywords: Sellers
 ---
+
+
+
+
 # Visão geral
 
 Oportunidades de crescimento é um recurso do TikTok Shop projetado para ajudar os vendedores a aprender, crescer e ganhar recompensas enquanto gerenciam suas lojas.   

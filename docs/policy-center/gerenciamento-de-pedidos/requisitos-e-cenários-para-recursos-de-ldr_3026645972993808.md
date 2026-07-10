@@ -1,11 +1,15 @@
 ---
-title: "Requisitos e cenários para recursos de LDR"
+title: Requisitos e cenários para recursos de LDR
 id: 3026645972993808
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3026645972993808"
-update_time: "2026-03-06"
+update_time: 2026-03-06
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 ![TikTok_Banner_2600 x 780 px_ Category Pet Supplies_V0 (4).png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/94e943e509ac4d4ab21eef86249644c3~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2088186665&x-signature=iTxJZ9Jwo%2BNNhxVKFpHHXGW1WfQ%3D)Um vendedor pode recorrer de uma violação por meio da Central do vendedor *url pendente*. Vendedores podem recorrer enviando uma explicação detalhada do problema com documentos de apoio. Este guia rápido ajudará você a garantir o envio correto do seu recurso para LDR e SFCR.  
 
 ## Cenários passíveis de recurso

@@ -1,11 +1,15 @@
 ---
-title: " Como evitar a violação de propriedade intelectual"
+title: Como evitar a violação de propriedade intelectual
 id: 5405188714563345
-category: "Direitos de Propriedade Intelectual"
+category: Direitos de Propriedade Intelectual
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5405188714563345"
-update_time: "2025-03-24"
+update_time: 2025-03-24
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 O TikTok Shop tem o compromisso de criar um ambiente seguro e confiável para todos os nossos usuários. A proteção dos direitos de propriedade intelectual de outros é fundamental para manter o TikTok Shop seguro e protegido. Vendedores que violarem a **Política de propriedade intelectual do TikTok Shop** e as políticas relacionadas estarão sujeitos a medidas de aplicação estabelecidas em nossa **Política de avaliação de desempenho do vendedor do TikTok Shop** e nos **Termos de Serviço do Vendedor**.  
 
 # **Como posso reduzir o risco de violação de direitos de propriedade intelectual (IP)?**

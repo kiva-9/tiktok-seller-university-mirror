@@ -1,11 +1,15 @@
 ---
-title: "Destaques de LIVE para vendedores"
+title: Destaques de LIVE para vendedores
 id: 8463484438185745
-category: "Ferramentas e Promoções de LIVE"
+category: Ferramentas e Promoções de LIVE
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8463484438185745"
-update_time: "2026-01-14"
-keywords: "Vendedores"
+update_time: 2026-01-14
+keywords: Vendedores
 ---
+
+
+
+
 ## **Apresentação dos destaques de LIVE para vídeos curtos**
 
 O Destaque da LIVE é uma ferramenta desenvolvida para reutilizar o conteúdo de transmissões ao vivo com melhor desempenho no TikTok Shop no formato de vídeos curtos. Essa ferramenta está disponível para qualquer pessoa: vendedores, criadores e contas oficiais ou de marketing podem usar o Destaque da LIVE.   

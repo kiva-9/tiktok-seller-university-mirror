@@ -1,11 +1,15 @@
 ---
-title: "Guia de pacotes promocionais (Campanha de produto × GMV Max) para o Brasil"
+title: Guia de pacotes promocionais (Campanha de produto × GMV Max) para o Brasil
 id: 3355910447433489
-category: "Anúncios de vendas"
+category: Anúncios de vendas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3355910447433489"
-update_time: "2026-05-19"
-keywords: "Vendedores"
+update_time: 2026-05-19
+keywords: Vendedores
 ---
+
+
+
+
 ## Turbine suas vendas: um guia para pacotes promocionais (GMV Max × Campanha) para o Brasil
 
 Libere todo o potencial das campanhas! Este guia explica como usar o recurso **Pacote promocional**, que combina **Campanhas de produtos** com anúncios com **GMV Max** para aumentar a visibilidade do seu produto e maximizar suas vendas durante campanhas no Brasil. Este recurso foi projetado para ser inclusivo, mesmo para vendedores que ainda não configuraram uma forma de pagamento para anúncios.

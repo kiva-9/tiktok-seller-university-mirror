@@ -1,11 +1,15 @@
 ---
-title: "Política de Saldo Negativo do Vendedor do TikTok Shop"
+title: Política de Saldo Negativo do Vendedor do TikTok Shop
 id: 8994711168747281
-category: "Pagamentos"
+category: Pagamentos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8994711168747281"
-update_time: "2026-07-06"
-keywords: "Seller Policy"
+update_time: 2026-07-06
+keywords: Seller Policy
 ---
+
+
+
+
 # **Visão Geral**
 
 A Política de Saldo Negativo do Vendedor do TikTok Shop abrange os requisitos de saldo da conta para os vendedores.  

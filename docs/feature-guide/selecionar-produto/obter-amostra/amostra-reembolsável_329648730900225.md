@@ -1,11 +1,15 @@
 ---
-title: "Amostra Reembolsável"
+title: Amostra Reembolsável
 id: 329648730900225
-category: "Obter amostra"
+category: Obter amostra
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=329648730900225"
-update_time: "2025-07-23"
-keywords: "Criadores"
+update_time: 2025-07-23
+keywords: Criadores
 ---
+
+
+
+
 # **O que é uma Amostra Reembolsável?**
 
 As Amostras Reembolsáveis permitem que você teste produtos **sem riscos**.  

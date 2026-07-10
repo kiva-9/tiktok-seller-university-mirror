@@ -1,11 +1,15 @@
 ---
-title: "O que é promoção irrelevante?"
+title: O que é promoção irrelevante?
 id: 1144027156088593
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1144027156088593"
-update_time: "2025-09-02"
+update_time: 2025-09-02
 keywords: "Criadores,Política de Criador"
 ---
+
+
+
+
 No TikTok Shop, os consumidores contam com conteúdo como fotos, vídeos e descrições de produtos para tomar suas decisões de compra. Como criador, é sua chance de causar uma boa impressão. Manter seu conteúdo promocional relevante, preciso e original não apenas gera confiança em seus usuários, mas também ajuda seu conteúdo a se destacar e prosperar.  
 
 # **O que**

@@ -1,11 +1,15 @@
 ---
-title: "Leaderboard Ibitinga "
+title: Leaderboard Ibitinga
 id: 1625301406861072
-category: "Marketing"
+category: Marketing
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1625301406861072"
-update_time: "2026-05-14"
+update_time: 2026-05-14
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ef48d0e27dd24acbbe2cebec815b1e9d~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2094148249&x-signature=D%2BNUXBLrZjqY8b82jmRWDd89KXI%3D)
 
 |  |  |

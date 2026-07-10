@@ -1,11 +1,15 @@
 ---
-title: "Política de Produtos Restritos do TikTok Shop"
+title: Política de Produtos Restritos do TikTok Shop
 id: 6504327061473040
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6504327061473040"
-update_time: "2026-04-30"
+update_time: 2026-04-30
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 # Visão Geral
 
 Nossa **Política de Produtos Restritos do TikTok Shop** descreve nossas regras para categorias de produtos restritos para venda no TikTok Shop de acordo com nossas políticas, além de aderir às leis federais, estaduais e locais.  

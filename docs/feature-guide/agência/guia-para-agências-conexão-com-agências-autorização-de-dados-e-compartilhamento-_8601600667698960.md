@@ -1,11 +1,15 @@
 ---
 title: "Guia para agências - Conexão com agências, autorização de dados e compartilhamento de comissões"
 id: 8601600667698960
-category: "Agência"
+category: Agência
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8601600667698960"
-update_time: "2025-04-16"
-keywords: "Creators"
+update_time: 2025-04-16
+keywords: Creators
 ---
+
+
+
+
 # Visão geral
 
 Estamos tornando a cobrança de taxas de gerenciamento junto aos criadores uma experiência mais simples e integrada, incluindo a configuração do compartilhamento de comissão como parte do processo de onboarding no Partner Center do TikTok Shop. Agora é possível vincular contas, autorizar o compartilhamento de dados e configurar a divisão de comissões em uma única solicitação. Isso torna ainda mais fácil começar a trabalhar com seus criadores e gerar receita mais rapidamente.  

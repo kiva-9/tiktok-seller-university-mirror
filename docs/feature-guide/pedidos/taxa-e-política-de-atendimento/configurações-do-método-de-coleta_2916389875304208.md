@@ -1,11 +1,15 @@
 ---
-title: "Configurações Do Método De Coleta"
+title: Configurações Do Método De Coleta
 id: 2916389875304208
-category: "Taxa e política de atendimento"
+category: Taxa e política de atendimento
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2916389875304208"
-update_time: "2026-02-12"
-keywords: "Sellers"
+update_time: 2026-02-12
+keywords: Sellers
 ---
+
+
+
+
 As configurações do método de coleta são um recurso projetado para aprimorar o seu processo de envio. Esta ferramenta permite-lhe supervisionar e personalizar o seu método de coleta padrão, oferecendo maior flexibilidade e conveniência na gestão dos seus pedidos.
 
 *Observe que o serviço de coleta estará disponível apenas para vendedores selecionados*

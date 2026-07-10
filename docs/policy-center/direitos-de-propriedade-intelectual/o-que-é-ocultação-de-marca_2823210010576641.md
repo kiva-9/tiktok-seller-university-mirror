@@ -1,11 +1,15 @@
 ---
-title: "O que é Ocultação de Marca?"
+title: O que é Ocultação de Marca?
 id: 2823210010576641
-category: "Direitos de Propriedade Intelectual"
+category: Direitos de Propriedade Intelectual
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2823210010576641"
-update_time: "2025-10-15"
-keywords: "Vendedores"
+update_time: 2025-10-15
+keywords: Vendedores
 ---
+
+
+
+
 A Ocultação de marca envolve o uso de mídias digitais ou físicas (incluindo, entre outros, adesivos, borrões, papéis, textos, mosaicos, fitas, etc.) para ocultar ou esconder informações da marca de modo que a marca do produto não possa ser identificada.  
 
 ---

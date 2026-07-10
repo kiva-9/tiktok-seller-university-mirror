@@ -1,11 +1,15 @@
 ---
 title: "TikTok Para Shopify: Pedido e Envio"
 id: 5784364186437393
-category: "TikTok para Shopify"
+category: TikTok para Shopify
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5784364186437393"
-update_time: "2025-04-16"
-keywords: "Sellers"
+update_time: 2025-04-16
+keywords: Sellers
 ---
+
+
+
+
 # **Introdução**
 
 Depois de sincronizar os seus produtos com o TikTok Shop, as próximas etapas envolvem o gerenciamento dos pedidos e o processamento dos envios. Esta seção guiará você pelos processos de sincronização e envio de pedidos entre o TikTok Shop e a Shopify.

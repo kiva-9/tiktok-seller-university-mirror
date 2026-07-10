@@ -1,11 +1,15 @@
 ---
-title: "Como configurar automações de aprovação automática de amostras"
+title: Como configurar automações de aprovação automática de amostras
 id: 1218472965146384
-category: "Colaborações com criadores de conteúdo"
+category: Colaborações com criadores de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1218472965146384"
-update_time: "2026-02-05"
-keywords: "Vendedores"
+update_time: 2026-02-05
+keywords: Vendedores
 ---
+
+
+
+
 ### Visão geral do produto
 
 Defina regras personalizadas de criadores para automatizar suas aprovações de amostras grátis e foque seu tempo em oportunidades de alto potencial.  

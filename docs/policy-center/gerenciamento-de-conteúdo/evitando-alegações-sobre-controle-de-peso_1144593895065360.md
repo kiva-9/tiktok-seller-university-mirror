@@ -1,11 +1,15 @@
 ---
-title: "Evitando alegações sobre controle de peso"
+title: Evitando alegações sobre controle de peso
 id: 1144593895065360
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1144593895065360"
-update_time: "2025-08-19"
+update_time: 2025-08-19
 keywords: "Criadores,Política de Criador"
 ---
+
+
+
+
 No TikTok Shop, priorizamos a segurança e o bem-estar de todos os nossos usuários. Isso significa proteger a todos, especialmente aqueles que podem ser vulneráveis, de alegações enganosas sobre perda de peso e mensagens relacionadas a uma imagem corporal pouco saudável. É por isso que não permitimos nenhum conteúdo promocional que afirme que um produto resultará em perda de peso. Isso se aplica a todos os tipos de conteúdo, incluindo mensagens de texto, hashtags, vídeos, transmissões ao vivo e imagens.  
 
 # **O que evitar**

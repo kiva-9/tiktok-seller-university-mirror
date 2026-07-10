@@ -1,11 +1,15 @@
 ---
-title: "Registro automático em campanhas"
+title: Registro automático em campanhas
 id: 6023077329356560
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6023077329356560"
-update_time: "2025-10-09"
-keywords: "Vendedores"
+update_time: 2025-10-09
+keywords: Vendedores
 ---
+
+
+
+
 # Visão geral do produto
 
 O **Registro automático em campanhas** é um recurso poderoso projetado para ajudar você a maximizar sua participação nas campanhas do TikTok Shop com o mínimo de esforço. Ele registra automaticamente os produtos selecionados em campanhas relevantes com base nas suas preferências, garantindo que você nunca perca uma oportunidade de aumentar a visibilidade e impulsionar as vendas.  

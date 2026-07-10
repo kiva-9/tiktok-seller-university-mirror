@@ -1,11 +1,15 @@
 ---
-title: "Guia Vídeo do Criador"
+title: Guia Vídeo do Criador
 id: 8292950610773777
-category: "Vendas em Vídeos"
+category: Vendas em Vídeos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8292950610773777"
-update_time: "2025-12-17"
-keywords: "Criadores"
+update_time: 2025-12-17
+keywords: Criadores
 ---
+
+
+
+
 **Como dominar a Guia de Vídeo: sua central para criar conteúdo com produtos à venda**Como o conteúdo em vídeo continua impulsionando descobertas e conversões no TikTok Shop, a **guia Vídeo** se tornou uma central poderosa para criadores. Seja você um criador experiente ou que esteja só começando, a guia Vídeo oferece um fluxo de trabalho simplificado para ajudar você a **criar**, **gerenciar** e **se inspirar**, tudo em um só lugar.  
 De ferramentas intuitivas de criação de vídeo a insights de desempenho e geradores de ideias, esse recurso foi feito para simplificar suas operações de conteúdo e aumentar a visibilidade do que você publica. Neste artigo, vamos mostrar as três funcionalidades principais da guia Vídeo — **Criar**, **Gerenciar** e **Se inspirar** — e como aproveitar cada uma delas ao máximo.  
 

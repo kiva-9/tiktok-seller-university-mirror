@@ -1,11 +1,15 @@
 ---
-title: "Perguntas frequentes: Restrições temporárias de conta "
+title: "Perguntas frequentes: Restrições temporárias de conta"
 id: 8997715028117264
-category: "Registro"
+category: Registro
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8997715028117264"
-update_time: "2025-03-24"
-keywords: "Sellers"
+update_time: 2025-03-24
+keywords: Sellers
 ---
+
+
+
+
 ## **Restrições temporárias de conta**
 
 No TikTok Shop, temos o compromisso de oferecer um ambiente seguro para nossos usuários. Para proteger nossos usuários, clientes e vendedores, a TikTok Shop pode ocasionalmente restringir determinados recursos de conta de vendedor como medida de precaução.

@@ -1,11 +1,15 @@
 ---
-title: "Como evitar violações de marcas comerciais"
+title: Como evitar violações de marcas comerciais
 id: 5398633114650369
-category: "Direitos de Propriedade Intelectual"
+category: Direitos de Propriedade Intelectual
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5398633114650369"
-update_time: "2025-03-24"
+update_time: 2025-03-24
 keywords: "Seller Policy,Sellers"
 ---
+
+
+
+
 O TikTok Shop mantém uma política rígida contra todas as formas de violação de propriedade intelectual, ou IP (*Intellectual Property*). A publicidade, promoção e venda de produtos que infrinjam direitos de propriedade intelectual de terceiros no TikTok Shop, incluindo marcas comerciais, é estritamente proibida. Consulte nossa **Política de propriedade intelectual do TikTok Shop** para obter mais informações.   
 
 # **O que é uma marca comercial?**

@@ -1,16 +1,15 @@
 ---
-title: "Como Vender Mais com Afiliados"
+title: Como Vender Mais com Afiliados
 id: 2736105422423809
-category: "Webinar"
+category: Webinar
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2736105422423809"
-update_time: "2026-04-23"
-keywords: "Vendedores"
-video_count: 1
-video_url: "https://v16m-default.tiktokcdn.com/aae8c96c6d8f3659875dc699249d7b2f/6a50bee8/video/tos/alisg/tos-alisg-v-9e30d3-sg/okF4QBCTDB6I2XrEuEiefh5iUf8D1F9ZNga2cX/?a=6556&bti=ODY2QDQwNWA%3D&&bt=312&ft=cApXJCz7ThWHZSNzLGZmo0P&mime_type=video_mp4&rc=NTw2aDU1Zzc7PGRkZWlnO0BpM3ZyaXg5cmk5OmYzOGc3NEBjMjJgLjFeNmAxYmEuLS4yYSNlbi5lMmRzamlhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653596647fdbddc5300150210100c1dbf1f000075b5443b&btag=e00068000"
-video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o00xhUzQafhkqfanEXHAW2hX38fejxvAGMQFDr~tplv-noop.image?dr=18692&refresh_token=ef4fffbb&x-expires=1783676648&x-signature=Nm4EYLz8z0bFghBeAfGbeA16rms%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd7l6mfvog65uhf1oqsh0"
-videos:
-  - "https://v16m-default.tiktokcdn.com/aae8c96c6d8f3659875dc699249d7b2f/6a50bee8/video/tos/alisg/tos-alisg-v-9e30d3-sg/okF4QBCTDB6I2XrEuEiefh5iUf8D1F9ZNga2cX/?a=6556&bti=ODY2QDQwNWA%3D&&bt=312&ft=cApXJCz7ThWHZSNzLGZmo0P&mime_type=video_mp4&rc=NTw2aDU1Zzc7PGRkZWlnO0BpM3ZyaXg5cmk5OmYzOGc3NEBjMjJgLjFeNmAxYmEuLS4yYSNlbi5lMmRzamlhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653596647fdbddc5300150210100c1dbf1f000075b5443b&btag=e00068000"
+update_time: 2026-04-23
+keywords: Vendedores
 ---
+
+
+
+
 Neste curso, abordamos o ciclo completo para a construção de parcerias de sucesso com criadores de conteúdo. O treinamento está estruturado para cobrir desde os fundamentos estratégicos até a análise de performance, incluindo os seguintes tópicos:  
 
 1. **Estratégia e Seleção**: Metodologias para a seleção de influenciadores com alto potencial de ROI e o planejamento estratégico para o envio de amostras.

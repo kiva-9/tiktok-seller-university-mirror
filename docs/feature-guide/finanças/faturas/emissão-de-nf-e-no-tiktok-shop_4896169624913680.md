@@ -1,11 +1,15 @@
 ---
-title: "Emissão de NF-e no TikTok Shop"
+title: Emissão de NF-e no TikTok Shop
 id: 4896169624913680
-category: "Faturas"
+category: Faturas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4896169624913680"
-update_time: "2025-09-02"
-keywords: "Vendedores"
+update_time: 2025-09-02
+keywords: Vendedores
 ---
+
+
+
+
 Este artigo ensinará como usar o emissor de NF-e do TikTok em nossa Central do Vendedor, que pode lhe ajudar a simplificar o fluxo de trabalho e economizar tempo ao emitir notas fiscais. A NF-e é obrigatória para utilização dos canais de envio (exceto Correios). Pensando nisso, o TikTok Shop criou esse recurso para facilitar a emissão de uma NF-e.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/df4f2dfe320b4ca68954b805d498dffc~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2069719990&x-signature=5OeuHrQYAy8nqmVsMUiXEr4n9qE%3D)

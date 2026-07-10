@@ -1,11 +1,15 @@
 ---
-title: "Visão geral dos dados do criador"
+title: Visão geral dos dados do criador
 id: 6718270610032400
-category: "Visão Geral dos Dados"
+category: Visão Geral dos Dados
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6718270610032400"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 A **página Dados do criador** fornece aos criadores acesso a insights detalhados sobre o desempenho das transmissões ao vivo, vídeos, produtos e muito mais. Este artigo orientará você sobre onde encontrar esses insights e como eles podem ajudá-lo a aumentar seu desempenho como criador.
 
 ## **🌟 Monitore o desempenho das transações de hoje em tempo real**

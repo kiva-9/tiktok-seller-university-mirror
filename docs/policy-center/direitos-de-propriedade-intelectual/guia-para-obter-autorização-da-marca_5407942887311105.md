@@ -1,11 +1,15 @@
 ---
-title: "Guia para obter autorização da marca"
+title: Guia para obter autorização da marca
 id: 5407942887311105
-category: "Direitos de Propriedade Intelectual"
+category: Direitos de Propriedade Intelectual
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5407942887311105"
-update_time: "2025-09-25"
+update_time: 2025-09-25
 keywords: "IPR,Brand"
 ---
+
+
+
+
 # Pontos principais
 
 * A obtenção da autorização da marca é essencial ao anunciar produtos com o nome da marca ou uma marca comercial.

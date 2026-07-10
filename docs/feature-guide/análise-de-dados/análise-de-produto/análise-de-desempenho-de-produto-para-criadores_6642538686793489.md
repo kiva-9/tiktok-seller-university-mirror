@@ -1,11 +1,15 @@
 ---
-title: "Análise de desempenho de produto para criadores"
+title: Análise de desempenho de produto para criadores
 id: 6642538686793489
-category: "Análise de produto"
+category: Análise de produto
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6642538686793489"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 Este artigo mostrará como usar a Análise de produto, permitindo que você entenda quais produtos estão gerando mais receita, comissão e reembolsos, para que você possa otimizar sua estratégia de produto com eficiência.
 
 **Destaques**

@@ -1,11 +1,15 @@
 ---
-title: "Entender e gerenciar sua Taxa de cancelamento por erro do vendedor (SFCR) "
+title: Entender e gerenciar sua Taxa de cancelamento por erro do vendedor (SFCR)
 id: 3333356285478657
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3333356285478657"
-update_time: "2026-05-11"
+update_time: 2026-05-11
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 ![SFCR.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/fca9f736cd3e4adcac2bbe1c3166975c~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2073551549&x-signature=1znFzgiJrxEHPR4Zk4g8AOvAuuY%3D)
 
 # Pontos principais

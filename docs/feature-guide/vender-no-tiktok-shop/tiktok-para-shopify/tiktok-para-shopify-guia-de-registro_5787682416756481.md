@@ -1,11 +1,15 @@
 ---
 title: "TikTok Para Shopify: Guia de Registro"
 id: 5787682416756481
-category: "TikTok para Shopify"
+category: TikTok para Shopify
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5787682416756481"
-update_time: "2025-04-16"
-keywords: "Sellers"
+update_time: 2025-04-16
+keywords: Sellers
 ---
+
+
+
+
 # **Introdução**
 
 O TikTok for Shopify é um aplicativo conector desenvolvido pelo TikTok, permitindo a sincronização perfeita de catálogo, inventário, envio e dados de pedidos entre a Shopify e o TikTok Shop.

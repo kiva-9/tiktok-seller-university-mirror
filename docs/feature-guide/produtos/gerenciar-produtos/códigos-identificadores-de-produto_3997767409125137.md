@@ -1,11 +1,15 @@
 ---
-title: "Códigos Identificadores de Produto"
+title: Códigos Identificadores de Produto
 id: 3997767409125137
-category: "Gerenciar produtos"
+category: Gerenciar produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3997767409125137"
-update_time: "2025-04-09"
-keywords: "Sellers"
+update_time: 2025-04-09
+keywords: Sellers
 ---
+
+
+
+
 # **Códigos identificadores de produto**
 
 **O que são códigos identificadores de produtos?**

@@ -1,11 +1,15 @@
 ---
-title: "Agendar seus pagamentos"
+title: Agendar seus pagamentos
 id: 6481737900607249
-category: "Recebendo Pagamento"
+category: Recebendo Pagamento
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6481737900607249"
-update_time: "2025-12-24"
-keywords: "Vendedores"
+update_time: 2025-12-24
+keywords: Vendedores
 ---
+
+
+
+
 # O que é um cronograma de pagamentos?
 
 O cronograma de pagamentos se refere às datas em que os ganhos provenientes das vendas são transferidos para a sua conta bancária designada. Escolher quando e com que frequência receber seus pagamentos é um aspecto importante da sua gestão financeira. Você pode optar por receber pagamentos **diariamente**, **em dias úteis**, **semanalmente** ou **mensalmente**.  

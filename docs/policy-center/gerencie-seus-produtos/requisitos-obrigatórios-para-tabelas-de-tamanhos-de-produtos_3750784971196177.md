@@ -1,11 +1,15 @@
 ---
-title: "Requisitos Obrigatórios para Tabelas de Tamanhos de Produtos"
+title: Requisitos Obrigatórios para Tabelas de Tamanhos de Produtos
 id: 3750784971196177
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3750784971196177"
-update_time: "2026-02-12"
-keywords: "Vendedores"
+update_time: 2026-02-12
+keywords: Vendedores
 ---
+
+
+
+
 # Visão geral
 
 ## Finalidade e embasamento

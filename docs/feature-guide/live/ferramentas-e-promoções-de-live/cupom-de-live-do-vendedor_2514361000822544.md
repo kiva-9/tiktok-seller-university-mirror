@@ -1,11 +1,15 @@
 ---
-title: "Cupom de LIVE do vendedor"
+title: Cupom de LIVE do vendedor
 id: 2514361000822544
-category: "Ferramentas e Promoções de LIVE"
+category: Ferramentas e Promoções de LIVE
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2514361000822544"
-update_time: "2026-05-26"
-keywords: "Vendedores"
+update_time: 2026-05-26
+keywords: Vendedores
 ---
+
+
+
+
 Este artigo ensina você a usar o **Cupom de LIVE** para aumentar seu valor médio por pedido e suas taxas de conversão. Você aprenderá como criar, gerenciar e acompanhar os Cupons de LIVE.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/72fc02055cd94b279f263605107502c9~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2095154410&x-signature=EmlW7IteEm%2FzUkBTOdkBMs8s63E%3D)

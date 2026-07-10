@@ -1,11 +1,15 @@
 ---
-title: "Centro de Proteção à Propriedade Intelectual (IPPC) - Como usá-lo"
+title: Centro de Proteção à Propriedade Intelectual (IPPC) - Como usá-lo
 id: 8248592759244561
-category: "Direitos de Propriedade Intelectual"
+category: Direitos de Propriedade Intelectual
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8248592759244561"
-update_time: "2026-05-08"
-keywords: "Política de vendedor"
+update_time: 2026-05-08
+keywords: Política de vendedor
 ---
+
+
+
+
 ![ip葡语.jpg](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ce18b51a2b7b431985649bb00ad6d97c~tplv-nk3i2mqmvs-image.jpg?lk3s=5d1a069b&x-expires=2093579296&x-signature=EE56Q1Uh1orrWo8ElmqwFSm%2BRoc%3D)**Centro de Proteção à Propriedade Intelectual** **(IPPC) -** **Como usá-lo**
 
 ## O que é o Centro de Proteção à Propriedade Intelectual (IPPC)?

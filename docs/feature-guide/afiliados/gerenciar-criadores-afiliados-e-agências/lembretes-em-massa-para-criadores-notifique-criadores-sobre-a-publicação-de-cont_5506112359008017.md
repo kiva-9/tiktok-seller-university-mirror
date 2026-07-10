@@ -1,11 +1,15 @@
 ---
 title: "Lembretes em massa para criadores: notifique criadores sobre a publicação de conteúdo com um só clique"
 id: 5506112359008017
-category: "Gerenciar Criadores Afiliados e Agências"
+category: Gerenciar Criadores Afiliados e Agências
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5506112359008017"
-update_time: "2025-09-24"
-keywords: "Vendedores"
+update_time: 2025-09-24
+keywords: Vendedores
 ---
+
+
+
+
 # Visão geral do recurso
 
 Vendedores agora podem enviar **Lembretes em massa** para criadores que receberam amostras, mas ainda não publicaram nenhum conteúdo. Em vez de enviar mensagens para um criador por vez, você pode notificar vários criadores com um só clique.  

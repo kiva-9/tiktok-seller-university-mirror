@@ -1,11 +1,15 @@
 ---
-title: "Adição de produtos a vídeos curtos (cesta amarela)"
+title: Adição de produtos a vídeos curtos (cesta amarela)
 id: 6824354923824912
-category: "Adicione produtos em vídeos curtos"
+category: Adicione produtos em vídeos curtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6824354923824912"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 Neste artigo, ajudaremos você a adicionar produtos aos seus vídeos. Para que um Criador de afiliados ganhe comissões, ele deve incluir posicionamentos de produto em seu conteúdo ou conta.
 
 Os vídeos curtos são uma excelente maneira de mostrar os pontos de maior venda do produto e a criatividade do criador. Os usuários interessados podem adicionar links de produtos a seus vídeos para ganhar comissão com seu hobby!

@@ -1,11 +1,15 @@
 ---
-title: "Diretrizes para o período de experiência de loja nova "
+title: Diretrizes para o período de experiência de loja nova
 id: 1444948507379472
-category: "Gerenciamento de Conta"
+category: Gerenciamento de Conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1444948507379472"
-update_time: "2026-04-02"
+update_time: 2026-04-02
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 ## **Período probatório de loja nova**
 
 Boas-vindas ao TikTok Shop! Estamos felizes por escolher vender conosco. Sabemos que montar uma loja pode ser estressante. Nosso período probatório foi criado para ajudar você a construir uma base forte e confiável antes de expandir seus negócios no TikTok Shop.  

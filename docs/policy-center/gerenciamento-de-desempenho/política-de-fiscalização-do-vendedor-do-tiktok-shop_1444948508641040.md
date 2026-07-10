@@ -1,16 +1,15 @@
 ---
-title: "Política de Fiscalização do Vendedor do TikTok Shop "
+title: Política de Fiscalização do Vendedor do TikTok Shop
 id: 1444948508641040
-category: "Gerenciamento de Desempenho"
+category: Gerenciamento de Desempenho
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1444948508641040"
-update_time: "2026-07-09"
+update_time: 2026-07-09
 keywords: "Seller Policy,Sellers"
-video_count: 1
-video_url: "https://v16m-default.tiktokcdn.com/3755eecdb8802e2e2ed8ed33771ef7dc/6a50bc3d/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0FtyYfwoiEQDR64l8w5IZiiHRV110UVBHAiA1/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1345&ft=cApXJCz7ThWHGWNzLGZmo0P&mime_type=video_mp4&rc=NWc2OjtlOjo6ZDg7NTgzNEBpam84dmw5cng3N2YzOGc3NEBgNDJeNGFeNmMxL2JgL2NiYSMuZzRqMmRjMl5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654233612fdbddc5300150210100c1dbf1f000075a1117f&btag=e00050000"
-video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/og0mojUt8A1EiYi6yAZIwP1Dtil5wufsRFRBiD~tplv-noop.image?dr=18692&refresh_token=be81267b&x-expires=1783675965&x-signature=OXziSWaMsd5z3Mv6zg3C0ndaaRA%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd4a45ufog65ims75jl1g"
-videos:
-  - "https://v16m-default.tiktokcdn.com/3755eecdb8802e2e2ed8ed33771ef7dc/6a50bc3d/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0FtyYfwoiEQDR64l8w5IZiiHRV110UVBHAiA1/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1345&ft=cApXJCz7ThWHGWNzLGZmo0P&mime_type=video_mp4&rc=NWc2OjtlOjo6ZDg7NTgzNEBpam84dmw5cng3N2YzOGc3NEBgNDJeNGFeNmMxL2JgL2NiYSMuZzRqMmRjMl5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654233612fdbddc5300150210100c1dbf1f000075a1117f&btag=e00050000"
 ---
+
+
+
+
 # Política de Fiscalização do Vendedor (Avaliação do Estado da Conta) (**em vigor a partir de 30 de junho de 2025)**
 
 ![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/3c6ffa3c116f46c1b2b2d30fc1bf23a3~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2066718850&x-signature=PtQ3GLaSnSA4%2B%2BLHSpsR0tvpe44%3D)

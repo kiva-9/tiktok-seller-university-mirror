@@ -1,11 +1,15 @@
 ---
-title: "Nota Fiscal Logística"
+title: Nota Fiscal Logística
 id: 6507317009794833
-category: "Faturas"
+category: Faturas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6507317009794833"
-update_time: "2026-01-22"
-keywords: "Vendedores"
+update_time: 2026-01-22
+keywords: Vendedores
 ---
+
+
+
+
 O novo recurso será disponibilizado para os lojistas **em fases**, com um **período de transição estimado de 1 a 2 meses**. Fique atento às **notificações por e-mail ou na caixa de entrada** para acompanhar as atualizações específicas do rollout.  
 Agradecemos sinceramente a sua **paciência e compreensão** durante esse processo.  
 

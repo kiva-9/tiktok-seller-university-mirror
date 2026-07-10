@@ -1,11 +1,15 @@
 ---
-title: "Políticas em Destaque (Agosto - Setembro de 2025) "
+title: Políticas em Destaque (Agosto - Setembro de 2025)
 id: 7204971943560976
-category: "Políticas em Destaque"
+category: Políticas em Destaque
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7204971943560976"
-update_time: "2025-10-16"
+update_time: 2025-10-16
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 ✨Bem-vindo ao *Policy Pulse*: seu resumo mensal com as últimas atualizações de políticas do TikTok Shop Brasil.✨  
 
 # Políticas em Destaque (Setembro de 2025)

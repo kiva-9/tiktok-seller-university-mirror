@@ -1,11 +1,15 @@
 ---
-title: "Política de acesso não autorizado a contas"
+title: Política de acesso não autorizado a contas
 id: 308893506946833
-category: "Gerenciamento de Conta"
+category: Gerenciamento de Conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=308893506946833"
-update_time: "2026-06-08"
-keywords: ""
+update_time: 2026-06-08
+keywords: 
 ---
+
+
+
+
 **Visão geral**
 
 ## 1.1 Introdução

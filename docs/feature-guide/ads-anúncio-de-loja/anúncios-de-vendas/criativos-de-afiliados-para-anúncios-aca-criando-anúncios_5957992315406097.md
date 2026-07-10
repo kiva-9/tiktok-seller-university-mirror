@@ -1,11 +1,15 @@
 ---
-title: "Criativos de afiliados para anúncios (ACA) - Criando anúncios"
+title: Criativos de afiliados para anúncios (ACA) - Criando anúncios
 id: 5957992315406097
-category: "Anúncios de vendas"
+category: Anúncios de vendas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5957992315406097"
-update_time: "2025-05-27"
-keywords: "Vendedores"
+update_time: 2025-05-27
+keywords: Vendedores
 ---
+
+
+
+
 Os criativos de afiliados são postagens do TikTok criadas por afiliados que podem ser autorizadas para uso no TikTok Shop Ads. Quando você usa um vídeo criado por um criador afiliado em seus anúncios da loja, os criadores afiliados podem ganhar comissões pelas vendas dos produtos vinculados no vídeo.  
 
 # **Características**

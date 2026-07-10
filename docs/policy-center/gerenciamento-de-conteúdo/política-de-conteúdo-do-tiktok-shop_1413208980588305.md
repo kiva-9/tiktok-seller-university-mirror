@@ -1,11 +1,15 @@
 ---
-title: "Política de Conteúdo do TikTok Shop"
+title: Política de Conteúdo do TikTok Shop
 id: 1413208980588305
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1413208980588305"
-update_time: "2026-07-01"
-keywords: "Creators"
+update_time: 2026-07-01
+keywords: Creators
 ---
+
+
+
+
 # Introdução
 
 A **Política de Conteúdo do TikTok Shop** abrange todo o conteúdo compartilhado no TikTok Shop.   

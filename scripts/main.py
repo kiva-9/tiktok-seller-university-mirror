@@ -403,7 +403,7 @@ def write_article_md(article_meta, content_body, category_path, tab_name):
     filename = f"{safe_title}_{article_meta['knowledge_id']}.md"
     filepath = os.path.join(dir_path, filename)
 
-    # YAML frontmatter
+    # YAML frontmatter（Rspress 兼容：只保留基础字段，URL 用引号包裹）
     frontmatter = {
         "title": article_meta["knowledge_name"],
         "id": article_meta["knowledge_id"],
@@ -413,15 +413,14 @@ def write_article_md(article_meta, content_body, category_path, tab_name):
         "keywords": article_meta.get("keywords", ""),
     }
 
-    # 视频结构化数据（如果有）
+    # 视频信息：放在正文里（避免 Rspress YAML 解析特殊字符崩溃）
     videos = article_meta.get("videos", [])
+    video_section = ""
     if videos:
-        frontmatter["video_count"] = len(videos)
-        # 第一个视频作为主视频
-        frontmatter["video_url"] = videos[0]["url"]
-        frontmatter["video_cover"] = videos[0]["cover"]
-        # 全部视频 URL 列表（方便 RAG 批量提取）
-        frontmatter["videos"] = [v["url"] for v in videos]
+        video_section = "\n\n## 视频\n\n"
+        for i, v in enumerate(videos, 1):
+            video_section += f"![视频 {i} 封面]({v['cover']})\n\n"
+            video_section += f"[🎬 视频 {i}]({v['url']})\n\n"
 
     # 组装 Markdown
     yaml_lines = ["---"]
@@ -440,7 +439,7 @@ def write_article_md(article_meta, content_body, category_path, tab_name):
     yaml_lines.append("---")
     yaml_lines.append("")
 
-    md_content = "\n".join(yaml_lines) + content_body + "\n"
+    md_content = "\n".join(yaml_lines) + content_body + video_section + "\n"
 
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(md_content)

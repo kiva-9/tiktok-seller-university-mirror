@@ -1,11 +1,15 @@
 ---
-title: "Aplicativo da Central de Vendedores"
+title: Aplicativo da Central de Vendedores
 id: 3180070811780865
-category: "Gerenciar contas"
+category: Gerenciar contas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3180070811780865"
-update_time: "2025-09-22"
-keywords: "Vendedores"
+update_time: 2025-09-22
+keywords: Vendedores
 ---
+
+
+
+
 ### **O que é a Central de Vendedores do TikTok Shop?**
 
 A Central de Vendedores do TikTok Shop é um aplicativo móvel gratuito que permite gerenciar seu negócio no TikTok Shop, acompanhar o desempenho e estar em contato com seus clientes a qualquer hora e em qualquer lugar.  

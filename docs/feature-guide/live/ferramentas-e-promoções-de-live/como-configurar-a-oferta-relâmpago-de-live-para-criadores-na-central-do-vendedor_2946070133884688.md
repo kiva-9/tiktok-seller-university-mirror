@@ -1,11 +1,15 @@
 ---
-title: "Como configurar a Oferta relâmpago de LIVE para criadores na Central do vendedor"
+title: Como configurar a Oferta relâmpago de LIVE para criadores na Central do vendedor
 id: 2946070133884688
-category: "Ferramentas e Promoções de LIVE"
+category: Ferramentas e Promoções de LIVE
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2946070133884688"
-update_time: "2026-02-11"
-keywords: "Vendedores"
+update_time: 2026-02-11
+keywords: Vendedores
 ---
+
+
+
+
 ## Atualização da versão
 
 |  |  |  |  |

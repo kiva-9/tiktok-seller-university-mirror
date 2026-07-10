@@ -1,11 +1,15 @@
 ---
-title: "Política de Segurança de Produtos e Recall – TikTok Shop"
+title: Política de Segurança de Produtos e Recall – TikTok Shop
 id: 2753154123319056
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2753154123319056"
-update_time: "2026-04-24"
-keywords: "Política de vendedor"
+update_time: 2026-04-24
+keywords: Política de vendedor
 ---
+
+
+
+
 ## **Princípio da Política**
 
 Esta política foi desenvolvida em conformidade com o Código de Defesa do Consumidor, as leis de comércio eletrônico aplicáveis e as normas pertinentes emitidas pela ANVISA, INMETRO, ANATEL e demais órgãos competentes.  

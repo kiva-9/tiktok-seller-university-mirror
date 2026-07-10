@@ -1,11 +1,15 @@
 ---
-title: "Configurações de Comissão de Afiliados para Vendedores"
+title: Configurações de Comissão de Afiliados para Vendedores
 id: 6583987620562705
-category: "Colaborações com criadores de conteúdo"
+category: Colaborações com criadores de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6583987620562705"
-update_time: "2025-04-10"
-keywords: "Sellers"
+update_time: 2025-04-10
+keywords: Sellers
 ---
+
+
+
+
 Este artigo abordará as funcionalidades do programa de Afiliados que permitem ao usuário editar a taxa de comissão que oferece aos Criadores.  
  Essas funcionalidades dependem da situação e devem ser usadas com cautela. Para começar, vamos abordar a seguinte funcionalidade: "**Atrasar as Alterações nas Taxas de Comissão**".  
 

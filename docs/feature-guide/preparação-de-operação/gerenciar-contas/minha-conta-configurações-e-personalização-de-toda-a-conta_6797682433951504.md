@@ -1,11 +1,15 @@
 ---
 title: "Minha Conta: Configurações e Personalização de Toda a Conta"
 id: 6797682433951504
-category: "Gerenciar contas"
+category: Gerenciar contas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6797682433951504"
-update_time: "2025-04-13"
-keywords: "Sellers"
+update_time: 2025-04-13
+keywords: Sellers
 ---
+
+
+
+
 Este artigo ajudará você a encontrar e definir todas as informações, configurações e personalização da sua conta.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6eda840f7b50484280ca29167af23b0c~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059575582&x-signature=txkT2CswqOL%2F2jpiK%2FKg8fwPz2Q%3D)

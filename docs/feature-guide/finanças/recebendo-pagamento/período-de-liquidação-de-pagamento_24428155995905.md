@@ -1,11 +1,15 @@
 ---
-title: "Período de Liquidação de Pagamento"
+title: Período de Liquidação de Pagamento
 id: 24428155995905
-category: "Recebendo Pagamento"
+category: Recebendo Pagamento
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=24428155995905"
-update_time: "2025-08-12"
-keywords: "Sellers"
+update_time: 2025-08-12
+keywords: Sellers
 ---
+
+
+
+
 ## **Período de liquidação de pagamento**
 
 O **período de liquidação de pagamento** é o período entre o dia em que um pedido é entregue até o dia em que os fundos são liberados para um vendedor para o(s) pedido(s) concluído(s). Existem três tipos de períodos de liquidação de pagamento disponíveis na TikTok Shop:

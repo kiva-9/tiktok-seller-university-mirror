@@ -1,11 +1,15 @@
 ---
-title: "Regra de preço limite da campanha e preço recomendado"
+title: Regra de preço limite da campanha e preço recomendado
 id: 3351782382814993
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3351782382814993"
-update_time: "2026-02-11"
-keywords: "Vendedores"
+update_time: 2026-02-11
+keywords: Vendedores
 ---
+
+
+
+
 Este artigo apresenta uma visão geral detalhada das regras relacionadas ao preço da campanha, incluindo:  
 
 1. Preço limite da campanha

@@ -1,11 +1,15 @@
 ---
 title: "Terms of Service: Gobeaute Gogroup Creator Leaderboard Competition"
 id: 1908291933554448
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1908291933554448"
-update_time: "2026-03-04"
+update_time: 2026-03-04
 keywords: "Creators,Creator Policy"
 ---
+
+
+
+
 #1. Lescent  
 #2. Kokeshi, Ápice and Rituária  
 

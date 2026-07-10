@@ -1,11 +1,15 @@
 ---
-title: "Como Enviar Amostras Grátis"
+title: Como Enviar Amostras Grátis
 id: 2915348630701825
-category: "Serviço de compras"
+category: Serviço de compras
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2915348630701825"
-update_time: "2026-05-20"
-keywords: "Sellers"
+update_time: 2026-05-20
+keywords: Sellers
 ---
+
+
+
+
 ## Visão geral
 
 Este artigo ensinará como processar solicitações de amostra grátis de criadores. Isso envolve os **métodos de envio, remessa, embalagem, rastreio** e **pagamento** relacionados ao envio de amostras grátis para criadores.

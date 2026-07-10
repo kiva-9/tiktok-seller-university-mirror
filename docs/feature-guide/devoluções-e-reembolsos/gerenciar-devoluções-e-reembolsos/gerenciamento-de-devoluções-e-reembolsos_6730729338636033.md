@@ -1,11 +1,15 @@
 ---
-title: "Gerenciamento De Devoluções e Reembolsos"
+title: Gerenciamento De Devoluções e Reembolsos
 id: 6730729338636033
-category: "Gerenciar devoluções e reembolsos"
+category: Gerenciar devoluções e reembolsos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6730729338636033"
-update_time: "2026-04-14"
-keywords: "Sellers"
+update_time: 2026-04-14
+keywords: Sellers
 ---
+
+
+
+
 Este artigo fornecerá a você uma breve introdução ao processo de devolução e reembolso, para que consiga gerir as solicitações dos clientes de maneira eficaz e garantir uma experiência de compra positiva.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0cac5c00cdc64df2ad3f234608ce2add~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2068158264&x-signature=nvuSYxslaDxr16Ake9Wsg3oCul4%3D)

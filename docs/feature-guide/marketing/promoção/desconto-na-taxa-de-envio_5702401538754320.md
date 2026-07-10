@@ -1,11 +1,15 @@
 ---
-title: "Desconto na Taxa de Envio"
+title: Desconto na Taxa de Envio
 id: 5702401538754320
-category: "Promoção"
+category: Promoção
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5702401538754320"
-update_time: "2026-02-11"
-keywords: "Sellers"
+update_time: 2026-02-11
+keywords: Sellers
 ---
+
+
+
+
 Este artigo ensina como usar a ferramenta Desconto na taxa de envio. Você aprenderá a configurar e gerenciar as promoções de Desconto na taxa de envio no seu PC da Central do vendedor.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/dd094717d4514502bcec4e1ad423d986~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059609713&x-signature=m9fFUqka2tL0U88NjlkSLPXedkU%3D)

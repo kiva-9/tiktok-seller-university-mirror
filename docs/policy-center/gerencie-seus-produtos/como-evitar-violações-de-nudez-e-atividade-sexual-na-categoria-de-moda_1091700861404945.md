@@ -1,11 +1,15 @@
 ---
-title: "Como Evitar Violações de Nudez e Atividade Sexual na Categoria de Moda"
+title: Como Evitar Violações de Nudez e Atividade Sexual na Categoria de Moda
 id: 1091700861404945
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1091700861404945"
-update_time: "2026-02-21"
+update_time: 2026-02-21
 keywords: "Política de vendedor,Vendedores"
 ---
+
+
+
+
 ![Copy of Other Region Banners.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/24be97ab4670485e8ec971886b01ee3a~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2073296714&x-signature=BRj9ugCyJbUEHbCz39tRh2%2F081Q%3D)**Por que isso importa?**A venda de lingerie e moda praia é permitida no TikTok Shop — mas os anúncios devem seguir nossa política de conteúdo.  
 Imagens ou descrições muito reveladoras ou sexualmente sugestivas podem ser consideradas violações, resultando em rejeição.  
 Este guia ajudará você a anunciar seus produtos corretamente e evitar rejeições.  

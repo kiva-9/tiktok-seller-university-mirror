@@ -1,11 +1,15 @@
 ---
 title: "Título: Termos de Serviço – Leaderboard de LIVE Dezembro 2025 Top Creators"
 id: 4987016190789393
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4987016190789393"
-update_time: "2025-12-04"
+update_time: 2025-12-04
 keywords: "Política de Criador,Criadores"
 ---
+
+
+
+
 Título: Termos de Serviço – Leaderboard de LIVE Dezembro 2025 Top Creators  
 
 |  |  |

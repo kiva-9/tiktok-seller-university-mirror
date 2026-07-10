@@ -1,11 +1,15 @@
 ---
-title: "O que é o TikTok Shop Affiliate? "
+title: O que é o TikTok Shop Affiliate?
 id: 6583987619710737
-category: "Colaborações com criadores de conteúdo"
+category: Colaborações com criadores de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6583987619710737"
-update_time: "2025-04-14"
-keywords: "Sellers"
+update_time: 2025-04-14
+keywords: Sellers
 ---
+
+
+
+
 Neste artigo, vamos apresentar a você uma visão geral do TikTok Shop Affiliate. Como vendedor da TikTok Shop, ele permite que você se conecte com nossa extensa rede de criadores. Esses Criadores podem ajudar a vender e promover seu produto por meio do próprio conteúdo, seja em vídeos curtos ou sessões de LIVE.
 
 O TikTok Shop fornece um conjunto de recursos para garantir que a promoção de seus produtos para os Criadores seja a mais perfeita possível.

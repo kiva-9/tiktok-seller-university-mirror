@@ -1,11 +1,15 @@
 ---
-title: "Análise de promoções realizadas por vendedores"
+title: Análise de promoções realizadas por vendedores
 id: 2714456296949505
-category: "Promoção"
+category: Promoção
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2714456296949505"
-update_time: "2026-02-10"
-keywords: "Vendedores"
+update_time: 2026-02-10
+keywords: Vendedores
 ---
+
+
+
+
 # **Visão geral do produto**
 
 Seu ponto central para entender como cada promoção influencia o desempenho da sua loja. Veja o impacto real das suas promoções com uma análise clara e prática, para que você possa criar estratégias mais inteligentes e eficazes.  

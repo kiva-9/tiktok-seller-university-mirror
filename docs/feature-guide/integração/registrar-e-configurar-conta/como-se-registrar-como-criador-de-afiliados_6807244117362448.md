@@ -1,11 +1,15 @@
 ---
-title: "Como se registrar como Criador de afiliados"
+title: Como se registrar como Criador de afiliados
 id: 6807244117362448
-category: "Registrar e configurar conta"
+category: Registrar e configurar conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6807244117362448"
-update_time: "2025-07-15"
-keywords: "Creators"
+update_time: 2025-07-15
+keywords: Creators
 ---
+
+
+
+
 Está interessado em ingressar no TikTok Shop como Criador? Quer usar sua conta e obter ganhos por comissão? Este artigo ensinará você a se registrar como Criador usando o aplicativo TikTok.
 
 Confira estas duas etapas simples para começar.

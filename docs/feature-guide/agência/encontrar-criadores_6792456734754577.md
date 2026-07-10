@@ -1,11 +1,15 @@
 ---
-title: "Encontrar Criadores"
+title: Encontrar Criadores
 id: 6792456734754577
-category: "Agência"
+category: Agência
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6792456734754577"
-update_time: "2025-04-16"
-keywords: "Creators"
+update_time: 2025-04-16
+keywords: Creators
 ---
+
+
+
+
 Este guia mostra como os Parceiros de Agência de Criadores (CAP) e os Parceiros de Afiliados do TikTok Shop (TAP) podem desbloquear infinitas oportunidades de colaboração através da página **Encontrar Criadores**. Conecte-se facilmente com uma vasta rede de criadores talentosos, refine sua busca com filtros poderosos e encontre os parceiros ideais para colaborar.  
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/cb8be94ad49a4446aa462c87ce166813~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2060155820&x-signature=OToQszXJD3tmyMU%2BYGvBavtdIdo%3D)

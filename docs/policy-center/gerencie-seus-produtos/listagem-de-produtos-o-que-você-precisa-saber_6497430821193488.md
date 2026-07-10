@@ -1,11 +1,15 @@
 ---
 title: "Listagem de produtos: o que você precisa saber"
 id: 6497430821193488
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6497430821193488"
-update_time: "2025-09-23"
+update_time: 2025-09-23
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 > **Pontos principais:**
 >
 > * Apresente descrições claras, honestas e detalhadas para que os clientes possam descobrir e comprar facilmente seus produtos.

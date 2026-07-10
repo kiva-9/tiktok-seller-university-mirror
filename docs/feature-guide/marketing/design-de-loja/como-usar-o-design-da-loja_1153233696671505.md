@@ -1,11 +1,15 @@
 ---
-title: "Como usar o Design da loja"
+title: Como usar o Design da loja
 id: 1153233696671505
-category: "Design de Loja"
+category: Design de Loja
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1153233696671505"
-update_time: "2026-01-09"
-keywords: "Vendedores"
+update_time: 2026-01-09
+keywords: Vendedores
 ---
+
+
+
+
 # **Visão geral do recurso**
 
 O Design da loja é uma ferramenta gratuita e fácil de usar que permite personalizar a página do seu TikTok Shop, a página principal vista pelos compradores ao visitarem sua loja. Você pode adicionar seu logotipo, destacar os principais produtos e criar um layout que mostre sua marca, facilite a navegação e a compra dos produtos pelos consumidores.  

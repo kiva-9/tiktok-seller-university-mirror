@@ -1,11 +1,15 @@
 ---
-title: "Colaborações do Affiliate"
+title: Colaborações do Affiliate
 id: 6580476438529809
-category: "Colaborações com criadores de conteúdo"
+category: Colaborações com criadores de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6580476438529809"
-update_time: "2025-06-10"
-keywords: "Sellers"
+update_time: 2025-06-10
+keywords: Sellers
 ---
+
+
+
+
 Este artigo mostrará como usar o recurso de **Colaboração** (anteriormente conhecido como **Planos**) no TikTok Shop Affiliate. O Programa de afiliados oferece a você, como vendedor, mais maneiras de vender produtos com a ajuda dos Criadores. Com o TikTok Shop Affiliate, tanto o vendedor quanto o Criador se ajudam mutuamente para ganhar: os vendedores podem vender mais produtos e os Criadores podem ganhar comissão com a venda desses produtos.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0dde8960b88349218d637334d31ec945~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059612045&x-signature=sMLS6mnOpXo2at%2F87tNgXFxpzAU%3D)

@@ -1,11 +1,15 @@
 ---
-title: "Configurações De Regras Automatizadas Para Cancelamentos Auto-Aprovados"
+title: Configurações De Regras Automatizadas Para Cancelamentos Auto-Aprovados
 id: 6736141320750864
-category: "Gerenciar devoluções e reembolsos"
+category: Gerenciar devoluções e reembolsos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6736141320750864"
-update_time: "2025-04-13"
-keywords: "Sellers"
+update_time: 2025-04-13
+keywords: Sellers
 ---
+
+
+
+
 # Visão Geral
 
 Este artigo fornecerá a você um passo a passo rápido sobre como usar a ferramenta de cancelamentos automáticos assim como configurar as regras automatizadas para aceitar essas solicitações de cancelamento feitas pelos compradores. Ao estabelecer as regras, quando a solicitação de um comprador corresponde aos critérios definidos, o pedido de cancelamento será aprovado automaticamente, o que salva seu tempo e elimina a necessidade de análise manual.

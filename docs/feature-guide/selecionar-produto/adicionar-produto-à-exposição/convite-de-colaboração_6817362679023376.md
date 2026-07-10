@@ -1,11 +1,15 @@
 ---
-title: "Convite de Colaboração"
+title: Convite de Colaboração
 id: 6817362679023376
-category: "Adicionar produto à exposição"
+category: Adicionar produto à exposição
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6817362679023376"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 Este artigo vai te ensinar como adicionar produtos **à sua vitrine do TikTok Shop** ao receber um convite de colaboração de um vendedor.Esses convites fazem parte do Programa de Afiliados do TikTok Shop e indicam que você foi escolhido por um vendedor para colaborar diretamente com ele.  
 Para começar, vamos te mostrar como funciona o recebimento do convite e o passo a passo do processo — do convite até a **parceria.**
 

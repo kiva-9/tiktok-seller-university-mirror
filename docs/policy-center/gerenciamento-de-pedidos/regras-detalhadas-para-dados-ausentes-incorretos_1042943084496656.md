@@ -1,11 +1,15 @@
 ---
-title: "Regras detalhadas para dados ausentes/incorretos"
+title: Regras detalhadas para dados ausentes/incorretos
 id: 1042943084496656
-category: "Gerenciamento de Pedidos"
+category: Gerenciamento de Pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1042943084496656"
-update_time: "2026-06-26"
-keywords: "Política de vendedor"
+update_time: 2026-06-26
+keywords: Política de vendedor
 ---
+
+
+
+
 # O que significa "Ausente/Incorreto"?
 
 Refere-se à situação em que os produtos entregues pelo vendedor não correspondem ao estilo, cor, tamanho, dimensões ou quantidade especificados no pedido do cliente. Isso inclui, entre outros, erros ou omissões relacionados ao produto, à embalagem, à cor, aos acessórios, aos brindes e à quantidade.  

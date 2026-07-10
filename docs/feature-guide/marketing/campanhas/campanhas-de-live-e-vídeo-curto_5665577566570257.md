@@ -1,11 +1,15 @@
 ---
-title: "Campanhas de LIVE E Vídeo Curto"
+title: Campanhas de LIVE E Vídeo Curto
 id: 5665577566570257
-category: "Campanhas"
+category: Campanhas
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5665577566570257"
-update_time: "2026-02-10"
-keywords: "Sellers"
+update_time: 2026-02-10
+keywords: Sellers
 ---
+
+
+
+
 Este artigo ensina você a usar as campanhas de transmissão ao vivo para aumentar o tráfego e as conversões em suas transmissões ao vivo. Você aprenderá a se registrar e gerenciar campanhas de transmissão ao vivo na Central do vendedor pelo PC.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/60626f1284104e54b9d72e5a7545c924~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2059610244&x-signature=%2FY2FkGDl%2BXhorz96HG0L9muphfU%3D)

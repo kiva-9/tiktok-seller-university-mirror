@@ -1,11 +1,15 @@
 ---
-title: "Política de Listagem de Produtos do TikTok Shop"
+title: Política de Listagem de Produtos do TikTok Shop
 id: 6483182812759824
-category: "Gerencie seus produtos"
+category: Gerencie seus produtos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6483182812759824"
-update_time: "2026-02-26"
+update_time: 2026-02-26
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 # Visão Geral
 
 Bem-vindo à **Política de Listagem de Produtos do TikTok Shop**, um recurso abrangente que descreve as regras para listagens de produtos em nossa plataforma. Esta política pode ser atualizada regularmente a critério exclusivo do TikTok. É responsabilidade dos vendedores consultar frequentemente esta página para garantir a conformidade com nossa política mais atualizada.  

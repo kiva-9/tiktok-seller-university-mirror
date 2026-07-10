@@ -1,11 +1,15 @@
 ---
-title: "Guia de amostra grátis para vendedores"
+title: Guia de amostra grátis para vendedores
 id: 6589441682917136
-category: "Colaborações com criadores de conteúdo"
+category: Colaborações com criadores de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6589441682917136"
-update_time: "2026-02-05"
-keywords: "Sellers"
+update_time: 2026-02-05
+keywords: Sellers
 ---
+
+
+
+
 Este artigo mostrará tudo o que você precisa saber sobre amostras grátis do ponto de vista de um vendedor. Amostras grátis podem ser usadas nos programas de **Colaboração aberta** e **Colaboração direcionada** do vendedor. Neste artigo, vamos abordar como adicionar ofertas de amostra grátis para ambas Colaborações, juntamente com o envio de amostras grátis para Criadores.
 
 Para começar, vamos apresentar o que são amostras grátis e os benefícios que elas oferecem a você como um vendedor.

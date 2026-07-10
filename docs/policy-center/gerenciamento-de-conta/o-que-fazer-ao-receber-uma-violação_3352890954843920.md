@@ -1,11 +1,15 @@
 ---
-title: "O que fazer ao receber uma violação"
+title: O que fazer ao receber uma violação
 id: 3352890954843920
-category: "Gerenciamento de Conta"
+category: Gerenciamento de Conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3352890954843920"
-update_time: "2026-03-31"
+update_time: 2026-03-31
 keywords: "Vendedores,Política de vendedor"
 ---
+
+
+
+
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/cc1f08c96f934619be72de33b609ceea~tplv-nk3i2mqmvs-image.gif?lk3s=5d1a069b&x-expires=2090360010&x-signature=bCw9iV%2BcNi37qfWB1rglPOnY0LU%3D)
 
 Este guia explica o que você deve fazer ao receber uma violação.  

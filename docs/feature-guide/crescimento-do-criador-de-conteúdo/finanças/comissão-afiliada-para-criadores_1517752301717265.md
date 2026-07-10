@@ -1,11 +1,15 @@
 ---
-title: "Comissão afiliada para criadores"
+title: Comissão afiliada para criadores
 id: 1517752301717265
-category: "Finanças"
+category: Finanças
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1517752301717265"
-update_time: "2026-07-01"
-keywords: "Creators"
+update_time: 2026-07-01
+keywords: Creators
 ---
+
+
+
+
 Neste artigo, vamos orientá-lo sobre como os criadores recebem comissão com base nas ações do comprador antes da finalização da compra de um produto da afiliada.
 
 Além disso, analisaremos como você pode calcular, visualizar e gerenciar sua comissão.

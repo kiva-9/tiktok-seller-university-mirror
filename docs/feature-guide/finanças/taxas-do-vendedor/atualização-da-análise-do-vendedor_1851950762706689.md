@@ -1,11 +1,15 @@
 ---
-title: "Atualização da análise do vendedor"
+title: Atualização da análise do vendedor
 id: 1851950762706689
-category: "Taxas do Vendedor"
+category: Taxas do Vendedor
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1851950762706689"
-update_time: "2026-06-09"
-keywords: ""
+update_time: 2026-06-09
+keywords: 
 ---
+
+
+
+
 ### O que é a Análise de receita?
 
 Esta página ajuda você a analisar **o total de receitas, despesas e desempenho geral em termos de lucro dos pedidos** da sua loja com base em todas as transações, incluindo pedidos pagos e ajustes liquidados.

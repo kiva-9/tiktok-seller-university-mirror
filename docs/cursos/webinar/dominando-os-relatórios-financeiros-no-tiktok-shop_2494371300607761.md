@@ -1,16 +1,15 @@
 ---
-title: "Dominando os Relatórios Financeiros no TikTok Shop"
+title: Dominando os Relatórios Financeiros no TikTok Shop
 id: 2494371300607761
-category: "Webinar"
+category: Webinar
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2494371300607761"
-update_time: "2026-06-01"
-keywords: "Vendedores"
-video_count: 1
-video_url: "https://v16m-default.tiktokcdn.com/c70ae68e6f1bd2fa7969700f76131157/6a50c1d2/video/tos/alisg/tos-alisg-v-9e30d3-sg/ocBfx9Ea0FDOlLPiQpED4mfQIIa8gbEIBQRSv1/?a=6556&bti=ODY2QDQwNWA%3D&&bt=263&ft=cApXJCz7ThWHySNzLGZmo0P&mime_type=video_mp4&rc=NTo5Zjs2ZGU8NzdkNmQ1M0BpMzU8PHY5cm5pOGYzOGc3NEAtXy0uMWFjNl8xXzJfYWAzYSMxYy02MmRrYWhhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653586491fdbddc5300150210100c1dbf1f000075c70d2f&btag=e00068000"
-video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/e480f1480c8d45c4ae0c1c93f5ea7e2c_1768487186~tplv-noop.image?dr=18692&refresh_token=25104e47&x-expires=1783677394&x-signature=NlxcGzfocd1H3034DojZKZuNwPk%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd5kfdknog65s9909f240"
-videos:
-  - "https://v16m-default.tiktokcdn.com/c70ae68e6f1bd2fa7969700f76131157/6a50c1d2/video/tos/alisg/tos-alisg-v-9e30d3-sg/ocBfx9Ea0FDOlLPiQpED4mfQIIa8gbEIBQRSv1/?a=6556&bti=ODY2QDQwNWA%3D&&bt=263&ft=cApXJCz7ThWHySNzLGZmo0P&mime_type=video_mp4&rc=NTo5Zjs2ZGU8NzdkNmQ1M0BpMzU8PHY5cm5pOGYzOGc3NEAtXy0uMWFjNl8xXzJfYWAzYSMxYy02MmRrYWhhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653586491fdbddc5300150210100c1dbf1f000075c70d2f&btag=e00068000"
+update_time: 2026-06-01
+keywords: Vendedores
 ---
+
+
+
+
 Este curso explora os componentes essenciais do módulo Financeiro que garantem a saúde do seu negócio na plataforma. Dominar esses relatórios garantirá transparência total sobre seus recebimentos e ajudará a otimizar sua rentabilidade.  
 
 🎬 [视频](https://v16m-default.tiktokcdn.com/c70ae68e6f1bd2fa7969700f76131157/6a50c1d2/video/tos/alisg/tos-alisg-v-9e30d3-sg/ocBfx9Ea0FDOlLPiQpED4mfQIIa8gbEIBQRSv1/?a=6556&bti=ODY2QDQwNWA%3D&&bt=263&ft=cApXJCz7ThWHySNzLGZmo0P&mime\_type=video\_mp4&rc=NTo5Zjs2ZGU8NzdkNmQ1M0BpMzU8PHY5cm5pOGYzOGc3NEAtXy0uMWFjNl8xXzJfYWAzYSMxYy02MmRrYWhhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653586491fdbddc5300150210100c1dbf1f000075c70d2f&btag=e00068000)

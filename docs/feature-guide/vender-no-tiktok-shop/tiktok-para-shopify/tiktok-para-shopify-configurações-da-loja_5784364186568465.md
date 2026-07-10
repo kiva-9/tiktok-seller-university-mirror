@@ -1,11 +1,15 @@
 ---
 title: "TikTok Para Shopify: Configurações Da Loja"
 id: 5784364186568465
-category: "TikTok para Shopify"
+category: TikTok para Shopify
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5784364186568465"
-update_time: "2025-04-16"
-keywords: "Sellers"
+update_time: 2025-04-16
+keywords: Sellers
 ---
+
+
+
+
 # **Visão geral**
 
 A página de configurações da loja oferece aos vendedores configurações de sincronização relacionadas ao produto e ao envio, e os vendedores podem personalizar a configuração de acordo com suas necessidades.

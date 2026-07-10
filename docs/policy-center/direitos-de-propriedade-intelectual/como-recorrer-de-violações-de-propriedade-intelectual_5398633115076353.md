@@ -1,11 +1,15 @@
 ---
-title: "Como recorrer de violações de propriedade intelectual "
+title: Como recorrer de violações de propriedade intelectual
 id: 5398633115076353
-category: "Direitos de Propriedade Intelectual"
+category: Direitos de Propriedade Intelectual
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5398633115076353"
-update_time: "2025-03-24"
+update_time: 2025-03-24
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 O TikTok Shop toma medidas punitivas contra vendedores e criadores de conteúdo que violam nossa **Política de propriedade intelectual do TikTok Shop** e políticas correlatas. Se receber um aviso ou advertência de violação e acreditar que o proprietário dos direitos ou o TikTok Shop tenha cometido um erro, você poderá contestar a reivindicação com um recurso no Seller Center.  
 
 ## **Processo de recurso**

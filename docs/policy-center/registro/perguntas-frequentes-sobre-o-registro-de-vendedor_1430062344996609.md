@@ -1,11 +1,15 @@
 ---
-title: "Perguntas frequentes sobre o Registro de vendedor "
+title: Perguntas frequentes sobre o Registro de vendedor
 id: 1430062344996609
-category: "Registro"
+category: Registro
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1430062344996609"
-update_time: "2025-05-21"
+update_time: 2025-05-21
 keywords: "Sellers,Seller Policy"
 ---
+
+
+
+
 ## **Quem pode se inscrever para vender no TikTok Shop?**
 
 Para se registrar como vendedor no TikTok Shop Brasil, é preciso atender aos seguintes critérios:  

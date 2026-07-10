@@ -1,11 +1,15 @@
 ---
-title: "Marketplace de Produtos"
+title: Marketplace de Produtos
 id: 6813185987757841
-category: "Adicionar produto à exposição"
+category: Adicionar produto à exposição
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6813185987757841"
-update_time: "2025-04-14"
-keywords: "Creators"
+update_time: 2025-04-14
+keywords: Creators
 ---
+
+
+
+
 Este artigo ensinará o básico sobre como navegar no Marketplace de Produtos como Criador do TikTok Shop.
 
 Para começar, explicaremos o que é o Marketplace de Produtos e como acessá-lo:

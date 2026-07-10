@@ -1,11 +1,15 @@
 ---
-title: "Como configurar respostas automáticas para envios "
+title: Como configurar respostas automáticas para envios
 id: 877053075851009
-category: "Gerenciar pedidos"
+category: Gerenciar pedidos
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=877053075851009"
-update_time: "2026-05-26"
-keywords: ""
+update_time: 2026-05-26
+keywords: 
 ---
+
+
+
+
 Este artigo orientará você sobre como configurar e usar o recurso **Resposta sobre programação de envio** no chat do TikTok Shop. Essa ferramenta permite automatizar respostas a perguntas frequentes sobre pedidos e envios, economizando tempo e recursos e, ao mesmo tempo, informando aos compradores as atualizações relevantes necessárias.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6ff1979e3aca496bbe41ea48848e6a19~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2095174110&x-signature=V5Uf4sbMs2KfxNw6YYZ3QgcnGGg%3D)

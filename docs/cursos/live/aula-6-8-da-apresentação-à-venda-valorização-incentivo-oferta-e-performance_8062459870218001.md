@@ -1,16 +1,15 @@
 ---
 title: "Aula 6/8 | Da apresentação à venda: valorização, incentivo, oferta e performance"
 id: 8062459870218001
-category: "Live"
+category: Live
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8062459870218001"
-update_time: "2026-06-25"
-keywords: "Vendedores"
-video_count: 1
-video_url: "https://v16m-default.tiktokcdn.com/5f46a02a52e336b2719719c19a910d64/6a50c591/video/tos/alisg/tos-alisg-v-9e30d3-sg/own5eEGec3RGyLWNo2WRyIAvDg06FveRetNtI9/?a=6556&bti=ODY2QDQwNWA%3D&&bt=367&ft=cApXJCz7ThWHxqNzLGZmo0P&mime_type=video_mp4&rc=ZWZoNmQ8NzU2NDg0aTxkZEBpam9ndG05cmxwO2YzOGc3NEAwXy9hYzIwXjYxXmBjMDI2YSNncnJiMmQ0cHJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653560220fdbddc5300150210100c1dbf1f0000758c19f7&btag=e00068000"
-video_cover: "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/owkDFBm7WLmzVk59EBOmEfnIQbPEqIxXiBf1gv~tplv-noop.image?dr=18692&refresh_token=bd58c45c&x-expires=1783678353&x-signature=QvxCAeuWvYa5C9RdBMkZ8NdEkQE%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cd8umsi7og65jequduljg"
-videos:
-  - "https://v16m-default.tiktokcdn.com/5f46a02a52e336b2719719c19a910d64/6a50c591/video/tos/alisg/tos-alisg-v-9e30d3-sg/own5eEGec3RGyLWNo2WRyIAvDg06FveRetNtI9/?a=6556&bti=ODY2QDQwNWA%3D&&bt=367&ft=cApXJCz7ThWHxqNzLGZmo0P&mime_type=video_mp4&rc=ZWZoNmQ8NzU2NDg0aTxkZEBpam9ndG05cmxwO2YzOGc3NEAwXy9hYzIwXjYxXmBjMDI2YSNncnJiMmQ0cHJhLS1kXy1zcw%3D%3D&vvpl=1&l=021783653560220fdbddc5300150210100c1dbf1f0000758c19f7&btag=e00068000"
+update_time: 2026-06-25
+keywords: Vendedores
 ---
+
+
+
+
 Este curso tem como objetivo capacitar vendedores e apresentadores a estruturar suas lives com base em estratégias de comunicação e técnicas de persuasão aplicadas ao ambiente de Live Commerce.  
 O conteúdo foi desenvolvido para auxiliar profissionais que já possuem produtos de qualidade, mas identificam oportunidades de melhoria na taxa de conversão durante as lives. A abordagem combina fundamentos de psicologia do consumidor com roteiros práticos e aplicáveis.  
 **Conteúdo programático:**

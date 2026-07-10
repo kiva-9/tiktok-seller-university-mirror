@@ -1,11 +1,15 @@
 ---
-title: "TikTok Bonus - Perguntas Frequentes (FAQ)"
+title: TikTok Bonus - Perguntas Frequentes (FAQ)
 id: 8487535165572865
-category: "Bônus de Comissão"
+category: Bônus de Comissão
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8487535165572865"
-update_time: "2025-07-21"
-keywords: "Criadores"
+update_time: 2025-07-21
+keywords: Criadores
 ---
+
+
+
+
 1. **O que é o TikTok Bonus e como funciona?**
 
 O TikTok Bonus (TB) é um programa que oferece incentivos adicionais para criadores selecionados, com o objetivo de promover produtos. Ele aplica recompensas extras a vendas qualificadas, baseadas em regras pré-definidas da campanha.As campanhas de TB podem ter requisitos diferentes, como:

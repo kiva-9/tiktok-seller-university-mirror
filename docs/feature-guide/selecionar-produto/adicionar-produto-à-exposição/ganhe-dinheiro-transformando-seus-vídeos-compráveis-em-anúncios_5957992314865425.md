@@ -1,11 +1,15 @@
 ---
-title: "Ganhe dinheiro transformando seus vídeos compráveis em anúncios"
+title: Ganhe dinheiro transformando seus vídeos compráveis em anúncios
 id: 5957992314865425
-category: "Adicionar produto à exposição"
+category: Adicionar produto à exposição
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5957992314865425"
-update_time: "2025-05-27"
-keywords: "Criadores"
+update_time: 2025-05-27
+keywords: Criadores
 ---
+
+
+
+
 # Visão geral da comissão de anúncios em vídeo para criadores
 
 Como criador, autorizar seus vídeos a serem usados em anúncios é uma ótima maneira de aumentar o alcance do seu conteúdo e ganhar mais comissão.  

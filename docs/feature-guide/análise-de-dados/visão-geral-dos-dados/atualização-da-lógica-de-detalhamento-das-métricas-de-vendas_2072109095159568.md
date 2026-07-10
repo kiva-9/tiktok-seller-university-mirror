@@ -1,11 +1,15 @@
 ---
-title: "Atualização da lógica de detalhamento das métricas de vendas"
+title: Atualização da lógica de detalhamento das métricas de vendas
 id: 2072109095159568
-category: "Visão geral dos dados"
+category: Visão geral dos dados
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2072109095159568"
-update_time: "2026-04-28"
-keywords: "Vendedores"
+update_time: 2026-04-28
+keywords: Vendedores
 ---
+
+
+
+
 # O que lançamos?
 
 Atualizamos e unificamos a lógica de atribuição das métricas de vendas. Essa alteração garante uma metodologia consistente para **GMV, contagem de pedidos, itens vendidos e contagem de pedidos em nível de SKU** em todos os módulos de produto.

@@ -1,11 +1,15 @@
 ---
-title: "Evite o redirecionamento de tráfego"
+title: Evite o redirecionamento de tráfego
 id: 5721853217900304
-category: "Gerenciamento de conteúdo "
+category: Gerenciamento de conteúdo
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5721853217900304"
-update_time: "2026-03-13"
+update_time: 2026-03-13
 keywords: "Política de Criador,Criadores"
 ---
+
+
+
+
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6f59dab803f9470e9173ab705f578faf~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2088802641&x-signature=JqVglToqswzHzcscCuD7lfmKHzE%3D)
 
 ## O que é redirecionamento de tráfego?

@@ -1,11 +1,15 @@
 ---
-title: "Política de Avaliação do Cliente do TikTok Shop"
+title: Política de Avaliação do Cliente do TikTok Shop
 id: 6251924198442753
-category: "Atendimento ao Cliente"
+category: Atendimento ao Cliente
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6251924198442753"
-update_time: "2025-11-27"
+update_time: 2025-11-27
 keywords: "Seller Policy,Sellers"
 ---
+
+
+
+
 ## **Política de Avalição do Cliente do TikTok Shop**
 
 No TikTok Shop, queremos que todas as avaliações sejam genuínas: nunca queremos que sejam enganosas ou falsas. Os clientes podem deixar uma avaliação de qualquer produto que tenham comprado.  

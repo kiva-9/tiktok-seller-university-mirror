@@ -1,11 +1,15 @@
 ---
-title: "Política de Elegibilidade de Criadores do TikTok Shop "
+title: Política de Elegibilidade de Criadores do TikTok Shop
 id: 1396756526679824
-category: "Gerenciamento de Conta"
+category: Gerenciamento de Conta
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1396756526679824"
-update_time: "2026-07-01"
-keywords: "Creators"
+update_time: 2026-07-01
+keywords: Creators
 ---
+
+
+
+
 # **1. Visão Geral**
 
 A **Política de Elegibilidade de Criadores do TikTok Shop** abrange os requisitos que os usuários do TikTok devem atender para se qualificarem para as permissões de comércio eletrônico de criadores do TikTok Shop.  

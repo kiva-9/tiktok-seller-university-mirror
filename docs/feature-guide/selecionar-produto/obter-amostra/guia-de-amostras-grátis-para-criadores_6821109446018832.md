@@ -1,11 +1,15 @@
 ---
-title: "Guia de amostras grátis para criadores"
+title: Guia de amostras grátis para criadores
 id: 6821109446018832
-category: "Obter amostra"
+category: Obter amostra
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6821109446018832"
-update_time: "2025-12-30"
-keywords: "Creators"
+update_time: 2025-12-30
+keywords: Creators
 ---
+
+
+
+
 Este artigo lhe ensinará tudo o que você precisa saber sobre amostras grátis. Vamos abordar como solicitar amostras grátis de vendedores e como cumprir os requisitos necessários quando recebê-las.
 
 Antes de mergulharmos no processo completo, primeiro vamos apresentar o que são amostras grátis!

@@ -1,11 +1,15 @@
 ---
-title: "Como se conectar com Criadores no Affiliate"
+title: Como se conectar com Criadores no Affiliate
 id: 6589441682622224
-category: "Gerenciar Criadores Afiliados e Agências"
+category: Gerenciar Criadores Afiliados e Agências
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6589441682622224"
-update_time: "2026-02-09"
-keywords: "Sellers"
+update_time: 2026-02-09
+keywords: Sellers
 ---
+
+
+
+
 Neste artigo, vamos mostrar a você como enviar mensagens e entrar em contato com os Criadores de Affiliate na Central do vendedor.
 
 Como vendedor, você pode enviar mensagem aos Criadores escolhidos para colaborar por meio do Programa de afiliados. A ferramenta de mensagens é uma ótima maneira de se comunicar livremente com os Criadores e fortalecer sua parceria!
