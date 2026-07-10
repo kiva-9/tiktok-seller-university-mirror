@@ -1,89 +1,2048 @@
-/cursos/:
-- link: /cursos/afiliado/
-  text: AFILIADO
-- link: /cursos/avançado/
-  text: AVANÇADO
-- link: /cursos/começar/
-  text: COMEÇAR
-- link: /cursos/crescimento/
-  text: CRESCIMENTO
-- link: /cursos/iniciar/
-  text: INICIAR
-- link: /cursos/live/
-  text: LIVE
-- link: /cursos/regras-e-suporte-da-plataforma/
-  text: REGRAS-E-SUPORTE-DA-PLATAFORMA
-- link: /cursos/seleção-de-produtos/
-  text: SELEÇÃO-DE-PRODUTOS
-- link: /cursos/vídeo-curto/
-  text: VÍDEO-CURTO
-- link: /cursos/webinar/
-  text: WEBINAR
-/feature-guide/:
-- link: /feature-guide/ads-anúncio-de-loja/
-  text: ADS-ANÚNCIO-DE-LOJA
-- link: /feature-guide/afiliados/
-  text: AFILIADOS
-- link: /feature-guide/agência/
-  text: AGÊNCIA
-- link: /feature-guide/análise-de-dados/
-  text: ANÁLISE-DE-DADOS
-- link: /feature-guide/atendimento-ao-cliente/
-  text: ATENDIMENTO-AO-CLIENTE
-- link: /feature-guide/crescimento-do-criador-de-conteúdo/
-  text: CRESCIMENTO-DO-CRIADOR-DE-CONTEÚDO
-- link: /feature-guide/crescimento-do-vendedor/
-  text: CRESCIMENTO-DO-VENDEDOR
-- link: /feature-guide/devoluções-e-reembolsos/
-  text: DEVOLUÇÕES-E-REEMBOLSOS
-- link: /feature-guide/finanças/
-  text: FINANÇAS
-- link: /feature-guide/integração/
-  text: INTEGRAÇÃO
-- link: /feature-guide/live/
-  text: LIVE
-- link: /feature-guide/marketing/
-  text: MARKETING
-- link: /feature-guide/pedidos/
-  text: PEDIDOS
-- link: /feature-guide/preparação-de-operação/
-  text: PREPARAÇÃO-DE-OPERAÇÃO
-- link: /feature-guide/primeiros-passos/
-  text: PRIMEIROS-PASSOS
-- link: /feature-guide/produtos/
-  text: PRODUTOS
-- link: /feature-guide/selecionar-produto/
-  text: SELECIONAR-PRODUTO
-- link: /feature-guide/transmissão-live/
-  text: TRANSMISSÃO-LIVE
-- link: /feature-guide/vendas-através-de-vídeos/
-  text: VENDAS-ATRAVÉS-DE-VÍDEOS
-- link: /feature-guide/vendas-em-vídeos/
-  text: VENDAS-EM-VÍDEOS
-- link: /feature-guide/vender-no-tiktok-shop/
-  text: VENDER-NO-TIKTOK-SHOP
-/policy-center/:
-- link: /policy-center/atendimento-ao-cliente/
-  text: ATENDIMENTO-AO-CLIENTE
-- link: /policy-center/direitos-de-propriedade-intelectual/
-  text: DIREITOS-DE-PROPRIEDADE-INTELECTUAL
-- link: /policy-center/gerenciamento-de-conta/
-  text: GERENCIAMENTO-DE-CONTA
-- link: /policy-center/gerenciamento-de-conteúdo/
-  text: GERENCIAMENTO-DE-CONTEÚDO
-- link: /policy-center/gerenciamento-de-desempenho/
-  text: GERENCIAMENTO-DE-DESEMPENHO
-- link: /policy-center/gerenciamento-de-pedidos/
-  text: GERENCIAMENTO-DE-PEDIDOS
-- link: /policy-center/gerencie-seus-produtos/
-  text: GERENCIE-SEUS-PRODUTOS
-- link: /policy-center/gestão-de-desempenho/
-  text: GESTÃO-DE-DESEMPENHO
-- link: /policy-center/marketing/
-  text: MARKETING
-- link: /policy-center/pagamentos/
-  text: PAGAMENTOS
-- link: /policy-center/políticas-em-destaque/
-  text: POLÍTICAS-EM-DESTAQUE
-- link: /policy-center/registro/
-  text: REGISTRO
+{
+  "/cursos/": [
+    {
+      "text": "Afiliado",
+      "link": "/cursos/afiliado/",
+      "items": [
+        {
+          "text": "Estratégias Completas De Afiliados No Tiktok Shop",
+          "link": "/cursos/afiliado/estratégias-completas-de-afiliados-no-tiktok-shop_2099888351708945"
+        }
+      ]
+    },
+    {
+      "text": "Avançado",
+      "link": "/cursos/avançado/",
+      "items": [
+        {
+          "text": "T&C]Aquecimento 11.11 & Black Friday",
+          "link": "/cursos/avançado/tcaquecimento-1111-black-friday_4229657200412432"
+        },
+        {
+          "text": "T&C]Estrelas em Ascensão: Desafio de Lives",
+          "link": "/cursos/avançado/tcestrelas-em-ascensão-desafio-de-lives_1379446494299921"
+        },
+        {
+          "text": "T&C]Jornada das Estrelas: O Desafio de Setembro do TikTok Shop",
+          "link": "/cursos/avançado/tcjornada-das-estrelas-o-desafio-de-setembro-do-tiktok-shop_890211878291201"
+        }
+      ]
+    },
+    {
+      "text": "Começar",
+      "link": "/cursos/começar/",
+      "items": [
+        {
+          "text": "Como Escolher E Promover Produtos Como Criador Do Tiktok Shop",
+          "link": "/cursos/começar/como-escolher-e-promover-produtos-como-criador-do-tiktok-shop_6491583492163329"
+        },
+        {
+          "text": "Como receber produtos grátis para divulgar o seu conteúdo!",
+          "link": "/cursos/começar/como-receber-produtos-grátis-para-divulgar-o-seu-conteúdo_6494653319841537"
+        },
+        {
+          "text": "Como se tornar criador no TikTok Shop e desbloquear benefícios exclusivos!",
+          "link": "/cursos/começar/como-se-tornar-criador-no-tiktok-shop-e-desbloquear-benefícios-exclusivos_6160913167009537"
+        },
+        {
+          "text": "Complete A Verificação De Identidade Para Ganhar E Retirar Comissões",
+          "link": "/cursos/começar/complete-a-verificação-de-identidade-para-ganhar-e-retirar-comissões_6491583491720961"
+        },
+        {
+          "text": "E-commerce: Regras básicas de conteúdo",
+          "link": "/cursos/começar/e-commerce-regras-básicas-de-conteúdo_2926485741143809"
+        },
+        {
+          "text": "Passo a passo: Centro para criadores (TikTok Creator Center)",
+          "link": "/cursos/começar/passo-a-passo-centro-para-criadores-tiktok-creator-center_2882637572966145"
+        },
+        {
+          "text": "Prepare Se Para Os Seus Primeiros Vídeos E Produtos",
+          "link": "/cursos/começar/prepare-se-para-os-seus-primeiros-vídeos-e-produtos_6504898082670352"
+        }
+      ]
+    },
+    {
+      "text": "Crescimento",
+      "link": "/cursos/crescimento/",
+      "items": [
+        {
+          "text": "Como Começar A Vender Na Sua Primeira Live No Tiktok Shop",
+          "link": "/cursos/crescimento/como-começar-a-vender-na-sua-primeira-live-no-tiktok-shop_8529849116034832"
+        },
+        {
+          "text": "Como Configurar As Preferências De Envio No Tiktok Shop",
+          "link": "/cursos/crescimento/como-configurar-as-preferências-de-envio-no-tiktok-shop_629376745260816"
+        },
+        {
+          "text": "Como Ganhar Recompensas Gerenciando Sua Loja No Tiktok Shop",
+          "link": "/cursos/crescimento/como-ganhar-recompensas-gerenciando-sua-loja-no-tiktok-shop_8516439888480017"
+        },
+        {
+          "text": "Como Ganhar Recompensas No Central De Crescimento Do Tiktok Shop",
+          "link": "/cursos/crescimento/como-ganhar-recompensas-no-central-de-crescimento-do-tiktok-shop_8518639956215568"
+        },
+        {
+          "text": "Como Postar Seu Primeiro Vídeo Comprável No Tiktok Shop",
+          "link": "/cursos/crescimento/como-postar-seu-primeiro-vídeo-comprável-no-tiktok-shop_8529849115723536"
+        },
+        {
+          "text": "Como Receber Seus Pagamentos No Tiktok Shop",
+          "link": "/cursos/crescimento/como-receber-seus-pagamentos-no-tiktok-shop_623469852575504"
+        },
+        {
+          "text": "Como Se Registrar Como Mei E Começar Seu Negócio Legalmente",
+          "link": "/cursos/crescimento/como-se-registrar-como-mei-e-começar-seu-negócio-legalmente_620130321794833"
+        },
+        {
+          "text": "Como Usar Cupons De Promoção Para Atrair Mais Tráfego No Tiktok Shop",
+          "link": "/cursos/crescimento/como-usar-cupons-de-promoção-para-atrair-mais-tráfego-no-tiktok-shop_626322062018320"
+        },
+        {
+          "text": "Como Vincular A Conta De Marketing À Conta Oficial Da Loja",
+          "link": "/cursos/crescimento/como-vincular-a-conta-de-marketing-à-conta-oficial-da-loja_8160012418058000"
+        },
+        {
+          "text": "Configurações Essenciais No Central Do Vendedor Do Tiktok Shop",
+          "link": "/cursos/crescimento/configurações-essenciais-no-central-do-vendedor-do-tiktok-shop_623483790034705"
+        },
+        {
+          "text": "Entenda as métricas da Pontuação de Desempenho da Loja (SPS)",
+          "link": "/cursos/crescimento/entenda-as-métricas-da-pontuação-de-desempenho-da-loja-sps_1265022966302481"
+        },
+        {
+          "text": "O que é o GMV Max e como ele impulsiona suas vendas?",
+          "link": "/cursos/crescimento/o-que-é-o-gmv-max-e-como-ele-impulsiona-suas-vendas_5010289621600016"
+        },
+        {
+          "text": "Pontuação de Desempenho da Loja (SPS)",
+          "link": "/cursos/crescimento/pontuação-de-desempenho-da-loja-sps_1265022965794577"
+        },
+        {
+          "text": "Regras Para Escolher O Nome Da Sua Loja No Tiktok Shop",
+          "link": "/cursos/crescimento/regras-para-escolher-o-nome-da-sua-loja-no-tiktok-shop_635500578817809"
+        },
+        {
+          "text": "Semana da Virada: Acelere seu GMV no TikTok Shop (Guia Completo de 9 Aulas)",
+          "link": "/cursos/crescimento/semana-da-virada-acelere-seu-gmv-no-tiktok-shop-guia-completo-de-9-aulas_2484440631133968"
+        }
+      ]
+    },
+    {
+      "text": "Iniciar",
+      "link": "/cursos/iniciar/",
+      "items": [
+        {
+          "text": "Como Acompanhar Os Pontos De Violação E A Integridade Da Sua Loja",
+          "link": "/cursos/iniciar/como-acompanhar-os-pontos-de-violação-e-a-integridade-da-sua-loja_645451264558849"
+        },
+        {
+          "text": "Como oferecer amostras grátis no Marketplace de Afiliados — e por que isso é importante",
+          "link": "/cursos/iniciar/como-oferecer-amostras-grátis-no-marketplace-de-afiliados-e-por-que-isso-é-impor_654512122169105"
+        },
+        {
+          "text": "Como processar pedidos com Envio pela Plataforma (com NF-e)",
+          "link": "/cursos/iniciar/como-processar-pedidos-com-envio-pela-plataforma-com-nf-e_619099135723280"
+        },
+        {
+          "text": "Como subir, editar e organizar seus produtos na Central do Vended",
+          "link": "/cursos/iniciar/como-subir-editar-e-organizar-seus-produtos-na-central-do-vended_625489052059408"
+        },
+        {
+          "text": "Como Ter Seus Produtos Aprovados No Tiktok Shop",
+          "link": "/cursos/iniciar/como-ter-seus-produtos-aprovados-no-tiktok-shop_651322806716177"
+        },
+        {
+          "text": "Como Vincular E Verificar Sua Conta Oficial",
+          "link": "/cursos/iniciar/como-vincular-e-verificar-sua-conta-oficial_654512122431249"
+        },
+        {
+          "text": "Configuração Rápida Da Sua Loja No Tiktok Shop",
+          "link": "/cursos/iniciar/configuração-rápida-da-sua-loja-no-tiktok-shop_525542177982225"
+        },
+        {
+          "text": "Duas formas de colaborar com criadores no TikTok Shop: veja como funciona",
+          "link": "/cursos/iniciar/duas-formas-de-colaborar-com-criadores-no-tiktok-shop-veja-como-funciona_621562093848337"
+        },
+        {
+          "text": "Período De Experiência Para Novas Lojas No Tiktok Shop",
+          "link": "/cursos/iniciar/período-de-experiência-para-novas-lojas-no-tiktok-shop_636061304112897"
+        },
+        {
+          "text": "Política de Fulfillment no TikTok Shop: Prazos e Desempenho",
+          "link": "/cursos/iniciar/política-de-fulfillment-no-tiktok-shop-prazos-e-desempenho_644513312950033"
+        },
+        {
+          "text": "Proibição De Produtos Falsificados No Tiktok Shop",
+          "link": "/cursos/iniciar/proibição-de-produtos-falsificados-no-tiktok-shop_645830583764752"
+        },
+        {
+          "text": "Qual o ritmo ideal de vídeos e lives para iniciantes?",
+          "link": "/cursos/iniciar/qual-o-ritmo-ideal-de-vídeos-e-lives-para-iniciantes_5013626747668240"
+        },
+        {
+          "text": "TikTok Shop Brasil: Benefícios para Novos Vendedores e Ferramentas para Impulsionar Vendas",
+          "link": "/cursos/iniciar/tiktok-shop-brasil-benefícios-para-novos-vendedores-e-ferramentas-para-impulsion_2793512052295425"
+        },
+        {
+          "text": "TikTok Shop Brasil: Primeiros Passos e Vantagens para Começar a Vender",
+          "link": "/cursos/iniciar/tiktok-shop-brasil-primeiros-passos-e-vantagens-para-começar-a-vender_2783294530275088"
+        },
+        {
+          "text": "Trabalhe Com Mais Eficiência E Envie Mais Rápido Com Erp",
+          "link": "/cursos/iniciar/trabalhe-com-mais-eficiência-e-envie-mais-rápido-com-erp_605713333683985"
+        },
+        {
+          "text": "Venda Segura E Proteção De Marca",
+          "link": "/cursos/iniciar/venda-segura-e-proteção-de-marca_645451263182593"
+        }
+      ]
+    },
+    {
+      "text": "Live",
+      "link": "/cursos/live/",
+      "items": [
+        {
+          "text": "5 Estratégias De Engajamento Para Aumentar A Retenção E Vendas Nas Lives",
+          "link": "/cursos/live/5-estratégias-de-engajamento-para-aumentar-a-retenção-e-vendas-nas-lives_8900701535586049"
+        },
+        {
+          "text": "Aula 1/8 | Por que fazer LIVE: lógica de crescimento e casos de sucesso",
+          "link": "/cursos/live/aula-1-8-por-que-fazer-live-lógica-de-crescimento-e-casos-de-sucesso_4890264934450961"
+        },
+        {
+          "text": "Aula 2/8 | Primeira LIVE: SOP de início e lógica de tráfego",
+          "link": "/cursos/live/aula-2-8-primeira-live-sop-de-início-e-lógica-de-tráfego_5147751852967696"
+        },
+        {
+          "text": "Aula 3/8 | Preparação da LIVE: cenário, equipamentos, equipe e roteiro",
+          "link": "/cursos/live/aula-3-8-preparação-da-live-cenário-equipamentos-equipe-e-roteiro_5153874261362433"
+        },
+        {
+          "text": "Aula 4/8 | LIVE segura e eficiente: regras e LIVE Studio",
+          "link": "/cursos/live/aula-4-8-live-segura-e-eficiente-regras-e-live-studio_7134930607490832"
+        },
+        {
+          "text": "Aula 5/8 | Fundamentos do apresentador: posicionamento, argumentos e produtos campeões",
+          "link": "/cursos/live/aula-5-8-fundamentos-do-apresentador-posicionamento-argumentos-e-produtos-campeõ_7403319807723281"
+        },
+        {
+          "text": "Aula 6/8 | Da apresentação à venda: valorização, incentivo, oferta e performance",
+          "link": "/cursos/live/aula-6-8-da-apresentação-à-venda-valorização-incentivo-oferta-e-performance_8062459870218001"
+        },
+        {
+          "text": "Aula 7/8 | Seleção e Organização de Produtos + Ferramentas Práticas para Live: Eficiência e Conversão",
+          "link": "/cursos/live/aula-7-8-seleção-e-organização-de-produtos-ferramentas-práticas-para-live-eficiê_1000059009763088"
+        },
+        {
+          "text": "Aula 8/8 | Análise de dados: usando dados para aumentar o GMV da LIVE",
+          "link": "/cursos/live/aula-8-8-análise-de-dados-usando-dados-para-aumentar-o-gmv-da-live_1198823331530497"
+        },
+        {
+          "text": "Checklist da Live: Áudio, Vídeo e Setup para Vender Mais",
+          "link": "/cursos/live/checklist-da-live-áudio-vídeo-e-setup-para-vender-mais_8894157922060048"
+        },
+        {
+          "text": "Monitoramento de Dados em Tempo Real: Otimize sua Live para Vender Mais",
+          "link": "/cursos/live/monitoramento-de-dados-em-tempo-real-otimize-sua-live-para-vender-mais_208603270530832"
+        },
+        {
+          "text": "Oferta Relâmpago no TikTok Shop: Crie urgência e venda mais na sua LIVE",
+          "link": "/cursos/live/oferta-relâmpago-no-tiktok-shop-crie-urgência-e-venda-mais-na-sua-live_8880950457255697"
+        },
+        {
+          "text": "Série 1: Essencial para Iniciantes - Do Zero à Sua Primeira LIVE",
+          "link": "/cursos/live/série-1-essencial-para-iniciantes-do-zero-à-sua-primeira-live_2556859404125969"
+        },
+        {
+          "text": "Série 2: Dominando as Ferramentas da LIVE para Impulsionar Suas Vendas",
+          "link": "/cursos/live/série-2-dominando-as-ferramentas-da-live-para-impulsionar-suas-vendas_4446865865574160"
+        },
+        {
+          "text": "Série 3: Dominando as Estratégias Avançadas de LIVE",
+          "link": "/cursos/live/série-3-dominando-as-estratégias-avançadas-de-live_4604148395050769"
+        },
+        {
+          "text": "Série 4: Venda com Segurança: Entendendo as Políticas da Plataforma",
+          "link": "/cursos/live/série-4-venda-com-segurança-entendendo-as-políticas-da-plataforma_4660964692739841"
+        }
+      ]
+    },
+    {
+      "text": "Regras E Suporte Da Plataforma",
+      "link": "/cursos/regras-e-suporte-da-plataforma/",
+      "items": [
+        {
+          "text": "Como Falar Com O Suporte Humano No Tiktok Shop",
+          "link": "/cursos/regras-e-suporte-da-plataforma/como-falar-com-o-suporte-humano-no-tiktok-shop_3912270300727057"
+        },
+        {
+          "text": "Conta com restrição temporária? Motivos, Impacto e 3 Passos para Resolver",
+          "link": "/cursos/regras-e-suporte-da-plataforma/conta-com-restrição-temporária-motivos-impacto-e-3-passos-para-resolver_3907170610415361"
+        },
+        {
+          "text": "Evite Violações de IP: Checklist Essencial Antes e Depois de Listar",
+          "link": "/cursos/regras-e-suporte-da-plataforma/evite-violações-de-ip-checklist-essencial-antes-e-depois-de-listar_3908347506968321"
+        }
+      ]
+    },
+    {
+      "text": "Seleção De Produtos",
+      "link": "/cursos/seleção-de-produtos/",
+      "items": [
+        {
+          "text": "TikTok Shop: Análise de Dados e Fatores-Chave para Produtos Virais",
+          "link": "/cursos/seleção-de-produtos/tiktok-shop-análise-de-dados-e-fatores-chave-para-produtos-virais_2424389065328400"
+        },
+        {
+          "text": "TikTok Shop: Casos de Sucesso em Seleção de Produtos e Estratégias de Viralização",
+          "link": "/cursos/seleção-de-produtos/tiktok-shop-casos-de-sucesso-em-seleção-de-produtos-e-estratégias-de-viralização_2425527655778049"
+        },
+        {
+          "text": "TikTok Shop: Fundamentos e Estratégias Essenciais de Seleção de Produtos",
+          "link": "/cursos/seleção-de-produtos/tiktok-shop-fundamentos-e-estratégias-essenciais-de-seleção-de-produtos_2405265925523201"
+        }
+      ]
+    },
+    {
+      "text": "Vídeo Curto",
+      "link": "/cursos/vídeo-curto/",
+      "items": [
+        {
+          "text": "3 Formatos De Vídeo Essenciais Para Explodir Suas Vendas No Tiktok Shop",
+          "link": "/cursos/vídeo-curto/3-formatos-de-vídeo-essenciais-para-explodir-suas-vendas-no-tiktok-shop_2809994455516944"
+        },
+        {
+          "text": "TikTok Shop: Estratégias Avançadas para Vídeos Compráveis de Alta Conversão",
+          "link": "/cursos/vídeo-curto/tiktok-shop-estratégias-avançadas-para-vídeos-compráveis-de-alta-conversão_2132947801016065"
+        },
+        {
+          "text": "TikTok Shop: Fundamentos e Produção Eficaz de Vídeos Curtos",
+          "link": "/cursos/vídeo-curto/tiktok-shop-fundamentos-e-produção-eficaz-de-vídeos-curtos_2122096377513729"
+        }
+      ]
+    },
+    {
+      "text": "Webinar",
+      "link": "/cursos/webinar/",
+      "items": [
+        {
+          "text": "Calendário De Webinares",
+          "link": "/cursos/webinar/calendário-de-webinares_4729261504448272"
+        },
+        {
+          "text": "Como Aumentar Suas Vendas Com O Método De Funil",
+          "link": "/cursos/webinar/como-aumentar-suas-vendas-com-o-método-de-funil_7873413496194817"
+        },
+        {
+          "text": "Como Criar Vídeos De Alta Performance Para O Tiktok Shop",
+          "link": "/cursos/webinar/como-criar-vídeos-de-alta-performance-para-o-tiktok-shop_5329399425894160"
+        },
+        {
+          "text": "Como Vender Mais Com Afiliados",
+          "link": "/cursos/webinar/como-vender-mais-com-afiliados_2736105422423809"
+        },
+        {
+          "text": "Dominando a Pontuação de Desempenho da Loja (SPS)",
+          "link": "/cursos/webinar/dominando-a-pontuação-de-desempenho-da-loja-sps_7579037405005585"
+        },
+        {
+          "text": "Dominando Os Relatórios Financeiros No Tiktok Shop",
+          "link": "/cursos/webinar/dominando-os-relatórios-financeiros-no-tiktok-shop_2494371300607761"
+        },
+        {
+          "text": "Domine as Novas Políticas de Envio: Evite Penalidades e Otimize sua Taxa de Envio Atrasado (LDR)",
+          "link": "/cursos/webinar/domine-as-novas-políticas-de-envio-evite-penalidades-e-otimize-sua-taxa-de-envio_4328401066805009"
+        },
+        {
+          "text": "GMV Max:um guia rápido para começar",
+          "link": "/cursos/webinar/gmv-max-um-guia-rápido-para-começar_1410155275781905"
+        },
+        {
+          "text": "Guia da ferramenta de IM: Use as Ferramentas de Chat para um Atendimento Eficiente",
+          "link": "/cursos/webinar/guia-da-ferramenta-de-im-use-as-ferramentas-de-chat-para-um-atendimento-eficient_8985527224764177"
+        },
+        {
+          "text": "IA na Prática: Ferramentas para o seu TikTok Shop",
+          "link": "/cursos/webinar/ia-na-prática-ferramentas-para-o-seu-tiktok-shop_310025302787841"
+        },
+        {
+          "text": "Restrições E Requisitos Para Conteúdo Gerado Por Ia",
+          "link": "/cursos/webinar/restrições-e-requisitos-para-conteúdo-gerado-por-ia_8555465047836433"
+        }
+      ]
+    }
+  ],
+  "/feature-guide/": [
+    {
+      "text": "Ads Anúncio De Loja",
+      "link": "/feature-guide/ads-anúncio-de-loja/",
+      "items": [
+        {
+          "text": "Anúncios De Vendas",
+          "link": "/feature-guide/ads-anúncio-de-loja/anúncios-de-vendas/",
+          "items": [
+            {
+              "text": "Anúncios com GMV Max: Otimização de vendas líquidas",
+              "link": "/feature-guide/ads-anúncio-de-loja/anúncios-de-vendas/anúncios-com-gmv-max-otimização-de-vendas-líquidas_3334685477029649"
+            },
+            {
+              "text": "Criativos de afiliados para anúncios (ACA) - Criando anúncios",
+              "link": "/feature-guide/ads-anúncio-de-loja/anúncios-de-vendas/criativos-de-afiliados-para-anúncios-aca-criando-anúncios_5957992315406097"
+            },
+            {
+              "text": "Criativos de afiliados para anúncios (ACA) - Definindo taxas de comissão",
+              "link": "/feature-guide/ads-anúncio-de-loja/anúncios-de-vendas/criativos-de-afiliados-para-anúncios-aca-definindo-taxas-de-comissão_5955311610251025"
+            },
+            {
+              "text": "Explicação De Métricas E Atribuição De Gmv Max",
+              "link": "/feature-guide/ads-anúncio-de-loja/anúncios-de-vendas/explicação-de-métricas-e-atribuição-de-gmv-max_8198241679017744"
+            },
+            {
+              "text": "Guia de pacotes promocionais (Campanha de produto × GMV Max) para o Brasil",
+              "link": "/feature-guide/ads-anúncio-de-loja/anúncios-de-vendas/guia-de-pacotes-promocionais-campanha-de-produto-×-gmv-max-para-o-brasil_3355910447433489"
+            },
+            {
+              "text": "Introdução Aos Anúncios Da Loja E Instruções Criativas",
+              "link": "/feature-guide/ads-anúncio-de-loja/anúncios-de-vendas/introdução-aos-anúncios-da-loja-e-instruções-criativas_792603294271249"
+            },
+            {
+              "text": "Live Ads",
+              "link": "/feature-guide/ads-anúncio-de-loja/anúncios-de-vendas/live-ads_799993510610704"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Afiliados",
+      "link": "/feature-guide/afiliados/",
+      "items": [
+        {
+          "text": "Colaborações Com Criadores De Conteúdo",
+          "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/",
+          "items": [
+            {
+              "text": "Amostras Reembolsáveis",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/amostras-reembolsáveis_3951967941150480"
+            },
+            {
+              "text": "Análise De Afiliados",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/análise-de-afiliados_6718459535263504"
+            },
+            {
+              "text": "Colaborações Do Affiliate",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/colaborações-do-affiliate_6580476438529809"
+            },
+            {
+              "text": "Como Configurar Automações De Aprovação Automática De Amostras",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/como-configurar-automações-de-aprovação-automática-de-amostras_1218472965146384"
+            },
+            {
+              "text": "Como Usar A Amostragem De Múltiplos Skus",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/como-usar-a-amostragem-de-múltiplos-skus_4720237027346193"
+            },
+            {
+              "text": "Como Usar A Análise De Amostras",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/como-usar-a-análise-de-amostras_1304181886420753"
+            },
+            {
+              "text": "Configurações De Comissão De Afiliados Para Vendedores",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/configurações-de-comissão-de-afiliados-para-vendedores_6583987620562705"
+            },
+            {
+              "text": "Edição Em Lote De Produtos Na Colaboração Aberta",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/edição-em-lote-de-produtos-na-colaboração-aberta_6878686206117649"
+            },
+            {
+              "text": "Guia De Amostra Grátis Para Vendedores",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/guia-de-amostra-grátis-para-vendedores_6589441682917136"
+            },
+            {
+              "text": "Guia do Programa de tráfego externo (ETP) para vendedores",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/guia-do-programa-de-tráfego-externo-etp-para-vendedores_3892553889384208"
+            },
+            {
+              "text": "O que é o TikTok Shop Affiliate?",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/o-que-é-o-tiktok-shop-affiliate_6583987619710737"
+            },
+            {
+              "text": "Opt In Automático Para Colaboração Aberta",
+              "link": "/feature-guide/afiliados/colaborações-com-criadores-de-conteúdo/opt-in-automático-para-colaboração-aberta_6872849933141776"
+            }
+          ]
+        },
+        {
+          "text": "Gerenciar Criadores Afiliados E Agências",
+          "link": "/feature-guide/afiliados/gerenciar-criadores-afiliados-e-agências/",
+          "items": [
+            {
+              "text": "Como Participar De Campanhas Com Parceiros Afiliados",
+              "link": "/feature-guide/afiliados/gerenciar-criadores-afiliados-e-agências/como-participar-de-campanhas-com-parceiros-afiliados_6815036094023425"
+            },
+            {
+              "text": "Como Se Conectar Com Criadores No Affiliate",
+              "link": "/feature-guide/afiliados/gerenciar-criadores-afiliados-e-agências/como-se-conectar-com-criadores-no-affiliate_6589441682622224"
+            },
+            {
+              "text": "Encontrar Criadores Para Afiliados",
+              "link": "/feature-guide/afiliados/gerenciar-criadores-afiliados-e-agências/encontrar-criadores-para-afiliados_6576089779898113"
+            },
+            {
+              "text": "Lembretes em massa para criadores: notifique criadores sobre a publicação de conteúdo com um só clique",
+              "link": "/feature-guide/afiliados/gerenciar-criadores-afiliados-e-agências/lembretes-em-massa-para-criadores-notifique-criadores-sobre-a-publicação-de-cont_5506112359008017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Agência",
+      "link": "/feature-guide/agência/",
+      "items": [
+        {
+          "text": "Agências – Como Escolher Produtos para uma Live Commerce",
+          "link": "/feature-guide/agência/agências-como-escolher-produtos-para-uma-live-commerce_1268617145583376"
+        },
+        {
+          "text": "Agências – Entendendo as Métricas do TTSPC",
+          "link": "/feature-guide/agência/agências-entendendo-as-métricas-do-ttspc_1308611007710977"
+        },
+        {
+          "text": "Agências – Importância da Criação de Vídeos Curtos",
+          "link": "/feature-guide/agência/agências-importância-da-criação-de-vídeos-curtos_1268617144993552"
+        },
+        {
+          "text": "Agências – Navegando pelas Políticas do TikTok Shop",
+          "link": "/feature-guide/agência/agências-navegando-pelas-políticas-do-tiktok-shop_1268617145419536"
+        },
+        {
+          "text": "Agências Práticas E Estratégias De Live Tiktok Shop Brasil",
+          "link": "/feature-guide/agência/agências-práticas-e-estratégias-de-live-tiktok-shop-brasil_1248927723423504"
+        },
+        {
+          "text": "Agências – Tudo Sobre Agências CAP/MCN",
+          "link": "/feature-guide/agência/agências-tudo-sobre-agências-cap-mcn_1335469363250960"
+        },
+        {
+          "text": "Agências Tudo Sobre Campanhas Tap",
+          "link": "/feature-guide/agência/agências-tudo-sobre-campanhas-tap_1248927723833104"
+        },
+        {
+          "text": "Campanhas De Parceria",
+          "link": "/feature-guide/agência/campanhas-de-parceria_6320504354424577"
+        },
+        {
+          "text": "Encontrar Criadores",
+          "link": "/feature-guide/agência/encontrar-criadores_6792456734754577"
+        },
+        {
+          "text": "Guia De Autointegração Para Agências Cap",
+          "link": "/feature-guide/agência/guia-de-autointegração-para-agências-cap_6810747971798800"
+        },
+        {
+          "text": "Guia De Autointegração Para Agências Tap",
+          "link": "/feature-guide/agência/guia-de-autointegração-para-agências-tap_6807244118624016"
+        },
+        {
+          "text": "Guia de Uso  para Criadores - Conexão com agências, autorização de dados e compartilhamento de comissões",
+          "link": "/feature-guide/agência/guia-de-uso-para-criadores-conexão-com-agências-autorização-de-dados-e-compartil_8093741534234385"
+        },
+        {
+          "text": "Guia para agências - Conexão com agências, autorização de dados e compartilhamento de comissões",
+          "link": "/feature-guide/agência/guia-para-agências-conexão-com-agências-autorização-de-dados-e-compartilhamento-_8601600667698960"
+        }
+      ]
+    },
+    {
+      "text": "Análise De Dados",
+      "link": "/feature-guide/análise-de-dados/",
+      "items": [
+        {
+          "text": "Afiliados",
+          "link": "/feature-guide/análise-de-dados/afiliados/",
+          "items": [
+            {
+              "text": "Como usar as análises do Centro de Afiliados?",
+              "link": "/feature-guide/análise-de-dados/afiliados/como-usar-as-análises-do-centro-de-afiliados_1931016491861761"
+            }
+          ]
+        },
+        {
+          "text": "Análise De Ganhos",
+          "link": "/feature-guide/análise-de-dados/análise-de-ganhos/",
+          "items": [
+            {
+              "text": "Como Usar A Análise De Resultados Financeiros",
+              "link": "/feature-guide/análise-de-dados/análise-de-ganhos/como-usar-a-análise-de-resultados-financeiros_2385446127290128"
+            }
+          ]
+        },
+        {
+          "text": "Análise De Produto",
+          "link": "/feature-guide/análise-de-dados/análise-de-produto/",
+          "items": [
+            {
+              "text": "Análise De Desempenho De Produto Para Criadores",
+              "link": "/feature-guide/análise-de-dados/análise-de-produto/análise-de-desempenho-de-produto-para-criadores_6642538686793489"
+            }
+          ]
+        },
+        {
+          "text": "Análise De Vídeo",
+          "link": "/feature-guide/análise-de-dados/análise-de-vídeo/",
+          "items": [
+            {
+              "text": "Análise De Desempenho De Vídeo Para Criadores",
+              "link": "/feature-guide/análise-de-dados/análise-de-vídeo/análise-de-desempenho-de-vídeo-para-criadores_6647601479599889"
+            }
+          ]
+        },
+        {
+          "text": "Análise Do Usuário",
+          "link": "/feature-guide/análise-de-dados/análise-do-usuário/",
+          "items": [
+            {
+              "text": "Análise De Usuários Para Criadores",
+              "link": "/feature-guide/análise-de-dados/análise-do-usuário/análise-de-usuários-para-criadores_6654213319083777"
+            }
+          ]
+        },
+        {
+          "text": "Análise Transmissão Ao Vivo",
+          "link": "/feature-guide/análise-de-dados/análise-transmissão-ao-vivo/",
+          "items": [
+            {
+              "text": "Desempenho De Live Para Criadores",
+              "link": "/feature-guide/análise-de-dados/análise-transmissão-ao-vivo/desempenho-de-live-para-criadores_6646865652041489"
+            }
+          ]
+        },
+        {
+          "text": "Após A Compra",
+          "link": "/feature-guide/análise-de-dados/após-a-compra/",
+          "items": [
+            {
+              "text": "Análise De Desempenho De Avaliações Negativas",
+              "link": "/feature-guide/análise-de-dados/após-a-compra/análise-de-desempenho-de-avaliações-negativas_6890761578415889"
+            },
+            {
+              "text": "Análise De Desempenho De Im",
+              "link": "/feature-guide/análise-de-dados/após-a-compra/análise-de-desempenho-de-im_6890761577580305"
+            }
+          ]
+        },
+        {
+          "text": "Desempenho Dos Vídeos",
+          "link": "/feature-guide/análise-de-dados/desempenho-dos-vídeos/",
+          "items": [
+            {
+              "text": "Desempenho De Vídeo",
+              "link": "/feature-guide/análise-de-dados/desempenho-dos-vídeos/desempenho-de-vídeo_6887252119996176"
+            }
+          ]
+        },
+        {
+          "text": "Gerenciamento De Pedidos",
+          "link": "/feature-guide/análise-de-dados/gerenciamento-de-pedidos/",
+          "items": [
+            {
+              "text": "Guia Para A Página Desempenho Do Processo De Envio",
+              "link": "/feature-guide/análise-de-dados/gerenciamento-de-pedidos/guia-para-a-página-desempenho-do-processo-de-envio_8624817789257488"
+            }
+          ]
+        },
+        {
+          "text": "Marketing",
+          "link": "/feature-guide/análise-de-dados/marketing/",
+          "items": [
+            {
+              "text": "Análise De Ferramenta De Promoção",
+              "link": "/feature-guide/análise-de-dados/marketing/análise-de-ferramenta-de-promoção_6891936015304449"
+            }
+          ]
+        },
+        {
+          "text": "Produtos",
+          "link": "/feature-guide/análise-de-dados/produtos/",
+          "items": [
+            {
+              "text": "Análise De Produto",
+              "link": "/feature-guide/análise-de-dados/produtos/análise-de-produto_6890761576974097"
+            }
+          ]
+        },
+        {
+          "text": "Visão Geral Dos Dados",
+          "link": "/feature-guide/análise-de-dados/visão-geral-dos-dados/",
+          "items": [
+            {
+              "text": "Atualização Da Lógica De Detalhamento Das Métricas De Vendas",
+              "link": "/feature-guide/análise-de-dados/visão-geral-dos-dados/atualização-da-lógica-de-detalhamento-das-métricas-de-vendas_2072109095159568"
+            },
+            {
+              "text": "Bússola de Dados: Visão Geral",
+              "link": "/feature-guide/análise-de-dados/visão-geral-dos-dados/bússola-de-dados-visão-geral_6880013740181249"
+            },
+            {
+              "text": "Gmv Vs Liquidação",
+              "link": "/feature-guide/análise-de-dados/visão-geral-dos-dados/gmv-vs-liquidação_6880013740476161"
+            },
+            {
+              "text": "Lógica De Atribuição Do Gmv",
+              "link": "/feature-guide/análise-de-dados/visão-geral-dos-dados/lógica-de-atribuição-do-gmv_6880952660363024"
+            },
+            {
+              "text": "Visão Geral Dos Dados Do Criador",
+              "link": "/feature-guide/análise-de-dados/visão-geral-dos-dados/visão-geral-dos-dados-do-criador_6718270610032400"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Atendimento Ao Cliente",
+      "link": "/feature-guide/atendimento-ao-cliente/",
+      "items": [
+        {
+          "text": "Chat Tool",
+          "link": "/feature-guide/atendimento-ao-cliente/chat-tool/",
+          "items": [
+            {
+              "text": "Chat De Atendimento Ao Cliente",
+              "link": "/feature-guide/atendimento-ao-cliente/chat-tool/chat-de-atendimento-ao-cliente_6857784697571088"
+            },
+            {
+              "text": "Como Ativar O Assistente De Chat Do Serviço De Atendimento Ao Cliente",
+              "link": "/feature-guide/atendimento-ao-cliente/chat-tool/como-ativar-o-assistente-de-chat-do-serviço-de-atendimento-ao-cliente_6762051826304785"
+            },
+            {
+              "text": "Gerenciamento De Atendimento Ao Cliente",
+              "link": "/feature-guide/atendimento-ao-cliente/chat-tool/gerenciamento-de-atendimento-ao-cliente_6859244688639760"
+            },
+            {
+              "text": "Guia Da Ferramenta De Mensagens Instantâneas",
+              "link": "/feature-guide/atendimento-ao-cliente/chat-tool/guia-da-ferramenta-de-mensagens-instantâneas_189590728705809"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Crescimento Do Criador De Conteúdo",
+      "link": "/feature-guide/crescimento-do-criador-de-conteúdo/",
+      "items": [
+        {
+          "text": "Bônus De Comissão",
+          "link": "/feature-guide/crescimento-do-criador-de-conteúdo/bônus-de-comissão/",
+          "items": [
+            {
+              "text": "Bônus De Comissão",
+              "link": "/feature-guide/crescimento-do-criador-de-conteúdo/bônus-de-comissão/bônus-de-comissão_302443444356865"
+            },
+            {
+              "text": "TikTok Bonus - Perguntas Frequentes (FAQ)",
+              "link": "/feature-guide/crescimento-do-criador-de-conteúdo/bônus-de-comissão/tiktok-bonus-perguntas-frequentes-faq_8487535165572865"
+            }
+          ]
+        },
+        {
+          "text": "Campanha Da Plataforma",
+          "link": "/feature-guide/crescimento-do-criador-de-conteúdo/campanha-da-plataforma/",
+          "items": [
+            {
+              "text": "Campanha Da Plataforma",
+              "link": "/feature-guide/crescimento-do-criador-de-conteúdo/campanha-da-plataforma/campanha-da-plataforma_299031902570257"
+            }
+          ]
+        },
+        {
+          "text": "Desafios",
+          "link": "/feature-guide/crescimento-do-criador-de-conteúdo/desafios/",
+          "items": [
+            {
+              "text": "Desafio: Granado Super Brand Day",
+              "link": "/feature-guide/crescimento-do-criador-de-conteúdo/desafios/desafio-granado-super-brand-day_2290450530715409"
+            },
+            {
+              "text": "Desafio: Granado Super Brand Day",
+              "link": "/feature-guide/crescimento-do-criador-de-conteúdo/desafios/desafio-granado-super-brand-day_2290450531075857"
+            },
+            {
+              "text": "Desafios",
+              "link": "/feature-guide/crescimento-do-criador-de-conteúdo/desafios/desafios_318427973568273"
+            }
+          ]
+        },
+        {
+          "text": "Finanças",
+          "link": "/feature-guide/crescimento-do-criador-de-conteúdo/finanças/",
+          "items": [
+            {
+              "text": "Comissão Afiliada Para Criadores",
+              "link": "/feature-guide/crescimento-do-criador-de-conteúdo/finanças/comissão-afiliada-para-criadores_1517752301717265"
+            }
+          ]
+        },
+        {
+          "text": "Tarefa Do Criador De Conteúdo",
+          "link": "/feature-guide/crescimento-do-criador-de-conteúdo/tarefa-do-criador-de-conteúdo/",
+          "items": [
+            {
+              "text": "Nível Do Criador",
+              "link": "/feature-guide/crescimento-do-criador-de-conteúdo/tarefa-do-criador-de-conteúdo/nível-do-criador_3938898963269392"
+            },
+            {
+              "text": "Tarefas Do Criador",
+              "link": "/feature-guide/crescimento-do-criador-de-conteúdo/tarefa-do-criador-de-conteúdo/tarefas-do-criador_297041033791233"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Crescimento Do Vendedor",
+      "link": "/feature-guide/crescimento-do-vendedor/",
+      "items": [
+        {
+          "text": "Centro De Crescimento",
+          "link": "/feature-guide/crescimento-do-vendedor/centro-de-crescimento/",
+          "items": [
+            {
+              "text": "O que é a Loja Estrela?",
+              "link": "/feature-guide/crescimento-do-vendedor/centro-de-crescimento/o-que-é-a-loja-estrela_2484074055485201"
+            },
+            {
+              "text": "Oportunidades De Crescimento",
+              "link": "/feature-guide/crescimento-do-vendedor/centro-de-crescimento/oportunidades-de-crescimento_6859244688148240"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Devoluções E Reembolsos",
+      "link": "/feature-guide/devoluções-e-reembolsos/",
+      "items": [
+        {
+          "text": "Gerenciar Devoluções E Reembolsos",
+          "link": "/feature-guide/devoluções-e-reembolsos/gerenciar-devoluções-e-reembolsos/",
+          "items": [
+            {
+              "text": "Como Iniciar Um Recurso Para Solicitações De Devolução/Reembolso",
+              "link": "/feature-guide/devoluções-e-reembolsos/gerenciar-devoluções-e-reembolsos/como-iniciar-um-recurso-para-solicitações-de-devolução-reembolso_6736141321324304"
+            },
+            {
+              "text": "Configurações De Regras Automatizadas Para Cancelamentos Auto Aprovados",
+              "link": "/feature-guide/devoluções-e-reembolsos/gerenciar-devoluções-e-reembolsos/configurações-de-regras-automatizadas-para-cancelamentos-auto-aprovados_6736141320750864"
+            },
+            {
+              "text": "Configurações De Regras Automáticas Para Reembolsos Sem Devolução",
+              "link": "/feature-guide/devoluções-e-reembolsos/gerenciar-devoluções-e-reembolsos/configurações-de-regras-automáticas-para-reembolsos-sem-devolução_6735279621179153"
+            },
+            {
+              "text": "Gerenciamento De Devoluções E Reembolsos",
+              "link": "/feature-guide/devoluções-e-reembolsos/gerenciar-devoluções-e-reembolsos/gerenciamento-de-devoluções-e-reembolsos_6730729338636033"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Finanças",
+      "link": "/feature-guide/finanças/",
+      "items": [
+        {
+          "text": "Faturas",
+          "link": "/feature-guide/finanças/faturas/",
+          "items": [
+            {
+              "text": "Emissão De Nf E No Tiktok Shop",
+              "link": "/feature-guide/finanças/faturas/emissão-de-nf-e-no-tiktok-shop_4896169624913680"
+            },
+            {
+              "text": "Erros Comuns Na Emissão De Nf E Guia De Perguntas E Respostas",
+              "link": "/feature-guide/finanças/faturas/erros-comuns-na-emissão-de-nf-e-guia-de-perguntas-e-respostas_4889522412848897"
+            },
+            {
+              "text": "Nota Fiscal Logística",
+              "link": "/feature-guide/finanças/faturas/nota-fiscal-logística_6507317009794833"
+            }
+          ]
+        },
+        {
+          "text": "Impostos",
+          "link": "/feature-guide/finanças/impostos/",
+          "items": [
+            {
+              "text": "Fatura Fiscal",
+              "link": "/feature-guide/finanças/impostos/fatura-fiscal_24428156389121"
+            },
+            {
+              "text": "Perguntas Frequentes Sobre Impostos",
+              "link": "/feature-guide/finanças/impostos/perguntas-frequentes-sobre-impostos_1487157475673872"
+            }
+          ]
+        },
+        {
+          "text": "Recebendo Pagamento",
+          "link": "/feature-guide/finanças/recebendo-pagamento/",
+          "items": [
+            {
+              "text": "Agendar Seus Pagamentos",
+              "link": "/feature-guide/finanças/recebendo-pagamento/agendar-seus-pagamentos_6481737900607249"
+            },
+            {
+              "text": "Guia De Demonstração Financeira",
+              "link": "/feature-guide/finanças/recebendo-pagamento/guia-de-demonstração-financeira_22854025807617"
+            },
+            {
+              "text": "Pagamentos Do Tiktok Shop",
+              "link": "/feature-guide/finanças/recebendo-pagamento/pagamentos-do-tiktok-shop_28418234664705"
+            },
+            {
+              "text": "Período De Liquidação De Pagamento",
+              "link": "/feature-guide/finanças/recebendo-pagamento/período-de-liquidação-de-pagamento_24428155995905"
+            },
+            {
+              "text": "Política Para Venda De Créditos",
+              "link": "/feature-guide/finanças/recebendo-pagamento/política-para-venda-de-créditos_4578714399901441"
+            }
+          ]
+        },
+        {
+          "text": "Taxas Do Vendedor",
+          "link": "/feature-guide/finanças/taxas-do-vendedor/",
+          "items": [
+            {
+              "text": "Atualização Da Análise Do Vendedor",
+              "link": "/feature-guide/finanças/taxas-do-vendedor/atualização-da-análise-do-vendedor_1851950762706689"
+            },
+            {
+              "text": "Pagamento De Saldo Negativo",
+              "link": "/feature-guide/finanças/taxas-do-vendedor/pagamento-de-saldo-negativo_6481737900443409"
+            },
+            {
+              "text": "Tarifa De Comissão Da Plataforma",
+              "link": "/feature-guide/finanças/taxas-do-vendedor/tarifa-de-comissão-da-plataforma_24428156307201"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Integração",
+      "link": "/feature-guide/integração/",
+      "items": [
+        {
+          "text": "Registrar E Configurar Conta",
+          "link": "/feature-guide/integração/registrar-e-configurar-conta/",
+          "items": [
+            {
+              "text": "Central De Criadores Do Tiktok Shop",
+              "link": "/feature-guide/integração/registrar-e-configurar-conta/central-de-criadores-do-tiktok-shop_6975934675273473"
+            },
+            {
+              "text": "Como Adicionar Informações De Contato",
+              "link": "/feature-guide/integração/registrar-e-configurar-conta/como-adicionar-informações-de-contato_6813185987528465"
+            },
+            {
+              "text": "Como Se Registrar Como Criador De Afiliados",
+              "link": "/feature-guide/integração/registrar-e-configurar-conta/como-se-registrar-como-criador-de-afiliados_6807244117362448"
+            },
+            {
+              "text": "Guia Passo A Passo Para Migrar De Cpf Para Cnpj",
+              "link": "/feature-guide/integração/registrar-e-configurar-conta/guia-passo-a-passo-para-migrar-de-cpf-para-cnpj_616661158987537"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Live",
+      "link": "/feature-guide/live/",
+      "items": [
+        {
+          "text": "Desempenho Da Live",
+          "link": "/feature-guide/live/desempenho-da-live/",
+          "items": [
+            {
+              "text": "Desempenho De Live",
+              "link": "/feature-guide/live/desempenho-da-live/desempenho-de-live_6896392601863953"
+            },
+            {
+              "text": "Live Dashboard",
+              "link": "/feature-guide/live/desempenho-da-live/live-dashboard_6718910910400257"
+            }
+          ]
+        },
+        {
+          "text": "Ferramentas E Promoções De Live",
+          "link": "/feature-guide/live/ferramentas-e-promoções-de-live/",
+          "items": [
+            {
+              "text": "Como Configurar A Oferta Relâmpago De Live Para Criadores Na Central Do Vendedor",
+              "link": "/feature-guide/live/ferramentas-e-promoções-de-live/como-configurar-a-oferta-relâmpago-de-live-para-criadores-na-central-do-vendedor_2946070133884688"
+            },
+            {
+              "text": "Cupom De Live Do Vendedor",
+              "link": "/feature-guide/live/ferramentas-e-promoções-de-live/cupom-de-live-do-vendedor_2514361000822544"
+            },
+            {
+              "text": "Destaques De Live Para Vendedores",
+              "link": "/feature-guide/live/ferramentas-e-promoções-de-live/destaques-de-live-para-vendedores_8463484438185745"
+            },
+            {
+              "text": "Lance Ao Vivo",
+              "link": "/feature-guide/live/ferramentas-e-promoções-de-live/lance-ao-vivo_5827634231625488"
+            },
+            {
+              "text": "Oferta Relâmpago Live",
+              "link": "/feature-guide/live/ferramentas-e-promoções-de-live/oferta-relâmpago-live_5696139560355601"
+            },
+            {
+              "text": "Recompensa Da Live Do Criador",
+              "link": "/feature-guide/live/ferramentas-e-promoções-de-live/recompensa-da-live-do-criador_3531458740864769"
+            },
+            {
+              "text": "Vendas Em Live Centro De Live Na Central Do Vendedor",
+              "link": "/feature-guide/live/ferramentas-e-promoções-de-live/vendas-em-live-centro-de-live-na-central-do-vendedor_2743241766520593"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Marketing",
+      "link": "/feature-guide/marketing/",
+      "items": [
+        {
+          "text": "Campanhas",
+          "link": "/feature-guide/marketing/campanhas/",
+          "items": [
+            {
+              "text": "Campanha Cofinanciada",
+              "link": "/feature-guide/marketing/campanhas/campanha-cofinanciada_2569565069149953"
+            },
+            {
+              "text": "Campanha Registro Em Um Só Clique",
+              "link": "/feature-guide/marketing/campanhas/campanha-registro-em-um-só-clique_6344614546818833"
+            },
+            {
+              "text": "Campanhas De Live E Vídeo Curto",
+              "link": "/feature-guide/marketing/campanhas/campanhas-de-live-e-vídeo-curto_5665577566570257"
+            },
+            {
+              "text": "Campanhas De Produtos",
+              "link": "/feature-guide/marketing/campanhas/campanhas-de-produtos_5668870343608080"
+            },
+            {
+              "text": "Como Aceitar O Registro De Uma Campanha Pendente",
+              "link": "/feature-guide/marketing/campanhas/como-aceitar-o-registro-de-uma-campanha-pendente_2716237918799632"
+            },
+            {
+              "text": "Como Usar O Painel De Campanhas",
+              "link": "/feature-guide/marketing/campanhas/como-usar-o-painel-de-campanhas_2996214162163473"
+            },
+            {
+              "text": "Cómo Resolver Errores De Sku En Una Campaña",
+              "link": "/feature-guide/marketing/campanhas/cómo-resolver-errores-de-sku-en-una-campaña_3019688033568528"
+            },
+            {
+              "text": "Diversas Maneiras De Se Inscrever Em Campanhas",
+              "link": "/feature-guide/marketing/campanhas/diversas-maneiras-de-se-inscrever-em-campanhas_2701559525017361"
+            },
+            {
+              "text": "Perguntas Frequentes Sobre Campanhas",
+              "link": "/feature-guide/marketing/campanhas/perguntas-frequentes-sobre-campanhas_2996214162966289"
+            },
+            {
+              "text": "Registro Automático Em Campanhas",
+              "link": "/feature-guide/marketing/campanhas/registro-automático-em-campanhas_6023077329356560"
+            },
+            {
+              "text": "Regra De Preço Limite Da Campanha E Preço Recomendado",
+              "link": "/feature-guide/marketing/campanhas/regra-de-preço-limite-da-campanha-e-preço-recomendado_3351782382814993"
+            },
+            {
+              "text": "Visão geral dos benefícios de campanha: o que são e tipos comuns",
+              "link": "/feature-guide/marketing/campanhas/visão-geral-dos-benefícios-de-campanha-o-que-são-e-tipos-comuns_3027449152374544"
+            }
+          ]
+        },
+        {
+          "text": "Clientes",
+          "link": "/feature-guide/marketing/clientes/",
+          "items": [
+            {
+              "text": "Ferramenta De Gestão De Relacionamento Com Clientes",
+              "link": "/feature-guide/marketing/clientes/ferramenta-de-gestão-de-relacionamento-com-clientes_5041094702597904"
+            }
+          ]
+        },
+        {
+          "text": "Design De Loja",
+          "link": "/feature-guide/marketing/design-de-loja/",
+          "items": [
+            {
+              "text": "Como Usar O Design Da Loja",
+              "link": "/feature-guide/marketing/design-de-loja/como-usar-o-design-da-loja_1153233696671505"
+            }
+          ]
+        },
+        {
+          "text": "Programas",
+          "link": "/feature-guide/marketing/programas/",
+          "items": [
+            {
+              "text": "Programa De Taxas De Envio",
+              "link": "/feature-guide/marketing/programas/programa-de-taxas-de-envio_5665577566734097"
+            }
+          ]
+        },
+        {
+          "text": "Promoção",
+          "link": "/feature-guide/marketing/promoção/",
+          "items": [
+            {
+              "text": "Análise De Promoções Realizadas Por Vendedores",
+              "link": "/feature-guide/marketing/promoção/análise-de-promoções-realizadas-por-vendedores_2714456296949505"
+            },
+            {
+              "text": "Compre Mais Economize Mais",
+              "link": "/feature-guide/marketing/promoção/compre-mais-economize-mais_5702401538524944"
+            },
+            {
+              "text": "Cupom Comum",
+              "link": "/feature-guide/marketing/promoção/cupom-comum_5702401537902352"
+            },
+            {
+              "text": "Cupom De Clientes Recorrentes",
+              "link": "/feature-guide/marketing/promoção/cupom-de-clientes-recorrentes_5702401538230032"
+            },
+            {
+              "text": "Cupom De Novo Cliente Do Vendedor",
+              "link": "/feature-guide/marketing/promoção/cupom-de-novo-cliente-do-vendedor_5706219402774289"
+            },
+            {
+              "text": "Cupom Do Chat",
+              "link": "/feature-guide/marketing/promoção/cupom-do-chat_5706219403167505"
+            },
+            {
+              "text": "Cupom Exclusivo Dos Criadores",
+              "link": "/feature-guide/marketing/promoção/cupom-exclusivo-dos-criadores_5702401538328336"
+            },
+            {
+              "text": "Código Promocional",
+              "link": "/feature-guide/marketing/promoção/código-promocional_5702401538459408"
+            },
+            {
+              "text": "Desconto Na Taxa De Envio",
+              "link": "/feature-guide/marketing/promoção/desconto-na-taxa-de-envio_5702401538754320"
+            },
+            {
+              "text": "Desconto No Produto",
+              "link": "/feature-guide/marketing/promoção/desconto-no-produto_5702401537541904"
+            },
+            {
+              "text": "Guia de Preços: Combinação de Várias Promoções",
+              "link": "/feature-guide/marketing/promoção/guia-de-preços-combinação-de-várias-promoções_5137060357031697"
+            },
+            {
+              "text": "Guia do recurso \\\\Cupom de avaliação\\",
+              "link": "/feature-guide/marketing/promoção/guia-do-recurso-cupom-de-avaliação_5146268775728913"
+            },
+            {
+              "text": "Informações De Preço",
+              "link": "/feature-guide/marketing/promoção/informações-de-preço_6972636455274241"
+            },
+            {
+              "text": "Kit Promocional",
+              "link": "/feature-guide/marketing/promoção/kit-promocional_5700634356926225"
+            },
+            {
+              "text": "Presentes Com Compra",
+              "link": "/feature-guide/marketing/promoção/presentes-com-compra_5700634356778769"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Pedidos",
+      "link": "/feature-guide/pedidos/",
+      "items": [
+        {
+          "text": "Gerenciar Pedidos",
+          "link": "/feature-guide/pedidos/gerenciar-pedidos/",
+          "items": [
+            {
+              "text": "Como Combinar Vários Pedidos Em Um Único Pacote",
+              "link": "/feature-guide/pedidos/gerenciar-pedidos/como-combinar-vários-pedidos-em-um-único-pacote_6794907302823696"
+            },
+            {
+              "text": "Como Configurar Respostas Automáticas Para Envios",
+              "link": "/feature-guide/pedidos/gerenciar-pedidos/como-configurar-respostas-automáticas-para-envios_877053075851009"
+            },
+            {
+              "text": "Como Dividir Pedidos Em Pacotes Separados",
+              "link": "/feature-guide/pedidos/gerenciar-pedidos/como-dividir-pedidos-em-pacotes-separados_6788519499630337"
+            },
+            {
+              "text": "Como Processar Pedidos \\\\Enviados Pela Plataforma\\",
+              "link": "/feature-guide/pedidos/gerenciar-pedidos/como-processar-pedidos-enviados-pela-plataforma_5235393047348993"
+            },
+            {
+              "text": "Gerenciamento De Pedidos",
+              "link": "/feature-guide/pedidos/gerenciar-pedidos/gerenciamento-de-pedidos_6729154985363217"
+            },
+            {
+              "text": "Problemas De Logística",
+              "link": "/feature-guide/pedidos/gerenciar-pedidos/problemas-de-logística_6729154985871121"
+            }
+          ]
+        },
+        {
+          "text": "Serviço De Compras",
+          "link": "/feature-guide/pedidos/serviço-de-compras/",
+          "items": [
+            {
+              "text": "Aprenda A Processar Pedidos Manualmente",
+              "link": "/feature-guide/pedidos/serviço-de-compras/aprenda-a-processar-pedidos-manualmente_2949477875877649"
+            },
+            {
+              "text": "Casos Comuns De Taxa De Envio",
+              "link": "/feature-guide/pedidos/serviço-de-compras/casos-comuns-de-taxa-de-envio_4814789939824401"
+            },
+            {
+              "text": "Como Enviar Amostras Grátis",
+              "link": "/feature-guide/pedidos/serviço-de-compras/como-enviar-amostras-grátis_2915348630701825"
+            },
+            {
+              "text": "Configuração De Pré Envio Para Novos Vendedores",
+              "link": "/feature-guide/pedidos/serviço-de-compras/configuração-de-pré-envio-para-novos-vendedores_5235393046546177"
+            },
+            {
+              "text": "Diretrizes De Embalagem De Tiktok Shop",
+              "link": "/feature-guide/pedidos/serviço-de-compras/diretrizes-de-embalagem-de-tiktok-shop_5238926923269905"
+            },
+            {
+              "text": "Visão Geral da Opção \\\\Enviados Pela Plataforma\\",
+              "link": "/feature-guide/pedidos/serviço-de-compras/visão-geral-da-opção-enviados-pela-plataforma_2915348630603521"
+            }
+          ]
+        },
+        {
+          "text": "Serviço De Depósito",
+          "link": "/feature-guide/pedidos/serviço-de-depósito/",
+          "items": [
+            {
+              "text": "Configuração De MWH (Vários Depósitos)",
+              "link": "/feature-guide/pedidos/serviço-de-depósito/configuração-de-mwh-vários-depósitos_2915348630816513"
+            }
+          ]
+        },
+        {
+          "text": "Taxa E Política De Atendimento",
+          "link": "/feature-guide/pedidos/taxa-e-política-de-atendimento/",
+          "items": [
+            {
+              "text": "Como Calcular A Taxa De Envio",
+              "link": "/feature-guide/pedidos/taxa-e-política-de-atendimento/como-calcular-a-taxa-de-envio_2429852922251024"
+            },
+            {
+              "text": "Configurações Do Método De Coleta",
+              "link": "/feature-guide/pedidos/taxa-e-política-de-atendimento/configurações-do-método-de-coleta_2916389875304208"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Preparação De Operação",
+      "link": "/feature-guide/preparação-de-operação/",
+      "items": [
+        {
+          "text": "Gerenciar Contas",
+          "link": "/feature-guide/preparação-de-operação/gerenciar-contas/",
+          "items": [
+            {
+              "text": "Aplicativo Da Central De Vendedores",
+              "link": "/feature-guide/preparação-de-operação/gerenciar-contas/aplicativo-da-central-de-vendedores_3180070811780865"
+            },
+            {
+              "text": "Atualizar Dados Pessoais No Centro De Qualificação Do Vendedor",
+              "link": "/feature-guide/preparação-de-operação/gerenciar-contas/atualizar-dados-pessoais-no-centro-de-qualificação-do-vendedor_6807244117853968"
+            },
+            {
+              "text": "Atualização Das Condições De Uso Da Música Comercial",
+              "link": "/feature-guide/preparação-de-operação/gerenciar-contas/atualização-das-condições-de-uso-da-música-comercial_6804983057843984"
+            },
+            {
+              "text": "Como Desconectar O Storefront",
+              "link": "/feature-guide/preparação-de-operação/gerenciar-contas/como-desconectar-o-storefront_6806023781762832"
+            },
+            {
+              "text": "Como Usar O Gerenciamento De Usuários",
+              "link": "/feature-guide/preparação-de-operação/gerenciar-contas/como-usar-o-gerenciamento-de-usuários_6806023781435152"
+            },
+            {
+              "text": "Direitos E Regras Sobre A Conta De Marketing De Tiktok Shop",
+              "link": "/feature-guide/preparação-de-operação/gerenciar-contas/direitos-e-regras-sobre-a-conta-de-marketing-de-tiktok-shop_6804983057696528"
+            },
+            {
+              "text": "Direitos E Regras Sobre A Conta Oficial De Tiktok Shop",
+              "link": "/feature-guide/preparação-de-operação/gerenciar-contas/direitos-e-regras-sobre-a-conta-oficial-de-tiktok-shop_6799958289008401"
+            },
+            {
+              "text": "Isenção De Verificação No Tiktok Para Conta Oficial E De Marketing",
+              "link": "/feature-guide/preparação-de-operação/gerenciar-contas/isenção-de-verificação-no-tiktok-para-conta-oficial-e-de-marketing_7085517381551888"
+            },
+            {
+              "text": "Minha Conta: Configurações e Personalização de Toda a Conta",
+              "link": "/feature-guide/preparação-de-operação/gerenciar-contas/minha-conta-configurações-e-personalização-de-toda-a-conta_6797682433951504"
+            },
+            {
+              "text": "Modo Férias",
+              "link": "/feature-guide/preparação-de-operação/gerenciar-contas/modo-férias_6807244118017808"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Primeiros Passos",
+      "link": "/feature-guide/primeiros-passos/",
+      "items": [
+        {
+          "text": "Registro E Configuração Da Conta",
+          "link": "/feature-guide/primeiros-passos/registro-e-configuração-da-conta/",
+          "items": [
+            {
+              "text": "Perguntas Frequentes Sobre O Registro De Vendedores",
+              "link": "/feature-guide/primeiros-passos/registro-e-configuração-da-conta/perguntas-frequentes-sobre-o-registro-de-vendedores_1721569656112912"
+            },
+            {
+              "text": "Registro De Vendedores",
+              "link": "/feature-guide/primeiros-passos/registro-e-configuração-da-conta/registro-de-vendedores_3995530205677329"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Produtos",
+      "link": "/feature-guide/produtos/",
+      "items": [
+        {
+          "text": "Gerenciar Produtos",
+          "link": "/feature-guide/produtos/gerenciar-produtos/",
+          "items": [
+            {
+              "text": "Anunciar Com Url",
+              "link": "/feature-guide/produtos/gerenciar-produtos/anunciar-com-url_6250796942821137"
+            },
+            {
+              "text": "Avaliação Do Produto",
+              "link": "/feature-guide/produtos/gerenciar-produtos/avaliação-do-produto_6510677305050896"
+            },
+            {
+              "text": "Códigos Identificadores De Produto",
+              "link": "/feature-guide/produtos/gerenciar-produtos/códigos-identificadores-de-produto_3997767409125137"
+            },
+            {
+              "text": "Gerenciamento De Estoque",
+              "link": "/feature-guide/produtos/gerenciar-produtos/gerenciamento-de-estoque_6857784697341712"
+            },
+            {
+              "text": "Gerenciamento De Produtos",
+              "link": "/feature-guide/produtos/gerenciar-produtos/gerenciamento-de-produtos_4339061972092689"
+            },
+            {
+              "text": "Limite De Compra Do Cliente",
+              "link": "/feature-guide/produtos/gerenciar-produtos/limite-de-compra-do-cliente_5831830016313105"
+            },
+            {
+              "text": "Oportunidades De Produtos",
+              "link": "/feature-guide/produtos/gerenciar-produtos/oportunidades-de-produtos_4822947309324048"
+            },
+            {
+              "text": "Pré-venda (venda antecipada)",
+              "link": "/feature-guide/produtos/gerenciar-produtos/pré-venda-venda-antecipada_5378175590057729"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Selecionar Produto",
+      "link": "/feature-guide/selecionar-produto/",
+      "items": [
+        {
+          "text": "Adicionar Produto À Exposição",
+          "link": "/feature-guide/selecionar-produto/adicionar-produto-à-exposição/",
+          "items": [
+            {
+              "text": "Convite De Colaboração",
+              "link": "/feature-guide/selecionar-produto/adicionar-produto-à-exposição/convite-de-colaboração_6817362679023376"
+            },
+            {
+              "text": "Ganhe Dinheiro Transformando Seus Vídeos Compráveis Em Anúncios",
+              "link": "/feature-guide/selecionar-produto/adicionar-produto-à-exposição/ganhe-dinheiro-transformando-seus-vídeos-compráveis-em-anúncios_5957992314865425"
+            },
+            {
+              "text": "Marketplace De Produtos",
+              "link": "/feature-guide/selecionar-produto/adicionar-produto-à-exposição/marketplace-de-produtos_6813185987757841"
+            },
+            {
+              "text": "Organização Inteligente Na Vitrine",
+              "link": "/feature-guide/selecionar-produto/adicionar-produto-à-exposição/organização-inteligente-na-vitrine_6817362679367440"
+            }
+          ]
+        },
+        {
+          "text": "Obter Amostra",
+          "link": "/feature-guide/selecionar-produto/obter-amostra/",
+          "items": [
+            {
+              "text": "Amostra Reembolsável",
+              "link": "/feature-guide/selecionar-produto/obter-amostra/amostra-reembolsável_329648730900225"
+            },
+            {
+              "text": "Amostragem de Múltiplos SKUs: Solicite mais variações de um único produto",
+              "link": "/feature-guide/selecionar-produto/obter-amostra/amostragem-de-múltiplos-skus-solicite-mais-variações-de-um-único-produto_4776556505564929"
+            },
+            {
+              "text": "Campanha De Amostras",
+              "link": "/feature-guide/selecionar-produto/obter-amostra/campanha-de-amostras_312880121956112"
+            },
+            {
+              "text": "Cupom De Amostra",
+              "link": "/feature-guide/selecionar-produto/obter-amostra/cupom-de-amostra_297041034168065"
+            },
+            {
+              "text": "Guia De Amostras Grátis Para Criadores",
+              "link": "/feature-guide/selecionar-produto/obter-amostra/guia-de-amostras-grátis-para-criadores_6821109446018832"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Transmissão Live",
+      "link": "/feature-guide/transmissão-live/",
+      "items": [
+        {
+          "text": "Configuração De Transmissão Ao Vivo",
+          "link": "/feature-guide/transmissão-live/configuração-de-transmissão-ao-vivo/",
+          "items": [
+            {
+              "text": "Evento De Live",
+              "link": "/feature-guide/transmissão-live/configuração-de-transmissão-ao-vivo/evento-de-live_6821109446952720"
+            },
+            {
+              "text": "Gerenciador De Live",
+              "link": "/feature-guide/transmissão-live/configuração-de-transmissão-ao-vivo/gerenciador-de-live_6821109446412048"
+            }
+          ]
+        },
+        {
+          "text": "Operação De Transmissão Ao Vivo",
+          "link": "/feature-guide/transmissão-live/operação-de-transmissão-ao-vivo/",
+          "items": [
+            {
+              "text": "Cartão Fixado na LIVE: produtos em destaque e cupons fixados",
+              "link": "/feature-guide/transmissão-live/operação-de-transmissão-ao-vivo/cartão-fixado-na-live-produtos-em-destaque-e-cupons-fixados_6327867927545601"
+            },
+            {
+              "text": "Destaques De Live Para Criadores",
+              "link": "/feature-guide/transmissão-live/operação-de-transmissão-ao-vivo/destaques-de-live-para-criadores_5572789743077136"
+            },
+            {
+              "text": "Live Dashboard",
+              "link": "/feature-guide/transmissão-live/operação-de-transmissão-ao-vivo/live-dashboard_6821759409309441"
+            },
+            {
+              "text": "Oferta Relâmpago Em Live Para Criadores",
+              "link": "/feature-guide/transmissão-live/operação-de-transmissão-ao-vivo/oferta-relâmpago-em-live-para-criadores_6028204985386769"
+            },
+            {
+              "text": "Recompensa Da Live Do Criador",
+              "link": "/feature-guide/transmissão-live/operação-de-transmissão-ao-vivo/recompensa-da-live-do-criador_3536796485224193"
+            },
+            {
+              "text": "Roteiros De Live",
+              "link": "/feature-guide/transmissão-live/operação-de-transmissão-ao-vivo/roteiros-de-live_2394290874140432"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Vendas Através De Vídeos",
+      "link": "/feature-guide/vendas-através-de-vídeos/",
+      "items": [
+        {
+          "text": "Adicione Produtos Em Vídeos Curtos",
+          "link": "/feature-guide/vendas-através-de-vídeos/adicione-produtos-em-vídeos-curtos/",
+          "items": [
+            {
+              "text": "Adição de produtos a vídeos curtos (cesta amarela)",
+              "link": "/feature-guide/vendas-através-de-vídeos/adicione-produtos-em-vídeos-curtos/adição-de-produtos-a-vídeos-curtos-cesta-amarela_6824354923824912"
+            },
+            {
+              "text": "Vitrine Do Tiktok Shop",
+              "link": "/feature-guide/vendas-através-de-vídeos/adicione-produtos-em-vídeos-curtos/vitrine-do-tiktok-shop_6825383530710785"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Vendas Em Vídeos",
+      "link": "/feature-guide/vendas-em-vídeos/",
+      "items": [
+        {
+          "text": "Centro De Inspiração Para Criadores",
+          "link": "/feature-guide/vendas-em-vídeos/centro-de-inspiração-para-criadores_167167803197200"
+        },
+        {
+          "text": "Como Vincular E Revincular Produtos Aos Vídeos",
+          "link": "/feature-guide/vendas-em-vídeos/como-vincular-e-revincular-produtos-aos-vídeos_618995876038401"
+        },
+        {
+          "text": "Guia De Compartilhamento De Links De Afiliados Para Criadores",
+          "link": "/feature-guide/vendas-em-vídeos/guia-de-compartilhamento-de-links-de-afiliados-para-criadores_3901287218562833"
+        },
+        {
+          "text": "Guia Vídeo Do Criador",
+          "link": "/feature-guide/vendas-em-vídeos/guia-vídeo-do-criador_8292950610773777"
+        }
+      ]
+    },
+    {
+      "text": "Vender No Tiktok Shop",
+      "link": "/feature-guide/vender-no-tiktok-shop/",
+      "items": [
+        {
+          "text": "Solução De Terceiros",
+          "link": "/feature-guide/vender-no-tiktok-shop/solução-de-terceiros/",
+          "items": [
+            {
+              "text": "Guia Para Agências E Serviços",
+              "link": "/feature-guide/vender-no-tiktok-shop/solução-de-terceiros/guia-para-agências-e-serviços_2565582306248464"
+            },
+            {
+              "text": "Guia Para App Store",
+              "link": "/feature-guide/vender-no-tiktok-shop/solução-de-terceiros/guia-para-app-store_5307890866751249"
+            }
+          ]
+        },
+        {
+          "text": "Tiktok Para Shopify",
+          "link": "/feature-guide/vender-no-tiktok-shop/tiktok-para-shopify/",
+          "items": [
+            {
+              "text": "Sincronização de avaliações da Shopify (única)",
+              "link": "/feature-guide/vender-no-tiktok-shop/tiktok-para-shopify/sincronização-de-avaliações-da-shopify-única_7295468199544593"
+            },
+            {
+              "text": "TikTok para Shopify: Configuração e Vinculação de Depósitos",
+              "link": "/feature-guide/vender-no-tiktok-shop/tiktok-para-shopify/tiktok-para-shopify-configuração-e-vinculação-de-depósitos_5192169866675969"
+            },
+            {
+              "text": "TikTok Para Shopify: Configurações Da Loja",
+              "link": "/feature-guide/vender-no-tiktok-shop/tiktok-para-shopify/tiktok-para-shopify-configurações-da-loja_5784364186568465"
+            },
+            {
+              "text": "TikTok Para Shopify: Guia de Registro",
+              "link": "/feature-guide/vender-no-tiktok-shop/tiktok-para-shopify/tiktok-para-shopify-guia-de-registro_5787682416756481"
+            },
+            {
+              "text": "TikTok Para Shopify: Pedido e Envio",
+              "link": "/feature-guide/vender-no-tiktok-shop/tiktok-para-shopify/tiktok-para-shopify-pedido-e-envio_5784364186437393"
+            },
+            {
+              "text": "TikTok para Shopify: Perguntas Frequentes",
+              "link": "/feature-guide/vender-no-tiktok-shop/tiktok-para-shopify/tiktok-para-shopify-perguntas-frequentes_4076162880423696"
+            },
+            {
+              "text": "TikTok Para Shopify: Sincronização de Produtos",
+              "link": "/feature-guide/vender-no-tiktok-shop/tiktok-para-shopify/tiktok-para-shopify-sincronização-de-produtos_5787682416969473"
+            },
+            {
+              "text": "TikTok Para Shopify: Visão Geral",
+              "link": "/feature-guide/vender-no-tiktok-shop/tiktok-para-shopify/tiktok-para-shopify-visão-geral_5675645997876993"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "/policy-center/": [
+    {
+      "text": "Atendimento Ao Cliente",
+      "link": "/policy-center/atendimento-ao-cliente/",
+      "items": [
+        {
+          "text": "Guia De Experiência Do Cliente Para Vendedores Do Tiktok Shop",
+          "link": "/policy-center/atendimento-ao-cliente/guia-de-experiência-do-cliente-para-vendedores-do-tiktok-shop_8330424917837585"
+        },
+        {
+          "text": "Política De Atendimento Ao Cliente Do Tiktok Shop",
+          "link": "/policy-center/atendimento-ao-cliente/política-de-atendimento-ao-cliente-do-tiktok-shop_2583022047233809"
+        },
+        {
+          "text": "Política De Avaliação Do Cliente Do Tiktok Shop",
+          "link": "/policy-center/atendimento-ao-cliente/política-de-avaliação-do-cliente-do-tiktok-shop_6251924198442753"
+        },
+        {
+          "text": "Reembolso Parcial América Latina",
+          "link": "/policy-center/atendimento-ao-cliente/reembolso-parcial-américa-latina_308876462737168"
+        }
+      ]
+    },
+    {
+      "text": "Direitos De Propriedade Intelectual",
+      "link": "/policy-center/direitos-de-propriedade-intelectual/",
+      "items": [
+        {
+          "text": "Centro de Proteção à Propriedade Intelectual (IPPC) - Como usá-lo",
+          "link": "/policy-center/direitos-de-propriedade-intelectual/centro-de-proteção-à-propriedade-intelectual-ippc-como-usá-lo_8248592759244561"
+        },
+        {
+          "text": "Como Evitar A Violação De Propriedade Intelectual",
+          "link": "/policy-center/direitos-de-propriedade-intelectual/como-evitar-a-violação-de-propriedade-intelectual_5405188714563345"
+        },
+        {
+          "text": "Como Evitar Produtos Falsificados",
+          "link": "/policy-center/direitos-de-propriedade-intelectual/como-evitar-produtos-falsificados_5407942887212801"
+        },
+        {
+          "text": "Como Evitar Violações De Marcas Comerciais",
+          "link": "/policy-center/direitos-de-propriedade-intelectual/como-evitar-violações-de-marcas-comerciais_5398633114650369"
+        },
+        {
+          "text": "Como Recorrer De Violações De Propriedade Intelectual",
+          "link": "/policy-center/direitos-de-propriedade-intelectual/como-recorrer-de-violações-de-propriedade-intelectual_5398633115076353"
+        },
+        {
+          "text": "Guia Para Obter Autorização Da Marca",
+          "link": "/policy-center/direitos-de-propriedade-intelectual/guia-para-obter-autorização-da-marca_5407942887311105"
+        },
+        {
+          "text": "O que é Ocultação de Marca?",
+          "link": "/policy-center/direitos-de-propriedade-intelectual/o-que-é-ocultação-de-marca_2823210010576641"
+        },
+        {
+          "text": "Política De Propriedade Intelectual Do Tiktok Shop",
+          "link": "/policy-center/direitos-de-propriedade-intelectual/política-de-propriedade-intelectual-do-tiktok-shop_5385814784837393"
+        }
+      ]
+    },
+    {
+      "text": "Gerenciamento De Conta",
+      "link": "/policy-center/gerenciamento-de-conta/",
+      "items": [
+        {
+          "text": "Diretrizes Para O Período De Experiência De Loja Nova",
+          "link": "/policy-center/gerenciamento-de-conta/diretrizes-para-o-período-de-experiência-de-loja-nova_1444948507379472"
+        },
+        {
+          "text": "Entendendo O Acesso Não Autorizado À Conta",
+          "link": "/policy-center/gerenciamento-de-conta/entendendo-o-acesso-não-autorizado-à-conta_1290660386014977"
+        },
+        {
+          "text": "O Que Fazer Ao Receber Uma Violação",
+          "link": "/policy-center/gerenciamento-de-conta/o-que-fazer-ao-receber-uma-violação_3352890954843920"
+        },
+        {
+          "text": "Política De Acesso Não Autorizado A Contas",
+          "link": "/policy-center/gerenciamento-de-conta/política-de-acesso-não-autorizado-a-contas_308893506946833"
+        },
+        {
+          "text": "Política De Elegibilidade De Criadores Do Tiktok Shop",
+          "link": "/policy-center/gerenciamento-de-conta/política-de-elegibilidade-de-criadores-do-tiktok-shop_1396756526679824"
+        },
+        {
+          "text": "Verificação Da Identidade Do Criador",
+          "link": "/policy-center/gerenciamento-de-conta/verificação-da-identidade-do-criador_1415000913184513"
+        },
+        {
+          "text": "Verificação de Identidade do Vendedor do TikTok Shop - Política de Privacidade Suplementar",
+          "link": "/policy-center/gerenciamento-de-conta/verificação-de-identidade-do-vendedor-do-tiktok-shop-política-de-privacidade-sup_7688296793769729"
+        },
+        {
+          "text": "Verificação De Identidade No Tiktok Shop",
+          "link": "/policy-center/gerenciamento-de-conta/verificação-de-identidade-no-tiktok-shop_1984591137818385"
+        }
+      ]
+    },
+    {
+      "text": "Gerenciamento De Conteúdo",
+      "link": "/policy-center/gerenciamento-de-conteúdo/",
+      "items": [
+        {
+          "text": "Classificação De Integridade Do Criador",
+          "link": "/policy-center/gerenciamento-de-conteúdo/classificação-de-integridade-do-criador_974093010454289"
+        },
+        {
+          "text": "Como Evitar A Promoção De Produtos Proibidos",
+          "link": "/policy-center/gerenciamento-de-conteúdo/como-evitar-a-promoção-de-produtos-proibidos_4562554219333377"
+        },
+        {
+          "text": "Como Evitar Erros Comuns Em Vídeos Compráveis",
+          "link": "/policy-center/gerenciamento-de-conteúdo/como-evitar-erros-comuns-em-vídeos-compráveis_3945488668182288"
+        },
+        {
+          "text": "Como Evitar Erros Comuns Nas Lives",
+          "link": "/policy-center/gerenciamento-de-conteúdo/como-evitar-erros-comuns-nas-lives_3948020681819921"
+        },
+        {
+          "text": "Conteúdo de imagens estáticas: o que é isso?",
+          "link": "/policy-center/gerenciamento-de-conteúdo/conteúdo-de-imagens-estáticas-o-que-é-isso_1144593894655760"
+        },
+        {
+          "text": "Conteúdo Proibido Para Segurança Da Plataforma",
+          "link": "/policy-center/gerenciamento-de-conteúdo/conteúdo-proibido-para-segurança-da-plataforma_4557942784296721"
+        },
+        {
+          "text": "Criando com Impacto: um guia para todos os criadores",
+          "link": "/policy-center/gerenciamento-de-conteúdo/criando-com-impacto-um-guia-para-todos-os-criadores_7283201551206160"
+        },
+        {
+          "text": "Crie Vídeos E Transmissões Ao Live De Alta Qualidade",
+          "link": "/policy-center/gerenciamento-de-conteúdo/crie-vídeos-e-transmissões-ao-live-de-alta-qualidade_5635030781101840"
+        },
+        {
+          "text": "Evitando Alegações Sobre Controle De Peso",
+          "link": "/policy-center/gerenciamento-de-conteúdo/evitando-alegações-sobre-controle-de-peso_1144593895065360"
+        },
+        {
+          "text": "Evite Conteúdo Não Original: Crie com Impacto",
+          "link": "/policy-center/gerenciamento-de-conteúdo/evite-conteúdo-não-original-crie-com-impacto_2115761707861776"
+        },
+        {
+          "text": "Evite O Redirecionamento De Tráfego",
+          "link": "/policy-center/gerenciamento-de-conteúdo/evite-o-redirecionamento-de-tráfego_5721853217900304"
+        },
+        {
+          "text": "Guia Para Avisos De Conteúdo Em Live",
+          "link": "/policy-center/gerenciamento-de-conteúdo/guia-para-avisos-de-conteúdo-em-live_4883938720876289"
+        },
+        {
+          "text": "O que são funcionalidade e efeito enganosos?",
+          "link": "/policy-center/gerenciamento-de-conteúdo/o-que-são-funcionalidade-e-efeito-enganosos_4209017896060688"
+        },
+        {
+          "text": "O que é preço enganoso?",
+          "link": "/policy-center/gerenciamento-de-conteúdo/o-que-é-preço-enganoso_8687821619709697"
+        },
+        {
+          "text": "O que é promoção irrelevante?",
+          "link": "/policy-center/gerenciamento-de-conteúdo/o-que-é-promoção-irrelevante_1144027156088593"
+        },
+        {
+          "text": "Política de conteúdo 101 | Vídeo",
+          "link": "/policy-center/gerenciamento-de-conteúdo/política-de-conteúdo-101-vídeo_2704715439834881"
+        },
+        {
+          "text": "Política De Conteúdo Do Tiktok Shop",
+          "link": "/policy-center/gerenciamento-de-conteúdo/política-de-conteúdo-do-tiktok-shop_1413208980588305"
+        },
+        {
+          "text": "Política De Jogos De Azar Do Tiktok Shop",
+          "link": "/policy-center/gerenciamento-de-conteúdo/política-de-jogos-de-azar-do-tiktok-shop_1415377175447312"
+        },
+        {
+          "text": "Política De Registro De Criadores Em Campanhas",
+          "link": "/policy-center/gerenciamento-de-conteúdo/política-de-registro-de-criadores-em-campanhas_2875531918870289"
+        },
+        {
+          "text": "Política Do Programa Piloto Para Criadores Do Tiktok Shop",
+          "link": "/policy-center/gerenciamento-de-conteúdo/política-do-programa-piloto-para-criadores-do-tiktok-shop_2918995033900817"
+        },
+        {
+          "text": "Práticas Recomendadas Para Conteúdo Promocional",
+          "link": "/policy-center/gerenciamento-de-conteúdo/práticas-recomendadas-para-conteúdo-promocional_7272996599957264"
+        },
+        {
+          "text": "Restrições E Requisitos Para Conteúdo Gerado Por Ia",
+          "link": "/policy-center/gerenciamento-de-conteúdo/restrições-e-requisitos-para-conteúdo-gerado-por-ia_2324329879832321"
+        },
+        {
+          "text": "Termos E Condições Dos Destaques De Live Em Postagens Automáticas",
+          "link": "/policy-center/gerenciamento-de-conteúdo/termos-e-condições-dos-destaques-de-live-em-postagens-automáticas_8505862847596289"
+        },
+        {
+          "text": "Terms of Service: Gobeaute Gogroup Creator Leaderboard Competition",
+          "link": "/policy-center/gerenciamento-de-conteúdo/terms-of-service-gobeaute-gogroup-creator-leaderboard-competition_1908291933554448"
+        },
+        {
+          "text": "TTS BR] Top Creators: March 26 Leaderboard [LIVE",
+          "link": "/policy-center/gerenciamento-de-conteúdo/tts-br-top-creators-march-26-leaderboard-live_396833626015504"
+        },
+        {
+          "text": "TTS BR] Top Creators: March 26 Leaderboard [SV",
+          "link": "/policy-center/gerenciamento-de-conteúdo/tts-br-top-creators-march-26-leaderboard-sv_459282705794832"
+        },
+        {
+          "text": "Título: Termos de Serviço – Leaderboard de LIVE Dezembro 2025 Top Creators",
+          "link": "/policy-center/gerenciamento-de-conteúdo/título-termos-de-serviço-leaderboard-de-live-dezembro-2025-top-creators_4987016190789393"
+        }
+      ]
+    },
+    {
+      "text": "Gerenciamento De Desempenho",
+      "link": "/policy-center/gerenciamento-de-desempenho/",
+      "items": [
+        {
+          "text": "Guia De Funções Do Centro De Segurança Do Vendedor",
+          "link": "/policy-center/gerenciamento-de-desempenho/guia-de-funções-do-centro-de-segurança-do-vendedor_5914132382533377"
+        },
+        {
+          "text": "Manual do usuário] Solicitação eletrônica da Carta de Autorização na Central do vendedor",
+          "link": "/policy-center/gerenciamento-de-desempenho/manual-do-usuário-solicitação-eletrônica-da-carta-de-autorização-na-central-do-v_4769722757662481"
+        },
+        {
+          "text": "Política De Fiscalização De Feedback Negativo Do Cliente No Tiktok Shop",
+          "link": "/policy-center/gerenciamento-de-desempenho/política-de-fiscalização-de-feedback-negativo-do-cliente-no-tiktok-shop_2139103752079121"
+        },
+        {
+          "text": "Política De Fiscalização Do Vendedor Do Tiktok Shop",
+          "link": "/policy-center/gerenciamento-de-desempenho/política-de-fiscalização-do-vendedor-do-tiktok-shop_1444948508641040"
+        },
+        {
+          "text": "Pontuação De Desempenho Da Loja",
+          "link": "/policy-center/gerenciamento-de-desempenho/pontuação-de-desempenho-da-loja_7517966208927489"
+        },
+        {
+          "text": "【webinar】Pontuação de Desempenho da Loja (SPS) LATAM",
+          "link": "/policy-center/gerenciamento-de-desempenho/webinarpontuação-de-desempenho-da-loja-sps-latam_1074592103220993"
+        }
+      ]
+    },
+    {
+      "text": "Gerenciamento De Pedidos",
+      "link": "/policy-center/gerenciamento-de-pedidos/",
+      "items": [
+        {
+          "text": "Anúncio sobre a Governança especial de problemas de danos em categorias vulneráveis",
+          "link": "/policy-center/gerenciamento-de-pedidos/anúncio-sobre-a-governança-especial-de-problemas-de-danos-em-categorias-vulneráv_4836025494996752"
+        },
+        {
+          "text": "Como Reduzir Reclamações de \\\\Item Faltando ou Errado\\",
+          "link": "/policy-center/gerenciamento-de-pedidos/como-reduzir-reclamações-de-item-faltando-ou-errado_6843306600302353"
+        },
+        {
+          "text": "Diretrizes de Cancelamento, Devolução e Reembolso de Pedidos do Cliente para Vendedores do TikTok Shop",
+          "link": "/policy-center/gerenciamento-de-pedidos/diretrizes-de-cancelamento-devolução-e-reembolso-de-pedidos-do-cliente-para-vend_894339073115921"
+        },
+        {
+          "text": "Entender e gerenciar sua Taxa de cancelamento por erro do vendedor (SFCR)",
+          "link": "/policy-center/gerenciamento-de-pedidos/entender-e-gerenciar-sua-taxa-de-cancelamento-por-erro-do-vendedor-sfcr_3333356285478657"
+        },
+        {
+          "text": "Entender e gerenciar sua Taxa de envio atrasado (LDR)",
+          "link": "/policy-center/gerenciamento-de-pedidos/entender-e-gerenciar-sua-taxa-de-envio-atrasado-ldr_3321767214286609"
+        },
+        {
+          "text": "Guia Para Gerenciamento De Cancelamento De Pedidos",
+          "link": "/policy-center/gerenciamento-de-pedidos/guia-para-gerenciamento-de-cancelamento-de-pedidos_2583991870097169"
+        },
+        {
+          "text": "Guia Para Gerenciamento De Devoluções E Reembolsos",
+          "link": "/policy-center/gerenciamento-de-pedidos/guia-para-gerenciamento-de-devoluções-e-reembolsos_2578485181925121"
+        },
+        {
+          "text": "O que é Limite de Volumes de Pedidos (OVL) ?",
+          "link": "/policy-center/gerenciamento-de-pedidos/o-que-é-limite-de-volumes-de-pedidos-ovl_3309653722089232"
+        },
+        {
+          "text": "O que é o reembolso rápido?",
+          "link": "/policy-center/gerenciamento-de-pedidos/o-que-é-o-reembolso-rápido_1060773486429953"
+        },
+        {
+          "text": "Política De Envio De Pedidos Do Cliente Do Tiktok Shop",
+          "link": "/policy-center/gerenciamento-de-pedidos/política-de-envio-de-pedidos-do-cliente-do-tiktok-shop_1442971111884545"
+        },
+        {
+          "text": "Política De Estorno Do Tiktok Shop",
+          "link": "/policy-center/gerenciamento-de-pedidos/política-de-estorno-do-tiktok-shop_8994711168845585"
+        },
+        {
+          "text": "Política De Logística Do Tiktok Shop",
+          "link": "/policy-center/gerenciamento-de-pedidos/política-de-logística-do-tiktok-shop_1444948508280592"
+        },
+        {
+          "text": "Política De Pedidos Fraudulentos Do Tiktok Shop",
+          "link": "/policy-center/gerenciamento-de-pedidos/política-de-pedidos-fraudulentos-do-tiktok-shop_8994711168665361"
+        },
+        {
+          "text": "Regras detalhadas para dados ausentes/incorretos",
+          "link": "/policy-center/gerenciamento-de-pedidos/regras-detalhadas-para-dados-ausentes-incorretos_1042943084496656"
+        },
+        {
+          "text": "Regras Detalhadas Para Danos",
+          "link": "/policy-center/gerenciamento-de-pedidos/regras-detalhadas-para-danos_1102714779993872"
+        },
+        {
+          "text": "Requisitos E Cenários Para Recursos De Ldr",
+          "link": "/policy-center/gerenciamento-de-pedidos/requisitos-e-cenários-para-recursos-de-ldr_3026645972993808"
+        }
+      ]
+    },
+    {
+      "text": "Gerencie Seus Produtos",
+      "link": "/policy-center/gerencie-seus-produtos/",
+      "items": [
+        {
+          "text": "Como Evitar Violações De Nudez E Atividade Sexual Na Categoria De Moda",
+          "link": "/policy-center/gerencie-seus-produtos/como-evitar-violações-de-nudez-e-atividade-sexual-na-categoria-de-moda_1091700861404945"
+        },
+        {
+          "text": "Como solicitar para vender produtos Somente por convite?",
+          "link": "/policy-center/gerencie-seus-produtos/como-solicitar-para-vender-produtos-somente-por-convite_6911810440005392"
+        },
+        {
+          "text": "Guia Para Selecionar Corretamente A Categoria De Produto",
+          "link": "/policy-center/gerencie-seus-produtos/guia-para-selecionar-corretamente-a-categoria-de-produto_1795372420499201"
+        },
+        {
+          "text": "Idiomas Compatíveis",
+          "link": "/policy-center/gerencie-seus-produtos/idiomas-compatíveis_4614078954522384"
+        },
+        {
+          "text": "Listagem de produtos: o que você precisa saber",
+          "link": "/policy-center/gerencie-seus-produtos/listagem-de-produtos-o-que-você-precisa-saber_6497430821193488"
+        },
+        {
+          "text": "O que são produtos \\\\Somente por convite\\\\?",
+          "link": "/policy-center/gerencie-seus-produtos/o-que-são-produtos-somente-por-convite_6907568440706832"
+        },
+        {
+          "text": "Política De Listagem De Produtos Do Tiktok Shop",
+          "link": "/policy-center/gerencie-seus-produtos/política-de-listagem-de-produtos-do-tiktok-shop_6483182812759824"
+        },
+        {
+          "text": "Política De Produtos Proibidos Do Tiktok Shop",
+          "link": "/policy-center/gerencie-seus-produtos/política-de-produtos-proibidos-do-tiktok-shop_6483182812481296"
+        },
+        {
+          "text": "Política De Produtos Restritos Do Tiktok Shop",
+          "link": "/policy-center/gerencie-seus-produtos/política-de-produtos-restritos-do-tiktok-shop_6504327061473040"
+        },
+        {
+          "text": "Política De Qualidade Do Produto",
+          "link": "/policy-center/gerencie-seus-produtos/política-de-qualidade-do-produto_8322087832667905"
+        },
+        {
+          "text": "Política de Segurança de Produtos e Recall – TikTok Shop",
+          "link": "/policy-center/gerencie-seus-produtos/política-de-segurança-de-produtos-e-recall-tiktok-shop_2753154123319056"
+        },
+        {
+          "text": "Política De Segurança De Produtos",
+          "link": "/policy-center/gerencie-seus-produtos/política-de-segurança-de-produtos_3348094809638672"
+        },
+        {
+          "text": "Proteja seu negócio: Guia de Prova de Envio e Embalagem",
+          "link": "/policy-center/gerencie-seus-produtos/proteja-seu-negócio-guia-de-prova-de-envio-e-embalagem_8055182794721040"
+        },
+        {
+          "text": "Qualidade do produto: O que você precisa saber",
+          "link": "/policy-center/gerencie-seus-produtos/qualidade-do-produto-o-que-você-precisa-saber_8320794468976401"
+        },
+        {
+          "text": "Requisitos Obrigatórios Para Tabelas De Tamanhos De Produtos",
+          "link": "/policy-center/gerencie-seus-produtos/requisitos-obrigatórios-para-tabelas-de-tamanhos-de-produtos_3750784971196177"
+        },
+        {
+          "text": "Requisitos Para Conteúdo Responsável Relacionado À Saúde",
+          "link": "/policy-center/gerencie-seus-produtos/requisitos-para-conteúdo-responsável-relacionado-à-saúde_3537527768876817"
+        },
+        {
+          "text": "Seu Guia Sobre Produtos Proibidos",
+          "link": "/policy-center/gerencie-seus-produtos/seu-guia-sobre-produtos-proibidos_2953794493466384"
+        }
+      ]
+    },
+    {
+      "text": "Gestão De Desempenho",
+      "link": "/policy-center/gestão-de-desempenho/",
+      "items": [
+        {
+          "text": "Fraude, abuso e má conduta por parte do criador",
+          "link": "/policy-center/gestão-de-desempenho/fraude-abuso-e-má-conduta-por-parte-do-criador_5153692708062993"
+        },
+        {
+          "text": "Política De Avaliação De Desempenho Do Criador Do Tiktok Shop",
+          "link": "/policy-center/gestão-de-desempenho/política-de-avaliação-de-desempenho-do-criador-do-tiktok-shop_3989684486358785"
+        },
+        {
+          "text": "Política De Integridade De Amostras",
+          "link": "/policy-center/gestão-de-desempenho/política-de-integridade-de-amostras_5186270008788737"
+        },
+        {
+          "text": "Termos e Condições do Programa de Nível e Benefícios para Criadores do TikTok Shop",
+          "link": "/policy-center/gestão-de-desempenho/termos-e-condições-do-programa-de-nível-e-benefícios-para-criadores-do-tiktok-sh_4496121876662033"
+        }
+      ]
+    },
+    {
+      "text": "Marketing",
+      "link": "/policy-center/marketing/",
+      "items": [
+        {
+          "text": "Leaderboard Ibitinga",
+          "link": "/policy-center/marketing/leaderboard-ibitinga_1625301406861072"
+        },
+        {
+          "text": "Política De Marketing De Afiliados Do Tiktok Shop",
+          "link": "/policy-center/marketing/política-de-marketing-de-afiliados-do-tiktok-shop_5113265534732033"
+        }
+      ]
+    },
+    {
+      "text": "Pagamentos",
+      "link": "/policy-center/pagamentos/",
+      "items": [
+        {
+          "text": "Política De Pagamentos Aos Vendedores Do Tiktok Shop",
+          "link": "/policy-center/pagamentos/política-de-pagamentos-aos-vendedores-do-tiktok-shop_1442971112769281"
+        },
+        {
+          "text": "Política De Saldo Negativo Do Vendedor Do Tiktok Shop",
+          "link": "/policy-center/pagamentos/política-de-saldo-negativo-do-vendedor-do-tiktok-shop_8994711168747281"
+        }
+      ]
+    },
+    {
+      "text": "Políticas Em Destaque",
+      "link": "/policy-center/políticas-em-destaque/",
+      "items": [
+        {
+          "text": "Políticas em Destaque (Agosto - Setembro de 2025)",
+          "link": "/policy-center/políticas-em-destaque/políticas-em-destaque-agosto-setembro-de-2025_7204971943560976"
+        },
+        {
+          "text": "Prepare-se para a Temporada de Compras de Fim de Ano!",
+          "link": "/policy-center/políticas-em-destaque/prepare-se-para-a-temporada-de-compras-de-fim-de-ano_4675520051971841"
+        }
+      ]
+    },
+    {
+      "text": "Registro",
+      "link": "/policy-center/registro/",
+      "items": [
+        {
+          "text": "Perguntas frequentes: Restrições temporárias de conta",
+          "link": "/policy-center/registro/perguntas-frequentes-restrições-temporárias-de-conta_8997715028117264"
+        },
+        {
+          "text": "Perguntas Frequentes Sobre O Registro De Vendedor",
+          "link": "/policy-center/registro/perguntas-frequentes-sobre-o-registro-de-vendedor_1430062344996609"
+        }
+      ]
+    }
+  ]
+}

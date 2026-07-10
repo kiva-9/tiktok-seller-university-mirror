@@ -21,6 +21,7 @@ main.py — TikTok Seller University (BR) 知识库镜像工具（核心同步�
 import json
 import os
 import re
+import sys
 import time
 import unicodedata
 from datetime import datetime, timezone
@@ -470,7 +471,8 @@ def sync_tab(tab_config):
     leaves = fetch_category_tree(category, role_type)
     print(f"  找到 {len(leaves)} 个叶子分类")
     if not leaves:
-        return 0, 0, 0, 0
+        print("  ❌ 未获取到分类树，本次同步视为失败")
+        return 0, 0, 0, 1
 
     # 2. 遍历每个叶子分类
     added = updated = skipped = failed = 0
@@ -575,6 +577,10 @@ def main():
     print(f"   失败: {total_failed}")
     print(f"   总计已同步: {len(load_state())}")
     print(f"{'='*60}")
+
+    if total_failed > 0:
+        print("❌ 存在同步失败项，退出码设为 1，避免 CI 提交半残数据。")
+        sys.exit(1)
 
 
 if __name__ == "__main__":

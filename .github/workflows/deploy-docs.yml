@@ -4,6 +4,10 @@ on:
   # 每次 main 分支有推送时部署
   push:
     branches: [main]
+  # Daily Sync 使用 GITHUB_TOKEN push，不会触发 push workflow；这里接住同步完成事件。
+  workflow_run:
+    workflows: ["Daily Sync Knowledge Base"]
+    types: [completed]
   # 允许手动触发
   workflow_dispatch:
 
@@ -20,6 +24,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

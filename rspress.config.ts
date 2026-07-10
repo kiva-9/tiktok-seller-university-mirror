@@ -2,12 +2,14 @@ import * as path from 'path';
 import { defineConfig } from 'rspress/config';
 import * as fs from 'fs';
 import * as yaml from 'js-yaml';
+import { execFileSync } from 'child_process';
 
-// 动态读取 sidebar.yml（如果存在），否则自动生成
+// 每次构建都重新生成 sidebar，避免同步新增文章后导航仍然陈旧。
 const SIDEBAR_FILE = path.join(__dirname, 'sidebar.yml');
-if (!fs.existsSync(SIDEBAR_FILE)) {
-  require('child_process').execSync('python scripts/generate_sidebar.py');
-}
+execFileSync('python3', ['scripts/generate_sidebar.py'], {
+  cwd: __dirname,
+  stdio: 'inherit',
+});
 const sidebar = yaml.load(fs.readFileSync(SIDEBAR_FILE, 'utf-8')) as Record<string, any[]>;
 
 export default defineConfig({
@@ -18,7 +20,7 @@ export default defineConfig({
   useHashRouting: true,
   title: 'TikTok Shop Academy BR',
   description: 'TikTok Seller University Brazil knowledge base mirror',
-  lang: 'zh',
+  lang: 'pt-BR',
   // 搜索配置
   search: {
     codeSearch: true,
@@ -26,7 +28,7 @@ export default defineConfig({
   },
   // 全局 head
   head: [
-    ['link', { rel: 'icon', href: '/tiktok-seller-university-mirror/favicon.png' }],
+    ['link', { rel: 'icon', href: '/tiktok-seller-university-mirror/favicon.svg' }],
   ],
   // 默认主题配置
   themeConfig: {

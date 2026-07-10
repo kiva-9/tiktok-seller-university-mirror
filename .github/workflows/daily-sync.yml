@@ -31,6 +31,9 @@ jobs:
       - name: Run sync script
         run: python scripts/main.py
 
+      - name: Regenerate sidebar
+        run: python scripts/generate_sidebar.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
