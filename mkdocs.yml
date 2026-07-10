@@ -1,9 +1,8 @@
 # TikTok Seller University (BR) - 镜像库
 
-# 站點默認語言（pt-BR = 葡萄牙語巴西）
 site_name: TikTok Shop Academy BR - Mirror
 site_description: Mirror of TikTok Seller University Brazil knowledge base
-site_url: https://<你的用户名>.github.io/tiktok-seller-university-mirror/
+site_url: https://kiva-9.github.io/tiktok-seller-university-mirror/
 
 theme:
   name: material
@@ -26,6 +25,7 @@ theme:
     - navigation.indexes
     - search.suggest
     - search.highlight
+    - content.tabs.link
 
 plugins:
   - search:
@@ -33,7 +33,7 @@ plugins:
         - pt
         - en
 
-# 导航由 CI 自动生成，首次手动写一份占位
+# 自动生成目录导航（根据 docs/ 的文件夹结构）
 nav:
   - Home: index.md
   - Cursos: cursos/
@@ -43,4 +43,4 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/<你的用户名>/tiktok-seller-university-mirror
+      link: https://github.com/kiva-9/tiktok-seller-university-mirror
