@@ -13,9 +13,9 @@ TikTok Shop 卖家大学（巴西站）知识库镜像，包含 372 篇文章、
 
 | 分类 | 说明 |
 |---|---|
-| [Cursos](cursos/) | 课程（Courses） - 78 篇 |
-| [Feature Guide](feature-guide/) | 功能指南 - 196 篇 |
-| [Policy Center](policy-center/) | 政策中心 - 98 篇 |
+| [Cursos](/cursos/) | 课程（Courses） - 78 篇 |
+| [Feature Guide](/feature-guide/) | 功能指南 - 196 篇 |
+| [Policy Center](/policy-center/) | 政策中心 - 98 篇 |
 
 ## 技术栈
 
