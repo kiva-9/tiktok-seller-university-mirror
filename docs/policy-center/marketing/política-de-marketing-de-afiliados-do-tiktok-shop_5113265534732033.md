@@ -1,15 +1,11 @@
 ---
-title: Política de Marketing de Afiliados do TikTok Shop
+title: "Política de Marketing de Afiliados do TikTok Shop"
 id: 5113265534732033
-category: Marketing
+category: "Marketing"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5113265534732033"
-update_time: 2026-01-27
+update_time: "2026-07-13"
 keywords: "Vendedores,Política de vendedor"
 ---
-
-
-
-
 # **Objetivo e Escopo**
 
 Esta **Política de Marketing de Afiliados** (a “**Política**”) estabelece os requisitos que os vendedores devem cumprir ao participar de atividades de marketing de afiliados no TikTok Shop. Esta Política complementa as [Diretrizes da Comunidade](https://www.tiktok.com/community-guidelines/pt "https://www.tiktok.com/community-guidelines/pt") do TikTok, os [Termos de Uso do Criador do TikTok Shop](https://seller-br.tiktok.com/university/essay?knowledge_id=3275818982590224&default_language=en&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=3275818982590224&default_language=en&identity=1") e os[Termos de Serviço do Vendedor do TikTok Shop](https://seller-br.tiktok.com/university/essay?knowledge_id=3268441302615809&default_language=en&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=3268441302615809&default_language=en&identity=1") (coletivamente, os “**Termos do TikTok**”).  
@@ -59,6 +55,11 @@ Um produto pode ser desqualificado do programa de Marketing de Afiliados, entre 
 * Violação de direitos de [propriedade intelectual de terceiros](https://seller-br.tiktok.com/university/essay?knowledge_id=5385814784837393&role=1&course_type=1&from=search&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=5385814784837393&role=1&course_type=1&from=search&identity=1")
 
 A comercialização de produtos que não atendam aos padrões de qualidade exigidos (como os descritos acima) pode resultar no aumento de avaliações [negativas](https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=2139103752079121&from=policy "https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=2139103752079121&from=policy") e na aplicação de penalidades, incluindo, entre outras medidas, a suspensão da conta.  
+
+## **Critérios de Desqualificação da Loja**
+
+Se uma loja for desqualificada do programa de Marketing de Afiliados, seu vendedor não poderá mais criar novas colaborações de Marketing de Afiliados para essa loja, e quaisquer colaborações existentes vinculadas à loja não serão mais elegíveis para gerar pedidos.   
+Uma loja poderá ser desqualificada do programa de Marketing de Afiliados caso sua [Pontuação de Desempenho da Loja](https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7517966208927489&from=policy "https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7517966208927489&from=policy") não atinja o padrão exigido.  
 
 # **Conformidade com a Política**
 

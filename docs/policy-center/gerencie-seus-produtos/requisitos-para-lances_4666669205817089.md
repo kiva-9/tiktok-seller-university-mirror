@@ -3,7 +3,7 @@ title: " Requisitos para lances"
 id: 4666669205817089
 category: "Gerencie seus produtos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4666669205817089"
-update_time: "2026-07-10"
+update_time: "2026-07-13"
 keywords: ""
 ---
 > **Pontos principais**
@@ -53,9 +53,9 @@ O tipo de envio é "Envio pelo TikTok"; nesses casos, a responsabilidade é do T
 * O pacote não foi recebido
 * O pacote chegou danificado. Exemplo: líquido derramado, caixa danificada
 
-Responsabilidade dos compradores (que precisam pagar uma taxa de logística reversa por razões de responsabilidade própria)  
+Responsabilidade dos compradores   
 
-* Não mais necessário (o comprador não pode mais iniciar devoluções por este motivo, mas o agente de serviços ao cliente pode ajudar a iniciar)
+* Não mais necessário
 * O produto não serve
 
 ## **Elegibilidade para acesso a lances**

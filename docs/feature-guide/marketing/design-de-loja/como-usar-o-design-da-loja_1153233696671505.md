@@ -1,15 +1,11 @@
 ---
-title: Como usar o Design da loja
+title: "Como usar o Design da loja"
 id: 1153233696671505
-category: Design de Loja
+category: "Design de Loja"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1153233696671505"
-update_time: 2026-01-09
-keywords: Vendedores
+update_time: "2026-07-13"
+keywords: "Vendedores"
 ---
-
-
-
-
 # **Visão geral do recurso**
 
 O Design da loja é uma ferramenta gratuita e fácil de usar que permite personalizar a página do seu TikTok Shop, a página principal vista pelos compradores ao visitarem sua loja. Você pode adicionar seu logotipo, destacar os principais produtos e criar um layout que mostre sua marca, facilite a navegação e a compra dos produtos pelos consumidores.  
@@ -132,5 +128,5 @@ Esse recurso está disponível apenas na Central do vendedor para PC. Para acess
 | Quem pode usar o **Design da loja**? | Apenas vendedores incluídos na lista de permissões podem usar a ferramenta. |
 | Preciso ter experiência em design? | Não, o Design da loja é fácil de usar para iniciantes, conta com ferramentas de arrastar e soltar e visualizações em tempo real. |
 | Posso atualizar a página da minha loja depois? | Sim, você pode editar seu design a qualquer momento. |
-| Quais formatos e tamanhos de imagem são aceitos? | Logotipo: formato JPG, JPEG ou PNG. Mínimo: 512 × 512 px. Tamanho máximo do arquivo: 2 MB. Cabeçalho: formato JPG, JPEG ou PNG. Mínimo: 375 × 162 px. Tamanho máximo do arquivo: 2 MB. |
+| Quais formatos e tamanhos de imagem são aceitos? | Logotipo: formato JPG, JPEG ou PNG. Mínimo: 512 × 512 px. Tamanho máximo do arquivo: 2 MB. **Cabeçalho personalizado da loja****Tipos de cabeçalho**  1. Somente imagem 2. Imagem com logotipo  **Dimensões e especificações recomendadas**  * Imagem do banner: 780 px (largura) × 720 px (altura)  Tamanho máximo do arquivo: 2 MB Formatos suportados: JPG, JPEG, PNG   * Logotipo: Deve ter fundo transparente  Tamanho máximo do arquivo: 2 MB Formatos suportados: PNG, WEBP |
 | Posso visualizar o design antes de publicar? | Sim, o painel central mostra exatamente como sua loja ficará no app. |
