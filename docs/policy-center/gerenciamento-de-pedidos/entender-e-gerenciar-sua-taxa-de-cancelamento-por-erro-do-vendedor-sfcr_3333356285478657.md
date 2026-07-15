@@ -1,15 +1,11 @@
 ---
-title: Entender e gerenciar sua Taxa de cancelamento por erro do vendedor (SFCR)
+title: "Entender e gerenciar sua Taxa de cancelamento por erro do vendedor (SFCR) "
 id: 3333356285478657
-category: Gerenciamento de Pedidos
+category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3333356285478657"
-update_time: 2026-05-11
+update_time: "2026-07-14"
 keywords: "Vendedores,Política de vendedor"
 ---
-
-
-
-
 ![SFCR.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/fca9f736cd3e4adcac2bbe1c3166975c~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2073551549&x-signature=1znFzgiJrxEHPR4Zk4g8AOvAuuY%3D)
 
 # Pontos principais
@@ -58,6 +54,7 @@ Vendedores com SFCR alta podem receber **medidas de punição**, incluindo, sem 
 
 * Limite de volumes de pedidos (OVL)
 * Restrições em campanhas
+* Dedução de fundo liquidado
 
 # Recurso
 
@@ -65,12 +62,12 @@ Os vendedores poderão recorrer das violações por **SFCR Alto** tanto **antes*
 
 **Antes da aplicação (Pré-aplicação):**
 
-* Será enviada uma notificação ao Centro do Vendedor indicando baixo desempenho na semana anterior.
+* Para penalidades de OVL, uma notificação será enviada à Central do vendedor indicando o baixo desempenho na semana anterior.
 * Você terá 48 horas para responder e recorrer da métrica antes que quaisquer medidas sejam tomadas.![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/be264a5269964fec869895e5ac6f3d17~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2081875187&x-signature=7fFy5Ki%2FwF3aUiu0IdVbvFkJ75Q%3D)
 
 **Após a aplicação (Pós-aplicação):**
 
-* Se o vendedor não recorrer ou se o recurso não tiver sucesso no estágio de pré-penalização, ele ainda poderá recorrer após receber o ticket de violação e enquanto a medida coercitiva estiver ativa.
+* Se não for possível recorrer antes da aplicação da penalidade ou se o vendedor não recorrer ou não tiver sucesso no recurso durante a fase prévia à aplicação da penalidade, o vendedor ainda poderá recorrer depois de receber o ticket de violação e quando a penalidade estiver em vigor.
   + Os vendedores podem recorrer até 30 dias após o recebimento do ticket de violação.
   + Um segundo recurso pode ser aberto dentro de 15 dias da rejeição do primeiro recurso.
 

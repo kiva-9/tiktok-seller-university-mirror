@@ -1,15 +1,11 @@
 ---
-title: Política de Logística do TikTok Shop
+title: "Política de Logística do TikTok Shop"
 id: 1444948508280592
-category: Gerenciamento de Pedidos
+category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1444948508280592"
-update_time: 2026-06-03
-keywords: Seller Policy
+update_time: "2026-07-14"
+keywords: "Seller Policy"
 ---
-
-
-
-
 # Visão Geral
 
 A **Política de Logística do TikTok Shop** abrange uma variedade de termos e métricas relacionadas ao processamento de vendas no Brasil.   
@@ -168,7 +164,7 @@ A Taxa de Rastreamento Válido (ou VTR) é calculada como o percentual dos pedid
 
 # Medidas Corretivas
 
-Os vendedores que forem considerados como tendo violado nossas políticas, inclusive por não atender às taxas mínimas indicadas acima, podem ter medidas corretivas tomadas contra eles de acordo com nossa Política de Fiscalização do Vendedor e nossos Termos de Serviço do Vendedor. Os vendedores devem observar que violações repetidas resultarão em medidas corretivas mais rigorosas.  
+Os vendedores considerados como tendo violado nossas políticas podem estar sujeitos a medidas disciplinares, como Limite de volumes de pedidos (OVL), restrições de campanhas ou dedução do saldo de liquidação, de acordo com nossa [Política de aplicação de medidas ao vendedor](https://seller-mx.tiktok.com/university/essay?knowledge_id=8270844531967761&identity=1 "https://seller-mx.tiktok.com/university/essay?knowledge_id=8270844531967761&identity=1") e nossos [Termos de serviço do vendedor](https://seller-mx.tiktok.com/university/essay?knowledge_id=6295443664750337 "https://seller-mx.tiktok.com/university/essay?knowledge_id=6295443664750337"). Os vendedores devem observar que violações repetidas resultarão em medidas disciplinares mais rigorosas.Se os vendedores tiverem uma dedução do saldo de liquidação, mas não concluírem o pagamento integral dentro de 30 dias, poderão ser tomadas medidas disciplinares adicionais, incluindo, entre outras, a aplicação do OVL ou o congelamento de transferências.
 
 # **Recurso**
 

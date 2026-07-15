@@ -1111,7 +1111,7 @@
   },
   "616661158987537": {
     "title": "Guia passo a passo para migrar de CPF para CNPJ",
-    "last_modified": 1782803922049,
+    "last_modified": 1784055612104,
     "file": "docs/feature-guide/integração/registrar-e-configurar-conta/guia-passo-a-passo-para-migrar-de-cpf-para-cnpj_616661158987537.md"
   },
   "6813185987757841": {
@@ -1546,7 +1546,7 @@
   },
   "1444948508280592": {
     "title": "Política de Logística do TikTok Shop",
-    "last_modified": 1780498126290,
+    "last_modified": 1784012415899,
     "file": "docs/policy-center/gerenciamento-de-pedidos/política-de-logística-do-tiktok-shop_1444948508280592.md"
   },
   "894339073115921": {
@@ -1596,7 +1596,7 @@
   },
   "3333356285478657": {
     "title": "Entender e gerenciar sua Taxa de cancelamento por erro do vendedor (SFCR) ",
-    "last_modified": 1778522960824,
+    "last_modified": 1784013363231,
     "file": "docs/policy-center/gerenciamento-de-pedidos/entender-e-gerenciar-sua-taxa-de-cancelamento-por-erro-do-vendedor-sfcr_3333356285478657.md"
   },
   "6843306600302353": {
@@ -1863,5 +1863,10 @@
     "title": " Requisitos para lances",
     "last_modified": 1783922216174,
     "file": "docs/policy-center/gerencie-seus-produtos/requisitos-para-lances_4666669205817089.md"
+  },
+  "6133450026665749": {
+    "title": "Entendendo o cofinanciamento da compensação do comprador devido ao cancelamento por falha do vendedor ",
+    "last_modified": 1784011107155,
+    "file": "docs/policy-center/gerenciamento-de-pedidos/entendendo-o-cofinanciamento-da-compensação-do-comprador-devido-ao-cancelamento-_6133450026665749.md"
   }
 }
