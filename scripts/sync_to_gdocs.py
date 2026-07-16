@@ -1,21 +1,14 @@
 #!/usr/bin/env python3
 """
-sync_to_gdocs.py — 将 docs/ 下所有 .md 文件合并为单个 Google Docs 文档
+sync_to_gdocs.py — 将 docs/ 下所有 .md 文件按分类合流到多个 Google Docs
 
-流程：
-  1. 递归扫描 docs/，找到所有 .md 文件（排除 index.md）
-  2. 按路径排序，逐篇读取
-  3. 剥离 YAML frontmatter，提取元数据
-  4. 生成合并文档：
-     - 顶部：自动知识目录（TOC）
-     - 每篇文章：H1 标题 + 路径/更新时间/原始链接 + 水平分割线 + 正文
-  5. 通过 Google Docs API 覆写到指定文档 ID
-
-认证方式：服务账号密钥 JSON
+按顶级目录分组（cursos / feature-guide / policy-center），
+每组合并为一个文档。超过单文档字符上限（~1M）的分组按子目录拆分。
 
 环境变量：
   GOOGLE_SERVICE_ACCOUNT_JSON — 服务账号 JSON 内容
-  GOOGLE_DOCS_DOCUMENT_ID   — 目标 Google Docs 文档 ID
+  GOOGLE_DOCS_DOCUMENT_IDS   — JSON 映射，如：
+    {"cursos": "DOC_ID_1", "feature-guide-1": "DOC_ID_2", ...}
 """
 import json
 import os
@@ -35,7 +28,8 @@ from googleapiclient.errors import HttpError
 REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS_DIR = os.path.join(REPO_DIR, "docs")
 SCOPES = ["https://www.googleapis.com/auth/documents"]
-CHUNK_SIZE = 500_000
+CHUNK_SIZE = 25_000
+MAX_DOC_CHARS = 1_000_000  # Google Docs 上限 ~1.02M，留安全余量
 
 
 # ---------------------------------------------------------------------------
@@ -71,7 +65,7 @@ def scan_md_files(docs_dir):
 
 
 # ---------------------------------------------------------------------------
-# Frontmatter 处理
+# Frontmatter
 # ---------------------------------------------------------------------------
 
 def strip_frontmatter(text):
@@ -104,11 +98,12 @@ def extract_title(fm, body, fallback):
 # 合并文档生成
 # ---------------------------------------------------------------------------
 
-def build_merged_doc(files):
+def build_merged_doc(files, group_label=""):
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     sections = []
 
-    sections.append("# 📚 Índice de Conteúdo\n")
+    if group_label:
+        sections.append(f"# 📚 {group_label}\n")
     sections.append(f"> Documento consolidado gerado automaticamente em {now}\n")
 
     articles = []
@@ -156,10 +151,49 @@ def build_merged_doc(files):
 
     sections.append("---")
     sections.append("")
-    sections.append(f"*📄 Documento consolidado — {len(articles)} artigos — gerado em {now} via GitHub Actions*")
+    sections.append(f"*📄 {len(articles)} artigos — gerado em {now} via GitHub Actions*")
     sections.append("")
 
     return "\n".join(sections)
+
+
+# ---------------------------------------------------------------------------
+# 分组与拆分
+# ---------------------------------------------------------------------------
+
+def group_by_category(files):
+    groups = {}
+    for full_path, rel_path in files:
+        top = rel_path.split("/")[0]
+        groups.setdefault(top, []).append((full_path, rel_path))
+    return groups
+
+
+def split_if_too_large(files, max_chars):
+    """按累计字符数拆分子组，每组不超过 max_chars。"""
+    groups = []
+    current = []
+    current_size = 0
+
+    for full_path, rel_path in files:
+        with open(full_path, "r", encoding="utf-8") as f:
+            raw = f.read()
+        fm, body = strip_frontmatter(raw)
+        title = extract_title(fm, body, Path(full_path).stem.replace("_", " ").title())
+        article_text = f"# {title}\n---\n{body.strip()}\n"
+        article_size = len(article_text)
+
+        if current and current_size + article_size > max_chars:
+            groups.append(current)
+            current = []
+            current_size = 0
+        current.append((full_path, rel_path))
+        current_size += article_size
+
+    if current:
+        groups.append(current)
+
+    return groups
 
 
 # ---------------------------------------------------------------------------
@@ -171,7 +205,7 @@ def ensure_document(service, doc_id):
         return service.documents().get(documentId=doc_id).execute()
     except HttpError as e:
         if e.resp.status == 404:
-            print("   📝 文档不存在，请先手动创建一个 Google Docs，获取 ID 后配置到 Secret")
+            print(f"   📝 文档不存在，请先创建: https://docs.google.com/document/d/{doc_id}")
             sys.exit(1)
         raise
 
@@ -182,24 +216,17 @@ def overwrite_document(service, doc_id, content):
     if not body_content:
         return False
 
-    # 从后往前逐个删除段落（保留末尾换行符）
-    while len(body_content) > 1:
-        last = body_content[-1]
-        si, ei = last.get("startIndex", 0), last.get("endIndex", 0)
-        if ei - si <= 1:
-            break  # 只剩下空段落（仅含换行符），停止
-        print(f"   🗑️  删除段落 [{si}, {ei})")
+    # 一步清空正文（endIndex - 1 避免触碰末尾受保护的换行符）
+    total_length = body_content[-1]["endIndex"]
+    if total_length > 2:
         service.documents().batchUpdate(
             documentId=doc_id,
             body={"requests": [{"deleteContentRange": {
-                "range": {"startIndex": si, "endIndex": ei}
+                "range": {"startIndex": 1, "endIndex": total_length - 1}
             }}]}
         ).execute()
-        # 重新获取文档结构（删除后索引已变）
-        doc = service.documents().get(documentId=doc_id).execute()
-        body_content = doc.get("body", {}).get("content", [])
 
-    # 逐块插入（每块单独请求，避免单次 payload 过大）
+    # 逐块插入
     chunks = []
     start = 0
     while start < len(content):
@@ -213,7 +240,7 @@ def overwrite_document(service, doc_id, content):
 
     idx = 1
     for n, chunk in enumerate(chunks, 1):
-        print(f"   📝 插入块 {n}/{len(chunks)} ({len(chunk):,} 字符) @ index={idx}")
+        print(f"   📝 插入 {n}/{len(chunks)} ({len(chunk):,} 字符)")
         service.documents().batchUpdate(
             documentId=doc_id,
             body={"requests": [{"insertText": {"location": {"index": idx}, "text": chunk}}]}
@@ -228,39 +255,66 @@ def overwrite_document(service, doc_id, content):
 # ---------------------------------------------------------------------------
 
 def main():
-    doc_id = os.environ.get("GOOGLE_DOCS_DOCUMENT_ID")
-    if not doc_id:
-        print("❌ 缺少环境变量 GOOGLE_DOCS_DOCUMENT_ID")
+    doc_ids_raw = os.environ.get("GOOGLE_DOCS_DOCUMENT_IDS", "{}")
+    try:
+        doc_ids = json.loads(doc_ids_raw)
+    except json.JSONDecodeError:
+        print("❌ GOOGLE_DOCS_DOCUMENT_IDS 格式错误，需要 JSON 对象")
+        sys.exit(1)
+
+    if not doc_ids:
+        print("❌ 缺少 GOOGLE_DOCS_DOCUMENT_IDS 环境变量")
         sys.exit(1)
 
     print("🔍 扫描 docs/ 目录...")
     files = scan_md_files(DOCS_DIR)
     print(f"   找到 {len(files)} 个 .md 文件")
     if not files:
-        print("⚠️ 没有找到需要同步的文件")
         sys.exit(0)
 
-    print("🔗 合并为单文档...")
-    merged = build_merged_doc(files)
-    print(f"   合并后大小: {len(merged):,} 字符")
+    # 按分类分组
+    groups = group_by_category(files)
 
-    print("🔐 获取 Google 凭证...")
+    # 对超过上限的分组拆分
+    doc_targets = []  # [(label, doc_id, [(full, rel), ...])]
+    for cat in sorted(groups.keys()):
+        cat_files = groups[cat]
+        subgroups = split_if_too_large(cat_files, MAX_DOC_CHARS)
+        for i, sub in enumerate(subgroups, 1):
+            if len(subgroups) > 1:
+                label = f"{cat} ({i}/{len(subgroups)})"
+                key = f"{cat}-{i}"
+            else:
+                label = cat
+                key = cat
+            doc_id = doc_ids.get(key) or doc_ids.get(cat, "")
+            if not doc_id:
+                print(f"❌ 缺少 Doc ID for '{key}'（分类: {cat}）")
+                print(f"   当前配置的 keys: {list(doc_ids.keys())}")
+                sys.exit(1)
+            doc_targets.append((label, doc_id, sub))
+            print(f"  📂 {label}: {len(sub)} 篇 → {doc_id}")
+
+    # 逐组合并 + 上传
     service = get_service()
+    for label, doc_id, sub_files in doc_targets:
+        print(f"\n🔗 合流 {label}...")
+        merged = build_merged_doc(sub_files, group_label=label)
+        print(f"   📄 {len(merged):,} 字符")
 
-    print("☁️  覆写到 Google Docs...")
-    try:
-        ok = overwrite_document(service, doc_id, merged)
-        if ok:
-            print(f"   ✅ 成功覆写文档: https://docs.google.com/document/d/{doc_id}")
-        else:
-            print("   ❌ 覆写失败")
-            sys.exit(1)
-    except HttpError as e:
-        print(f"   ❌ Google Docs API 错误 (HTTP {e.resp.status}): {e}")
-        sys.exit(1)
-    except Exception as e:
-        print(f"   ❌ 未知错误: {e}")
-        sys.exit(1)
+        print(f"☁️  覆写 {doc_id}...")
+        try:
+            ok = overwrite_document(service, doc_id, merged)
+            if ok:
+                print(f"   ✅ {label} — https://docs.google.com/document/d/{doc_id}")
+            else:
+                print(f"   ❌ {label} 覆写失败")
+        except HttpError as e:
+            print(f"   ❌ {label} API 错误 (HTTP {e.resp.status}): {e}")
+        except Exception as e:
+            print(f"   ❌ {label} 错误: {e}")
+
+    print(f"\n✅ 全部完成，共 {len(doc_targets)} 个文档")
 
 
 if __name__ == "__main__":
