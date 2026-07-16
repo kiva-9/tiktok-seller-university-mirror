@@ -184,9 +184,11 @@ def overwrite_document(service, doc_id, content):
         return False
 
     total_length = body_content[-1]["endIndex"]
+    print(f"   🔍 文档结构: body.content 元素数={len(body_content)}, total_length={total_length}")
 
     # 清空正文（total_length - 1 避免触碰末尾受保护的换行符）
-    if total_length > 1:
+    if total_length > 2:
+        print(f"   🗑️  清空正文: delete range [1, {total_length - 1})")
         service.documents().batchUpdate(
             documentId=doc_id,
             body={"requests": [{"deleteContentRange": {
