@@ -186,15 +186,18 @@ def overwrite_document(service, doc_id, content):
     total_length = body_content[-1]["endIndex"]
     print(f"   🔍 文档结构: body.content 元素数={len(body_content)}, total_length={total_length}")
 
-    # 清空正文（total_length - 1 避免触碰末尾受保护的换行符）
-    if total_length > 2:
-        print(f"   🗑️  清空正文: delete range [1, {total_length - 1})")
-        service.documents().batchUpdate(
-            documentId=doc_id,
-            body={"requests": [{"deleteContentRange": {
-                "range": {"startIndex": 1, "endIndex": total_length - 1}
-            }}]}
-        ).execute()
+    # 逐个删除 structural 元素（保留索引 0 的文档根）
+    for i in range(1, len(body_content)):
+        el = body_content[i]
+        si, ei = el["startIndex"], el["endIndex"]
+        if ei > si:
+            print(f"   🗑️  删除元素 [{i}]: [{si}, {ei})")
+            service.documents().batchUpdate(
+                documentId=doc_id,
+                body={"requests": [{"deleteContentRange": {
+                    "range": {"startIndex": si, "endIndex": ei}
+                }}]}
+            ).execute()
 
     # 分块插入
     chunks = []
