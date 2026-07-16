@@ -2,18 +2,24 @@
 """
 sync_to_gdocs.py — 将 docs/ 下所有 .md 文件按分类合流到多个 Google Docs
 
-按顶级目录分组（cursos / feature-guide / policy-center），
-每组合并为一个文档。超过单文档字符上限（~1M）的分组按子目录拆分。
+按顶级目录分组，每组合并为一个或多个文档（按 1M 字符上限自动拆分）。
+每个分类可配置多个 Doc ID（含备用），多余的 ID 闲置不动。
 
 环境变量：
   GOOGLE_SERVICE_ACCOUNT_JSON — 服务账号 JSON 内容
   GOOGLE_DOCS_DOCUMENT_IDS   — JSON 映射，如：
-    {"cursos": "DOC_ID_1", "feature-guide-1": "DOC_ID_2", ...}
+    {
+      "cursos": ["ID_1", "ID_2", "ID_3"],
+      "feature-guide": ["ID_4", "ID_5", "ID_6", "ID_7"],
+      "policy-center": ["ID_8", "ID_9", "ID_10"]
+    }
+    每个分类至少提供一个 ID，多余的作为备用，脚本只使用需要的数量。
 """
 import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -28,7 +34,7 @@ from googleapiclient.errors import HttpError
 REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS_DIR = os.path.join(REPO_DIR, "docs")
 SCOPES = ["https://www.googleapis.com/auth/documents"]
-CHUNK_SIZE = 25_000
+CHUNK_SIZE = 100_000
 MAX_DOC_CHARS = 1_000_000  # Google Docs 上限 ~1.02M，留安全余量
 
 
@@ -241,10 +247,20 @@ def overwrite_document(service, doc_id, content):
     idx = 1
     for n, chunk in enumerate(chunks, 1):
         print(f"   📝 插入 {n}/{len(chunks)} ({len(chunk):,} 字符)")
-        service.documents().batchUpdate(
-            documentId=doc_id,
-            body={"requests": [{"insertText": {"location": {"index": idx}, "text": chunk}}]}
-        ).execute()
+        for attempt in range(3):
+            try:
+                service.documents().batchUpdate(
+                    documentId=doc_id,
+                    body={"requests": [{"insertText": {"location": {"index": idx}, "text": chunk}}]}
+                ).execute()
+                break
+            except HttpError as e:
+                if e.resp.status == 429 and attempt < 2:
+                    wait = 5 * (2 ** attempt)
+                    print(f"   ⏳ 限流，等待 {wait}s 后重试...")
+                    time.sleep(wait)
+                else:
+                    raise
         idx += len(chunk)
 
     return True
@@ -257,12 +273,18 @@ def overwrite_document(service, doc_id, content):
 def main():
     doc_ids_raw = os.environ.get("GOOGLE_DOCS_DOCUMENT_IDS", "{}")
     try:
-        doc_ids = json.loads(doc_ids_raw)
+        doc_map = json.loads(doc_ids_raw)
     except json.JSONDecodeError:
         print("❌ GOOGLE_DOCS_DOCUMENT_IDS 格式错误，需要 JSON 对象")
         sys.exit(1)
 
-    if not doc_ids:
+    # 校验：每个分类必须有至少一个 ID
+    for cat, ids in doc_map.items():
+        if not isinstance(ids, list) or len(ids) == 0:
+            print(f"❌ 分类 '{cat}' 需要至少一个 Doc ID（数组格式）")
+            sys.exit(1)
+
+    if not doc_map:
         print("❌ 缺少 GOOGLE_DOCS_DOCUMENT_IDS 环境变量")
         sys.exit(1)
 
@@ -275,46 +297,55 @@ def main():
     # 按分类分组
     groups = group_by_category(files)
 
-    # 对超过上限的分组拆分
-    doc_targets = []  # [(label, doc_id, [(full, rel), ...])]
+    # 检查是否有未配置的分类
+    configured_cats = set(groups.keys())
+    missing = configured_cats - set(doc_map.keys())
+    if missing:
+        print(f"❌ 以下分类缺少 Doc ID 配置: {', '.join(sorted(missing))}")
+        print(f"   已配置: {sorted(doc_map.keys())}")
+        sys.exit(1)
+
+    # 对超过上限的分组拆分，按序分配 Doc ID
+    service = get_service()
+    total_docs_used = 0
+
     for cat in sorted(groups.keys()):
         cat_files = groups[cat]
+        doc_ids = doc_map[cat]
+
+        # 按字符上限拆分子组
         subgroups = split_if_too_large(cat_files, MAX_DOC_CHARS)
-        for i, sub in enumerate(subgroups, 1):
-            if len(subgroups) > 1:
-                label = f"{cat} ({i}/{len(subgroups)})"
-                key = f"{cat}-{i}"
-            else:
-                label = cat
-                key = cat
-            doc_id = doc_ids.get(key) or doc_ids.get(cat, "")
-            if not doc_id:
-                print(f"❌ 缺少 Doc ID for '{key}'（分类: {cat}）")
-                print(f"   当前配置的 keys: {list(doc_ids.keys())}")
-                sys.exit(1)
-            doc_targets.append((label, doc_id, sub))
-            print(f"  📂 {label}: {len(sub)} 篇 → {doc_id}")
+        needed = len(subgroups)
 
-    # 逐组合并 + 上传
-    service = get_service()
-    for label, doc_id, sub_files in doc_targets:
-        print(f"\n🔗 合流 {label}...")
-        merged = build_merged_doc(sub_files, group_label=label)
-        print(f"   📄 {len(merged):,} 字符")
+        if needed > len(doc_ids):
+            print(f"❌ {cat} 需要 {needed} 个文档，但只配置了 {len(doc_ids)} 个 ID")
+            sys.exit(1)
 
-        print(f"☁️  覆写 {doc_id}...")
-        try:
-            ok = overwrite_document(service, doc_id, merged)
-            if ok:
-                print(f"   ✅ {label} — https://docs.google.com/document/d/{doc_id}")
-            else:
-                print(f"   ❌ {label} 覆写失败")
-        except HttpError as e:
-            print(f"   ❌ {label} API 错误 (HTTP {e.resp.status}): {e}")
-        except Exception as e:
-            print(f"   ❌ {label} 错误: {e}")
+        for i, sub_files in enumerate(subgroups, 1):
+            doc_id = doc_ids[i - 1]
+            label = f"{cat} ({i}/{needed})"
+            print(f"\n🔗 合流 {label}...")
+            merged = build_merged_doc(sub_files, group_label=label)
+            print(f"   📄 {len(merged):,} 字符")
 
-    print(f"\n✅ 全部完成，共 {len(doc_targets)} 个文档")
+            print(f"☁️  覆写 {doc_id}...")
+            try:
+                ok = overwrite_document(service, doc_id, merged)
+                if ok:
+                    print(f"   ✅ {label} — https://docs.google.com/document/d/{doc_id}")
+                    total_docs_used += 1
+                else:
+                    print(f"   ❌ {label} 覆写失败")
+            except HttpError as e:
+                print(f"   ❌ {label} API 错误 (HTTP {e.resp.status}): {e}")
+            except Exception as e:
+                print(f"   ❌ {label} 错误: {e}")
+
+        spare = len(doc_ids) - needed
+        if spare > 0:
+            print(f"   📦 {cat}: 使用 {needed}/{len(doc_ids)} 个 ID，{spare} 个备用")
+
+    print(f"\n✅ 全部完成，写入 {total_docs_used} 个文档")
 
 
 if __name__ == "__main__":
