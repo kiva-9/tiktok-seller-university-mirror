@@ -180,24 +180,24 @@ def overwrite_document(service, doc_id, content):
     doc = ensure_document(service, doc_id)
     body_content = doc.get("body", {}).get("content", [])
     if not body_content:
-        print("⚠️ 文档结构异常")
         return False
 
-    total_length = body_content[-1]["endIndex"]
-    print(f"   🔍 文档结构: body.content 元素数={len(body_content)}, total_length={total_length}")
-
-    # 逐个删除 structural 元素（保留索引 0 的文档根）
-    for i in range(1, len(body_content)):
-        el = body_content[i]
-        si, ei = el["startIndex"], el["endIndex"]
-        if ei > si:
-            print(f"   🗑️  删除元素 [{i}]: [{si}, {ei})")
-            service.documents().batchUpdate(
-                documentId=doc_id,
-                body={"requests": [{"deleteContentRange": {
-                    "range": {"startIndex": si, "endIndex": ei}
-                }}]}
-            ).execute()
+    # 从后往前逐个删除段落（保留末尾换行符）
+    while len(body_content) > 1:
+        last = body_content[-1]
+        si, ei = last.get("startIndex", 0), last.get("endIndex", 0)
+        if ei - si <= 1:
+            break  # 只剩下空段落（仅含换行符），停止
+        print(f"   🗑️  删除段落 [{si}, {ei})")
+        service.documents().batchUpdate(
+            documentId=doc_id,
+            body={"requests": [{"deleteContentRange": {
+                "range": {"startIndex": si, "endIndex": ei}
+            }}]}
+        ).execute()
+        # 重新获取文档结构（删除后索引已变）
+        doc = service.documents().get(documentId=doc_id).execute()
+        body_content = doc.get("body", {}).get("content", [])
 
     # 分块插入
     chunks = []
