@@ -3,7 +3,7 @@ title: "Política de Jogos de Azar do TikTok Shop "
 id: 1415377175447312
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1415377175447312"
-update_time: "2026-07-13"
+update_time: "2026-07-16"
 keywords: "Creators"
 ---
 # **Objetivo e Escopo**
@@ -49,7 +49,7 @@ Todos os lances ao vivo devem ser realizados usando o **recurso de lance com con
 * Não são permitidos leilões nem atividades relacionadas realizados fora desse recurso.
 * O uso indevido do recurso de lance com contagem regressiva também é proibido.
 
-O **recurso de leilão LIVE** está disponível para **vendedores somente por convite** e criadores que precisam atender a todos os critérios a seguir:
+O **recurso Leilão LIVE** está disponível para **vendedores somente por convite** e criadores que precisam atender a todos os critérios a seguir:
 
 **Para vendedores:**
 
@@ -77,27 +77,6 @@ Para mais detalhes sobre como acessar esse recurso e habilitar leilões, consult
 Um "break" acontece quando um pacote, caixa ou case lacrado de itens é aberto, normalmente durante uma transmissão ao vivo, e o conteúdo é distribuído aos clientes pagantes. Atualmente, apenas os seguintes produtos são permitidos:
 
 * **Cartas colecionáveis**
-
-### **Tipos de breaks que você pode oferecer**
-
-Os seguintes tipos de breaks são permitidos no TikTok Shop:
-
-* **Breaks pessoais**
-  + Os clientes compram um pacote, caixa ou case inteiro, que o vendedor então abre ao vivo em nome deles.
-* **Breaks escolha seu time/tipo**
-  + Os clientes selecionam o tipo de item que desejam — como um time, jogador, divisão ou energia — e recebem os itens correspondentes à sua seleção após o break ser realizado ao vivo.
-* **Breaks "abra até ganhar"**
-  + Um comprador paga para que pacotes sejam abertos continuamente até aparecer para ele um "hit" predefinido. A transmissão para no momento em que o hit é retirado e todos os pacotes abertos vão para esse comprador.
-  + Se o item-alvo não for retirado dentro do número mínimo garantido de itens, você deverá continuar abrindo itens lacrados até que ele apareça.
-  + Todos os itens abertos são enviados ao cliente.
-  + Os anúncios de breaks "abra até ganhar" devem incluir claramente a garantia mínima de pacotes no título ou na variante.
-* **Case breaks**
-  + O vendedor abre um case inteiro lacrado de fábrica contendo várias caixas.
-  + As vagas são vendidas antecipadamente e todos os hits são revelados ao vivo, sendo depois enviados aos compradores correspondentes.
-
-Todos os tipos de breaks devem estar lacrados e sem modificações antes do break.
-
-**Observação:** Transmissões ao vivo de breaks são permitidas apenas dentro do BR.
 
 ### **Tipos de breaks proibidos**
 
@@ -141,66 +120,6 @@ Os vendedores não devem apresentar itens de break como oportunidades raras, pr�
 * Oportunidades de investimento (por exemplo, “peça de investimento”, “vai valorizar”, “manterá valor”)
 * Alegações de disponibilidade limitada que exagerem raridade ou exclusividade
 
-### **Requisitos para breaks**
-
-Esses requisitos se aplicam aos **anúncios de breaks**, especificamente aos vendidos por meio de **leilões ao vivo ou eventos de streaming**. Cada anúncio deve atender aos requisitos a seguir para ser elegível à venda.
-
-1. **Categoria do produto**
-
-Escolher a categoria correta garante que seu anúncio apareça nas pesquisas e filtros. Os produtos de break devem ser da mesma categoria. Selecione a categoria mais precisa para seu break:
-
-* **Colecionáveis > Cartas colecionáveis e acessórios**
-  + Cartas colecionáveis esportivas > Breaks de cartas esportivas > Breaks de cartas colecionáveis
-  + Cartas colecionáveis não esportivas > Breaks de cartas não esportivas
-
-2. **Título do produto**
-
-Os títulos devem refletir a natureza do break. Você pode manter títulos gerais — especialmente para vendas ao vivo — ou incluir mais detalhes quando apropriado.
-
-* **Exemplos permitidos:**
-  + *Leilão ao vivo de cartas colecionáveis esportivas*
-  + *Cartas na tela - Break de mystery pack*
-
-Não é obrigatório mencionar jogadores, times ou produtos específicos no título, mas você pode fazê-lo se for relevante.
-
-3. **Descrição do produto**
-
-A descrição do produto deve fornecer aos compradores informações suficientes para entender o que estão comprando. O nível de detalhe pode variar dependendo do tipo de break, mas o seguinte é obrigatório:
-
-* **Você deve incluir:**
-  + A carta ou categoria
-    - *Exemplos: esportivo, não esportivo, seminovo, mystery pack, repack*
-  + Uma explicação geral de como o break funciona
-    - *Exemplo: “Os participantes receberão as cartas retiradas ao vivo com base no tipo de energia selecionado.”*
-    - *Exemplo: “As cartas mystery repack serão reveladas ao vivo e distribuídas aos compradores após o break.”*
-* **Opcional, mas recomendado:**
-  + Mencionar o conteúdo geral, se conhecido (times, jogadores, temas, estilos, informações de certificação)
-    - *Exemplo: “Este taco autografado é certificado pela Beckett, Fanatics ou JSA.”*
-    - *Exemplo: “As cartas podem incluir rookies e lendas das principais ligas esportivas.”*
-
-Não é necessário um detalhamento completo de cada carta ou item de memorabilia, especialmente para breaks ao vivo.
-
-4. **Imagens do produto**
-
-Suas imagens devem ajudar os compradores a identificar o break, mas **você não é obrigado a mostrar cada carta ou item individual**.
-
-* **Você pode incluir:**
-  + Logotipos da empresa ou da marca
-  + Imagens de produtos lacrados ou formatos de break
-  + Elementos visuais temáticos que representem o tipo de break
-* **Você não precisa incluir:**
-  + Fotos de cada carta ou item individual mostrado durante o break
-  + Detalhamentos completos do inventário
-
-5. **Requisitos de fulfillment para breaks**
-
-Todas as compras de breaks devem resultar no envio de um produto físico ao cliente.
-
-* Todo cliente deve receber pelo menos um produto em cada compra de break.
-* Os produtos enviados devem ser da mesma categoria do break.
-  + Exemplo: Em um break de cartas colecionáveis de beisebol, cada comprador deve receber pelo menos uma carta colecionável de beisebol.
-  + Exemplo: Em um break de memorabilia de capacete, cada comprador deve receber pelo menos um capacete.
-
 # **Conteúdo a evitar**
 
 Não use linguagem nem formatos relacionados a jogos de azar em seu conteúdo, incluindo:
@@ -223,25 +142,6 @@ Não use linguagem nem formatos relacionados a jogos de azar em seu conteúdo, i
 
 * *"O primeiro cliente ganha uma vela grátis com a compra."*
 * *"Compradores que gastarem $20 entrarão em um sorteio para concorrer a um prêmio."*
-
-# **Boas práticas para breaks e engajamento do cliente**
-
-Use as dicas abaixo para garantir que seus anúncios de breaks sejam transparentes e que você promova engajamento por meio de comportamentos que não estejam relacionados a jogos de azar.
-
-**Para anúncios de breaks**Seja o mais claro e descritivo possível ao listar e explicar seus breaks.
-
-* Descreva o que está incluído:
-  + *"Pacote all-in-one de cartas colecionáveis com rookies e lendas de vários esportes.”*
-  + *"Opções de taco autografado disponíveis — escolha sua cor e jogador. Autenticado pela Beckett, Fanatics ou JSA.”*
-* Explique o formato do break:
-  + *"Escolha uma letra e receba todas as cartas de 90 pacotes que começam com essa letra."*
-  + *“Escolha uma carta de energia e receba toda a memorabilia vinculada a esse tipo.”*
-
-**Para impulsionar o engajamento** Crie entusiasmo de maneiras que estejam em conformidade com as políticas da plataforma.
-
-* **Giveaways**: Use a ***ferramenta de brindes Live Giveaway*** do TikTok Shop para realizar giveaways durante sua transmissão ao vivo. Observe que giveaways baseados em sorte não são permitidos, mesmo que uma ferramenta seja usada.
-
-Evite usar linguagem de jogos de azar, recompensas aleatórias ou qualquer coisa que se pareça com um jogo de sorte. Para mais informações, consulte nossa [Política de Live Giveaway para criadores](https://seller-br.tiktok.com/university/essay?knowledge_id=3536796485224193&role=1&course_type=1&from=search "https://seller-br.tiktok.com/university/essay?knowledge_id=3536796485224193&role=1&course_type=1&from=search").
 
 # Cumprimento da Política
 
