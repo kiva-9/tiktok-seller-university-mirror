@@ -199,7 +199,7 @@ def overwrite_document(service, doc_id, content):
         doc = service.documents().get(documentId=doc_id).execute()
         body_content = doc.get("body", {}).get("content", [])
 
-    # 分块插入
+    # 逐块插入（每块单独请求，避免单次 payload 过大）
     chunks = []
     start = 0
     while start < len(content):
@@ -211,15 +211,14 @@ def overwrite_document(service, doc_id, content):
         chunks.append(content[start:end])
         start = end
 
-    requests_list = []
     idx = 1
-    for chunk in chunks:
-        requests_list.append({"insertText": {"location": {"index": idx}, "text": chunk}})
+    for n, chunk in enumerate(chunks, 1):
+        print(f"   📝 插入块 {n}/{len(chunks)} ({len(chunk):,} 字符) @ index={idx}")
+        service.documents().batchUpdate(
+            documentId=doc_id,
+            body={"requests": [{"insertText": {"location": {"index": idx}, "text": chunk}}]}
+        ).execute()
         idx += len(chunk)
-
-    service.documents().batchUpdate(
-        documentId=doc_id, body={"requests": requests_list}
-    ).execute()
 
     return True
 
