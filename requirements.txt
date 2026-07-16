@@ -9,5 +9,9 @@ markdownify>=0.11
 # YAML frontmatter
 pyyaml>=6.0
 
+# Google Docs API（服务账号认证）
+google-auth>=2.35
+google-api-python-client>=2.147
+
 # （可选）更快的 HTTP 客户端
 # httpx>=0.27
