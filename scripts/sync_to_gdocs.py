@@ -189,7 +189,7 @@ def overwrite_document(service, doc_id, content):
     service.documents().batchUpdate(
         documentId=doc_id,
         body={"requests": [{"deleteContentRange": {
-            "range": {"startIndex": 1, "endIndex": total_length}
+            "range": {"startIndex": 1, "endIndex": total_length - 1}
         }}]}
     ).execute()
 
