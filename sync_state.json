@@ -1111,7 +1111,7 @@
   },
   "616661158987537": {
     "title": "Guia passo a passo para migrar de CPF para CNPJ",
-    "last_modified": 1784055612104,
+    "last_modified": 1784220350577,
     "file": "docs/feature-guide/integração/registrar-e-configurar-conta/guia-passo-a-passo-para-migrar-de-cpf-para-cnpj_616661158987537.md"
   },
   "6813185987757841": {
@@ -1868,5 +1868,10 @@
     "title": "Entendendo o cofinanciamento da compensação do comprador devido ao cancelamento por falha do vendedor ",
     "last_modified": 1784011107155,
     "file": "docs/policy-center/gerenciamento-de-pedidos/entendendo-o-cofinanciamento-da-compensação-do-comprador-devido-ao-cancelamento-_6133450026665749.md"
+  },
+  "6972529105766162": {
+    "title": "Campanhas Contínuas de longo prazo",
+    "last_modified": 1784221858084,
+    "file": "docs/feature-guide/marketing/campanhas/campanhas-contínuas-de-longo-prazo_6972529105766162.md"
   }
 }

@@ -3,7 +3,7 @@ title: "Guia passo a passo para migrar de CPF para CNPJ"
 id: 616661158987537
 category: "Registrar e configurar conta"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=616661158987537"
-update_time: "2026-07-14"
+update_time: "2026-07-16"
 keywords: "Criadores"
 ---
 ## **Preparação**
@@ -24,7 +24,7 @@ Você poderá acessar por dois caminhos:
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | **Caminho 1:** pela Central de Mensagens | | **Caminho 2:** Centro de verificação  (TikTok Shop Creator Center->Configurações->informações de verificação) | | | |
-| image | image | image | image | image | image |
+| image | image | image | image | image | image.png |
 
 **Etapa 2: Insira as informações do CNPJ**Clique na entrada correspondente, preencha as informações solicitadas e envie.  
 
