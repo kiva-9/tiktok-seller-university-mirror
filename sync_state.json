@@ -1071,7 +1071,7 @@
   },
   "8624817789257488": {
     "title": "Guia para a página Desempenho do processo de envio",
-    "last_modified": 1782850158506,
+    "last_modified": 1784273101563,
     "file": "docs/feature-guide/análise-de-dados/gerenciamento-de-pedidos/guia-para-a-página-desempenho-do-processo-de-envio_8624817789257488.md"
   },
   "6857784697571088": {
@@ -1446,7 +1446,7 @@
   },
   "4614078954522384": {
     "title": "Idiomas compatíveis",
-    "last_modified": 1760588329212,
+    "last_modified": 1784284078242,
     "file": "docs/policy-center/gerencie-seus-produtos/idiomas-compatíveis_4614078954522384.md"
   },
   "6907568440706832": {
@@ -1456,7 +1456,7 @@
   },
   "6911810440005392": {
     "title": "Como solicitar para vender produtos Somente por convite?",
-    "last_modified": 1761120570769,
+    "last_modified": 1784284141886,
     "file": "docs/policy-center/gerencie-seus-produtos/como-solicitar-para-vender-produtos-somente-por-convite_6911810440005392.md"
   },
   "3750784971196177": {
@@ -1466,7 +1466,7 @@
   },
   "1795372420499201": {
     "title": "Guia para selecionar corretamente a categoria de produto ",
-    "last_modified": 1774901807481,
+    "last_modified": 1784284262813,
     "file": "docs/policy-center/gerencie-seus-produtos/guia-para-selecionar-corretamente-a-categoria-de-produto_1795372420499201.md"
   },
   "2953794493466384": {
@@ -1526,12 +1526,12 @@
   },
   "2823210010576641": {
     "title": "O que é Ocultação de Marca?",
-    "last_modified": 1760511046972,
+    "last_modified": 1784284860584,
     "file": "docs/policy-center/direitos-de-propriedade-intelectual/o-que-é-ocultação-de-marca_2823210010576641.md"
   },
   "8248592759244561": {
     "title": "Centro de Proteção à Propriedade Intelectual (IPPC) - Como usá-lo",
-    "last_modified": 1778219312179,
+    "last_modified": 1784285769378,
     "file": "docs/policy-center/direitos-de-propriedade-intelectual/centro-de-proteção-à-propriedade-intelectual-ippc-como-usá-lo_8248592759244561.md"
   },
   "5113265534732033": {
@@ -1546,7 +1546,7 @@
   },
   "1444948508280592": {
     "title": "Política de Logística do TikTok Shop",
-    "last_modified": 1784012415899,
+    "last_modified": 1784293234846,
     "file": "docs/policy-center/gerenciamento-de-pedidos/política-de-logística-do-tiktok-shop_1444948508280592.md"
   },
   "894339073115921": {
@@ -1873,5 +1873,10 @@
     "title": "Campanhas Contínuas de longo prazo",
     "last_modified": 1784221858084,
     "file": "docs/feature-guide/marketing/campanhas/campanhas-contínuas-de-longo-prazo_6972529105766162.md"
+  },
+  "7279248559163144": {
+    "title": "Política de comunicação com o cliente",
+    "last_modified": 1784278134538,
+    "file": "docs/policy-center/atendimento-ao-cliente/política-de-comunicação-com-o-cliente_7279248559163144.md"
   }
 }

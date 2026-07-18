@@ -3,7 +3,7 @@ title: "Política de Logística do TikTok Shop"
 id: 1444948508280592
 category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1444948508280592"
-update_time: "2026-07-14"
+update_time: "2026-07-17"
 keywords: "Seller Policy"
 ---
 # Visão Geral

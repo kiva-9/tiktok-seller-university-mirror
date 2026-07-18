@@ -1,15 +1,11 @@
 ---
-title: Centro de Proteção à Propriedade Intelectual (IPPC) - Como usá-lo
+title: "Centro de Proteção à Propriedade Intelectual (IPPC) - Como usá-lo"
 id: 8248592759244561
-category: Direitos de Propriedade Intelectual
+category: "Direitos de Propriedade Intelectual"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8248592759244561"
-update_time: 2026-05-08
-keywords: Política de vendedor
+update_time: "2026-07-17"
+keywords: "Política de vendedor"
 ---
-
-
-
-
 ![ip葡语.jpg](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ce18b51a2b7b431985649bb00ad6d97c~tplv-nk3i2mqmvs-image.jpg?lk3s=5d1a069b&x-expires=2093579296&x-signature=EE56Q1Uh1orrWo8ElmqwFSm%2BRoc%3D)**Centro de Proteção à Propriedade Intelectual** **(IPPC) -** **Como usá-lo**
 
 ## O que é o Centro de Proteção à Propriedade Intelectual (IPPC)?
@@ -53,22 +49,23 @@ Você pode se associar a mais de uma organização!
 1. Existem duas maneiras de criar uma nova organização.
    1. Clique em **Criar organização de vendedor**.
 
-Essa opção só está disponível se você se cadastrar no IPPC sincronizando sua conta de vendedor do TikTok Shop.2. Clique em **Criar nova organização** ao clicar no seu nome no canto superior direito.  
+Essa opção só está disponível se você se cadastrar no IPPC sincronizando sua conta de vendedor do TikTok Shop.  
+2. Clique em **Criar nova organização** ao clicar no seu nome no canto superior direito.  
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/829a84ea347d4837bd5e4c477308644a~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2093576567&x-signature=CnKYBJ0H4dALU8cXkFqljuhz8PA%3D)
 
 2. Em seguida, você deverá apresentar a documentação necessária para comprovar sua identidade. A documentação necessária depende do tipo de organização que você deseja criar:
    1. Clique em **Empresa** se o ativo de propriedade intelectual que você deseja proteger pertencer a uma entidade empresarial.
 
-Aceitamos os seguintes tipos de documentos como comprovante de identidade da empresa:
+Aceitamos os seguintes tipos de documentos como comprovante de identidade da empresa:  
 
 * Cartão CNPJ
 * Contrato social ou estatuto social
-* Certidão simplificada da Junta Comercial 
+* Certidão simplificada da Junta Comercial
 
   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/8113196be1a5470f917367a5833eceb3~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2093576568&x-signature=aWraStOGlw91FWpq5J4Zwy2Yt7c%3D)
 
-Aceitamos os seguintes tipos de documento de identificação como comprovante de identidade:
+Aceitamos os seguintes tipos de documento de identificação como comprovante de identidade:  
 
 * Passaporte brasileiro
 * Carteira de habilitação brasileira
@@ -95,18 +92,19 @@ Você pode gerenciar seus ativos de propriedade intelectual na página **Gerenci
 ### **Como registrar um novo ativo de propriedade intelectual**
 
 Para registrar um novo ativo de propriedade intelectual, clique em **Carregar documentos de direitos de propriedade intelectual** na página **Gerenciamento de propriedade intelectual**. Selecione o tipo de ativo de propriedade intelectual que deseja proteger e envie a documentação necessária.  
-Seu ativo de propriedade intelectual **DEVE** estar ativo no país onde você deseja protegê-lo. No caso, no Brasil.
+Seu ativo de propriedade intelectual **DEVE** estar ativo no país onde você deseja protegê-lo. No caso, no Brasil.  
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/7778e9fc751b4890bbdfec0b22454677~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2093576569&x-signature=A2SNl6ollL2kBe1ktCffO1u41sw%3D)
 
-Se você selecionar **Direitos autorais registrados**, deverá enviar um certificado de registro de direitos autorais (emitido pelo [Instituto Nacional da Propriedade Industrial (INPI)](https://www.gov.br/inpi/pt-br "https://www.gov.br/inpi/pt-br") ou uma declaração de reivindicação de direitos autorais (uma declaração na qual você declara ser o detentor dos direitos autorais). Caso não possua um, selecione **Direitos autorais não registrados**.Enviaremos um e-mail informando o resultado da sua solicitação. Caso sua solicitação seja rejeitada, clique em **Solicitar novamente** para editar e reenviar sua solicitação.  
+Se você selecionar **Direitos autorais registrados**, deverá enviar um certificado de registro de direitos autorais (emitido pelo [Instituto Nacional da Propriedade Industrial (INPI)](https://www.gov.br/inpi/pt-br "https://www.gov.br/inpi/pt-br") ou uma declaração de reivindicação de direitos autorais (uma declaração na qual você declara ser o detentor dos direitos autorais). Caso não possua um, selecione **Direitos autorais não registrados**.  
+Enviaremos um e-mail informando o resultado da sua solicitação. Caso sua solicitação seja rejeitada, clique em **Solicitar novamente** para editar e reenviar sua solicitação.  
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/49fb3aa0ff9b4b15a358c8fbe2e70220~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2093576571&x-signature=enyHVJuycmI1iaU96pv6O2nYFp4%3D)
 
 ### Documentos a serem apresentados ao registrar um novo ativo de propriedade intelectual
 
 A lista abaixo descreve os documentos que você precisa enviar ao registrar um ativo de propriedade intelectual. Observe que eles variam dependendo do ativo de propriedade intelectual.  
-Esta lista serve apenas como **orientação geral**. O envio dos documentos não resulta automaticamente no registro do seu ativo de propriedade intelectual no IPPC. Analisaremos seus documentos e outros documentos relevantes antes de decidir se seu ativo de propriedade intelectual pode ser registrado no IPPC.
+Esta lista serve apenas como **orientação geral**. O envio dos documentos não resulta automaticamente no registro do seu ativo de propriedade intelectual no IPPC. Analisaremos seus documentos e outros documentos relevantes antes de decidir se seu ativo de propriedade intelectual pode ser registrado no IPPC.  
 
 ##### Marcas registradas (Trademark)
 
@@ -114,7 +112,7 @@ Esta lista serve apenas como **orientação geral**. O envio dos documentos não
   + Se você renovou sua marca registrada, carregue também o certificado de renovação.
   + Caso a marca tenha sofrido alteração de titularidade, carregue também o documento oficial do INPI que comprove essa alteração.
 
-Não aceitamos capturas de tela ou extratos do portal da Organização Mundial da Propriedade Intelectual (World Intellectual Property Organization, WIPO) como comprovação.
+Não aceitamos capturas de tela ou extratos do portal da Organização Mundial da Propriedade Intelectual (World Intellectual Property Organization, WIPO) como comprovação.  
 
 ##### Direitos autorais registrados (Copyright)
 
@@ -142,7 +140,8 @@ Você pode gerenciar suas reclamações na página **Gerenciamento de reclamaç�
 #### Como enviar uma reclamação
 
 Você poderá enviar uma reclamação por violação de propriedade intelectual após a aprovação da sua solicitação de registro do seu ativo de propriedade intelectual.  
-Embora seja possível usar o IPPC para registrar um **Design registrado**, não é possível usá-lo para apresentar uma reclamação referente a esse design. Em vez disso, use esse [formulário on-line](https://inapp.tiktokv.com/compliance/ecommerce-ipr "https://inapp.tiktokv.com/compliance/ecommerce-ipr").Para enviar uma reclamação, acesse a página **Gerenciamento de reclamações** e clique em **Enviar nova reclamação**.  
+Embora seja possível usar o IPPC para registrar um **Design registrado**, não é possível usá-lo para apresentar uma reclamação referente a esse design. Em vez disso, use esse [formulário on-line](https://inapp.tiktokv.com/compliance/ecommerce-ipr "https://inapp.tiktokv.com/compliance/ecommerce-ipr").  
+Para enviar uma reclamação, acesse a página **Gerenciamento de reclamações** e clique em **Enviar nova reclamação**.  
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/8a2861d148e04321b9000e47d92f290c~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2093576570&x-signature=MWj0%2F4ye0MyvIRN80wFEnLWrjvM%3D)
 
@@ -155,14 +154,14 @@ Após selecionar todos os itens que deseja incluir na denúncia, preencha cada s
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/06d63e5e720f4ff1aa1350008e272bec~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2093576571&x-signature=XW1mbad%2FweHCuBReEYdrUpeFMY4%3D)
 
 Enviaremos um e-mail informando o resultado da sua reclamação. Ele também será exibido na página **Gerenciamento de reclamações**.  
-Não é possível recorrer de uma reclamação que já foi rejeitada. Você precisará enviar uma nova solicitação, incluindo informações novas ou adicionais.
+Não é possível recorrer de uma reclamação que já foi rejeitada. Você precisará enviar uma nova solicitação, incluindo informações novas ou adicionais.  
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/69f6f62e7a8b44edb8a11de3fa046452~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2093576572&x-signature=75eEySO44r2%2BhtHLP8dlK4PJhuo%3D)
 
 #### Diretrizes para o envio de reclamações
 
 A lista abaixo descreve o que você precisa fornecer ao enviar uma reclamação. Observe que isso varia dependendo do ativo de propriedade intelectual.  
-Esta lista serve apenas como **orientação geral**. Você pode apresentar comprovações adicionais que não estejam incluídas nesta lista. Não aceitamos certos tipos de notificações de violação como comprovação. Eles estão listados em nossa [Política de Propriedade Intelectual](https://seller-us.tiktok.com/university/essay?knowledge_id=6837901778306818&role=1&course_type=1&from=search%7BcontentIdParams%7D&identity=1&anchor_link=EB2100D3 "https://seller-us.tiktok.com/university/essay?knowledge_id=6837901778306818&role=1&course_type=1&from=search%7BcontentIdParams%7D&identity=1&anchor_link=EB2100D3").
+Esta lista serve apenas como **orientação geral**. Você pode apresentar comprovações adicionais que não estejam incluídas nesta lista. Não aceitamos certos tipos de notificações de violação como comprovação. Eles estão listados em nossa [Política de Propriedade Intelectual](https://seller-us.tiktok.com/university/essay?knowledge_id=6837901778306818&role=1&course_type=1&from=search%7BcontentIdParams%7D&identity=1&anchor_link=EB2100D3 "https://seller-us.tiktok.com/university/essay?knowledge_id=6837901778306818&role=1&course_type=1&from=search%7BcontentIdParams%7D&identity=1&anchor_link=EB2100D3").  
 
 ##### Marca registrada
 
