@@ -1,15 +1,11 @@
 ---
-title: Aplicativo da Central de Vendedores
+title: "Aplicativo da Central de Vendedores"
 id: 3180070811780865
-category: Gerenciar contas
+category: "Gerenciar contas"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3180070811780865"
-update_time: 2025-09-22
-keywords: Vendedores
+update_time: "2026-07-18"
+keywords: "Vendedores"
 ---
-
-
-
-
 ### **O que é a Central de Vendedores do TikTok Shop?**
 
 A Central de Vendedores do TikTok Shop é um aplicativo móvel gratuito que permite gerenciar seu negócio no TikTok Shop, acompanhar o desempenho e estar em contato com seus clientes a qualquer hora e em qualquer lugar.  
@@ -22,7 +18,10 @@ A Central de Vendedores do TikTok Shop é um aplicativo móvel gratuito que perm
 
 O aplicativo para vendedores traz a maioria das funções essenciais da Central lde Vendedores diretamente para o seu dispositivo móvel. Com o aplicativo instalado, você pode publicar produtos, gerenciar preços e inventário, responder às consultas dos compradores, processar pedidos etc., tudo de forma rápida e simples.  
 Além disso, ao ativar as notificações push, você nunca perderá um novo pedido ou uma atualização importante.  
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/12581981c4bb4fa6acf753e79aa27f95~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2073517856&x-signature=5IVVLdJSdYZsuqGX%2BJF8SQJ99vQ%3D)![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/475eed8cba3545d1bd374380db304d8c~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2073517856&x-signature=4j%2B97L2WKUSoIkU9seNMcddPZGU%3D)
+
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/12581981c4bb4fa6acf753e79aa27f95~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2073517856&x-signature=5IVVLdJSdYZsuqGX%2BJF8SQJ99vQ%3D)
+
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/475eed8cba3545d1bd374380db304d8c~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2073517856&x-signature=4j%2B97L2WKUSoIkU9seNMcddPZGU%3D)
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2cd51ec12b35419a9adefae4143c981a~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2073517854&x-signature=gatDSZF912vq5FkDoVzbKnBXFG4%3D)
 

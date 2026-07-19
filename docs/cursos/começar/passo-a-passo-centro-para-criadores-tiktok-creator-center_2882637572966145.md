@@ -1,15 +1,11 @@
 ---
 title: "Passo a passo: Centro para criadores (TikTok Creator Center)"
 id: 2882637572966145
-category: Começar
+category: "Começar"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2882637572966145"
-update_time: 2025-06-12
-keywords: Criadores
+update_time: "2026-07-18"
+keywords: "Criadores"
 ---
-
-
-
-
 Neste artigo, mostraremos o TikTok Shop Creator Center dentro do aplicativo TikTok.
 
 Analisaremos como navegar e usar os diferentes recursos para maximizar sua experiência de criador em uma única tela.  
