@@ -3,7 +3,7 @@ title: "Visão Geral da Opção \"Enviados Pela Plataforma\""
 id: 2915348630603521
 category: "Serviço de compras"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2915348630603521"
-update_time: "2026-07-13"
+update_time: "2026-07-23"
 keywords: "Sellers"
 ---
 Este artigo apresenta uma visão geral da opção "Enviados pela plataforma", que se trata da opção de envio padrão fácil de configurar e que inclui a criação de etiquetas integradas. Os vendedores podem comprar e imprimir etiquetas de envio diretamente da Central do Vendedor usando as transportadoras designadas do TikTok Shop, eliminando a necessidade de configurar um modelo de envio separado.
@@ -72,8 +72,8 @@ As taxas de envio atualizadas\* entrarão em vigor em 13 de julho de 2026, confo
 * A taxa de frete exibida para o comprador é calculada na finalização do pedido com base nas tarifas de frete da opção "Enviados pela plataforma". A taxa de envio real será calculada depois que o pacote for entregue pela transportadora e, após a confirmação, ela será exibida na página Detalhes da liquidação.
 * Nas suas declarações de faturamento, a taxa de envio é igual à taxa de envio do comprador.
   + Você receberá a taxa de envio do comprador depois que o pedido for pago.
-  + A taxa de envio cobrada do comprador é a mesma taxa de envio faturada para você.
-  + Você precisará arcar com os custos adicionais devido a diferenças no peso. Portanto, convém inserir o peso e as dimensões precisos ao registrar o produto.
+  + Normalmente, a taxa de envio cobrada do comprador é a mesma taxa de envio faturada para você.
+  + Ressaltamos que o valor final cobrado poderá sofrer alterações caso o provedor de serviços logísticos identifique divergências no pedido ou na embalagem, ocorram reajustes nas tabelas de tarifas, ou em demais circunstâncias nas quais as condições de frete sejam modificadas entre o momento do pagamento e a efetiva expedição do pedido.
 * **Para pedidos enviados de um estado e entregues em outro estado** (por exemplo, um vendedor em São Paulo vende para um comprador no Rio de Janeiro), o vendedor está sujeito ao **ICMS DIFAL (Diferencial de Alíquota do ICMS)**.
 
 Se o imposto não for pago ou for pago parcialmente pelo vendedor antes do envio, o parceiro logístico do TikTok Shop poderá arcar com o valor não pago e também com possíveis multas durante a fiscalização realizada pelos órgãos fiscais competentes. Nesse caso, **o valor será deduzido da conta do vendedor no ajuste mensal**, sob o item de dedução:  

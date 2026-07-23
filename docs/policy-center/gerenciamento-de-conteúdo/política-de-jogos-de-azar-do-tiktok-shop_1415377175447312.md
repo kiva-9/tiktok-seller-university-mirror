@@ -3,7 +3,7 @@ title: "Política de Jogos de Azar do TikTok Shop "
 id: 1415377175447312
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1415377175447312"
-update_time: "2026-07-16"
+update_time: "2026-07-22"
 keywords: "Creators"
 ---
 # **Objetivo e Escopo**
@@ -72,35 +72,35 @@ O TikTok Shop reserva-se o direito de remover o acesso a esse recurso a qualquer
 
 Para mais detalhes sobre como acessar esse recurso e habilitar leilões, consulte o guia do recurso [Leilão LIVE](https://seller-br.tiktok.com/university/essay?knowledge_id=5827634231625488&role=1&course_type=1&from=search "https://seller-br.tiktok.com/university/essay?knowledge_id=5827634231625488&role=1&course_type=1&from=search").
 
-## **Breaks**
+## **Abertura de colecionáveis**
 
-Um "break" acontece quando um pacote, caixa ou case lacrado de itens é aberto, normalmente durante uma transmissão ao vivo, e o conteúdo é distribuído aos clientes pagantes. Atualmente, apenas os seguintes produtos são permitidos:
+Uma Abertura de colecionável acontece quando um pacote, caixa ou case lacrado de itens é aberto, normalmente durante uma transmissão ao vivo, e o conteúdo é distribuído aos clientes pagantes. Atualmente, apenas os produtos a seguir são permitidos:
 
 * **Cartas colecionáveis**
 
-### **Tipos de breaks proibidos**
+### **Tipos de aberturas de pacotes de cartas proibidas**
 
-Os itens abaixo são exemplos não exaustivos de breaks de cartas proibidos no TikTok Shop:
+Os itens abaixo são exemplos não exaustivos de aberturas de cartas proibidos no TikTok Shop:
 
-* **Break aleatório por time**:
+* **Abertura de pacotes de cartas aleatória por time**:
   + Todos pagam o mesmo valor de entrada e os times são atribuídos aleatoriamente. Cada comprador recebe todas as cartas retiradas do time que lhe foi atribuído.
   + Isso é permitido se você estiver usando um conjunto surpresa lacrado pelo fabricante.
-* **Break estilo draft**:
-  + Depois que as caixas são abertas, os participantes selecionam as cartas reveladas em uma ordem de draft serpentina (invertendo a ordem de seleção em cada rodada par) previamente randomizada. Isso continua até que todo o break seja reivindicado.
-* **Break com bounty**:
-  + O vendedor define uma "bounty" ao vivo para atingir uma carta específica ou um número de série específico. Se a carta-alvo aparecer, seu proprietário recebe a bounty; caso contrário, ela é acumulada e aumenta para o próximo break.
-* **Break de jogo de pulls**:
-  + Em vez de pacotes lacrados, os compradores adquirem "pulls" individuais de uma pilha virada para baixo, mystery bag ou parede. Cada pull é revelado ao vivo e pode variar de cartas comuns a chase cards de alto valor.
-* **Break com programa de pontos**:
-  + As vagas geram pontos de fidelidade com a loja do vendedor. Esses pontos se acumulam ao longo das transmissões e podem ser trocados por entradas de break com desconto ou gratuitas.
-* **Train game**:
-  + Os espectadores tentam manter um "train" ativo comprando vagas consecutivas antes que um curto período expire. Atingir o comprimento necessário desbloqueia pacotes extras, giveaways ou bônus para todo o chat.
-* **King of the Hill:**
-  + Durante o break, a carta com o menor (ou maior) número de série retirado fica "no topo". Quem a mantiver ao final vence um prêmio adicional ou um produto lacrado.
-* **HP Battle**:
-  + Comum em transmissões de Pokémon, em que cada participante abre um pacote e apenas a única carta com o maior (ou às vezes menor) número de Hit Points impresso conta. Esse jogador ganha pacotes extras ou até a caixa inteira.
+* **Abertura de pacotes de cartas estilo recrutamento**:
+  + Depois que as caixas são abertas, os participantes selecionam as cartas reveladas em uma ordem de recrutamento em serpente (invertendo a ordem de seleção em cada rodada par) previamente sorteada. Isso continua até que toda abertura de carta seja reivindicada.
+* **Abertura de pacotes de cartas com recompensa**:
+  + O vendedor define uma "recompensa" ao vivo para atingir uma carta específica ou um número de série específico. Se a carta-alvo aparecer, seu proprietário recebe a recompensa; caso contrário, ela é acumulada e aumenta para a próxima.
+* **Tiragem de cartas às cegas**:
+  + Em vez de pacotes lacrados, os compradores adquirem tiragens individuais de uma pilha virada para baixo, de um pacote surpresa ou parede. Cada tiragem é revelada ao vivo e pode variar de cartas comuns a cartas raras de alto valor.
+* **Abertura de pacotes de cartas com programa de pontos**:
+  + As vagas geram pontos de fidelidade com a loja do vendedor. Esses pontos se acumulam ao longo das transmissões e podem ser trocados por entradas de aberturas de carta com desconto ou gratuitas.
+* **Jogo de sequência**:
+  + Os espectadores tentam manter ua sequência comprando vagas consecutivas antes que um curto período expire. Atingir o comprimento necessário desbloqueia pacotes extras, sorteios ou bônus para todo o chat.
+* **Rei da rodada:**
+  + Durante a abertura de pacotes de cartas, a carta com o menor (ou maior) número de série retirado fica "no topo". Quem a mantiver ao final vence um prêmio adicional ou um produto lacrado.
+* **Batalha de PS**:
+  + Comum em transmissões de Pokémon, em que cada participante abre um pacote e apenas a única carta com o maior (ou às vezes menor) número de Pontos de Saúde impresso conta. Esse jogador ganha pacotes extras ou até a caixa inteira.
 
-### **Alegações de marketing proibidas para breaks**
+### **Alegações de marketing proibidas para aberturas de colecionáveis**
 
 1. **Alegações de valor mínimo e máximo**
 
@@ -113,7 +113,7 @@ Os vendedores não devem fazer referência nem insinuar valores específicos dos
 
 2. **Apelos de escassez e oportunidade**
 
-Os vendedores não devem apresentar itens de break como oportunidades raras, prêmios ou investimentos, incluindo:
+Os vendedores não devem apresentar itens de abertura de colecionáveis como oportunidades raras, prêmios ou investimentos, incluindo:
 
 * Oportunidades extremamente raras ou únicas na vida (por exemplo, “você nunca verá isso novamente”, “item mais raro disponível”, “chance única”, “bilhete dourado”)
 * Aquisições com aparência de prêmio (por exemplo, “ganhe o prêmio”, “item do grande prêmio”, “carta jackpot”)
