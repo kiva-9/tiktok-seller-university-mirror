@@ -3,7 +3,7 @@ title: "Política de Jogos de Azar do TikTok Shop "
 id: 1415377175447312
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1415377175447312"
-update_time: "2026-07-22"
+update_time: "2026-07-23"
 keywords: "Creators"
 ---
 # **Objetivo e Escopo**
@@ -72,15 +72,15 @@ O TikTok Shop reserva-se o direito de remover o acesso a esse recurso a qualquer
 
 Para mais detalhes sobre como acessar esse recurso e habilitar leilões, consulte o guia do recurso [Leilão LIVE](https://seller-br.tiktok.com/university/essay?knowledge_id=5827634231625488&role=1&course_type=1&from=search "https://seller-br.tiktok.com/university/essay?knowledge_id=5827634231625488&role=1&course_type=1&from=search").
 
-## **Abertura de colecionáveis**
+## **Abertura de colecionáveis (Breaks)**
 
-Uma Abertura de colecionável acontece quando um pacote, caixa ou case lacrado de itens é aberto, normalmente durante uma transmissão ao vivo, e o conteúdo é distribuído aos clientes pagantes. Atualmente, apenas os produtos a seguir são permitidos:
+Uma abertura de colecionável (break) acontece quando um pacote, caixa ou case lacrado de itens é aberto, normalmente durante uma transmissão ao vivo, e o conteúdo é distribuído aos clientes pagantes. Atualmente, apenas os produtos a seguir são permitidos:
 
 * **Cartas colecionáveis**
 
-### **Tipos de aberturas de pacotes de cartas proibidas**
+### **Tipos de aberturas de pacotes de cartas (card breaks) proibidas**
 
-Os itens abaixo são exemplos não exaustivos de aberturas de cartas proibidos no TikTok Shop:
+Os itens abaixo são exemplos não exaustivos de aberturas de cartas proibidas no TikTok Shop:
 
 * **Abertura de pacotes de cartas aleatória por time**:
   + Todos pagam o mesmo valor de entrada e os times são atribuídos aleatoriamente. Cada comprador recebe todas as cartas retiradas do time que lhe foi atribuído.

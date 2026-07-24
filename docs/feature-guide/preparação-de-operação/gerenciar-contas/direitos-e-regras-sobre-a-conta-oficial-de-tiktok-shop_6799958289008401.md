@@ -3,7 +3,7 @@ title: "Direitos e Regras Sobre a Conta Oficial de TikTok Shop"
 id: 6799958289008401
 category: "Gerenciar contas"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6799958289008401"
-update_time: "2026-07-18"
+update_time: "2026-07-23"
 keywords: "Sellers"
 ---
 ## **Direitos e regras sobre a Conta oficial do TikTok Shop**
@@ -54,7 +54,7 @@ Os usuários podem procurar facilmente os produtos na loja por meio da função 
 
 * Cada loja só pode ser vinculada a uma conta oficial.
 * O nome da loja e o nome da conta oficial vinculada devem ser iguais após a atualização. Quando o nome da loja for modificado, o nome da conta oficial será alterado simultaneamente. Tenha cuidado ao alterar o nome da loja.
-* A conta oficial pode ser desvinculada uma vez 24 horas depois que a conta oficial for vinculada
+* A conta oficial pode ser desvinculada uma vez 48 horas depois que a conta oficial for vinculada
 * Uma mesma conta não pode ser vinculada como conta oficial e conta de canal da mesma loja simultaneamente.
 * A região da conta precisa ser a mesma região da loja.
 * A conta do TikTok será atualizada automaticamente para Conta corporativa quando você vinculá-la à loja. Saiba mais sobre Conta corporativa [aqui](https://ads.tiktok.com/business/pt-BR/solutions/business-account?acq_banner_version=73412989 "https://ads.tiktok.com/business/pt-BR/solutions/business-account?acq_banner_version=73412989").
@@ -188,7 +188,7 @@ Tipo de conta: **Contas de mídia próprias e criador afiliados**
 
 ## **Como desvincular a conta oficial?**
 
-A conta oficial pode ser desvinculada uma vez até 24 horas após a vinculação bem-sucedida. Você só pode desvincular a conta oficial três vezes.
+A conta oficial pode ser desvinculada uma vez até 48 horas após a vinculação bem-sucedida. Você só pode desvincular a conta oficial três vezes.
 
 No PC:Central do vendedor - Minha conta - Contas de TikTok vinculadas - Conta oficial - Desvincular conta oficial
 
