@@ -1,20 +1,20 @@
 ---
-title: Perguntas frequentes sobre campanhas
+title: "Perguntas frequentes sobre campanhas"
 id: 2996214162966289
-category: Campanhas
+category: "Campanhas"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2996214162966289"
-update_time: 2026-05-08
-keywords: Vendedores
+update_time: "2026-07-24"
+keywords: "Vendedores"
 ---
-
-
-
-
 ## **Como sei se minha loja ou meus produtos são elegíveis para as campanhas?**
 
 Sua elegibilidade será exibida na página Detalhes da campanha quando você se inscrever em uma campanha. Para consultar todos os critérios de elegibilidade, clique em "Revisar todos os critérios" na página Detalhes da campanha.  
 
-* Critérios de elegibilidade da loja: na página Critérios da loja, você verá a Pontuação de desempenho da loja. Para ser elegível para as campanhas, você precisa ter uma Pontuação de desempenho da loja de 3,0 ou superior para ser elegível para as campanhas (Válido a partir de abril de 2026).Vendedores com duas violações consecutivas de SFCR (SFCR>15%) em campanhas ficarão temporariamente impedidos de participar da terceira campanha.![20260305-161148.jpg](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/35cd51db8a794a75a89e1a2824a29f50~tplv-nk3i2mqmvs-image.jpg?lk3s=5d1a069b&x-expires=2088058897&x-signature=%2Bp0%2Fj%2BIqqZ4TH9FqwATzdvcC8Hg%3D)
+* Critérios de elegibilidade da loja: na página Critérios da loja, você verá a Pontuação de desempenho da loja. Para ser elegível para as campanhas, você precisa ter uma Pontuação de desempenho da loja de 3,0 ou superior para ser elegível para as campanhas (Válido a partir de abril de 2026).A partir do início de agosto de 2026, se você ainda não tenha uma pontuação de SPS, certifique-se de que o desempenho dos seus envios não foi prejudicado devido à Taxa de envio atrasado (LDR) ou à Taxa de cancelamento por erro do vendedor (SFCR).
+
+Os vendedores com duas violações consecutivas da SFCR em campanhas ficarão em um período de cancelamento obrigatório na campanha seguinte.![20260305-161148.jpg](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/35cd51db8a794a75a89e1a2824a29f50~tplv-nk3i2mqmvs-image.jpg?lk3s=5d1a069b&x-expires=2088058897&x-signature=%2Bp0%2Fj%2BIqqZ4TH9FqwATzdvcC8Hg%3D)
+
+* Qualificação dos produtos: seus produtos não devem estar sujeitos ao cumprimento de uma destas políticas: Política de anúncios de produtos, Política de propriedade intelectual ou Itens ausentes/errados e defeituosos（Válido a partir do início de agosto de 2026）.
 
 ## **Preciso me cadastrar tanto para campanhas de produto quanto para campanhas de conteúdo (LIVE)?**
 
