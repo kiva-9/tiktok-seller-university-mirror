@@ -3,7 +3,7 @@ title: "Política de Jogos de Azar do TikTok Shop "
 id: 1415377175447312
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1415377175447312"
-update_time: "2026-07-23"
+update_time: "2026-07-28"
 keywords: "Creators"
 ---
 # **Objetivo e Escopo**
@@ -85,8 +85,8 @@ Os itens abaixo são exemplos não exaustivos de aberturas de cartas proibidas n
 * **Abertura de pacotes de cartas aleatória por time**:
   + Todos pagam o mesmo valor de entrada e os times são atribuídos aleatoriamente. Cada comprador recebe todas as cartas retiradas do time que lhe foi atribuído.
   + Isso é permitido se você estiver usando um conjunto surpresa lacrado pelo fabricante.
-* **Abertura de pacotes de cartas estilo recrutamento**:
-  + Depois que as caixas são abertas, os participantes selecionam as cartas reveladas em uma ordem de recrutamento em serpente (invertendo a ordem de seleção em cada rodada par) previamente sorteada. Isso continua até que toda abertura de carta seja reivindicada.
+* **Abertura de pacotes de cartas estilo recrutamento (draft)**:
+  + Depois que as caixas são abertas, os participantes selecionam as cartas reveladas em uma ordem de recrutamento (draft) em serpente (invertendo a ordem de seleção em cada rodada par) previamente sorteada. Isso continua até que toda abertura de carta seja reivindicada.
 * **Abertura de pacotes de cartas com recompensa**:
   + O vendedor define uma "recompensa" ao vivo para atingir uma carta específica ou um número de série específico. Se a carta-alvo aparecer, seu proprietário recebe a recompensa; caso contrário, ela é acumulada e aumenta para a próxima.
 * **Tiragem de cartas às cegas**:
