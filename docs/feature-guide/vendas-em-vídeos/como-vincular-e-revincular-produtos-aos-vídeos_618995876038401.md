@@ -1,15 +1,11 @@
 ---
-title: Como Vincular e Revincular Produtos aos Vídeos
+title: "Como Vincular e Revincular Produtos aos Vídeos"
 id: 618995876038401
-category: Vendas em Vídeos
+category: "Vendas em Vídeos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=618995876038401"
-update_time: 2025-12-17
-keywords: Criadores
+update_time: "2026-07-30"
+keywords: "Criadores"
 ---
-
-
-
-
 ## **Introdução**
 
 O recurso **Revinculação de produtos** abrange dois cenários principais.  
@@ -46,12 +42,7 @@ Não há mais período de espera. As notificações podem ser acionadas imediata
 
 2. **Acessar o recurso de revinculação**
 
-Você pode acessar a revinculação das seguintes maneiras:   
-**Ponto de entrada 1:** notificação na caixa de entrada do TikTok  
-
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/1dc55ae6fe044631adbed301e830a180~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2081314923&x-signature=BJiCjo8arFeTSdkgJJggBjfJ2LA%3D)
-
-**Ponto de entrada 2:** Central de criadores do TikTok Shop ou Central do vendedor (aba Gerenciar)  
+Você pode acessar a revinculação das seguintes maneiras: Central de criadores do TikTok Shop ou Central do vendedor (aba Gerenciar)  
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f88d07adc311429587f32e8418a2f179~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2081314918&x-signature=6FLOKjRWzErZkIjn5ybSHVXwsuM%3D)
 

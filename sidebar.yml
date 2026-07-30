@@ -677,6 +677,10 @@
           "link": "/feature-guide/análise-de-dados/visão-geral-dos-dados/",
           "items": [
             {
+              "text": "Análise do vendedor | Análise de tráfego de produtos",
+              "link": "/feature-guide/análise-de-dados/visão-geral-dos-dados/análise-do-vendedor-análise-de-tráfego-de-produtos_8887501265143572"
+            },
+            {
               "text": "Atualização Da Lógica De Detalhamento Das Métricas De Vendas",
               "link": "/feature-guide/análise-de-dados/visão-geral-dos-dados/atualização-da-lógica-de-detalhamento-das-métricas-de-vendas_2072109095159568"
             },
@@ -1231,6 +1235,14 @@
               "link": "/feature-guide/pedidos/serviço-de-compras/como-enviar-amostras-grátis_2915348630701825"
             },
             {
+              "text": "Como processar pedidos com a opção \"Envio pelo vendedor\"",
+              "link": "/feature-guide/pedidos/serviço-de-compras/como-processar-pedidos-com-a-opção-envio-pelo-vendedor_3028311274702599"
+            },
+            {
+              "text": "Comparação Entre As Soluções De Envio",
+              "link": "/feature-guide/pedidos/serviço-de-compras/comparação-entre-as-soluções-de-envio_3023422608852744"
+            },
+            {
               "text": "Configuração De Pré Envio Para Novos Vendedores",
               "link": "/feature-guide/pedidos/serviço-de-compras/configuração-de-pré-envio-para-novos-vendedores_5235393046546177"
             },
@@ -1671,6 +1683,10 @@
         {
           "text": "Entendendo O Acesso Não Autorizado À Conta",
           "link": "/policy-center/gerenciamento-de-conta/entendendo-o-acesso-não-autorizado-à-conta_1290660386014977"
+        },
+        {
+          "text": "Guia De Uso Da Ferramenta De Diagnóstico Sps",
+          "link": "/policy-center/gerenciamento-de-conta/guia-de-uso-da-ferramenta-de-diagnóstico-sps_2765830988809992"
         },
         {
           "text": "O Que Fazer Ao Receber Uma Violação",
