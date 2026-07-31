@@ -816,7 +816,7 @@
   },
   "5041094702597904": {
     "title": "Ferramenta de Gestão de Relacionamento com Clientes",
-    "last_modified": 1758599150623,
+    "last_modified": 1785431238148,
     "file": "docs/feature-guide/marketing/clientes/ferramenta-de-gestão-de-relacionamento-com-clientes_5041094702597904.md"
   },
   "1153233696671505": {
@@ -1918,5 +1918,20 @@
     "title": "Guia de uso da ferramenta de diagnóstico SPS",
     "last_modified": 1785335488359,
     "file": "docs/policy-center/gerenciamento-de-conta/guia-de-uso-da-ferramenta-de-diagnóstico-sps_2765830988809992.md"
+  },
+  "3189336124344085": {
+    "title": "Primeiros passos com o leilão ao vivo",
+    "last_modified": 1785425030564,
+    "file": "docs/feature-guide/live/ferramentas-e-promoções-de-live/primeiros-passos-com-o-leilão-ao-vivo_3189336124344085.md"
+  },
+  "3082357818541842": {
+    "title": "Manual de Inspirações de Destaque Live do TikTok Shop",
+    "last_modified": 1785404094028,
+    "file": "docs/feature-guide/marketing/promoção/manual-de-inspirações-de-destaque-live-do-tiktok-shop_3082357818541842.md"
+  },
+  "2994246257559313": {
+    "title": "Perguntas Frequentes sobre Impostos para Criadores",
+    "last_modified": 1785388749749,
+    "file": "docs/feature-guide/análise-de-dados/análise-de-ganhos/perguntas-frequentes-sobre-impostos-para-criadores_2994246257559313.md"
   }
 }
