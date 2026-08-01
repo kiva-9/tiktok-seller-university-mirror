@@ -1,15 +1,11 @@
 ---
-title: Regras detalhadas para danos
+title: "Regras detalhadas para danos"
 id: 1102714779993872
-category: Gerenciamento de Pedidos
+category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1102714779993872"
-update_time: 2026-04-17
-keywords: Política de vendedor
+update_time: "2026-07-31"
+keywords: "Política de vendedor"
 ---
-
-
-
-
 # O que é um "problema relacionado a danos"?
 
 Refere-se a problemas como danos físicos, produtos incompletos, deformações, fragmentação, vazamentos, arranhões, amassados, quebras e desprendimento do próprio produto, seus acessórios ou embalagem interna, quando recebidos pelo consumidor.  
@@ -64,4 +60,7 @@ A plataforma identifica o feedback negativo dos consumidores sobre problemas com
 |  |  |  |
 | --- | --- | --- |
 | **Categoria** | **Sugestões de embalagem** | **Diagrama de exemplo de embalagem** |
-| Espelhos | 1. Envolva completamente o produto com pelo menos duas camadas de plástico bolha ou espuma EPE. Envolva as bordas e cantos com mais uma ou duas camadas de plástico bolha ou fixe protetores de espuma nos quatro cantos do espelho com fita adesiva para evitar que ele se desloque. 2. Escolha uma caixa de papelão rígida e resistente à pressão, de tamanho adequado às dimensões do espelho. 3. Coloque uma camada espessa de espuma EPE ou placa de espuma no fundo da caixa de papelão e, em seguida, coloque o espelho envolto por plástico bolha no centro. Preencha os espaços vazios entre o espelho e a caixa de papelão com materiais absorventes de impacto, como almofadas de ar, plástico bolha ou espuma, para garantir que o espelho não se mova dentro da caixa. Por fim, coloque outra camada de espuma EPE ou placa de espuma sobre o espelho. | image |
+| Espelhos | 1. Envolva completamente o produto com pelo menos duas camadas de plástico bolha ou espuma EPE. Envolva as bordas e cantos com mais uma ou duas camadas de plástico bolha ou fixe protetores de espuma nos quatro cantos do espelho com fita adesiva para evitar que ele se desloque. 2. Escolha uma caixa de papelão rígida e resistente à pressão, de tamanho adequado às dimensões do espelho. 3. Coloque uma camada espessa de espuma EPE ou placa de espuma no fundo da caixa de papelão e, em seguida, coloque o espelho envolto por plástico bolha no centro. Preencha os espaços vazios entre o espelho e a caixa de papelão com materiais absorventes de impacto, como almofadas de ar, plástico bolha ou espuma, para garantir que o espelho não se mova dentro da caixa. Por fim, coloque outra camada de espuma EPE ou placa de espuma sobre o espelho. |  |
+| produtos de vidro  Vidrio/Dispensador de aceite | 1. Envolva completamente cada peça de vidro com plástico-bolha. Em áreas irregulares ou salientes (como alças, taças de haste alta etc.), adicione mais 1 a 2 camadas de plástico-bolha para evitar quebras ou danos. 2. Se houver várias peças, embale cada uma individualmente com plástico-bolha antes de colocá-las juntas. Separe-as com espuma EPE ou divisórias de papelão ondulado para evitar choques entre as peças.  Utilize uma embalagem externa de papelão resistente, como uma caixa de papelão ondulado de cinco camadas. Após acomodar as peças, preencha todos os espaços vazios com almofadas de ar, plástico-bolha, bolas de papel, espuma ou materiais semelhantes, garantindo que os produtos não se movimentem dentro da caixa. Aplique etiquetas de "Frágil" e envolva a caixa com várias camadas de filme stretch. |  |
+| chaleira | 1. Proteja toda a chaleira com várias camadas de plástico-bolha e pelo menos 3 camadas de filme stretch, certificando-se de que toda a superfície e todas as peças estejam completamente protegidas contra danos.  Utilize uma embalagem externa de papelão resistente, como uma caixa de papelão ondulado de cinco camadas. Depois de acomodar o produto, preencha todos os espaços vazios com almofadas de ar, plástico-bolha, bolas de papel, placas de espuma ou materiais semelhantes para impedir qualquer movimentação dentro da caixa. Aplique etiquetas de "Frágil" e envolva a caixa com várias camadas de filme stretch. |  |
+| produtos quebráveis de plástico ou acrílico | 1. Se a embalagem contiver mais de uma peça, coloque uma proteção entre cada item para evitar que se quebrem devido ao contato entre si. Você pode utilizar uma camada de plástico-bolha ou uma divisória de papelão entre as peças. 2. Envolva todas as peças com 2 a 3 camadas de plástico-bolha e uma camada de filme stretch para manter a proteção firme. Utilize cantoneiras de espuma nas bordas e cantos dos produtos para evitar danos causados por impactos.  Utilize uma embalagem externa de tamanho adequado, feita de papelão resistente, como uma caixa de papelão ondulado de cinco camadas. Se houver espaços vazios dentro da caixa, preencha-os com almofadas de ar, plástico-bolha, bolas de papel, placas de espuma ou materiais semelhantes, garantindo que os produtos não se movimentem durante o transporte. Finalize envolvendo a caixa com várias camadas de filme stretch. |  |

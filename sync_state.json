@@ -1616,12 +1616,12 @@
   },
   "1102714779993872": {
     "title": "Regras detalhadas para danos",
-    "last_modified": 1776410178682,
+    "last_modified": 1785490294681,
     "file": "docs/policy-center/gerenciamento-de-pedidos/regras-detalhadas-para-danos_1102714779993872.md"
   },
   "4836025494996752": {
     "title": "Anúncio sobre a Governança especial de problemas de danos em categorias vulneráveis",
-    "last_modified": 1777440535821,
+    "last_modified": 1785492688405,
     "file": "docs/policy-center/gerenciamento-de-pedidos/anúncio-sobre-a-governança-especial-de-problemas-de-danos-em-categorias-vulneráv_4836025494996752.md"
   },
   "2583022047233809": {
@@ -1933,5 +1933,10 @@
     "title": "Perguntas Frequentes sobre Impostos para Criadores",
     "last_modified": 1785388749749,
     "file": "docs/feature-guide/análise-de-dados/análise-de-ganhos/perguntas-frequentes-sobre-impostos-para-criadores_2994246257559313.md"
+  },
+  "1047177460221712": {
+    "title": "Como evitar violações de funcionalidade e efeito enganosos? ",
+    "last_modified": 1785515306519,
+    "file": "docs/policy-center/gerencie-seus-produtos/como-evitar-violações-de-funcionalidade-e-efeito-enganosos_1047177460221712.md"
   }
 }

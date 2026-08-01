@@ -1,15 +1,11 @@
 ---
-title: Anúncio sobre a Governança especial de problemas de danos em categorias vulneráveis
+title: "Anúncio sobre a Governança especial de problemas de danos em categorias vulneráveis"
 id: 4836025494996752
-category: Gerenciamento de Pedidos
+category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4836025494996752"
-update_time: 2026-04-29
+update_time: "2026-07-31"
 keywords: "Vendedores,Política de vendedor"
 ---
-
-
-
-
 **Prezado(a) vendedor(a),**
 
 Recentemente, a plataforma identificou que algumas categorias de produtos apresentam problemas graves com produtos danificados, o que está afetando a experiência de compra dos consumidores. Para criar um ambiente operacional mais saudável e proteger os direitos e interesses legítimos dos consumidores, a plataforma iniciará uma ação especial de governança voltada a essas categorias vulneráveis, com efeito imediato.  
@@ -21,16 +17,19 @@ As categorias vulneráveis incluem:
 | Produtos para a casa | Decoração de casa | Espelhos |
 | Beleza e cuidados pessoais | Maquiagem | Espelhos de maquiagem |
 | Reforma da casa | Instalações de banheiro | Espelhos de banheiro |
-| Utensílios de cozinha | Utensílios para bebidas | Óculos |
-| Utensílios de cozinha | Utensílios e aparelhos de cozinha | Utensílios para ovos |
+| Utensílios de cozinha | Utensílios para bebidas | Copos |
 | Utensílios de cozinha | Utensílios para bebidas | Chaleiras e jarros |
 | Utensílios de cozinha | Utensílios e aparelhos de cozinha | Frascos para óleo/azeite |
-| Utensílios de cozinha | Utensílios e aparelhos de cozinha | Utensílios para temperos |
-| Eletrodomésticos | Eletrodomésticos de cozinha | Processadores de alimentos |
-| Utensílios de cozinha | Utensílios para cozinhar | Conjunto de panelas |
-| Utensílios de cozinha | Talheres e utensílios de mesa | Lancheiras |
-| Utensílios de cozinha | Utensílios e aparelhos de cozinha | Recipientes de conservação |
+| Utensílios de cozinha | Utensílios e aparelhos de cozinha | Contêineres |
 | Eletrodomésticos | Eletrodomésticos de cozinha | Eletrodomésticos especiais para cozinha |
+| Utensílios de Cozinha | Utensílios para Chá e Café | Conjuntos de Chá |
+| Automotivo e Motocicletas | Peças para Motocicletas | Espelhos Retrovisores e Acessórios |
+| Ferramentas e Ferragens | Ferramentas Elétricas | Chaves Elétricas |
+| Móveis | Móveis para Área Externa | Mesas para Área Externa |
+| Eletrodomésticos | Eletrodomésticos de Cozinha | Panelas Elétricas de Arroz e Panelas de Pressão |
+| Utensílios de Cozinha | Talheres e Louças de Mesa | Pratos |
+| Móveis | Móveis Comerciais | Móveis para Escritório |
+| Móveis | Móveis para Ambientes Internos | Armários e Gabinetes |
 
 Violações específicas:
 
