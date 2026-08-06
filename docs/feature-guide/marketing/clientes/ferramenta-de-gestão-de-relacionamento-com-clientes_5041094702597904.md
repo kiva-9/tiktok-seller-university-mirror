@@ -3,7 +3,7 @@ title: "Ferramenta de Gestão de Relacionamento com Clientes"
 id: 5041094702597904
 category: "Clientes"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5041094702597904"
-update_time: "2026-07-30"
+update_time: "2026-08-05"
 keywords: "Vendedores"
 ---
 **Visão geral**A ferramenta de gestão de relacionamento com o cliente (CRM) do TikTok Shop é um recurso gratuito e fácil de usar que ajuda você a construir relacionamentos mais fortes com seus clientes por meio de mensagens de marketing e promoções personalizadas. Quer você queira reengajar clientes esporádicos, incentivar novas compras ou converter carrinhos abandonados em vendas, o CRM facilita tudo isso.Atualmente, esta função está disponível apenas para vendedores que estão na lista de permissões. Se deseja ter acesso a esta função, entre em contato com seu gerente de conta.  
@@ -14,10 +14,20 @@ keywords: "Vendedores"
 
   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/16ef6b40c1eb44f2926e8a3fbf48757e~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2073959117&x-signature=bVMTxyYLpqT8LYSE6ZemYGLW9Sc%3D)
 
-# **Como acessar este recurso**
+# Elegibilidade e cota
 
-No momento, apenas os vendedores na lista de permissões têm acesso à **ferramenta de CRM**.   
-Se quiser solicitar acesso, entre em contato com seu **gerente de contas** para obter mais detalhes e informações sobre elegibilidade.  
+Seu seu acesso e uso é revisado **automaticamente todos os dias**, com base na sua **Pontuação de Desempenho da Loja (SPS)** e no seu **GMV recente**:  
+
+* **Elegível (SPS 3,5 ou mais):** acesso completo; crie planos de contato e envie mensagens normalmente.
+* **Temporariamente congelado (SPS entre 3,0 e 3,49):** por enquanto você não pode criar novos planos, mas os que já foram agendados continuam sendo enviados.
+* **Não elegível (SPS abaixo de 3,0 ou sem SPS):** a ferramenta fica pausada até sua pontuação se recuperar.
+
+Você também precisa de **GMV dos últimos 30 dias maior que $0** para criar e enviar planos. Esse GMV vai determinar sua cota de mensagens  
+**Sua cota de planos semanal:**Toda segunda-feira você recebe uma cota de planos de uso único com base no seu **nível (tier) de GMV**, e pode ganhar **cota de recompensa adicional** quando sua taxa de leitura e sua taxa de cancelamento de inscrição superam as dos vendedores do mesmo nível. Como a elegibilidade é atualizada diariamente, ao melhorar seu SPS o acesso e suas configurações anteriores são restaurados automaticamente, sem precisar se inscrever novamente.  
+
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/16ef6b40c1eb44f2926e8a3fbf48757e~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2073959117&x-signature=bVMTxyYLpqT8LYSE6ZemYGLW9Sc%3D)
+
+# **Como acessar este recurso**
 
 ## **Acesso à ferramenta de CRM:**
 

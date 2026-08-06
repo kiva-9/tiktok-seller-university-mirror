@@ -3,7 +3,7 @@ title: " Requisitos para lances"
 id: 4666669205817089
 category: "Gerencie seus produtos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4666669205817089"
-update_time: "2026-07-15"
+update_time: "2026-08-05"
 keywords: ""
 ---
 > **Pontos principais**
@@ -64,8 +64,9 @@ O **recurso Lance ao Vivo** está disponível para **vendedores e criadores sele
 **Para vendedores:**
 
 * O vendedor recebeu aprovação para atuar como **vendedor exclusivo por convite** (entre em contato com seu gerente de contas para saber mais)
-* [Classificação de integridade da conta (AHR)](https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=4341861242898193&from=policy "https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=4341861242898193&from=policy") **> 150**~~**C**~~
-* [Pontuação de desempenho da loja (SPS)](https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7522375600604929&from=policy "https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7522375600604929&from=policy") **>= 4,5** (SPS = Nulo significa não qualificado)
+* [Classificação de integridade da conta (AHR)](https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=4341861242898193&from=policy "https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=4341861242898193&from=policy") **>150**
+* [Pontuação de desempenho da loja (SPS)](https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7522375600604929&from=policy "https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7522375600604929&from=policy") **>= 4,2** (SPS = Nulo significa não qualificado)
+* [Satisfação com o Produto](https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7517966208927489&from=policy "https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7517966208927489&from=policy") **>= 4.2**
 * O vendedor não está sujeito a[requisitos de restrição temporária de conta](https://seller-mx.tiktok.com/university/essay?knowledge_id=3926104734549761&role=1&course_type=1&from=search&identity=1 "https://seller-mx.tiktok.com/university/essay?knowledge_id=3926104734549761&role=1&course_type=1&from=search&identity=1")
 * O vendedor não viola a [Política de Propriedade Intelectual](https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=4424404533823233&from=policy "https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=4424404533823233&from=policy")
 * O vendedor não viola a [Política de Produtos Proibidos](https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=8357698199127824&from=policy "https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=8357698199127824&from=policy")
@@ -93,7 +94,8 @@ Os vendedores são responsáveis por garantir que cada lance temporário represe
 
 * O vendedor recebeu aprovação para atuar como **vendedor exclusivo por convite** (entre em contato com seu gerente de contas para saber mais)
 * [Classificação de integridade da conta (AHR)](https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=4341861242898193&from=policy "https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=4341861242898193&from=policy") **> 150**
-* [Pontuação de desempenho da loja (SPS)](https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7522375600604929&from=policy "https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7522375600604929&from=policy") **>= 4,5** (SPS = Nulo significa não qualificado)
+* [Pontuação de desempenho da loja (SPS)](https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7522375600604929&from=policy "https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7522375600604929&from=policy") **>= 4,2** (SPS = Nulo significa não qualificado)
+* [Satisfação com o Produto](https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7517966208927489&from=policy "https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7517966208927489&from=policy") **>= 4.2**
 * O vendedor não está sujeito a[requisitos de restrição temporária de conta](https://seller-mx.tiktok.com/university/essay?knowledge_id=3926104734549761&role=1&course_type=1&from=search&identity=1 "https://seller-mx.tiktok.com/university/essay?knowledge_id=3926104734549761&role=1&course_type=1&from=search&identity=1")
 * O vendedor não viola a [Política de Propriedade Intelectual](https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=5385814784837393&from=policy "https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=5385814784837393&from=policy")
 * O vendedor não viola a [Política de Produtos Proibidos](https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=6483182812481296&from=policy "https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=6483182812481296&from=policy")
