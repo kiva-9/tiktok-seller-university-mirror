@@ -3,7 +3,7 @@ title: " Requisitos para lances"
 id: 4666669205817089
 category: "Gerencie seus produtos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4666669205817089"
-update_time: "2026-08-05"
+update_time: "2026-08-06"
 keywords: ""
 ---
 > **Pontos principais**
