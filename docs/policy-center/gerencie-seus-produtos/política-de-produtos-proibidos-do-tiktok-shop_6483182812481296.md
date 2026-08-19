@@ -1,15 +1,11 @@
 ---
-title: Política de Produtos Proibidos do TikTok Shop
+title: "Política de Produtos Proibidos do TikTok Shop"
 id: 6483182812481296
-category: Gerencie seus produtos
+category: "Gerencie seus produtos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6483182812481296"
-update_time: 2026-04-30
+update_time: "2026-08-17"
 keywords: "Sellers,Seller Policy"
 ---
-
-
-
-
 ## Visão Geral
 
 A **Política de Produtos Proibidos do TikTok Shop** descreve nossas regras para listagens de produtos no TikTok Shop. Esta política abrange produtos cuja venda é proibida no TikTok Shop de acordo com nossas políticas, bem como em conformidade com leis e regulamentações federais, estaduais e locais.  
@@ -248,7 +244,7 @@ Ferramentas para manipular fechaduras ou obter acesso não autorizado, como:
 
 ## **Medicamentos, Dispositivos Médicos, EPI e Suplementos Medicinais**
 
-O TikTok Shop proíbe a venda de medicamentos, dispositivos médicos, equipamento de proteção individual (EPI) e suplementos medicinais. Produtos incluem mas não se limitem a:   
+O TikTok Shop proíbe a venda de medicamentos, dispositivos médicos para uso profissional e suplementos medicinais. Produtos incluem mas não se limitem a:   
 
 * Produtos que exigem receita médica de um profissional de saúde.
 * Medicamentos não registrados, produtos herbais ou homeopáticos, e aqueles que fazem alegações de saúde.
