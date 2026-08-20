@@ -3,7 +3,7 @@ title: "Guia de Recursos da Ferramenta de Autorização de Conteúdo"
 id: 1170662650054408
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1170662650054408"
-update_time: "2026-08-18"
+update_time: "2026-08-19"
 keywords: ""
 ---
 ![content.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/4e83170cd3fd4f4698d2360d3f750535~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102426597&x-signature=LfyhdjONj1NQlcHidag2j2wJfb8%3D)
@@ -55,7 +55,7 @@ Se o proprietário do conteúdo original aprovar a solicitação, a violação r
 **Três pontos a serem observados:**
 
 1. **Toda solicitação precisa da decisão do proprietário.** Não há autorização automática ou por sublicença nesta versão — o proprietário do conteúdo original deve aprovar ou conceder cada solicitação.
-2. **Você pode fazer pelo menos 2 solicitações de autorização.** Quanto mais vendas você gerar, mais solicitações de autorização **poderá fazer**. Você pode verificar diretamente na ferramenta qual é o seu limite de solicitações e se pode enviar uma solicitação.
+2. **Você pode fazer pelo menos 2 solicitações de autorização.** Quanto mais vendas você gerar, mais solicitações de autorização **poderá fazer**. Você pode [verificar diretamente](https://seller-br.tiktok.com/university/essay?knowledge_id=1170662650054408&lang=pt-BR#como-verificar-suas-solicita-es-de-direitos-autorais-de-conte-do "https://seller-br.tiktok.com/university/essay?knowledge_id=1170662650054408&lang=pt-BR#como-verificar-suas-solicita-es-de-direitos-autorais-de-conte-do") na ferramenta qual é o seu limite de solicitações e se pode enviar uma solicitação.
 3. Para garantir que o sistema seja justo para todos: se o **mesmo proprietário** recusar sua solicitação **duas vezes em um período de 30 dias**, você não poderá enviar novas solicitações a ele nos próximos 30 dias. Se **cinco proprietários diferentes** recusarem sua solicitação em um período de 30 dias, você não poderá iniciar nenhuma nova solicitação por 30 dias.
    * Cada criador pode receber até:
      + **3 solicitações de autorização por vídeo por dia**
@@ -166,7 +166,7 @@ A solicitação é automaticamente **recusada após três dias**. No caso de sol
 
 #### Posso entrar com um recurso e solicitar uma autorização ao mesmo tempo?
 
-Sim. Você pode entrar com um recurso e uma solicitação de autorização ao mesmo tempo. No entanto, recomendamos que você analise ambas as opções e escolha aquela que melhor se adapta à sua situação. Consulte acima para obter mais detalhes.  
+Sim. Você pode entrar com um recurso e uma solicitação de autorização ao mesmo tempo. No entanto, recomendamos que você analise ambas as opções e escolha aquela que melhor se adapta à sua situação. Consulte [acima](https://seller-br.tiktok.com/university/essay?knowledge_id=1170662650054408&lang=pt-BR#devo-solicitar-autoriza-o-ou-enviar-um-recurso- "https://seller-br.tiktok.com/university/essay?knowledge_id=1170662650054408&lang=pt-BR#devo-solicitar-autoriza-o-ou-enviar-um-recurso-") para obter mais detalhes.  
 
 #### O que acontece se minha solicitação for recusada?
 
