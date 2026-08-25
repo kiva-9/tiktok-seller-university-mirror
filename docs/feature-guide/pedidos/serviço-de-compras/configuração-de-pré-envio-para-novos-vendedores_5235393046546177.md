@@ -3,7 +3,7 @@ title: "Configuração de Pré-Envio Para Novos Vendedores"
 id: 5235393046546177
 category: "Serviço de compras"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5235393046546177"
-update_time: "2026-07-28"
+update_time: "2026-08-24"
 keywords: "Sellers"
 ---
 ## **Configurar o endereço de envio padrão**
@@ -20,9 +20,9 @@ No endereço de envio padrão, você pode definir a localização física princi
 4. Clique em **Salvar**.
 5. **Editando um depósito:** você pode editar um endereço de depósito ou as informações de contato, mas não é permitida a exclusão de um endereço de depósito no momento.
 
-   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/fab24b1cca22411f83b92e579c1fc94a~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100570848&x-signature=vCuCnWlz%2FODj45AIJT%2Fxr9NO5rY%3D)
+   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/90fb21770f7741f4813a7fbf7df0b105~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102958441&x-signature=wfPezxjTC0HImdmN7NsDAjyYj04%3D)
 
-   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/7296a5e02c404eca8fb2a0baeb54ac05~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100570846&x-signature=MzRAYk6Fs6ndHl8r%2BbS7Wr%2F4k50%3D)
+   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/3c6b67e46e764526b13399d55361eadd~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102958439&x-signature=sBgmV7ft3%2B%2Fqdk6dFhELbZL3rF4%3D)
 
 ## **Ação padrão para criação e impressão de etiquetas**
 
@@ -33,9 +33,9 @@ Para atender às suas necessidades comerciais, você pode definir uma ação pad
 * **Imprimir etiquetas após envio:** Você pode imprimir suas etiquetas de envio durante o processo de compra de etiquetas. Este recurso permite a você obter as etiquetas imediatamente após a organização das remessas.
 * **Imprimir etiquetas de envio após a organização da remessa:** após organizar as remessas, você imprimirá documentos, como etiquetas de envio, listas de romaneio e listas de separação de pedidos, seja individualmente ou em massa.
 
-  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/b937c55108b846dab476d31e307ae877~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100570850&x-signature=u1RPHWmQjGv4CgMOKms5UpEeLwU%3D)
+  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/88f38fc29d7b42fe88044c9559d8d571~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102958448&x-signature=UsgaYk%2FbuFRuonlM6WNPkVBBKFw%3D)
 
-  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ccf564f641364a08a348259e96f15213~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100570851&x-signature=RwcJU62DkjN2TBx5b5gh%2FX377rY%3D)
+  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/3d4c716015ba4666a60a6756b3dd9956~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102958442&x-signature=hD75OCYPR9Jjo4uwIU4IsrsrJvc%3D)
 
 ## **Opções de formato de documentos**
 
@@ -51,19 +51,22 @@ Para definir as configurações de formato de documento, na Central do vendedor 
 2. **Opções de layout para etiquetas de envio e listas de romaneio:**
    * Decida entre **Imprimir em uma página** ou **Imprimir em duas páginas** ao imprimir a etiqueta de envio e a lista de romaneio. Se diferentes tamanhos forem selecionados, o sistema gerará automaticamente arquivos separados.
 
-     ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f06f41c1441e4312a762caaeec728856~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100570847&x-signature=YC7MUwHHhLyEbYTayJL1VWUxyLk%3D)
+     ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/c74ef2349cac433e9b8078f1fbbc8187~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102958443&x-signature=Okxwo8TnQD65OGclg2Sbv1ImsdM%3D)
 
-     ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/c166bad461bf4a1b9593a34e2f4ca8cf~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100570846&x-signature=mjCf02h46hd4ouIkZ5ZY0cYb1z8%3D)
+     ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/60880b206f7a4c30903e5436c9ec46c2~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102958440&x-signature=kcoGJmlx%2BmWxtBZB4it3y3axYWc%3D)
 
 ## **Configuração das opções de envio**
 
-Por padrão, o TikTok Shop seleciona **Enviado pela plataforma** como seu método de entrega. A opção **Enviado pelo vendedor** está disponível apenas para vendedores selecionados até novo aviso.**Etapas para configurar sua opção de envio:**
+Por padrão, o TikTok Shop seleciona **Enviado pela plataforma** como seu método de entrega. A opção **Enviado pelo vendedor** está disponível apenas para vendedores selecionados por enquanto.  
+**Etapas para configurar sua opção de envio:**
 
 1. Na Central do vendedor TikTok Shop, acesse **Pedidos** > **Configurações de envio** > **Envio e entrega** para abrir a página **Opções de envio**.
 2. Se você for elegível, poderá escolher entre **Enviado pela plataforma** e **Enviado pelo vendedor**.
 3. Ao definir **Enviado pela plataforma** como a opção de sua preferência, os pedidos usarão automaticamente esse método por padrão.
 
-   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/afcc5decb360413194d8ac9ea3335a83~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100570844&x-signature=4zYZR4ueH3%2Fb6GtD8veTfz61qaE%3D)
+*\*Os vendedores não podem usar* ***Enviado pela plataforma*** *e* ***Enviado pelo vendedor*** *ao mesmo tempo. Apenas um método de envio pode estar ativo para seus pedidos. Certifique-se de selecionar uma única opção de envio nas configurações de Opções de Envio.*
+
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/bfe25719eb724133894cc4f1fb5d972c~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102958439&x-signature=p78xuPZsbfDIAD%2FEVf7syM5GNcY%3D)
 
 ## **Enviados pela plataforma**
 
@@ -76,7 +79,7 @@ O TikTok Shop oferece um serviço de **Envio padrão** para vendedores, que est�
 
 Mais informações podem ser encontradas em [Visão geral da opção "Enviados pela plataforma"](https://seller-br.tiktok.com/university/essay?knowledge_id=2915348630603521 "https://seller-br.tiktok.com/university/essay?knowledge_id=2915348630603521").
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/a879d94aff37411fb1e96490db32ff90~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100570845&x-signature=nKDwfRDm1423KhMSnXeovtG4XIo%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f6d6b2e9afd6480ab87e924230558186~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102958442&x-signature=onqqboLUCSolEPJRZL%2F%2Blgw3tSU%3D)
 
 ## **Configuração do método de coleta**
 
@@ -90,24 +93,25 @@ Para definir seu método de coleta padrão
 
 Veja mais informações sobre esta função em [Configurações do método de coleta](https://seller-br.tiktok.com/university/essay?knowledge_id=2916389875304208 "https://seller-br.tiktok.com/university/essay?knowledge_id=2916389875304208").
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6961faf95892428ab999cef2eabff326~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100570848&x-signature=N2iJH%2B6Q1D9xiiP6Gofepe2%2FqrY%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/9e2a3f0d28d54e71b891218d619ee7b1~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102958445&x-signature=JW9z7IZ2mXFBooc30zDMk7GNhWg%3D)
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/449ad7b80b5740b1a4720ca47f4b33cc~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100570845&x-signature=nAim8p%2F%2B8W07DC2%2FZBtoIGoEDco%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2721072e712b4c19972d66a12509cf22~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102958439&x-signature=Zr1osaGfVpGg9Ry5nwnX25SZyFY%3D)
 
 ## **Enviado pelo vendedor**
 
-A opção **Enviado pelo vendedor** está disponível apenas para vendedores selecionados, permitindo que você gerencie os envios com seu próprio fornecedor.
+A opção **Enviado pelo vendedor** está disponível apenas para vendedores selecionados, permitindo que você gerencie os envios com seu próprio fornecedor.  
 
 * Para usar essa opção, certifique-se de que a opção **Enviado pelo vendedor** esteja ativada e selecione o fornecedor de sua preferência na lista disponível.
 * Quando a opção **Enviado pelo vendedor** estiver definida como seu método de envio padrão, todos os novos pedidos serão processados pelo fornecedor escolhido. *Nota: esta alteração não afetará nenhum pedido já realizado.*
 
 **A opção "Enviado pelo vendedor" pode estar disponível apenas para vendedores selecionados.**
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/8b9114219d7d453c9e4134bd19207fcf~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100570847&x-signature=62Zi0frOXaciMJ5m8vqiU78hQsw%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/99b98a313ebb42bcac68aee023902023~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102958443&x-signature=Xe58ACJJhuCwGQYgQCVrT4NYDyk%3D)
 
 ## **Como configurar a opção "Enviado pelo vendedor" e preencher o modelo de taxas de envio**
 
-Se você escolher **Enviado pelo vendedor** como a opção de sua preferência, deverá preencher o **Modelo de taxas de envio** antes de carregar os produtos. Caso contrário, um lembrete aparecerá quando você tentar carregar um produto.**Etapas:**
+Se você escolher **Enviado pelo vendedor** como a opção de sua preferência, deverá preencher o **Modelo de taxas de envio** antes de carregar os produtos. Caso contrário, um lembrete aparecerá quando você tentar carregar um produto.  
+**Etapas:**
 
 1. Na Central do vendedor TikTok Shop, acesse **Pedidos** > **Configurações de envio** > **Envio e entrega** > **Enviado pelo vendedor** > **Modelo de envio** > **Criar**.
 2. Preencha os campos do modelo:

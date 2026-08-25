@@ -1,115 +1,198 @@
 ---
-title: Oportunidades de Produtos
+title: "Oportunidades de Produtos"
 id: 4822947309324048
-category: Gerenciar produtos
+category: "Gerenciar produtos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4822947309324048"
-update_time: 2025-09-04
-keywords: Vendedores
+update_time: "2026-08-25"
+keywords: "Vendedores"
 ---
+# Oportunidades de produtos
 
+**O recurso Oportunidades de produtos ajuda você a transformar sinais de tendências do TikTok em ações de produto e conteúdo.** Use-o para encontrar produtos com demanda crescente, identificar palavras-chave que os compradores estão pesquisando ativamente, encontrar correspondências para produtos elegíveis do seu catálogo e decidir o que adquirir, anunciar ou promover em seguida.
 
+## 1.Introdução
 
+### O que são as Oportunidades de produtos?
 
-## **Introdução: O que são Oportunidades de Produto?**
+Você está procurando **inspiração para uma ideia de novo produto**? Ou pensando em **palavras-chave populares para adicionar aos títulos e descrições dos seus produtos**, a fim de atrair o interesse dos clientes? Veja o que está em alta no TikTok a cada semana com o recurso Oportunidades de produtos para ajudar a orientar sua estratégia no TikTok Shop. Além disso, se você notar uma tendência que combine com algo que já tem no seu catálogo, também pode associar seus produtos a palavras-chave, hashtags, subcategorias e outros produtos populares para **aumentar as visualizações e as vendas**!
 
-Está em busca de inspiração para criar um novo produto? Ou pensando em quais palavras-chave adicionar aos títulos e descrições dos seus produtos para atrair mais interesse dos clientes? Com as **Oportunidades de Produto**, você pode acompanhar semanalmente o que está em alta no TikTok e usar essas tendências para orientar sua estratégia no TikTok Shop.  
-Além disso, se você encontrar uma tendência que se relacione com um item que já existe no seu catálogo, é possível combiná-lo com palavras-chave populares, hashtags, subcategorias e produtos para aumentar suas visualizações e vendas!  
-As Oportunidades de Produto oferecem **quatro maneiras de descobrir o que está em alta**:  
+As Oportunidades de produtos oferecem duas maneiras de descobrir o que está em alta:  
 
-* **Palavras-chave populares**: Permite encontrar termos com alto volume de buscas no TikTok que podem ser usados para melhorar o SEO ou servir de inspiração para seus próximos vídeos.
-* **Hashtags populares**: Permite descobrir hashtags em alta, usadas em vídeos virais ou com alto volume de vendas, que você pode adicionar ao seu conteúdo novo ou já existente.
-* **Produtos populares**: Permite identificar produtos com alta demanda nos marketplaces e que estão com **estoque baixo ou pouca oferta** no TikTok Shop — uma oportunidade para você aproveitar e suprir essa demanda.
-* **Produtos Premium**: Permite descobrir **subcategorias populares** que os usuários estão buscando no TikTok, ajudando você a encontrar ideias para seu próximo produto de destaque.
+* **Produtos de alto potencial:** permite descobrir produtos populares de marketplaces on-line que apresentam baixo estoque ou oferta insuficiente no TikTok Shop, destacando oportunidades para aproveitar a alta demanda dos clientes.
+* **Palavras-chave em alta:** permite encontrar palavras-chave muito pesquisadas no TikTok que você pode usar para melhorar o SEO ou para se inspirar no seu próximo vídeo.
 
-  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ad073855dabb43679e97454f44a4c00f~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327911&x-signature=gnAUXi7h99kmhRVD1WWlIF%2FsDbk%3D)
+  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0cfe32875f03421c9565977442242eb4~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939279&x-signature=quk%2FviEybpSHehgEyW54gnQ4V9k%3D)
 
-## **Quais são os benefícios?**
+### Quais são os benefícios?
 
-1. **Fique à frente da concorrência**
+* **Saia na frente da concorrência:** acompanhar as últimas tendências e abastecer sua loja com os produtos mais desejados pelos compradores do TikTok ajudará você a se diferenciar das outras lojas.
+* **Aumente a visibilidade na aba Loja:** viu uma palavra-chave ou um produto em alta que combina com um item do seu catálogo? Alinhe seus produtos a oportunidades em alta para ter a chance de obter maior exposição e recomendações em destaque.
+* **Encontre seu próximo campeão de vendas:** o TikTok é uma plataforma dinâmica e de ritmo acelerado. Analise o que tem sido tendência recentemente para encontrar inspiração para a sua próxima ideia de produto exclusivo!
 
-Acompanhar as últimas tendências e abastecer sua loja com os produtos mais desejados pelos usuários do TikTok ajuda você a se destacar de outras lojas.
+### Tipos de oportunidade
 
-2. **Aumente a visibilidade na aba Loja**
+O recurso Oportunidades de produtos inclui dois tipos de oportunidade: **Produtos de alto potencial** e **Palavras-chave em alta**. Cada tipo responde a uma pergunta diferente do vendedor.
 
-Viu uma palavra-chave ou produto em alta que combina com algo do seu catálogo? Registre seus produtos na área de Oportunidades para aumentar suas chances de receber mais visualizações na aba Loja e gerar mais vendas.
+|  |  |  |
+| --- | --- | --- |
+| **Tipo de oportunidade** | **O que mostra** | **Como usar** |
+| **Produtos de alto potencial** | Produtos com fortes sinais de demanda, como itens mais vendidos em marketplaces, produtos de grande sucesso no TikTok Shop, produtos em rápida ascensão e oportunidades geradas pela escassez de estoque em determinadas categorias. | Verifique se você já vende um produto de correspondência exata. Se sim, inclua o link. Caso contrário, use o lead para orientar o processo de fornecimento ou o lançamento de novos produtos. |
+| **Palavras-chave em alta** | Palavras-chave com alto interesse dos usuários em cenários de busca, conteúdo ou hashtags, especialmente quando a oferta de produtos relevantes é limitada. | Adicione palavras-chave relevantes aos títulos, descrições, vídeos ou hashtags dos produtos e, em seguida, apresente um produto da mesma categoria quando ele corresponder à intenção de compra do comprador. |
 
-3. **Encontre seu próximo best-seller**
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0cfe32875f03421c9565977442242eb4~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939279&x-signature=quk%2FviEybpSHehgEyW54gnQ4V9k%3D)
 
-O TikTok é uma plataforma dinâmica e ágil. Analise o que está em alta para se inspirar e lançar sua próxima ideia de produto de sucesso!
+## 2.Que recompensas e incentivos posso ganhar?
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/56010efb0283414ca82f4e9e19bf54dd~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327910&x-signature=P52xdHL5rsUUDo5pj4HCsxOWnls%3D)
+Assim que identificar uma oportunidade relevante, enviar produtos elegíveis pode ajudar você a obter maior exposição ou recompensas de missões do vendedor.
 
-## **Instruções**
+Você pode ver os tipos de incentivos para os quais seus produtos podem ser elegíveis após a publicação.
 
-### **Como acessar as Oportunidades de Produto**
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/69b65da9fb334820ba27936e8fb43f99~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939294&x-signature=m9qnlIAfZJ96%2FXzK%2FjGeQKz33Ss%3D)
 
-Faça login na Central do Vendedor, clique em **Produtos** na barra de navegação à esquerda e selecione **Oportunidades de Produto**.  
+Você também pode encontrar tarefas do vendedor vinculadas a esses leads. Conclua tarefas de publicação — como anunciar 5 produtos de oportunidade ou publicar 3 produtos seguindo uma estratégia de recrutamento específica — para ter a chance de ganhar recompensas em cupons da plataforma.
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/45758155de9f4db99e57f252aff3a6ae~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327914&x-signature=GcVb%2B4b7I83xeoPd65%2BJ1s4w8ZA%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/9df6ac77b1614de7ba0f85e100eb03ac~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939296&x-signature=GQrO0yppc2b6P4RjCl6mOSYdL6E%3D)
 
-### Veja palavras-chave, hashtags, subcategorias e produtos em alta
+Observe que apenas os envios **aprovados** contam para a conclusão da tarefa. Consulte a **Seção 3.4** para obter detalhes sobre o processo de análise.
 
-Use a barra de navegação superior para explorar diferentes tipos de tendências que podem te ajudar a decidir em quais produtos do seu catálogo atual focar — ou te inspirar sobre o que você deve abastecer mais!  
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0a0ea1bf4a074220bd897fbf247b7b1b~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939280&x-signature=GPUt24tq8OWnGf8Ym6VAZH8Skjg%3D)
 
-#### Exemplo 1: Palavras-chave mais buscadas
+## 3.Como operar
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0cc9edf028e54925b45c511c53f35060~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327912&x-signature=%2FNhY4AlsG0mupIDFhtfbBorj7L4%3D)
+### Acesse o recurso Oportunidades de produtos
 
-Selecting the **Top searched keywords** tab will reveal keywords relevant to your products/category that have **high search volume and a low number of related products**. This means there could be an opportunity for you to better highlight those keywords in product titles and descriptions if they are related to any of your products.  
-To start this process, tap the **Add products** button under the **Action** column for a relevant keyword. This brings up the **Opportunity details** screen. Here, you'll see **Product matching criteria** to advise you on what keywords to add to your product title and description, and **Opportunity trends** to see how user interest in the keyword has grown over time.  
-If you have a product in your catalog that is relevant to this keyword, tap **Select products** at the bottom of the page. In Step 1, select all relevant products and tap **Next**. In Step 2, **add the keywords** directly to your product title. We would also recommend adding the keywords to your product description. Once you are done, click **Submit**.  
-By including trending keywords in your titles and descriptions, and submitting your products for the highlighted opportunity, you will increase your product relevance when users search or browse related products. You can also think outside the box and use these insights to inform your content strategy, including **keywords to highlight in your shoppable videos** or **hashtags to add to video descriptions**.  
-**Selecionar a aba de Palavras-chave mais buscadas** revelará termos relevantes para seus produtos/categoria que possuem **alto volume de busca e baixo número de produtos relacionados**. Isso significa que pode haver uma oportunidade para você destacar melhor essas palavras-chave nos títulos e descrições dos seus produtos, caso sejam pertinentes.  
-Para iniciar esse processo, toque no botão **Adicionar produtos** na coluna Ação para a palavra-chave relevante. Isso abrirá a tela de **Detalhes da oportunidade**. Nela, você verá os **critérios de correspondência de produto**, que indicam quais palavras-chave incluir no título e na descrição do seu produto, além das **tendências da oportunidade**, que mostram como o interesse do usuário pela palavra-chave evoluiu ao longo do tempo.  
-Se você tiver um produto em seu catálogo que seja relevante para essa palavra-chave, toque em **Selecionar produtos** na parte inferior da página.  
+Faça login na **Central do vendedor**. No menu de navegação à esquerda, acesse **Produtos** e, em seguida, selecione **Oportunidades de produtos**.
 
-* **Etapa 1**: selecione todos os produtos relevantes e toque em **Avançar**.
-* **Etapa 2**: adicione as palavras-chave diretamente ao título do produto. Também recomendamos incluí-las na descrição do produto.
-* Quando terminar, clique em **Enviar**.
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5ea975d428784e69bacf8a761655abd5~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939293&x-signature=6vbzt%2F2YoNdeOh3ZjnuLO4mjSTo%3D)
 
-Ao incluir palavras-chave em alta nos títulos e descrições e enviar seus produtos para a oportunidade destacada, você aumentará a relevância deles quando os usuários buscarem ou navegarem por itens relacionados.  
-Você também pode **pensar fora da caixa** e usar esses insights para orientar sua estratégia de conteúdo — por exemplo, destacando as palavras-chave em seus vídeos compráveis ou adicionando-as como hashtags nas descrições dos vídeos.  
+Use a navegação superior para alternar entre **Produtos de alto potencial** e **Palavras-chave em alta**. Revise cada aba ao planejar o fornecimento, campanhas, atualizações de anúncios ou temas de conteúdo.
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/b0f8ee31d2324256841359d101064d0b~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327913&x-signature=TlRcIGbx0EEhbpIjp5nEjPPi9XI%3D)
+### Use o recurso Produtos de alto potencial
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f26a98f1bb0a466b990c929c84190552~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327911&x-signature=YC8icSMyGsGBnmGP3hbKHliZfKk%3D)
+**O recurso Produtos de alto potencial ajuda a identificar produtos que já estão apresentando demanda.** Essas oportunidades podem surgir de produtos mais vendidos em marketplaces externos ou no TikTok Shop, de itens vinculados a próximas campanhas promocionais ou de produtos cuja demanda dos compradores parece superar a oferta atual.
 
-#### Exemplo 2: Produtos populares
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/27d306fcb4a6470288a1537f1ad15eb2~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939335&x-signature=PpRP0DTkhdW3qcnUdHRjfdj3n2k%3D)
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f122925cd5754940a91c2d321c8ee71e~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327918&x-signature=JqBl5%2FocgFYL4IbuCU1L6BU2i%2F0%3D)
+**Filtre a oportunidade**
 
-Selecting the **Popular products** tab helps you explore products that have been trending recently on TikTok. While you may not sell these products now, you might use this tab to find inspiration for your next TikTok product.  
-If you do have an existing product that matches one of the highlighted products, you can similarly submit this product to increase your product relevance. Tap **Add products** under the opportunity and check the details under **Product matching criteria**. It is very important that your product matches the category and shows the exact same product in the product images.   
-Once you're ready, tap **Select products** and choose the matching product in your catalog. Tap **Submit** once finished. After you submit, our system will check to ensure your products match the opportunity.   
-**Selecionar a aba de Produtos populares** ajuda você a explorar itens que têm estado em alta recentemente no TikTok. Mesmo que você não venda esses produtos no momento, pode usar essa aba para se inspirar para o seu próximo produto no TikTok.  
-Se você já tiver um produto existente que corresponda a um dos produtos destacados, também poderá enviá-lo para aumentar a relevância do seu catálogo. Toque em **Adicionar produtos** na oportunidade e verifique os detalhes em **Critérios de correspondência do produto**. É muito importante que o seu item corresponda à categoria e mostre **exatamente o mesmo produto** nas imagens do produto.  
-Quando estiver pronto, toque em **Selecionar produtos** e escolha o item correspondente em seu catálogo. Toque em **Enviar** ao finalizar. Após o envio, nosso sistema verificará se os seus produtos correspondem à oportunidade.  
+Use filtros para restringir a lista por categoria, marca, características do produto ou incentivos. A filtragem ajuda você a focar em leads que correspondem ao seu plano de fornecimento ou ao seu catálogo atual.
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/943b8a5626d4426687dd6b698fe3a074~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327911&x-signature=Sdy5%2BreRw5cE%2FbTQ2FL2TGWCjV0%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/839e3b5a19ec4e06941cdb7182215f2a~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939335&x-signature=2g%2BtDpEZwUueQ5YBbW1C%2Bi6YsVU%3D)
 
-### **Visualize o status da sua submissão e recompensas recebidas**
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/448de9833d66427a84bd1faab81884af~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939335&x-signature=lOPKlPZ6rvo5DffhcmD2o0v4zKw%3D)
 
-Após enviar seus produtos, você pode verificar o status clicando em **Suas submissões** no painel superior.  
+**Veja os detalhes do lead**
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/4e49e44a85fd46189b958b6a0b4a7dd3~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327914&x-signature=ph4an9Dv9AA9R84vhfdyFYpKjDw%3D)
+Para começar, clique na imagem ou no título de um cartão de lead para abrir a página de detalhes do lead. Clique na imagem ou no título do lead para abrir a página de detalhes.  
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/06d8a93feecf47a79d9a17241b97a607~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939443&x-signature=k%2FdWF9Un6Sd3xMt9ok7LzyMUbHs%3D)A página exibe tendências de oportunidades, incluindo a movimentação recente de vendas e o número de produtos disponíveis associados ao lead.  
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2f37ee4202ce4b90a6925b4b110428c6~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939463&x-signature=m2zvGgkBmzVZ7YecMVqnNKEGEYA%3D)
 
-Na aba **Aprovados**, você verá todos os produtos que foram aceitos para uma oportunidade relevante. Você também pode verificar se seus produtos receberam incentivos, como: mais impressões na busca e no feed de recomendação da aba Loja.  
+* **Itens vendidos** mostra a tendência recente de vendas dos produtos associados ao lead.
+* **Produtos disponíveis** mostra quantos produtos estão sendo vendidos atualmente sob o lead, o que pode ajudar você a avaliar o nível de oferta e a concorrência.
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/29b5985b59d442979202be7ee23fedea~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327911&x-signature=8889yl0hW6S1liY3EzXB8nb%2F%2F3s%3D)
+**Salve os leads que são do seu interesse**
 
-Na aba **Rejeitados**, você verá os produtos que você enviou e que nosso sistema identificou como não correspondentes à oportunidade listada.  
+Priorize oportunidades que apresentem vendas em crescimento, disponibilidade limitada de produtos e forte compatibilidade com sua capacidade de fornecimento ou catálogo atual. O aumento das vendas com poucos produtos disponíveis geralmente indica uma demanda mais forte e menor concorrência.
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/587a643cb8234bca87d6028a4fa07364~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327909&x-signature=OTs5mEGASd1PeV2UuK1YLHpGe3w%3D)
+Clique no ícone no canto superior esquerdo de um cartão de lead para salvá-lo. Os leads salvos aparecem em **Oportunidade salva** para que você possa retomá-los quando estiver tudo pronto para buscar, publicar ou vincular um produto.
 
-**Inscreva-se no Auto-match**Se você gosta da ferramenta Oportunidades de Produto, também pode ativar a funcionalidade **Auto-match (correspondência automática)**. Essa função escaneará constantemente o seu catálogo em busca de produtos que correspondam a qualquer uma das oportunidades listadas (produtos, palavras-chave, hashtags, subcategorias) e, se corresponder, enviará seus produtos automaticamente às áreas de Oportunidades de Produto.  
-Você também pode continuar enviando produtos manualmente mesmo com o Auto-match ativado.  
-Usar o Auto-match aumenta ao máximo suas chances de obter mais impressões nos produtos enviados.  
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/939f898d940246e4812b2b22a877e6f1~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939459&x-signature=qROFHr7gTwJA5jA92UwfTd3%2BnnE%3D)![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/7b12f40da90542b3a79c347f12554a21~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939469&x-signature=WJLDHzLVXjjGZRpOoyyRXVrV1O8%3D)
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/079c24d9a1e7466aaa2b5f4dfa157baf~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327912&x-signature=NALfZGjg8ug1QLgFkIjUyz2p1P0%3D)
+#### Antes de enviar
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/9c61a6063be04bcf8121897ed26ab483~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2072327912&x-signature=VGweTZqxuNLhtM89vX603UUhCoM%3D)
+##### **Regras de envio de produtos de alto potencial**
 
-## **FAQs (Perguntas frequentes)**
+**Produtos de alto potencial exigem um produto de correspondência exata.** O produto enviado deve corresponder ao lead em categoria, estilo, função e outros principais atributos visíveis. Um produto que tenha apenas uma relação distante pode ser rejeitado.
 
-**Preciso adicionar novos produtos ao meu catálogo para usar as Oportunidades de Produto?****Não.** Existem várias maneiras de aproveitar os insights da ferramenta Oportunidades de Produto! Além de encontrar inspiração para o seu próximo best-seller, você também pode adicionar palavras-chave e hashtags em alta para otimizar seus anúncios de produtos e conteúdos em vídeo com opção de compra.  
-Você também pode acompanhar como as tendências estão mudando para decidir se vale a pena investir mais tempo e recursos (como Afiliados) em determinados produtos à medida que eles começam a ganhar popularidade.
+Abra o painel de envio para revisar os critérios de envio do produto. Compare o produto de referência com o seu próprio produto antes de enviá-lo, para garantir que sejam exatamente iguais.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/a38ed6ec5d074c72b901e2e9ef9db5c2~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939509&x-signature=HvDtuqs6CVjRivtBFWEZJKo7iqg%3D)![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6937ed2825f849918547824861d7b5c2~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939521&x-signature=TcX9%2BvCX2yJaT2QAcn3Qz1T2sIc%3D)
+
+#### Opção 1: publicar um novo produto
+
+Se você ainda não possui um produto que corresponda ao lead, clique em **Adicionar novo produto**. A plataforma redirecionará você para a página de publicação do produto, onde alguns detalhes, como o título e a categoria, poderão estar preenchidos previamente. Preencha as informações restantes e, em seguida, clique em **Enviar para análise**.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/739a1402de9e424ea414a3f46d2ebf06~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939532&x-signature=ZtPhcwfnvkS%2FbN84lpX44B9biGQ%3D)![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0f111fd6fa7e473399ee3691e2c5970d~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939537&x-signature=zqv0bjL8%2F7wccdab3Ge7W7MRy%2Bo%3D)
+
+#### Opção 2: vincular um produto existente
+
+Se você já vende um produto de correspondência exata, abra a página de detalhes do lead e selecione **Vincular produtos existentes**. Escolha os produtos correspondentes em seu catálogo e clique em **Enviar**. Após o envio, o sistema verificará se o produto corresponde ao lead.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/9c69ae150b1241e2a30ef006873e257d~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939493&x-signature=5pMIdM9V2hWxroP62yAWta9s%2Fn0%3D)![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/16eb22a652ce419f897f5c92e4680c42~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939503&x-signature=nDXffGF9D3Mow4bpgSlThdRfJY4%3D)
+
+### Use o recurso Palavras-chave em alta
+
+**O recurso Palavras-chave em alta ajuda você a entender o que os compradores estão pesquisando.** Essas oportunidades apresentam palavras-chave com alto volume de busca e um número relativamente baixo de produtos relacionados. Se a palavra-chave descreve com precisão o seu produto, incluí-la de forma natural no seu anúncio pode ajudar os compradores a encontrá-lo com mais facilidade.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/66ec94c1e8e64e47b62f4a8a7c633560~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939581&x-signature=S8JlP%2BWE%2Fs7OfKehZYRVigrYdAE%3D)
+
+**Confira os detalhes da oportunidade**
+
+Clique na imagem ou no título de um cartão de palavra-chave para abrir a página de detalhes.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f8869335ea1743eb89391f84d7c2958f~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939595&x-signature=j5jcrXhqTNWsqysGrnYVfpILZeI%3D)Analise os **critérios de anúncios de produtos semelhantes** para obter orientações sobre a relevância do produto e verifique as **tendências de oportunidade** para entender como o interesse na palavra-chave mudou ao longo do tempo.  
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/eab5e36be1ab433da7fb5f0bc647754e~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939619&x-signature=XZoldvOMDcxQHL4grPB79VeWKrY%3D)
+
+#### Antes de enviar
+
+##### **Regras de envio de palavras-chave em alta**
+
+* Adicionar a palavra-chave ao título do seu produto aumentará significativamente as suas chances de aprovação.
+
+O produto que você envia deve pertencer à mesma categoria da palavra-chave.![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/d32c23abdc80442396382f4979b88743~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939622&x-signature=F4JKRSoVc2%2FNIc9wksnuN3llf7Y%3D)
+
+#### Opção 1: publicar um novo produto
+
+Clique em **Adicionar produto semelhante** para acessar a página de publicação do produto. Se a palavra-chave descrever o produto com precisão, adicione-a ao título e à descrição do produto de forma natural e, em seguida, envie o produto para análise.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/1e9d798e5c124ba79e1fa44a38b9c00a~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939631&x-signature=RXnrXaTdLYzd5eBEntBr2GO3ZBo%3D)![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/04c132548c3a45be91e965010b38254a~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939652&x-signature=wi%2BKjBo%2B38VCVQckwcoqQgiC6ro%3D)
+
+#### Opção 2: vincular um produto existente
+
+Se você já tiver um produto relevante em seu catálogo, clique em **Selecionar produtos**, escolha o produto e clique em **Avançar**.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/dc0a1d7a789443ba85d674a07fee26c8~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939649&x-signature=tIXAyQQXcqYotS76h0jYM5LYJ6A%3D)![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/9b9a996196ae4910900249b04481d792~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939661&x-signature=o6f0tzLlc1exDFE0Xa%2FwnY0WHQU%3D)Na Etapa 2, adicione a palavra-chave ao título do produto se ela o descrever com precisão. Também recomendamos adicionar a palavra-chave à descrição do produto quando ela se encaixar naturalmente.  
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/9afa21903e0d442395e633549d11fa10~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939673&x-signature=droVaNfH5bxZn0%2F7%2Bcirluu7Hqc%3D)
+
+Se o sistema não reconhecer corretamente a palavra-chave recomendada, use seu critério e incorpore-a da maneira mais natural possível. Não force a inclusão de uma palavra-chave em um título se isso puder induzir os compradores ao erro.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6d64af9f02da4863b3c6f4bbf3ac0d81~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939683&x-signature=YHkvkCCB342CIkUyp0UUJV1CPPg%3D)
+
+### Acompanhe o status do envio e as recompensas
+
+Após enviar os produtos, clique em **Seus envios** no painel superior para verificar o status da análise.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/18f2a61b84964b8c99c2c0aafcfc4bf0~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939745&x-signature=DaqEWb1Y6oTY9NsEvznWm0bEL4M%3D)
+
+* **Aprovados** exibe produtos que foram associados com sucesso a uma oportunidade. Você também pode verificar se o produto recebeu incentivos, como impressões adicionais na busca ou no feed de recomendações da aba Loja.
+* **Rejeitados** exibe produtos que o sistema identificou como não correspondentes. Verifique o motivo da rejeição para melhorar a correspondência do produto, o título ou o uso de palavras-chave antes de tentar novamente.![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/efb50ea5c0604e8f892e422d824ff228~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939690&x-signature=8FqN3Oi4VZmn8BwoaNeV6Bs06lw%3D)![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/4b5aaed699d7460897ce0f4bc429f8e1~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939699&x-signature=WTBJiSuOieOPCbuXK4H5ceuEqB0%3D)![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ddf762a375f64399998e5406f67d3b50~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939710&x-signature=tr7VbOCVPN38haqs0mVhK4PwvdM%3D)
+
+  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0cfe32875f03421c9565977442242eb4~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939279&x-signature=quk%2FviEybpSHehgEyW54gnQ4V9k%3D)
+
+## 4.Perguntas frequentes
+
+### Preciso adicionar novos produtos ao meu catálogo para usar o recurso Oportunidades de produtos?
+
+Não. Você pode usar o recurso de Oportunidades de produtos com produtos que já vende, vinculando itens correspondentes, atualizando títulos ou descrições de anúncios com palavras-chave relevantes e usando sinais de tendência para planejar vídeos ou hashtags. Você também pode usá-lo para decidir quais produtos merecem mais investimento em fornecimento, programas de afiliados ou conteúdo.
+
+### Por que o produto que enviei foi rejeitado?
+
+A maioria das rejeições ocorre porque o produto enviado não se enquadra suficientemente bem na oportunidade.
+
+|  |  |  |
+| --- | --- | --- |
+| **Tipo de oportunidade** | **Motivo comum de rejeição** | **O que fazer a seguir** |
+| **Produtos de alto potencial** | O produto enviado não é o mesmo produto que o lead. | Verifique a referência do mesmo produto e compare a categoria, o estilo, a função e os atributos visíveis do produto. image  Verifique a categoria, o estilo, a função e os atributos visíveis. Se a correspondência for muito ampla, envie outro produto ou publique uma correspondência mais restrita. |
+| **Palavras-chave em alta** | O produto não corresponde à categoria da palavra-chave ou à intenção do comprador, ou a palavra-chave não está clara o suficiente no anúncio. | Envie um produto da mesma categoria e inclua a palavra-chave naturalmente no título quando ela descrever o produto com precisão. |
+
+### Onde posso ver se o produto que enviei foi aprovado?
+
+Em Oportunidades de produtos, abra **Seus envios**. Os envios aprovados aparecem na aba **Aprovados**, e os envios rejeitados aparecem na aba **Rejeitados**. Verifique o status e o motivo da rejeição para decidir se deve ajustar a correspondência do produto, o título ou o uso de palavras-chave antes de enviar novamente.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/02d9c58d3a824908846a97494272d6a3~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102939719&x-signature=IbxqTm3CJR%2B3NFbBLn1al98%2F%2B1M%3D)
+
+### Com que frequência devo verificar as Oportunidades de produtos?
+
+Verifique regularmente, especialmente antes de processos de fornecimento, planejamento de campanhas, momentos sazonais ou ciclos de planejamento de conteúdo. Uma análise semanal é um ritmo prático para muitos vendedores, enquanto aqueles que atuam em categorias de movimentação rápida podem preferir verificar com mais frequência.
+
+---
