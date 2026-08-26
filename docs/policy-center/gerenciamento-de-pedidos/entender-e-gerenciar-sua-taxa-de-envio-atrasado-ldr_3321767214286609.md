@@ -1,15 +1,11 @@
 ---
-title: Entender e gerenciar sua Taxa de envio atrasado (LDR)
+title: "Entender e gerenciar sua Taxa de envio atrasado (LDR) "
 id: 3321767214286609
-category: Gerenciamento de Pedidos
+category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3321767214286609"
-update_time: 2026-05-11
+update_time: "2026-08-25"
 keywords: "Vendedores,Política de vendedor"
 ---
-
-
-
-
 ![ldr br.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/3dcf90a08dd5422ab6a92cc31524257c~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2073550398&x-signature=mj7JaxZQ2Z5bzXTLxRNfUB5dSyE%3D)**Pontos principais**
 
 * **A LDR mede quão rapidamente você despacha os pedidos.**
@@ -53,25 +49,32 @@ Todos os vendedores devem manter, em todos os momentos, uma LDR igual ou inferio
 
 # Riscos de LDR alta
 
-Vendedores com alto nível de LDR podem receber **medidas de punição**, incluindo, sem limitação:
+Vendedores com LDR superior aos 4% recomendados podem receber uma advertência.
 
-* [Limite de volumes de pedidos (OVL)](https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=3309653722089232&from=policy "https://seller-br.tiktok.com/university/essay?identity=1&role=1&knowledge_id=3309653722089232&from=policy")
-* Restrições em campanhas
+* Nenhuma penalidade é aplicada por esta advertência.
+
+Caso a LDR seja significativamente superior a 4%, o vendedor poderá sofrer **penalidades**, incluindo, entre outras:
+
+* [Limite de Volume de Pedidos (OVL)](https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7112114671503120&from=policy "https://seller-mx.tiktok.com/university/essay?identity=1&role=1&knowledge_id=7112114671503120&from=policy")
+* Restrições de campanhas
 
 # Recurso por violação de LDR alta
 
-Os vendedores podem recorrer das violações de LDR tanto antes quanto depois da aplicação de medidas.
+* Os vendedores poderão recorrer de avisos e penalidades relacionados à LDR.
 
-**Antes da aplicação (Pré-aplicação):**
+**Advertências**Os vendedores podem recorrer de advertências relacionadas à LDR. Se o recurso for aprovado, a métrica será revisada no dia seguinte, ajudando a evitar penalidades posteriores e melhorar o desempenho na Pontuação de Desempenho da Loja (SPS).
 
-* Você receberá uma notificação no Centro do Vendedor indicando baixo desempenho na semana anterior.
-* Você terá 48 horas para responder e recorrer antes que quaisquer ações sejam tomadas.![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/45e9471961cb43eca99728b63cee5f19~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2081874197&x-signature=9KDbANriKZJQbrc5CNic764cqgo%3D)
+* Os vendedores receberão uma advertência no Seller Center e poderão contestar a métrica a qualquer momento dentro de 30 dias após o recebimento da advertência.![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/45e9471961cb43eca99728b63cee5f19~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2081874197&x-signature=9KDbANriKZJQbrc5CNic764cqgo%3D)
 
 **Após a aplicação (Pós-aplicação):**
 
-* Se o vendedor não recorrer ou se o recurso não tiver sucesso no estágio de pré-sanção, ele ainda poderá recorrer após receber o ticket de violação e enquanto a medida coercitiva estiver ativa.
-  + Os vendedores podem recorrer até 30 dias após o recebimento do ticket de violação.
-  + Um segundo recurso pode ser aberto dentro de 15 dias da rejeição do primeiro recurso.
+* Os vendedores receberão uma notificação no Seller Center informando desempenho insatisfatório nos últimos 7 dias. Terão **24 horas** para apresentar recurso antes que a penalidade seja aplicada.
+
+**Após a Aplicação da Penalidade**
+
+Caso o vendedor não recorra ou o recurso não seja aprovado antes da penalidade, ainda poderá recorrer após receber o registro da violação enquanto a penalidade estiver em vigor.  
+Recurso pode ser apresentado em até 30 dias após o registro da violação.  
+Um segundo recurso poderá ser apresentado em até 15 dias após a rejeição do primeiro.  
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/59d924cf11b14fee8caa402075d24072~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2073550187&x-signature=T6nrIsrj7dLYZoAbZqcBarV0t00%3D)
 
@@ -79,16 +82,38 @@ Os vendedores podem recorrer das violações de LDR tanto antes quanto depois da
 
 **Processo de recurso:**
 
-Estamos cientes de que os vendedores podem enfrentar circunstâncias fora do seu controle que afetam negativamente a métrica da LDR. Os vendedores podem recorrer com base nos seguintes motivos:
-
-* Bug ou problema técnico do sistema da plataforma.
-* Solicitação do cliente para cancelar o pedido/enviar o pedido com atraso.
-* Problema com o responsável pela entrega (por exemplo: não comparecimento para retirada).
-* Incidente imprevisto/desastre natural.
-
-Os vendedores precisarão fornecer evidências em formato de foto/vídeo do problema. As evidências em foto/vídeo devem ter **carimbos de data/hora visíveis** e corresponder ao período em que o vendedor apresentou desempenho insuficiente na LDR e para o qual deseja apresentar recurso.
+* A plataforma reconhece que os vendedores podem enfrentar situações fora do seu controle. Os motivos aceitos para recurso são:
+  + Falha ou problema técnico na plataforma
+  + Solicitação do cliente para cancelar ou atrasar o envio
+  + Problema com a transportadora (ex.: não comparecimento para coleta)
+  + Evento imprevisto / desastre natural
+* É necessário fornecer comprovação em foto ou vídeo com **data e hora visíveis**, correspondente ao período de baixo desempenho na LDR.
 
 # Perguntas frequentes
 
-**P: Os finais de semana são contados nos 2 dias?**R: Não, apenas os dias úteis são contados.  
-**P: E se minha transportadora atrasar a coleta?**R: Entre em contato com seu responsável pela entrega e peça que retire suas encomendas. Se isso afetar o desempenho da sua LDR, envie um recurso.
+**P: Os fins de semana são contados nos 2 dias?**R: Não — apenas dias úteis são contabilizados.**P: E se a transportadora atrasar a coleta?**R: Entre em contato com sua transportadora para solicitar a coleta. Se isso afetar sua LDR, envie um recurso.res podem recorrer de advertências relacionadas àurso for aprovado, a métrica será revisada no dia seguinte, ajudando a evitar penalidades posteriores e melhorar o desempenho na Pontuação a Loja (SPS).
+
+* Os vendedores receberãno Seller Contestar a métrica a qualquer moment30 dias após advertência.
+
+**Antes da Aplicação da**
+
+* Os vendedores receberãoificação no Seller Center informando desempenho insatisfató7 dias. Terão **24 horas** para aprtes que a penalidade seja aplicada.
+
+\*\*Após a Aplicação o vendedor não recorra ou o recurso não ado antes da penalidade, ainda poderá recorrer após registro da violação enquanto a penalidade estiver em viso pode ser apresentado em até **30 dias** após o registro da violação.
+
+* Um segundo recurso poderá seré **15 dias** após a rejeição do primeiro.
+
+**Processo de Recurso**
+
+* A platonhece que os vendedores podem enfrentar situações fora do seu controle. Os motivos aceitos para recurso são:
+  + Falha ou problema técnico olicitação do cliente para cancelar ou atrasar o eoblema com a transportadora (ex.: não para coleta)
+  + Evento imprevisto / desastre natural
+* É necessário fornecer comprovação em foto**data e hora visíveis**, correspondente ao período de baixo desempenho na LDR.
+
+---
+
+# Perguntas Frequentes
+
+* semana são contados nos 2 dias?\*\*
+
+R: apenas dias úteis são contabilizados.**P: E sportadora atrasar a coleta?**R:a transportadora para solicie isso afetar sua LDR, envie um recurso.
