@@ -3,7 +3,7 @@ title: "Visão Geral da Opção \"Enviados Pela Plataforma\""
 id: 2915348630603521
 category: "Serviço de compras"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2915348630603521"
-update_time: "2026-07-23"
+update_time: "2026-08-28"
 keywords: "Sellers"
 ---
 Este artigo apresenta uma visão geral da opção "Enviados pela plataforma", que se trata da opção de envio padrão fácil de configurar e que inclui a criação de etiquetas integradas. Os vendedores podem comprar e imprimir etiquetas de envio diretamente da Central do Vendedor usando as transportadoras designadas do TikTok Shop, eliminando a necessidade de configurar um modelo de envio separado.
@@ -82,6 +82,8 @@ Se o imposto não for pago ou for pago parcialmente pelo vendedor antes do envio
 ### **Liquidação**
 
 ![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/7ef1f6535f774b858d8d0bd31f82592d~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2098690691&x-signature=54v1oZzz%2BHQyk%2Fo0Co66BUXj53c%3D)
+
+\*Portanto, é altamente recomendável que o vendedor atualize pontualmente o peso do produto no sistema para evitar diferenças de peso na liquidação final.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/1752d34d2f994ab9aabc693356b539de~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2075550625&x-signature=zd%2F0qIteIYJYoR28gvDFIMQIq%2F4%3D)
 
