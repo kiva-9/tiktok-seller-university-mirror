@@ -3,15 +3,14 @@ title: "Regras detalhadas para dados ausentes/incorretos"
 id: 1042943084496656
 category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1042943084496656"
-update_time: "2026-08-28"
+update_time: "2026-08-31"
 keywords: "Política de vendedor"
 ---
 # O que significa "Ausente/Incorreto"?
 
 Refere-se à situação em que os produtos entregues pelo vendedor não correspondem ao estilo, cor, tamanho, dimensões ou quantidade especificados no pedido do cliente. Isso inclui, entre outros, erros ou omissões relacionados ao produto, à embalagem, à cor, aos acessórios, aos brindes e à quantidade.  
 Se os vendedores usarem textos, imagens, descrições orais, etc., enganosos ou pouco claros nos nomes de produtos, nas páginas de detalhes do produto ou nas informações de SKU que possam induzir os consumidores a erro sobre o estilo, a cor, o tamanho, as dimensões ou a quantidade do produto, os problemas resultantes também se enquadrarão na categoria de envios incorretos ou ausentes.  
-
-🎬 [视频](https://v16m-default.tiktokcdn.com/466cab4f995e5af56183bc00ff940ac6/6a92f21b/video/tos/alisg/tos-alisg-v-9e30d3-sg/oYoN1AE9CQBow6YKIgSlALsRVoiW6STi2bInf7/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1432&ft=cApXJCz7ThWHZKPsLGZmo0P&mime\_type=video\_mp4&rc=Nmk6aDQ6OzVmaGdnODg0M0Bpam1kdXc5cjh0ZGYzOGc3NEBfMmNeYDZgXl4xYi1gX2IuYSNeZDRnMmRjLzVhLS1kXy1zcw%3D%3D&vvpl=1&l=021787993372491fdbddc5300110501210c1dbf1f00007fe5fce9&btag=e00050000)
+[https://www.tiktok.com/@sellwithtiktokshop\_br/video/7678673969184230677](https://www.tiktok.com/@sellwithtiktokshop_br/video/7678673969184230677 "https://www.tiktok.com/@sellwithtiktokshop_br/video/7678673969184230677")
 
 # Que tipos de violação estão incluídos em "Ausente/Incorreto"?
 
@@ -54,11 +53,3 @@ A plataforma identifica o feedback negativo dos consumidores em relação a prob
 | **Sessão** | **Sugestões de melhoria** |
 | **Descrição do produto** | 1. Verifique se as informações exibidas na página de detalhes do produto são consistentes com o produto real para evitar discrepâncias entre o produto e sua descrição. 2. Garanta que as informações relevantes do produto, incluindo estilo, quantidade e cor, estejam claramente indicadas no nome do produto, na imagem principal, na página de detalhes do produto e no SKU, para evitar descrições confusas ou informações inconsistentes em diferentes seções.    1. Para produtos com vários SKUs de especificações diferentes, indique claramente a quantidade do produto no nome do produto.   Por exemplo, meias têm três especificações de quantidade: 3 pares, 6 pares e 9 pares. Não indique apenas "9 pares de meias" no nome do produto. Você pode usar "3/6/9 pares de meias" em vez disso. Como alternativa, você pode usar apenas o nome do produto sem especificar a quantidade exata, desde que a quantidade esteja claramente indicada no SKU.   2. Se um produto tiver apenas uma especificação, não inclua várias especificações no nome do produto.   Por exemplo, se o tamanho real do ventilador for 42 cm, não inclua termos como "42 cm/52 cm" no nome do produto.   3. Caso o produto seja enviado aleatoriamente em termos de estilo, cor ou tamanho, indique claramente essa informação como "Estilo, cor ou tamanho enviados aleatoriamente" no título do produto, na imagem principal, na página de detalhes do produto e no SKU. 4. Quando houver alterações no estoque de produtos ou em atividades promocionais, atualize imediatamente as informações relevantes do produto para evitar problemas como pedidos não atendidos devido à falta de produtos em estoque ou a impossibilidade de fornecer brindes prometidos. |
 | **Separação e embalagem** | 1. Produtos, SKUs, cores, tamanhos e especificações diferentes devem ser claramente separados, armazenados e etiquetados para evitar misturas. 2. Os produtos serão separados estritamente de acordo com as informações do pedido. Após a separação, o responsável por essa tarefa deverá verificar de forma independente o produto, a quantidade, as especificações e outras informações relevantes. 3. É necessário implementar um sistema de verificação por duas pessoas. Após o responsável pela separação selecionar e verificar os itens, o responsável pela embalagem deverá realizar uma segunda verificação, incluindo o estilo do produto, cor, tamanho, quantidade, brindes, acessórios e outros detalhes. 4. Os funcionários deverão receber treinamento regular sobre os processos de separação e embalagem para fortalecer e padronizar os procedimentos operacionais. |
-
-## 视频
-
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/okTnzBCEVFiNA5Kflw9Rso1To26oSYBIiI6ABx~tplv-noop.image?dr=18692&refresh_token=e8046c67&x-expires=1788015131&x-signature=T8kSY%2F8k10%2FABhqusQoErqAfJGk%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cda8q25fog65tjr7agjag)
-
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/466cab4f995e5af56183bc00ff940ac6/6a92f21b/video/tos/alisg/tos-alisg-v-9e30d3-sg/oYoN1AE9CQBow6YKIgSlALsRVoiW6STi2bInf7/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1432&ft=cApXJCz7ThWHZKPsLGZmo0P&mime_type=video_mp4&rc=Nmk6aDQ6OzVmaGdnODg0M0Bpam1kdXc5cjh0ZGYzOGc3NEBfMmNeYDZgXl4xYi1gX2IuYSNeZDRnMmRjLzVhLS1kXy1zcw%3D%3D&vvpl=1&l=021787993372491fdbddc5300110501210c1dbf1f00007fe5fce9&btag=e00050000)
-
-

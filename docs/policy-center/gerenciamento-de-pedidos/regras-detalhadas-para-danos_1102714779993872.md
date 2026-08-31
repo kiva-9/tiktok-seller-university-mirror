@@ -3,14 +3,12 @@ title: "Regras detalhadas para danos"
 id: 1102714779993872
 category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1102714779993872"
-update_time: "2026-08-28"
+update_time: "2026-08-31"
 keywords: "Política de vendedor"
 ---
 # O que é um "problema relacionado a danos"?
 
 Refere-se a problemas como danos físicos, produtos incompletos, deformações, fragmentação, vazamentos, arranhões, amassados, quebras e desprendimento do próprio produto, seus acessórios ou embalagem interna, quando recebidos pelo consumidor.  
-
-🎬 [视频](https://v16m-default.tiktokcdn.com/79b4ab92c028f091ee36ee25207247f7/6a92f1e7/video/tos/alisg/tos-alisg-v-9e30d3-sg/oAQ1frrXQDi8TIEjgVKBDIRJgCWgfOIMzfhRSQ/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1683&ft=cApXJCz7ThWH9KPsLGZmo0P&mime\_type=video\_mp4&rc=ZTxlM2c0NDwzZWllNDg1ZkBpM3l5NWw5cjVzZGYzOGc3NEBgLzFfMmMwXjQxNmI1NDQxYSNmMTAuMmQ0bDVhLS1kXy1zcw%3D%3D&vvpl=1&l=021787993374546fdbddc5300110501210c1dbf1f00007f460d98&btag=e00050000)
 
 # Que tipos de violação estão incluídos em "Danos"?
 
@@ -21,6 +19,8 @@ Refere-se a problemas como danos físicos, produtos incompletos, deformações, 
 **(2) Danos ao produto causados por embalagem inadequada**
 
 * Danos ocorridos durante o transporte devido a materiais de embalagem inadequados, amortecimento insuficiente, vedação inadequada da caixa, falta de proteção contra quedas ou pressão, e outros motivos semelhantes.
+
+[https://www.tiktok.com/@sellwithtiktokshop\_br/video/7678914620211383573](https://www.tiktok.com/@sellwithtiktokshop_br/video/7678914620211383573 "https://www.tiktok.com/@sellwithtiktokshop_br/video/7678914620211383573")
 
 # Exemplos de tipos comuns de violação
 
@@ -66,11 +66,3 @@ A plataforma identifica o feedback negativo dos consumidores sobre problemas com
 | produtos de vidro  Vidrio/Dispensador de aceite | 1. Envolva completamente cada peça de vidro com plástico-bolha. Em áreas irregulares ou salientes (como alças, taças de haste alta etc.), adicione mais 1 a 2 camadas de plástico-bolha para evitar quebras ou danos. 2. Se houver várias peças, embale cada uma individualmente com plástico-bolha antes de colocá-las juntas. Separe-as com espuma EPE ou divisórias de papelão ondulado para evitar choques entre as peças.  Utilize uma embalagem externa de papelão resistente, como uma caixa de papelão ondulado de cinco camadas. Após acomodar as peças, preencha todos os espaços vazios com almofadas de ar, plástico-bolha, bolas de papel, espuma ou materiais semelhantes, garantindo que os produtos não se movimentem dentro da caixa. Aplique etiquetas de "Frágil" e envolva a caixa com várias camadas de filme stretch. |  |
 | chaleira | 1. Proteja toda a chaleira com várias camadas de plástico-bolha e pelo menos 3 camadas de filme stretch, certificando-se de que toda a superfície e todas as peças estejam completamente protegidas contra danos.  Utilize uma embalagem externa de papelão resistente, como uma caixa de papelão ondulado de cinco camadas. Depois de acomodar o produto, preencha todos os espaços vazios com almofadas de ar, plástico-bolha, bolas de papel, placas de espuma ou materiais semelhantes para impedir qualquer movimentação dentro da caixa. Aplique etiquetas de "Frágil" e envolva a caixa com várias camadas de filme stretch. |  |
 | produtos quebráveis de plástico ou acrílico | 1. Se a embalagem contiver mais de uma peça, coloque uma proteção entre cada item para evitar que se quebrem devido ao contato entre si. Você pode utilizar uma camada de plástico-bolha ou uma divisória de papelão entre as peças. 2. Envolva todas as peças com 2 a 3 camadas de plástico-bolha e uma camada de filme stretch para manter a proteção firme. Utilize cantoneiras de espuma nas bordas e cantos dos produtos para evitar danos causados por impactos.  Utilize uma embalagem externa de tamanho adequado, feita de papelão resistente, como uma caixa de papelão ondulado de cinco camadas. Se houver espaços vazios dentro da caixa, preencha-os com almofadas de ar, plástico-bolha, bolas de papel, placas de espuma ou materiais semelhantes, garantindo que os produtos não se movimentem durante o transporte. Finalize envolvendo a caixa com várias camadas de filme stretch. |  |
-
-## 视频
-
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oICXDIRglQizfo1DJAngR8BoIBQQRCMeVIfrVW~tplv-noop.image?dr=18692&refresh_token=66668a02&x-expires=1788015079&x-signature=hKqI60gepbtYxoOA8KJIGvQWQAM%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cda8po27og65i123v4vi0)
-
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/79b4ab92c028f091ee36ee25207247f7/6a92f1e7/video/tos/alisg/tos-alisg-v-9e30d3-sg/oAQ1frrXQDi8TIEjgVKBDIRJgCWgfOIMzfhRSQ/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1683&ft=cApXJCz7ThWH9KPsLGZmo0P&mime_type=video_mp4&rc=ZTxlM2c0NDwzZWllNDg1ZkBpM3l5NWw5cjVzZGYzOGc3NEBgLzFfMmMwXjQxNmI1NDQxYSNmMTAuMmQ0bDVhLS1kXy1zcw%3D%3D&vvpl=1&l=021787993374546fdbddc5300110501210c1dbf1f00007f460d98&btag=e00050000)
-
-
