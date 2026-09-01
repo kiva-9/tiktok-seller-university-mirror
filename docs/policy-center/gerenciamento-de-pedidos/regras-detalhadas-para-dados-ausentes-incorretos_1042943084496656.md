@@ -10,7 +10,7 @@ keywords: "Política de vendedor"
 
 Refere-se à situação em que os produtos entregues pelo vendedor não correspondem ao estilo, cor, tamanho, dimensões ou quantidade especificados no pedido do cliente. Isso inclui, entre outros, erros ou omissões relacionados ao produto, à embalagem, à cor, aos acessórios, aos brindes e à quantidade.  
 Se os vendedores usarem textos, imagens, descrições orais, etc., enganosos ou pouco claros nos nomes de produtos, nas páginas de detalhes do produto ou nas informações de SKU que possam induzir os consumidores a erro sobre o estilo, a cor, o tamanho, as dimensões ou a quantidade do produto, os problemas resultantes também se enquadrarão na categoria de envios incorretos ou ausentes.  
-[https://www.tiktok.com/@sellwithtiktokshop\_br/video/7678673969184230677](https://www.tiktok.com/@sellwithtiktokshop_br/video/7678673969184230677 "https://www.tiktok.com/@sellwithtiktokshop_br/video/7678673969184230677")
+Para saber mais, assista ao vídeo：[https://www.tiktok.com/@sellwithtiktokshop\_br/video/7678673969184230677](https://www.tiktok.com/@sellwithtiktokshop_br/video/7678673969184230677 "https://www.tiktok.com/@sellwithtiktokshop_br/video/7678673969184230677")
 
 # Que tipos de violação estão incluídos em "Ausente/Incorreto"?
 

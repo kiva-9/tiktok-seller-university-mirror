@@ -9,6 +9,7 @@ keywords: "Política de vendedor"
 # O que é um "problema relacionado a danos"?
 
 Refere-se a problemas como danos físicos, produtos incompletos, deformações, fragmentação, vazamentos, arranhões, amassados, quebras e desprendimento do próprio produto, seus acessórios ou embalagem interna, quando recebidos pelo consumidor.  
+Para saber mais, assista ao vídeo：[https://www.tiktok.com/@sellwithtiktokshop\_br/video/7678914620211383573](https://www.tiktok.com/@sellwithtiktokshop_br/video/7678914620211383573 "https://www.tiktok.com/@sellwithtiktokshop_br/video/7678914620211383573")
 
 # Que tipos de violação estão incluídos em "Danos"?
 
@@ -19,8 +20,6 @@ Refere-se a problemas como danos físicos, produtos incompletos, deformações, 
 **(2) Danos ao produto causados por embalagem inadequada**
 
 * Danos ocorridos durante o transporte devido a materiais de embalagem inadequados, amortecimento insuficiente, vedação inadequada da caixa, falta de proteção contra quedas ou pressão, e outros motivos semelhantes.
-
-[https://www.tiktok.com/@sellwithtiktokshop\_br/video/7678914620211383573](https://www.tiktok.com/@sellwithtiktokshop_br/video/7678914620211383573 "https://www.tiktok.com/@sellwithtiktokshop_br/video/7678914620211383573")
 
 # Exemplos de tipos comuns de violação
 
