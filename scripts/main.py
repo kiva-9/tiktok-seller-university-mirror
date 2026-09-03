@@ -180,7 +180,8 @@ def clean_html_to_markdown(html):
         tag.decompose()
 
     videos = []
-    # 处理 <video> 标签：提取元数据，替换为显式链接段落
+    # 处理 <video> 标签：原位置替换为「封面图 + 链接」，保留在原始上下文中
+    # （不再挪到文末重复，避免脱离 heading/上下文的孤立片段）
     for vid in soup.find_all("video"):
         source = vid.find("source")
         video_url = ""
@@ -189,13 +190,22 @@ def clean_html_to_markdown(html):
         elif vid.get("src"):
             video_url = vid["src"]
         poster_url = vid.get("poster", "")
-        if video_url:
-            videos.append({"url": video_url, "cover": poster_url})
-        # 替换为显式链接段落
-        link_text = f"🎬 [视频]({video_url})" if video_url else ""
-        new_p = soup.new_tag("p")
-        new_p.string = link_text
-        vid.replace_with(new_p)
+        if not video_url:
+            vid.decompose()
+            continue
+
+        idx = len(videos) + 1
+        videos.append({"url": video_url, "cover": poster_url, "position": idx})
+
+        frag = soup.new_tag("div")
+        if poster_url:
+            frag.append(soup.new_tag("img", src=poster_url, alt=f"视频 {idx} 封面"))
+        p_tag = soup.new_tag("p")
+        a_tag = soup.new_tag("a", href=video_url)
+        a_tag.string = f"🎬 视频 {idx}"
+        p_tag.append(a_tag)
+        frag.append(p_tag)
+        vid.replace_with(frag)
 
     # 解包外层 wrapper
     wrapper = soup.find("div", class_="converted-html")
@@ -414,15 +424,6 @@ def write_article_md(article_meta, content_body, category_path, tab_name):
         "keywords": article_meta.get("keywords", ""),
     }
 
-    # 视频信息：放在正文里（避免 Rspress YAML 解析特殊字符崩溃）
-    videos = article_meta.get("videos", [])
-    video_section = ""
-    if videos:
-        video_section = "\n\n## 视频\n\n"
-        for i, v in enumerate(videos, 1):
-            video_section += f"![视频 {i} 封面]({v['cover']})\n\n"
-            video_section += f"[🎬 视频 {i}]({v['url']})\n\n"
-
     # 组装 Markdown
     yaml_lines = ["---"]
     for k, v in frontmatter.items():
@@ -440,7 +441,7 @@ def write_article_md(article_meta, content_body, category_path, tab_name):
     yaml_lines.append("---")
     yaml_lines.append("")
 
-    md_content = "\n".join(yaml_lines) + content_body + video_section + "\n"
+    md_content = "\n".join(yaml_lines) + content_body + "\n"
 
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(md_content)
@@ -515,7 +516,7 @@ def sync_tab(tab_config):
                 failed += 1
                 continue
 
-            # HTML → Markdown（返回 markdown 文本 + 视频列表）
+            # HTML → Markdown（视频已在正文原位置内嵌）
             md_body, videos = clean_html_to_markdown(detail["html_content"])
 
             # 写入文件
@@ -524,11 +525,11 @@ def sync_tab(tab_config):
                 "knowledge_name": detail["knowledge_name"],
                 "keywords": detail.get("keywords", ""),
                 "modify_time": modify_time,
-                "videos": videos,  # ← 新增：视频结构化数据
             }
             rel_path = write_article_md(meta, md_body, path, tab_name)
             if rel_path:
-                print(f"        ✓ 写入: {rel_path}")
+                video_note = f"（含 {len(videos)} 个视频）" if videos else ""
+                print(f"        ✓ 写入: {rel_path}{video_note}")
                 # 更新状态
                 state[art_id] = {
                     "title": detail["knowledge_name"],
