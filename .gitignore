@@ -9,6 +9,8 @@ playwright-mcp/
 *.log
 .idea/
 .vscode/
+.claude/
+tasks/
 *.egg-info/
 dist/
 build/
