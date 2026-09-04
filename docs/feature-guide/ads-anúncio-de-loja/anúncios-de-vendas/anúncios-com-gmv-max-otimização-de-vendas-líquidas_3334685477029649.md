@@ -1,15 +1,11 @@
 ---
 title: "Anúncios com GMV Max: Otimização de vendas líquidas"
 id: 3334685477029649
-category: Anúncios de vendas
+category: "Anúncios de vendas"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3334685477029649"
-update_time: 2026-05-19
-keywords: Vendedores
+update_time: "2026-09-04"
+keywords: "Vendedores"
 ---
-
-
-
-
 #### O que é GMV Max: Otimização de vendas líquidas?
 
 A Otimização de vendas líquidas com GMV Max é um novo recurso disponível para vendedores selecionados. Ela veicula anúncios automaticamente em todos os seus produtos, criativos e canais, aplicando uma taxa sobre anúncios com GMV Max por item para cada pedido concluído.  
@@ -53,23 +49,23 @@ Após a ativação:
 
 ##### Fórmula
 
-A taxa de otimização de vendas líquidas de anúncios com GMV Max é calculada a partir do preço do item, menos quaisquer descontos do vendedor. As taxas de envio e os descontos da plataforma não estão incluídos no cálculo da taxa sobre anúncios com GMV Max.   
-*Taxa sobre anúncios com GMV Max = (Preço do item - Desconto do vendedor) \* ((100/(meta de ROI)\*100)*
+**Anúncios GMV Max**A **Taxa de Otimização de Vendas Líquidas** é calculada por pedido, de acordo com a seguinte fórmula:  
+**(Pagamento efetivo do usuário + Desconto do item pela plataforma) ÷ ROI do anúncio**
 
 ##### Exemplos de cálculo
 
 |  |  |
 | --- | --- |
-| 1. **Item: Violão - Vendedores do shopping (pedidos provenientes de anúncios com GMV Max)**    1. **Preço original: R$ 100.000,00 -**    2. **Desconto do vendedor: R$ 10.000,00 -**    3. **Preço do item após desconto do vendedor: R$ 90.000,00 -** 2. **O cálculo da taxa de otimização de vendas líquidas do anúncio com GMV Max é o seguinte** | |
+| 1. **Item: Guitarra – Vendedores Mall (pedidos provenientes de anúncios GMV Max)**    1. **Preço original: R$ 100.000,00**    2. **Desconto do item pela plataforma: R$ 10.000,00**    3. **Preço do item após o desconto do vendedor: R$ 90.000,00** 2. **O cálculo da Taxa de Otimização de Vendas Líquidas dos Anúncios GMV Max é realizado da seguinte forma:** | |
 | **Cenários** | **Pedido proveniente de anúncios com GMV Max** |
 | Preço original do item | R$ 100.000,00 - |
 | (-) Desconto do vendedor | R$ 10.000,00 - |
-| Subtotal após desconto | R$ 90.000,00 - |
+| Subtotal após desconto | R$ 110.000,00 - |
 |  |  |
 | Anúncios com GMV Max: meta de ROI para otimização de vendas líquidas | 20 |
 | Anúncios com GMV Max: taxa de otimização de vendas líquidas (%) | 5,0% ((100/20)/100) |
 |  |  |
-| **Anúncios com GMV Max: taxa de otimização de vendas líquidas = Subtotal após desconto x Taxa sobre anúncios com GMV Max** (10% de imposto calculado com base na taxa sobre anúncios com GMV Max) | **R$ 4.950,00 -**  **(incluindo impostos)** |
+| **Anúncios com GMV Max: taxa de otimização de vendas líquidas = Subtotal após desconto x Taxa sobre anúncios com GMV Max** | **R$ 5.500,00 -** |
 
 #### Perguntas frequentes
 
