@@ -1,22 +1,21 @@
 ---
-title: Gerenciamento De Devoluções e Reembolsos
+title: "Gerenciamento De Devoluções e Reembolsos"
 id: 6730729338636033
-category: Gerenciar devoluções e reembolsos
+category: "Gerenciar devoluções e reembolsos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6730729338636033"
-update_time: 2026-04-14
-keywords: Sellers
+update_time: "2026-09-04"
+keywords: "Sellers"
 ---
-
-
-
-
-Este artigo fornecerá a você uma breve introdução ao processo de devolução e reembolso, para que consiga gerir as solicitações dos clientes de maneira eficaz e garantir uma experiência de compra positiva.
+Este artigo apresenta um resumo de como funciona o processo de devolução e reembolso para ajudar você a gerenciar as solicitações dos clientes e oferecer uma boa experiência de compra.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0cac5c00cdc64df2ad3f234608ce2add~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2068158264&x-signature=nvuSYxslaDxr16Ake9Wsg3oCul4%3D)
 
-![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/c2c6539c0622422184fda1650bfd4a4e~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2084375962&x-signature=XuUc25bRLcIzAhGkr7ewGqv3dUs%3D)
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/c2c6539c0622422184fda1650bfd4a4e~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2084375962&x-signature=XuUc25bRLcIzAhGkr7ewGqv3dUs%3D)Para começar, acesse a Central do Vendedor e vá em **Pedidos > Gerenciar devoluções**.  
+Para encontrar o pedido, siga estes passos:  
 
-2. Para começar, acesse o Central do vendedor e selecione [Pedidos > Gerenciar devoluções](https://seller-mx.tiktok.com/order/return "https://seller-mx.tiktok.com/order/return") para acompanhar e gerenciar com eficiência os pedidos de devolução e reembolso.
+1. Pegue o número de rastreio na etiqueta do pacote devolvido.
+2. Em Gerenciar devoluções, clique em Pesquisar ID do pedido de devolução e digite o número de rastreio.
+3. Se você não tiver o número de rastreio ou for um reembolso sem devolução, você pode pesquisar pelo ID do pedido.
 
    ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/71cfbcae680a4aacb92c3dc3478d7617~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2068158265&x-signature=3BuYcSBRN2wILlMB9nBIatB5eSY%3D)
 
@@ -35,8 +34,6 @@ Esses novos filtros rápidos incluem:
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/47c8478a240f44d7be32845625e1c21b~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2068158266&x-signature=3aph%2FxPzzH4R5ukFd1mk6EyBmvQ%3D)
 
-2. Vá para a aba **“Aguardando sua ação”**, onde você verá as solicitações que precisam da sua atenção.
-
 * Para solicitações **somente de reembolso**, você tem **3 dias úteis para aprovar ou rejeitar** cada solicitação com base nos seus méritos. Se você perder esse prazo, a plataforma aprovará automaticamente essas solicitações e emitirá o reembolso para os compradores.
 * Para solicitações de **devolução e reembolso**, na maioria dos casos, a plataforma aprovará automaticamente as solicitações. Você deve aguardar o comprador enviar o produto de volta e então inspecionar o(s) item(ns). Nesta etapa, você tem a opção de **emitir o reembolso ou rejeitar o pacote devolvido dentro de 2 dias úteis**. Se você aceitar, o sistema iniciará o reembolso ao comprador. No entanto, se você rejeitar a devolução, será necessário selecionar o motivo da recusa e enviar as evidências necessárias.
 
@@ -48,11 +45,10 @@ Esses novos filtros rápidos incluem:
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f532f2f95b334fb78919abbcfbea0cd6~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2068158267&x-signature=bjg%2Bs4tMFSycR1cgcB94CqkrUdo%3D)
 
-3. Depois de revisar e agir sobre as solicitações, você pode acompanhar aquelas que foram concluídas com sucesso ou que resultaram em disputas, acessando estas duas abas:
-
 * **Resolvidas**: Acompanhe as solicitações que foram concluídas com sucesso.
 
-  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/8651f932de9b42d69c65e3d0b323e79b~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2068158265&x-signature=OPWluju1fzbYy%2BLtJS1qKunGv3g%3D)
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/51bf7b1a10e041e29527c7b137e883ca~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2103891973&x-signature=AQgO84AJhL236LvVb2e8bbj1Y9M%3D)
+
 * **Em disputa**: Gerencie as solicitações que foram contestadas pelos compradores. É importante tratar essas situações com agilidade para garantir uma solução satisfatória.
 
 Ao **rejeitar uma solicitação**, lembre-se de informar o **motivo da recusa**. O comprador pode contestar essa decisão abrindo uma disputa.

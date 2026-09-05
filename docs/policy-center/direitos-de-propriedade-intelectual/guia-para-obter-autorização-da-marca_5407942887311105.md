@@ -1,15 +1,11 @@
 ---
-title: Guia para obter autorização da marca
+title: "Guia para obter autorização da marca"
 id: 5407942887311105
-category: Direitos de Propriedade Intelectual
+category: "Direitos de Propriedade Intelectual"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5407942887311105"
-update_time: 2025-09-25
+update_time: "2026-09-04"
 keywords: "IPR,Brand"
 ---
-
-
-
-
 # Pontos principais
 
 * A obtenção da autorização da marca é essencial ao anunciar produtos com o nome da marca ou uma marca comercial.
@@ -140,4 +136,6 @@ Após a aprovação:
 **A autorização da marca protege os vendedores contra aplicação da política de violação?**   
  Não. Ela somente confirma que você tem a autorização para vender, mas não isenta da aplicação no caso de reclamações ou violações.  
 **O que acontecerá quando a LOA/marca comercial expirar?**   
- Sua autorização da marca será removida e os produtos também poderão ser removidos. Entre em contato com o proprietário da marca pelo menos 30 dias antes do vencimento para renovar e reenviar os documentos.
+ Sua autorização da marca será removida e os produtos também poderão ser removidos. Entre em contato com o proprietário da marca pelo menos 30 dias antes do vencimento para renovar e reenviar os documentos.  
+
+# [Veja o guia com o passo a passo de como solicitar uma autorização da marca](https://seller-br.tiktok.com/university/essay?knowledge_id=7449327313733384 "https://seller-br.tiktok.com/university/essay?knowledge_id=7449327313733384")
