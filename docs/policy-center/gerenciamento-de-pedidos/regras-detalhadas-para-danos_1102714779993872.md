@@ -3,16 +3,16 @@ title: "Regras detalhadas para danos"
 id: 1102714779993872
 category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1102714779993872"
-update_time: "2026-09-07"
+update_time: "2026-09-08"
 keywords: "Política de vendedor"
 ---
 # O que é um "problema relacionado a danos"?
 
 Refere-se a problemas como danos físicos, produtos incompletos, deformações, fragmentação, vazamentos, arranhões, amassados, quebras e desprendimento do próprio produto, seus acessórios ou embalagem interna, quando recebidos pelo consumidor.  
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oIkAIQFfVIQBplw9BBDxQTnh15qgCB8LooEifb~tplv-noop.image?dr=18692&refresh_token=5dd2d143&x-expires=1788872953&x-signature=7vjaE2iVlKnxER%2Bi2SO1u7Zsz5A%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cdaf89gfog65gu9240ik0)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oIkAIQFfVIQBplw9BBDxQTnh15qgCB8LooEifb~tplv-noop.image?dr=18692&refresh_token=465b25a7&x-expires=1788959833&x-signature=5n%2BcqIs05wjJpZnkwS461zvhUVw%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my3&VideoID=v104bdg5000cdaf89gfog65gu9240ik0)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/41e66c76ae3cfd355024c720deba9b88/6aa008f9/video/tos/alisg/tos-alisg-v-9e30d3-sg/oAWLQfoeAgQ1DwrIgihExBBQhBnFQPvIqlT5KE/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1683&ft=cApXJCz7ThWH3gS5LGZmo0P&mime_type=video_mp4&rc=ODg0ZmVmPGRnOzk1NWRnO0BpM2w3PGo5cmo7ZGYzOGc3NEAxNDBiMl4xXjUxYzMxY2NjYSNoLS9yMmRjNmNhLS1kXy1zcw%3D%3D&vvpl=1&l=021788851248491fdbddc530036012a190c1dbf1f00002560367b&btag=e00050000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/b7f5be15fc07772f04942c7447a1e159/6aa15c59/video/tos/alisg/tos-alisg-v-9e30d3-sg/oAWLQfoeAgQ1DwrIgihExBBQhBnFQPvIqlT5KE/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1683&ft=cApXJCz7ThWHaw3JLGZmo0P&mime_type=video_mp4&rc=ODg0ZmVmPGRnOzk1NWRnO0BpM2w3PGo5cmo7ZGYzOGc3NEAxNDBiMl4xXjUxYzMxY2NjYSNoLS9yMmRjNmNhLS1kXy1zcw%3D%3D&vvpl=1&l=021788938128518fdbddc5500020001310c1dbf1f000086b42f84&btag=e00050000)
 
 Para mais informações, acesse o vídeo [aqui](https://www.tiktok.com/@sellwithtiktokshop_br/video/7678914620211383573 "https://www.tiktok.com/@sellwithtiktokshop_br/video/7678914620211383573").  
 

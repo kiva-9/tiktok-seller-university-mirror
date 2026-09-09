@@ -3,7 +3,7 @@ title: "Política de qualidade do produto"
 id: 8322087832667905
 category: "Gerencie seus produtos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8322087832667905"
-update_time: "2026-09-07"
+update_time: "2026-09-08"
 keywords: "Vendedores,Política de vendedor"
 ---
 ## **Finalidade e escopo**
@@ -22,9 +22,9 @@ Todos os vendedores do TikTok Shop são obrigados a cumprir esta política. A **
 
 Para mais informações, acesse o vídeo aqui:  
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/ogfj9eniDECEIqBS9mDTgVQOPIAf9ErEQF4Xs0~tplv-noop.image?dr=18692&refresh_token=928e715c&x-expires=1788872977&x-signature=6uy3CW5T2Hp6kEkx2JfCHWfPkdg%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cdaf8fpvog65ukmi7a9u0)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/ogfj9eniDECEIqBS9mDTgVQOPIAf9ErEQF4Xs0~tplv-noop.image?dr=18692&refresh_token=ce44fc3a&x-expires=1788959865&x-signature=wUikzlyTWzLYQ5sXBQJyASmWUUE%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my3&VideoID=v104bdg5000cdaf8fpvog65ukmi7a9u0)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/a13f58bf9354c62eaf121e17183d47d8/6aa00911/video/tos/alisg/tos-alisg-v-9e30d3-sg/oIIyHftegYSeXRk9BU5MpwlUAULfnEeGh4ePv6/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1798&ft=cApXJCz7ThWHugS5LGZmo0P&mime_type=video_mp4&rc=Z2hmNjY2aTgzOTM3NDY7aEBpMzw6cHg5cnM7ZGYzOGc3NEAwMmI2LjIuNi8xNV9gNTVfYSNyXmZoMmRzY2NhLS1kXy1zcw%3D%3D&vvpl=1&l=021788851232945fdbddc5300500e20210c1dbf1f000054f3f6c6&btag=e00050000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/9a367d60b9cb0d5efbc718ae250037e1/6aa15c79/video/tos/alisg/tos-alisg-v-9e30d3-sg/oIIyHftegYSeXRk9BU5MpwlUAULfnEeGh4ePv6/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1798&ft=cApXJCz7ThWH.w3JLGZmo0P&mime_type=video_mp4&rc=Z2hmNjY2aTgzOTM3NDY7aEBpMzw6cHg5cnM7ZGYzOGc3NEAwMmI2LjIuNi8xNV9gNTVfYSNyXmZoMmRzY2NhLS1kXy1zcw%3D%3D&vvpl=1&l=021788938120277fdbddc5500020001310c1dbf1f000086886195&btag=e00050000)
 
 ### **Responsabilidade do vendedor**
 

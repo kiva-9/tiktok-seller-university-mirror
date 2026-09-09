@@ -3,7 +3,7 @@ title: "Regras detalhadas para dados ausentes/incorretos"
 id: 1042943084496656
 category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1042943084496656"
-update_time: "2026-09-07"
+update_time: "2026-09-08"
 keywords: "Política de vendedor"
 ---
 # O que significa "Ausente/Incorreto"?
@@ -11,9 +11,9 @@ keywords: "Política de vendedor"
 Refere-se à situação em que os produtos entregues pelo vendedor não correspondem ao estilo, cor, tamanho, dimensões ou quantidade especificados no pedido do cliente. Isso inclui, entre outros, erros ou omissões relacionados ao produto, à embalagem, à cor, aos acessórios, aos brindes e à quantidade.  
 Se os vendedores usarem textos, imagens, descrições orais, etc., enganosos ou pouco claros nos nomes de produtos, nas páginas de detalhes do produto ou nas informações de SKU que possam induzir os consumidores a erro sobre o estilo, a cor, o tamanho, as dimensões ou a quantidade do produto, os problemas resultantes também se enquadrarão na categoria de envios incorretos ou ausentes.  
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/061bcafd6a974ad9b1c86f47cba052a8_1788773732~tplv-noop.image?dr=18692&refresh_token=f2cae49a&x-expires=1788872997&x-signature=k5pg6tRA4BtP8SgFBS1XOCliD3Q%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cdaf85f7og65j8qeahnfg)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/061bcafd6a974ad9b1c86f47cba052a8_1788773732~tplv-noop.image?dr=18692&refresh_token=7e4ef5d7&x-expires=1788959885&x-signature=pYA0AQsPiBfibxy6RVDUC7sLIZY%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my3&VideoID=v104bdg5000cdaf85f7og65j8qeahnfg)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/ec79abfcb620c4e0269004c42bb480d2/6aa00925/video/tos/alisg/tos-alisg-v-9e30d3-sg/oUUrGIBKQGVgj3XdICeOdgL1nPe6hDeQNwiLV5/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1363&ft=cApXJCz7ThWHbgS5LGZmo0P&mime_type=video_mp4&rc=ZTU8ZzxmNDU7MzQ2OWk5OUBpanFkdG05cmk7ZGYzOGc3NEBhMDQwYmFgNTYxY2EwNWMzYSNjZWI1MmQ0MmNhLS1kXy1zcw%3D%3D&vvpl=1&l=021788851238657fdbddc530015002e0f0c1dbf1f000072e1748e&btag=e00050000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/f953439cc205a5c2b53b4d22ca3c773e/6aa15c8d/video/tos/alisg/tos-alisg-v-9e30d3-sg/oUUrGIBKQGVgj3XdICeOdgL1nPe6hDeQNwiLV5/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1363&ft=cApXJCz7ThWHBw3JLGZmo0P&mime_type=video_mp4&rc=ZTU8ZzxmNDU7MzQ2OWk5OUBpanFkdG05cmk7ZGYzOGc3NEBhMDQwYmFgNTYxY2EwNWMzYSNjZWI1MmQ0MmNhLS1kXy1zcw%3D%3D&vvpl=1&l=021788938126484fdbddc5500020001310c1dbf1f0000862e91aa&btag=e00050000)
 
 Para mais informações, acesse o vídeo [aqui](https://www.tiktok.com/@sellwithtiktokshop_br/video/7678673969184230677 "https://www.tiktok.com/@sellwithtiktokshop_br/video/7678673969184230677").  
 

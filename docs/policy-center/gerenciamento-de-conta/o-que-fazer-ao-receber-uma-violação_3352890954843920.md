@@ -3,7 +3,7 @@ title: "O que fazer ao receber uma violação"
 id: 3352890954843920
 category: "Gerenciamento de Conta"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3352890954843920"
-update_time: "2026-09-07"
+update_time: "2026-09-08"
 keywords: "Vendedores,Política de vendedor"
 ---
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/cc1f08c96f934619be72de33b609ceea~tplv-nk3i2mqmvs-image.gif?lk3s=5d1a069b&x-expires=2090360010&x-signature=bCw9iV%2BcNi37qfWB1rglPOnY0LU%3D)
@@ -11,9 +11,9 @@ keywords: "Vendedores,Política de vendedor"
 Este guia explica o que você deve fazer ao receber uma violação.  
 Para mais informações, acesse o vídeo aqui:  
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oUUeU1dEvU1cBQxIIBFqxhcDgaQVrB96fonLL2~tplv-noop.image?dr=18692&refresh_token=6c21a3fa&x-expires=1788872999&x-signature=AGqfUKC2S4Ku8HPZny8vFnq51%2BU%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cdaf8el7og65rdahoba6g)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oUUeU1dEvU1cBQxIIBFqxhcDgaQVrB96fonLL2~tplv-noop.image?dr=18692&refresh_token=aed0e896&x-expires=1788959886&x-signature=X1m8wGc3qs0LSQB0xSq25cBKr5g%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my3&VideoID=v104bdg5000cdaf8el7og65rdahoba6g)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/2e5cbc1775aff4e18f42790827ce6c89/6aa00927/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8U9U1dEQU1cgIUQeBFqxD0DgaQ62B17fonLL2/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1301&ft=cApXJCz7ThWHhgS5LGZmo0P&mime_type=video_mp4&rc=NWdoZmRpOWlpaTw1OTM5ZEBpamRyZHU5cm87ZGYzOGc3NEA0YDJfNl8tXy0xLi4wNDQ2YSMzX2VhMmQ0YmNhLS1kXy1zcw%3D%3D&vvpl=1&l=021788851229758fdbddc530015002e0f0c1dbf1f000072013857&btag=e00050000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/2b2752fa70134150680a5b15a8b10ec8/6aa15c8e/video/tos/alisg/tos-alisg-v-9e30d3-sg/o8U9U1dEQU1cgIUQeBFqxD0DgaQ62B17fonLL2/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1301&ft=cApXJCz7ThWHQw3JLGZmo0P&mime_type=video_mp4&rc=NWdoZmRpOWlpaTw1OTM5ZEBpamRyZHU5cm87ZGYzOGc3NEA0YDJfNl8tXy0xLi4wNDQ2YSMzX2VhMmQ0YmNhLS1kXy1zcw%3D%3D&vvpl=1&l=021788938116817fdbddc5500020001310c1dbf1f000086c0a717&btag=e00050000)
 
 ## Como o TikTok Shop notificará você sobre uma violação
 
