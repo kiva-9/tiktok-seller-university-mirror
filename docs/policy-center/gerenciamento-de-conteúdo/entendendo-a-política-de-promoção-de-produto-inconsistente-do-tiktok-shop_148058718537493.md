@@ -3,7 +3,7 @@ title: "Entendendo a política de Promoção de Produto Inconsistente do TikTok 
 id: 148058718537493
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=148058718537493"
-update_time: "2026-07-23"
+update_time: "2026-09-16"
 keywords: ""
 ---
 A violação por **Promoção de Produto Inconsistente** é uma das penalidades mais recorrentes dentro do TikTok Shop. Este artigo explica os erros frequentes que levam a esta punição e como você pode aprimorar seus vídeos e transmissões ao vivo para vender mais, melhorar a experiência dos compradores e manter limpa a sua Classificação de Integridade do Criador.  
@@ -67,4 +67,5 @@ Não use IA para:
 
   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/7a331d9edf0f401b98dbd370ff2e84fd~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2100181721&x-signature=ogoJT%2BrpofrCqjezdYOxI552Tfo%3D)
 
-Para mais informações de como utilizar conteúdo gerado por IA de acordo com as políticas do TikTok Shop, leia o artigo [Restrições e requisitos para conteúdo gerado por IA](https://seller-br.tiktok.com/university/essay?knowledge_id=2324329879832321&lang=pt-BR#vis-o-geral-e-escopo-da-pol-tica "https://seller-br.tiktok.com/university/essay?knowledge_id=2324329879832321&lang=pt-BR#vis-o-geral-e-escopo-da-pol-tica").
+Para mais informações de como utilizar conteúdo gerado por IA de acordo com as políticas do TikTok Shop, leia o artigo [Restrições e requisitos para conteúdo gerado por IA](https://seller-br.tiktok.com/university/essay?knowledge_id=2324329879832321&lang=pt-BR#vis-o-geral-e-escopo-da-pol-tica "https://seller-br.tiktok.com/university/essay?knowledge_id=2324329879832321&lang=pt-BR#vis-o-geral-e-escopo-da-pol-tica").  
+[https://www.tiktok.com/@tiktokshopcreators.br/video/7678395384737123592](https://www.tiktok.com/@tiktokshopcreators.br/video/7678395384737123592 "https://www.tiktok.com/@tiktokshopcreators.br/video/7678395384737123592")

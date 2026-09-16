@@ -1,16 +1,16 @@
 ---
-title: Como evitar violações de marcas comerciais
+title: "Como evitar violações de marcas comerciais"
 id: 5398633114650369
-category: Direitos de Propriedade Intelectual
+category: "Direitos de Propriedade Intelectual"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5398633114650369"
-update_time: 2025-03-24
+update_time: "2026-09-15"
 keywords: "Seller Policy,Sellers"
 ---
+O TikTok Shop mantém uma política rígida contra todas as formas de violação de propriedade intelectual, ou IP (*Intellectual Property*). A publicidade, promoção e venda de produtos que infrinjam direitos de propriedade intelectual de terceiros no TikTok Shop, incluindo marcas comerciais, é estritamente proibida. Consulte nossa **Política de propriedade intelectual do TikTok Shop** para obter mais informações.  
 
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/c6202a4116d44318890b5dc44188243b_1789472102~tplv-noop.image?dr=18692&refresh_token=f28aeeac&x-expires=1789565618&x-signature=D6hboT7bJBYveX7aN0tGyHBkZuQ%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdakio3fog65q3ido5v1g)
 
-
-
-O TikTok Shop mantém uma política rígida contra todas as formas de violação de propriedade intelectual, ou IP (*Intellectual Property*). A publicidade, promoção e venda de produtos que infrinjam direitos de propriedade intelectual de terceiros no TikTok Shop, incluindo marcas comerciais, é estritamente proibida. Consulte nossa **Política de propriedade intelectual do TikTok Shop** para obter mais informações.   
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/0979244d3c8c153dbaeb7d78b06f781f/6aaa9ab2/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMqqW0fLEFSDBFOLINqpOBx0Q1FgkQfTIgcDwE/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1211&ft=cApXJCz7ThWHeIubLGZmo0P&mime_type=video_mp4&rc=aDs1aTNoM2g2ZTw8ODczNUBpanlybHQ5cjZsZGYzOGc3NEA2Ni4xYS41XmMxYl8yNjBeYSMuMmEwMmRjbGhhLS1kXy1zcw%3D%3D&vvpl=1&l=021789543734433fdbddc5300030629240c1dbf1f0000860b09f5&btag=e00058000)
 
 # **O que é uma marca comercial?**
 
