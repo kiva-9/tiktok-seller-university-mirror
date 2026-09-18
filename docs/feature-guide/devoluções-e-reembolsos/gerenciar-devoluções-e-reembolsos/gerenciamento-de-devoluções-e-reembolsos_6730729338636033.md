@@ -3,7 +3,7 @@ title: "Gerenciamento De Devoluções e Reembolsos"
 id: 6730729338636033
 category: "Gerenciar devoluções e reembolsos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6730729338636033"
-update_time: "2026-09-04"
+update_time: "2026-09-18"
 keywords: "Sellers"
 ---
 Este artigo apresenta um resumo de como funciona o processo de devolução e reembolso para ajudar você a gerenciar as solicitações dos clientes e oferecer uma boa experiência de compra.
@@ -34,7 +34,7 @@ Esses novos filtros rápidos incluem:
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/47c8478a240f44d7be32845625e1c21b~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2068158266&x-signature=3aph%2FxPzzH4R5ukFd1mk6EyBmvQ%3D)
 
-* Para solicitações **somente de reembolso**, você tem **3 dias úteis para aprovar ou rejeitar** cada solicitação com base nos seus méritos. Se você perder esse prazo, a plataforma aprovará automaticamente essas solicitações e emitirá o reembolso para os compradores.
+* Para solicitações **somente de reembolso**, você tem **2 dias úteis para aprovar ou rejeitar** cada solicitação com base nos seus méritos. Se você perder esse prazo, a plataforma aprovará automaticamente essas solicitações e emitirá o reembolso para os compradores.
 * Para solicitações de **devolução e reembolso**, na maioria dos casos, a plataforma aprovará automaticamente as solicitações. Você deve aguardar o comprador enviar o produto de volta e então inspecionar o(s) item(ns). Nesta etapa, você tem a opção de **emitir o reembolso ou rejeitar o pacote devolvido dentro de 2 dias úteis**. Se você aceitar, o sistema iniciará o reembolso ao comprador. No entanto, se você rejeitar a devolução, será necessário selecionar o motivo da recusa e enviar as evidências necessárias.
 
 |  |  |

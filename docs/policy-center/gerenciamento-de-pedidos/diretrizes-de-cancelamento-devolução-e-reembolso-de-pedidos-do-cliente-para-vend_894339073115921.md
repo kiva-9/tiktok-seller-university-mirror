@@ -1,15 +1,11 @@
 ---
 title: "Diretrizes de Cancelamento, Devolução e Reembolso de Pedidos do Cliente para Vendedores do TikTok Shop"
 id: 894339073115921
-category: Gerenciamento de Pedidos
+category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=894339073115921"
-update_time: 2026-05-18
-keywords: Seller Policy
+update_time: "2026-09-18"
+keywords: "Seller Policy"
 ---
-
-
-
-
 1. # **Introdução**
 
 A **Política de Cancelamento, Devolução e Reembolso de Pedidos do Cliente do TikTok Shop** cobre nossos requisitos pós-venda para cancelamentos de pedidos, devoluções de pedidos e reembolsos.  
@@ -102,11 +98,12 @@ A seguir estão as diretrizes gerais que os vendedores devem seguir em relação
 ## **4.2 Processando Devoluções e Reembolsos**
 
 Se um cliente fizar uma solicitação de devolução, o vendedor deverá seguir as diretrizes abaixo para lidar com a solicitação de devolução adequadamente.   
-**4.2.1 Princípios Básicos de Reembolso ou Devolução**
+
+### **4.2.1 Princípios Básicos de Reembolso ou Devolução**
 
 * O Tiktok Shop aprovará **automaticamente** todas as requisições de categoria retornáveis, exceto para categorias que têm retornos condicionais.
 * Para categorias que exigem aprovação, os vendedores têm até **3 dias úteis** (excluindo fins de semana) para analisar solicitações de devolução e reembolso. Se nenhuma ação for tomada pelo vendedor após **3 dias úteis** (excluindo fins de semana) a partir do envio da solicitação, o TikTok Shop aprovará automaticamente a solicitação de devolução.
-* Os vendedores têm **3 dias úteis** (excluindo fins de semana e feriados federais) para analisar as solicitações somente de reembolso. Se nenhuma ação for tomada pelo vendedor após **3 dias úteis** (excluindo fins de semana) do envio da solicitação, o Tiktok Shop aprovará automaticamente a solicitação de reembolso.
+* Os vendedores têm **2 dias úteis** (excluindo fins de semana e feriados federais) para analisar as solicitações somente de reembolso. Se nenhuma ação for tomada pelo vendedor após **2 dias úteis** (excluindo fins de semana) do envio da solicitação, o Tiktok Shop aprovará automaticamente a solicitação de reembolso.
 * O cliente deve enviar as informações necessárias e devolver o produto em até **14 dias consecutivos** contados da aprovação do pedido de devolução pelo vendedor. Caso contrário, o pedido de devolução será encerrado.
 * Os clientes devem garantir, ao fazer uma devolução, que retornarão o(s) mesmo(s) produto(s) enviado(s) pelo vendedor, nas mesmas condições em que o(s) produto(s) foi(ram) recebido(s). Se um cliente enviar o item errado ou em condições diferentes daquelas de recebimento, os vendedores poderão abrir um tíquete na Central de Vendedores e selecionar o motivo "Reclamações e Litígios - Cliente", dentro de **3 dias úteis** (exceto fins de semana) a partir do recebimento do item.
   + O Vendedor deverá anexar fotos do produto e da pacote, com uma descrição detalhada do problema na devolução.
