@@ -3,7 +3,7 @@ title: "Restrições e requisitos para conteúdo gerado por IA"
 id: 2324329879832321
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2324329879832321"
-update_time: "2026-09-15"
+update_time: "2026-09-20"
 keywords: "Política de vendedor"
 ---
 ![葡语版头条.jpg](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/aa7f26412705434596b508327b47eb99~tplv-nk3i2mqmvs-image.jpg?lk3s=5d1a069b&x-expires=2092276469&x-signature=qVEcMxHxSH5WON7mqNe1Foy2GbU%3D)**Pontos principais**
@@ -14,9 +14,9 @@ keywords: "Política de vendedor"
 > * Respeite a propriedade intelectual: não use IA para criar conteúdo que use a imagem, a voz, o nome ou as marcas registradas de terceiros sem a devida autorização.
 > * Entenda as consequências: violar estas regras pode levar a ações contra o seu conteúdo (como remoção ou restrição de visibilidade) e contra a sua conta (como avisos, restrições ou até mesmo banimentos permanentes em casos de violações graves).
 >
->   ![视频 1 封面](https://p19-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/okEXpFVflCZUDaDdIfmZogBBE1KBoU9e5SAirI~tplv-noop.image?dr=18692&refresh_token=a355743f&x-expires=1789565489&x-signature=wmP9SfxOhC11pDBd%2BEuFUMqfTmg%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdakig7nog65uvgbbikk0)
+>   ![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/okEXpFVflCZUDaDdIfmZogBBE1KBoU9e5SAirI~tplv-noop.image?dr=18692&refresh_token=4bd19e97&x-expires=1789998757&x-signature=nh9Q2yVEUt6w6uyNv7DyRir%2FTv8%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my3&VideoID=v104bdg5000cdakig7nog65uvgbbikk0)
 >
->   [🎬 视频 1](https://v16m-default.tiktokcdn.com/46a3513c13a4defddc27ebd69bf05697/6aaa9a31/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMDfpNfAQaUlVFYXug9CiegoEUEDKIBBr5uPSv/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1383&ft=cApXJCz7ThWHHaubLGZmo0P&mime_type=video_mp4&rc=aTVpPDQ8ODs2aDVoZDw3aUBpM25lang5cjpsZGYzOGc3NEBjYTNgYzJjX2MxLi0vXjEtYSNoZl9zMmRrZGhhLS1kXy1zcw%3D%3D&vvpl=1&l=021789543746169fdbddc5300030629240c1dbf1f000086f10b50&btag=e00050000)
+>   [🎬 视频 1](https://v16m-default.tiktokcdn.com/9d3d86d4b9b455b642a0d455558f036a/6ab136a5/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMDfpNfAQaUlVFYXug9CiegoEUEDKIBBr5uPSv/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1383&ft=cApXJCz7ThWHe2yHLGZmo0P&mime_type=video_mp4&rc=aTVpPDQ8ODs2aDVoZDw3aUBpM25lang5cjpsZGYzOGc3NEBjYTNgYzJjX2MxLi0vXjEtYSNoZl9zMmRrZGhhLS1kXy1zcw%3D%3D&vvpl=1&l=021789977014602fdbddc5500040b162e0c1dbf1f00007a4fdb16&btag=e00050000)
 
 ## Visão geral e escopo da política
 
