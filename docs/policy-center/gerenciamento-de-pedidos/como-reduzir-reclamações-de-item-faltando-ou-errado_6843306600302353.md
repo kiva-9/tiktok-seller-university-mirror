@@ -1,20 +1,20 @@
 ---
-title: Como Reduzir Reclamações de \\Item Faltando ou Errado\
+title: "Como Reduzir Reclamações de \"Item Faltando ou Errado\""
 id: 6843306600302353
-category: Gerenciamento de Pedidos
+category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6843306600302353"
-update_time: 2025-12-10
-keywords: Política de vendedor
+update_time: "2026-09-23"
+keywords: "Política de vendedor"
 ---
-
-
-
-
 # **Pontos Principais**
 
 * Resumo das reclamações mais comuns de "Item Faltando ou Errado" e como evitá-las.
 * Enfoque na melhoraria da precisão dos pedidos por meio de melhor verificação, embalagem, listagens e manuseio de estoque.
 * Suporte aos comerciantes para reduzir reclamações evitáveis e manter um desempenho estável da loja.
+
+  ![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/ogfamy8gZCDFB1WEAILJevigu5fBRVHxDXrzEi~tplv-noop.image?dr=18692&refresh_token=f779b60c&x-expires=1790256671&x-signature=ebXLvUVasV%2BpFJD5J03GKOnNTpA%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdappfv7og65uss84neb0)
+
+  [🎬 视频 1](https://v16m-default.tiktokcdn.com/e82d7f456f1befba2c3a78cc28e6f711/6ab5261f/video/tos/alisg/tos-alisg-v-9e30d3-sg/oUgLZW7ruI5BXmxDEVyBOfDeF8fQiCSPGEpzHE/?a=6556&bti=ODY2QDQwNWA%3D&&bt=805&ft=cApXJCz7ThWHb94NLGZmo0P&mime_type=video_mp4&rc=N2Y8ZjtlZTc3O2U7Njs4NEBpM2g3dng5cnlzZGYzOGc3NEAzLjYuYjBgNWExNi5gLzYuYSNfazVwMmQ0Y21hLS1kXy1zcw%3D%3D&vvpl=1&l=021790234918010fdbddc5300000661260c1dbf1f0000190a5a82&btag=e00050000)
 
 ---
 

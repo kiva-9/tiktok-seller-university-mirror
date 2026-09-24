@@ -3,7 +3,7 @@ title: "Guia para obter autorização da marca"
 id: 5407942887311105
 category: "Direitos de Propriedade Intelectual"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5407942887311105"
-update_time: "2026-09-04"
+update_time: "2026-09-23"
 keywords: "IPR,Brand"
 ---
 # Pontos principais
@@ -17,6 +17,10 @@ Sem a autorização adequada da marca, você pode enfrentar:
 * Restrições de anúncios
 * Remoções de anúncios
 * Outras ações disciplinares
+
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/owEWQg6f0YHIAbXrCqZVhCFeuZUDdeBDiBzGzC~tplv-noop.image?dr=18692&refresh_token=c5f1fe7a&x-expires=1790256793&x-signature=Zljz7Fv%2BiAAuzFI%2Bk5yu%2Bk19qMs%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdapqf0nog65pobk013rg)
+
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/f9f1f7a5551599785b2b7bbdcacb119d/6ab52699/video/tos/alisg/tos-alisg-v-9e30d3-sg/oU0CgLGArXDf3RTFBOIg68CipCCBenoAZVecPr/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1211&ft=cApXJCz7ThWHh94NLGZmo0P&mime_type=video_mp4&rc=aDVpOzdoOmVkOWhkZmhlZ0BpajYzZXM5cjN0ZGYzOGc3NEBgLmA0XjIyXzIxM2EzLjZgYSNvLmhsMmRrY21hLS1kXy1zcw%3D%3D&vvpl=1&l=021790234909442fdbddc5300050277220c1dbf1f000032bc84cb&btag=e00058000)
 
 # Como a autorização da marca funciona
 

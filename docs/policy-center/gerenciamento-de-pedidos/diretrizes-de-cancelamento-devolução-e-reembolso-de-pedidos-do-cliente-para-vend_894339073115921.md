@@ -3,7 +3,7 @@ title: "Diretrizes de Cancelamento, Devolução e Reembolso de Pedidos do Client
 id: 894339073115921
 category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=894339073115921"
-update_time: "2026-09-18"
+update_time: "2026-09-24"
 keywords: "Seller Policy"
 ---
 1. # **Introdução**
@@ -101,25 +101,26 @@ Se um cliente fizar uma solicitação de devolução, o vendedor deverá seguir 
 
 ### **4.2.1 Princípios Básicos de Reembolso ou Devolução**
 
-* O Tiktok Shop aprovará **automaticamente** todas as requisições de categoria retornáveis, exceto para categorias que têm retornos condicionais.
-* Para categorias que exigem aprovação, os vendedores têm até **3 dias úteis** (excluindo fins de semana) para analisar solicitações de devolução e reembolso. Se nenhuma ação for tomada pelo vendedor após **3 dias úteis** (excluindo fins de semana) a partir do envio da solicitação, o TikTok Shop aprovará automaticamente a solicitação de devolução.
+* O Tiktok Shop aprovará **automaticamente** todas as requisições de categoria retornáveis, exceto para categorias que têm retornos condicionais (por exemplo: itens customizáveis e alguns itens colecionáveis)
+* Para categorias que exigem aprovação, os vendedores têm até **3 dias úteis** (excluindo fins de semana) para analisar solicitações de devolução e reembolso. Se nenhuma ação for tomada pelo vendedor após **3 dias úteis** (excluindo fins de semana) a partir do envio da solicitação, o TikTok Shop aprovará automaticamente a solicitação de devolução e gerará o código para devolução.
+* Se o vendedor não tomar nenhuma ação dentro de **2 dias úteis** (excluindo fins de semana) após o recebimento do produto devolvido (conforme data em que o provedor de logística informa que o pacote foi devolvido ao vendedor), o pedido de devolução e reembolso será automaticamente aprovado. No entanto, os vendedores ainda podem abrir uma disputa no prazo de 15 dias na Central de Vendedores, se, por qualquer motivo, discordarem dessa aprovação. Os processos de reembolso cujo período de disputa expirou, conforme mencionado neste item, não serão revisados pelo Tiktok Shop em nenhuma circunstância.
 * Os vendedores têm **2 dias úteis** (excluindo fins de semana e feriados federais) para analisar as solicitações somente de reembolso. Se nenhuma ação for tomada pelo vendedor após **2 dias úteis** (excluindo fins de semana) do envio da solicitação, o Tiktok Shop aprovará automaticamente a solicitação de reembolso.
 * O cliente deve enviar as informações necessárias e devolver o produto em até **14 dias consecutivos** contados da aprovação do pedido de devolução pelo vendedor. Caso contrário, o pedido de devolução será encerrado.
-* Os clientes devem garantir, ao fazer uma devolução, que retornarão o(s) mesmo(s) produto(s) enviado(s) pelo vendedor, nas mesmas condições em que o(s) produto(s) foi(ram) recebido(s). Se um cliente enviar o item errado ou em condições diferentes daquelas de recebimento, os vendedores poderão abrir um tíquete na Central de Vendedores e selecionar o motivo "Reclamações e Litígios - Cliente", dentro de **3 dias úteis** (exceto fins de semana) a partir do recebimento do item.
-  + O Vendedor deverá anexar fotos do produto e da pacote, com uma descrição detalhada do problema na devolução.
-* Se o TikTok Shop determinar que há problemas de devolução causados pelo cliente, não deduzirá o valor do saldo do vendedor ou, se já o tiver deduzido, realizará o seu reembolso.
+* Se um cliente enviar o item errado ou em condições diferentes daquelas de recebimento, os vendedores poderão abrir uma disputa na Central de Vendedores dentro de **2 dias úteis** (exceto fins de semana) a partir do recebimento do item.
+* O Vendedor deverá anexar fotos do produto e da pacote, com uma descrição detalhada do problema na devolução.
+  + Se o TikTok Shop determinar que há problemas de devolução causados pelo cliente, não deduzirá o valor do saldo do vendedor ou, se já o tiver deduzido, realizará o seu reembolso.
 * O TikTok Shop não reembolsará o valor ao vendedor que abrir um bilhete envolvendo uma devolução se:
   + O produto recebido pelo vendedor possuir os mesmos defeitos ou características relatados pelo cliente ao solicitar uma devolução.
-  + Se o produto correto foi devolvido ao vendedor, mas sem a caixa ou embalagem, ou com a caixa ou embalagem original aberta ou danificada.
-  + O vendedor não incluiu no bilhete a documentação necessária para comprovar o problemas relatados na devolução feita pelo cliente.
+  + Se o produto correto foi devolvido ao vendedor, mas sem a caixa ou embalagem, ou com a caixa ou embalagem original aberta ou danificada, exceto para produtos de cuidados pessoais (cosméticos, higiene pessoal e perfumes) e alimentos e bebidas, que devem ser devolvidos lacrados e fechados. Para esses itens, o vendedor pode recusar a devolução caso o produto tenha sido aberto, exceto quando a devolução ocorrer devido a um defeito no produto ou por outro motivo de responsabilidade do vendedor.
+    - Itens de roupa íntima e moda praia também poderão ser recusados, caso as etiquetas de proteção tenham sido removidas, permitindo que os vendedores rejeitem o item devolvido.
+  + O vendedor não incluiu na disputa a documentação necessária para comprovar o problemas relatados na devolução feita pelo cliente.
   + O vendedor confirmou o recebimento da devolução sem intercorrências, mas posteriorment informou que não recebeu o produto ou que o recebeu com problemas.
   + O vendedor mudou de endereço, mas não atualizou os dados de sua conta e a devolução foi enviada para o endereço desatualizado, registrado na conta do vendedor.
 * É responsabilidade do vendedor rastrear todos os itens devolvidos pelo cliente usando as informações fornecidas pelo provedor de logística.
-* Se o vendedor não tomar nenhuma ação dentro de **2 dias úteis** (excluindo fins de semana) após o recebimento do produto devolvido (conforme data em que o provedor de logística informa que o pacote foi devolvido ao vendedor), o pedido de devolução e reembolso será automaticamente aprovado. No entanto, os vendedores ainda podem abrir um bilhete no prazo de 30 dias na Central de Vendedores e selecionar o motivo "Reclamações e Litígios - Cliente", se, por qualquer motivo, discordarem dessa aprovação. Os processos de reembolso cujo período de disputa expirou, conforme mencionado neste item, não serão revisados pelo Tiktok Shop em nenhuma circunstância.
 * Os vendedores podem optar por reembolsar o cliente mesmo em caso de não recebimento dos produtos devolvidos. No entanto, os vendedores devem aceitar o risco ou perda relevante associados a esta decisão.
 * Para proteger os direitos do cliente, o TikTok Shop pode processar qualquer solicitação de reembolso se a loja de um vendedor estiver desativada e gerenciar qualquer recuperação de fundos para reembolso do cliente.
 * Os vendedores são responsáveis por atualizar prontamente o endereço de retorno dos produtos ao alterar seu endereço. A omissão quanto à atulização dos endereços para a devolução de produtos por clientes poderá resultar na perda do pacote devolvido e de quaisquer itens contidos nele.
-* O TikTok Shop tem o direito de tomar as medidas adequadas, que podem incluir, mas não se limitam a, destruição ou doação do item não reclamado em quaisquer circunstâncias em que o produto não possa ser entregue ao vendedor, em virtude de endereço desatualizado ou incorreto.
+* O TikTok Shop tem o direito de tomar as medidas apropriadas, que podem incluir, entre outras, a reciclagem, destruição, entrega às autoridades competentes ou outra forma adequada de descarte de qualquer item não reclamado, quando o item não puder ser entregue no endereço de entrega indicado, inclusive quando a entrega for recusada pelo cliente.
 * A tabela abaixo mostra quem é responsável pelos **custos de frete de retorno** (produtos devolvidos de cliente para vendedor) e **custos de frete** (envio de produtos de vendedor para cliente), respectivamente:
 
 |  |  |  |

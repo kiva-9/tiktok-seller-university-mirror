@@ -1,20 +1,20 @@
 ---
-title: Política de Listagem de Produtos do TikTok Shop
+title: "Política de Listagem de Produtos do TikTok Shop"
 id: 6483182812759824
-category: Gerencie seus produtos
+category: "Gerencie seus produtos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6483182812759824"
-update_time: 2026-02-26
+update_time: "2026-09-23"
 keywords: "Sellers,Seller Policy"
 ---
-
-
-
-
 # Visão Geral
 
 Bem-vindo à **Política de Listagem de Produtos do TikTok Shop**, um recurso abrangente que descreve as regras para listagens de produtos em nossa plataforma. Esta política pode ser atualizada regularmente a critério exclusivo do TikTok. É responsabilidade dos vendedores consultar frequentemente esta página para garantir a conformidade com nossa política mais atualizada.  
 O TikTok Shop pode tomar medidas corretivas contra vendedores ou criadores que violem esta política de acordo com nossos Termos de Serviço do Vendedor. Os produtos oferecidos no TikTok Shop devem cumprir todas as leis e regulamentos federais, estaduais e locais aplicáveis, bem como todas as políticas do TikTok Shop relacionadas a esses produtos e suas listagens.  
 Os vendedores são obrigados a cumprir os requisitos estabelecidos nesta política e nas [Diretrizes da Comunidade](https://www.tiktok.com/community-guidelines/pt/ "https://www.tiktok.com/community-guidelines/pt/") do TikTok. Esta política não se destina a ser um aconselhamento jurídico. Incentivamos os vendedores a buscar aconselhamento jurídico independente se tiverem dúvidas sobre as leis e regulamentações relativas aos seus produtos.  
+
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oMfVcpJfAiEQCrBmBELuZqgGleCL6Z1IDXCWzI~tplv-noop.image?dr=18692&refresh_token=fd42db59&x-expires=1790256649&x-signature=Z2hKrvXp5V0n6A4xZxCZO9gDkkA%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdapqicnog65k7obvkbn0)
+
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/66472a22cf0da46450512ff89a64a6a3/6ab52609/video/tos/alisg/tos-alisg-v-9e30d3-sg/oQIMVZghtfl1XCcegXJDB08iQugczXfQFB8Wrq/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1798&ft=cApXJCz7ThWHq94NLGZmo0P&mime_type=video_mp4&rc=OTM5ZDNoNWczOThkMztlNUBpM2V5cm45cmZ0ZGYzOGc3NEAzNmAwNWBgNjUxMmIvYDFeYSNraF80MmRrZm1hLS1kXy1zcw%3D%3D&vvpl=1&l=021790234904020fdbddc5300000661260c1dbf1f000019497a6d&btag=e00050000)
 
 # **Comportamentos Proibidos de Listagem de Produtos**
 
