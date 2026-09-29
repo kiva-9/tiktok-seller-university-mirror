@@ -3,7 +3,7 @@ title: "O que são funcionalidade e efeito enganosos?"
 id: 4209017896060688
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4209017896060688"
-update_time: "2026-09-28"
+update_time: "2026-09-29"
 keywords: "Criadores,Política de Criador"
 ---
 # **A importância do marketing honesto dos produtos**
@@ -18,9 +18,9 @@ O conteúdo é considerado **enganoso em termos de funcionalidade e efeito** qua
 * O conteúdo pode estar em vários formatos, como vídeos do TikTok Shop, transmissões ao vivo e páginas de anúncios de produtos;
 * Outros tipos de conteúdo sujeitos a estas diretrizes incluem títulos de vídeos e transmissões ao vivo, descrições, hashtags, hiperlinks, links de âncora e imagens.
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4mcDf2GXERgQe8LwCVBFClzIprfiOoGVDRqhY~tplv-noop.image?dr=18692&refresh_token=ea566828&x-expires=1790606013&x-signature=2Pw7eGFbgGQX4moILOsrAZzOCuA%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdasvj1nog65rc4m385hg)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4mcDf2GXERgQe8LwCVBFClzIprfiOoGVDRqhY~tplv-noop.image?dr=18692&refresh_token=8da309b0&x-expires=1790691316&x-signature=En9SbIa9cG3E9pwb%2FUSM7o%2Fg6zo%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cdasvj1nog65rc4m385hg)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/a11afeba2ffabcd79033d863ff3b755a/6aba7abd/video/tos/alisg/tos-alisg-v-9e30d3-sg/owEEIgqffhLQhFXrGecVwhFmGYqDl1BDio2EzC/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1385&ft=cApXJCz7ThWH5lDWLGZmo0P&mime_type=video_mp4&rc=ZGQzMzQ2NjMzNTdnaDRnZkBpajg2N3U5cjR5ZGYzOGc3NEBeNjEzMzJgXy0xNGMtYWBhYSNlNWpgMmRrZ3BhLS1kXy1zcw%3D%3D&vvpl=1&l=021790584211104fdbddc53000104151d0c1dbf1f0000e55b59f6&btag=e00058000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/cacd67df56564bb2f6083e98551f4af4/6abbc7f4/video/tos/alisg/tos-alisg-v-9e30d3-sg/owEEIgqffhLQhFXrGecVwhFmGYqDl1BDio2EzC/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1385&ft=cApXJCz7ThWHjv.WLGZmo0P&mime_type=video_mp4&rc=ZGQzMzQ2NjMzNTdnaDRnZkBpajg2N3U5cjR5ZGYzOGc3NEBeNjEzMzJgXy0xNGMtYWBhYSNlNWpgMmRrZ3BhLS1kXy1zcw%3D%3D&vvpl=1&l=021790669514319fdbddc530036003c130c1dbf1f0000992f8fba&btag=e00058000)
 
 ## **O que é conteúdo enganoso?**
 
