@@ -3,13 +3,13 @@ title: "Política de Logística do TikTok Shop"
 id: 1444948508280592
 category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1444948508280592"
-update_time: "2026-09-23"
+update_time: "2026-09-30"
 keywords: "Seller Policy"
 ---
 # Visão Geral
 
 A **Política de Logística do TikTok Shop** abrange uma variedade de termos e métricas relacionadas ao processamento de vendas no Brasil.   
-*As informações contidas nesta política não são exaustivas e não constituem aconselhamento jurídico. Incentivamos os vendedores a procurar aconselhamento jurídico se você tiver alguma dúvida sobre as leis e regulamentos aplicáveis a seus produtos ou embalagens.*Nossas políticas do TikTok Shop são atualizadas periodicamente. Geralmente, notificaremos os vendedores sobre quaisquer alterações a esta política. Por favor consulte os Termos de Serviço do Vendedor (conforme aplicável) para obter detalhes sobre como podemos fazer alterações em nossos termos e políticas. Em qualquer caso, os vendedores devem consultar esta página regularmente para garantir a conformidade com nossa política atual.  
+*As informações contidas nesta política não são exaustivas e não constituem aconselhamento jurídico. Incentivamos os vendedores a procurar aconselhamento jurídico se você tiver alguma dúvida sobre as leis e regulamentos aplicáveis a seus produtos ou embalagens.*Nossas políticas do TikTok Shop são atualizadas periodicamente. Geralmente, notificaremos os vendedores sobre quaisquer alterações a esta política. Por favor consulte os [Termos de Serviço do Vendedor (conforme aplicável)](https://seller-br.tiktok.com/university/essay?knowledge_id=3268441302615809&default_language=en&identity=1 "https://seller-br.tiktok.com/university/essay?knowledge_id=3268441302615809&default_language=en&identity=1") para obter detalhes sobre como podemos fazer alterações em nossos termos e políticas. Em qualquer caso, os vendedores devem consultar esta página regularmente para garantir a conformidade com nossa política atual.  
 
 # **Definições**
 
@@ -148,10 +148,14 @@ Para determinar o carimbo de data e hora do Em Trânsito para Envio (ou TTS) (o 
 
 # Período de Cálculo de Métricas de Logística e Metas
 
-## **Taxa de Despacho Atrasado**
+## **Taxa de envio atrasado (LDR)**
 
-A Taxa de envio atrasado (LDR) é calculada como a porcentagem de pedidos no período de cálculo aplicável que não mudaram para o status Trânsito para envio (ou TTS), Enviado ou Despachado após 2 dias úteis. Essa métrica inclui tanto os pedidos despachados com atraso como os pedidos que continuam não enviados após o prazo de envio. Espera-se que todos os vendedores mantenham sempre um LDR igual ou inferior a 4%.  
-***Observação:*** *Taxa de envio atrasado (LDR) = (Pedidos enviados com atraso + Pedidos já atrasados não enviados) ÷ (Total de pedidos com envio previsto para esse período)*
+A Taxa de envio atrasado (LDR) é calculada como a porcentagem de pedidos no período de cálculo aplicável que não mudaram para o status Trânsito para envio (ou TTS), Enviado ou Despachado após 2 dias úteis. Essa métrica inclui tanto os pedidos despachados com atraso como os pedidos que continuam não enviados após o prazo doe SLA envio. Espera-se que todos os vendedores mantenham sempre uma LDR igual ou menor que 4%.  
+***Nota:*** *Taxa de envio atrasado (LDR) = (Pedidos enviados com atraso + Pedidos já atrasados não enviados pós-SLA) ÷ (Total de pedidos com envio previsto para esse período)*
+
+## **Taxa de envio rápido**
+
+A Taxa de envio rápido (ou FDR) é calculada como a porcentagem de pedidos no período de cálculo aplicável que alcançaram o status Trânsito para envio (ou TTS), Enviado ou Despachado dentro de 1 dia útil. Os vendedores devem se esforçar para manter uma FDR igual ou maior que 90%.***Observação****: Taxa de envio rápido (FDR) = (Pedidos enviados dentro de 1 dia útil) ÷ (Total de pedidos com envio previsto para esse período)*
 
 ## **Taxa de Cancelamento por Falha do Vendedor**
 
