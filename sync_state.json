@@ -1696,7 +1696,7 @@
   },
   "1144593894655760": {
     "title": "Conteúdo de imagens estáticas: o que é isso?",
-    "last_modified": 1790753627552,
+    "last_modified": 1790772591875,
     "file": "docs/policy-center/gerenciamento-de-conteúdo/conteúdo-de-imagens-estáticas-o-que-é-isso_1144593894655760.md"
   },
   "1413208980588305": {
@@ -2068,5 +2068,10 @@
     "title": "Diretriz para  de Qualificação de categoria",
     "last_modified": 1790695303075,
     "file": "docs/policy-center/gerencie-seus-produtos/diretriz-para-de-qualificação-de-categoria_7734094290093831.md"
+  },
+  "8115097302763284": {
+    "title": "Preencher as informações de peso e escala no nível do SKU",
+    "last_modified": 1790764653435,
+    "file": "docs/feature-guide/produtos/gerenciar-produtos/preencher-as-informações-de-peso-e-escala-no-nível-do-sku_8115097302763284.md"
   }
 }

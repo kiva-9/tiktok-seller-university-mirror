@@ -18,9 +18,9 @@ keywords: "Criadores,Política de Criador"
 Criar conteúdo atraente no TikTok Shop não significa apenas mostrar produtos — trata-se de conectar-se com seu público e construir confiança.  
 Usar conteúdo de imagens estáticas pode impactar negativamente a experiência do espectador, reduzindo o engajamento e o interesse. Esse tipo de conteúdo geralmente leva a uma menor retenção de público e pode até resultar na perda de seguidores.  
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o8L1FEFYsEB76RQffeFAWQgtDeqsfBFg1fnxeWe~tplv-noop.image?dr=18692&refresh_token=5dd8f4cd&x-expires=1790777965&x-signature=QZ7sONvguw7%2By80gLeT7PDGHiDk%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cdapqmhfog65uuttfvnog)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o8L1FEFYsEB76RQffeFAWQgtDeqsfBFg1fnxeWe~tplv-noop.image?dr=18692&refresh_token=d91445c8&x-expires=1790865737&x-signature=VTG7K4OgD0H1gOIOvtn1HBtVS30%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdapqmhfog65uuttfvnog)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/2ac10c305c74a9a60eec7987878b67a5/6abd1a6d/video/tos/alisg/tos-alisg-v-9e30d3-sg/oYvv3xEEIBgqFUsfvrFQzM2fxDtXsLx7DB61Q9/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1583&ft=cApXJCz7ThWHPIXaLGZmo0P&mime_type=video_mp4&rc=aTU3NzhpODczNzg5PDQ5aUBpanFpd3g5cmt0ZGYzOGc3NEAxLTIyMy42XjAxMy9gNWNhYSNsc3FyMmRjam1hLS1kXy1zcw%3D%3D&vvpl=1&l=021790756118962fdbddc53001002000c0c1dbf1f00006ea52b09&btag=e00058000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/d260f69b85bc0a0bd79cac0f71857929/6abe7149/video/tos/alisg/tos-alisg-v-9e30d3-sg/oYvv3xEEIBgqFUsfvrFQzM2fxDtXsLx7DB61Q9/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1583&ft=cApXJCz7ThWH~4laLGZmo0P&mime_type=video_mp4&rc=aTU3NzhpODczNzg5PDQ5aUBpanFpd3g5cmt0ZGYzOGc3NEAxLTIyMy42XjAxMy9gNWNhYSNsc3FyMmRjam1hLS1kXy1zcw%3D%3D&vvpl=1&l=021790843891919fdbddc5300020097160c1dbf1f00005fb12f9e&btag=e00058000)
 
 # **Práticas que recomendamos**
 
