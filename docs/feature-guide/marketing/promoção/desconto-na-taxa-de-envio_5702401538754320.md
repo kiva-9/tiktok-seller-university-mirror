@@ -1,15 +1,11 @@
 ---
-title: Desconto na Taxa de Envio
+title: "Desconto na Taxa de Envio"
 id: 5702401538754320
-category: Promoção
+category: "Promoção"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5702401538754320"
-update_time: 2026-02-11
-keywords: Sellers
+update_time: "2026-10-01"
+keywords: "Sellers"
 ---
-
-
-
-
 Este artigo ensina como usar a ferramenta Desconto na taxa de envio. Você aprenderá a configurar e gerenciar as promoções de Desconto na taxa de envio no seu PC da Central do vendedor.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/dd094717d4514502bcec4e1ad423d986~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059609713&x-signature=m9fFUqka2tL0U88NjlkSLPXedkU%3D)
@@ -48,7 +44,7 @@ Para criar um desconto na taxa de envio na Central do vendedor no PC, acesse a g
 
 |  |  |
 | --- | --- |
-| image | image |
+| image.png | image.png |
 
 **Informações básicas**
 
@@ -60,9 +56,7 @@ Para criar um desconto na taxa de envio na Central do vendedor no PC, acesse a g
   + Todos os métodos de envio: todos os métodos de envio, incluindo envio expresso, entrega no dia seguinte, frete econômico e envio padrão.
 * **Área de envio** 
   + Todas as áreas
-  + Áreas específicas
-
-    ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/7000bc6715c64bfaaf4b26cd29e1f784~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059609712&x-signature=vtM2f9erjnuJbC2z6suIpcAR4Ws%3D)
+  + Áreas específicas ![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/71373ea010d94c07af472687e6ac71a2~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2106237272&x-signature=VhvbdbPFF4QLNOlUY6n9k3x7viY%3D)
 
 **Configurações de desconto**
 
@@ -79,7 +73,7 @@ Para criar um desconto na taxa de envio na Central do vendedor no PC, acesse a g
 
 **Selecione os produtos:** selecione se a promoção será aplicada a **toda a loja** ou a **produtos específicos**.
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/c91119be55f74d948137c7aa7326a6a9~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059609710&x-signature=9LAg0k%2BFuJ70cvvHgyt%2FViiEnsQ%3D)
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ce7e8404dffc447c9bcda728b6c4a984~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2106237289&x-signature=wtWliu683UzQZeA%2B5QxILJrlwnk%3D)
 
 Depois que todas as configurações forem concluídas, clique em **Aceitar e publicar** para criar a promoção de Desconto na taxa de envio.
 
@@ -89,7 +83,7 @@ Depois que todas as configurações forem concluídas, clique em **Aceitar e pub
 
 Para gerenciar o desconto no PC da Central do vendedor, acesse [Gerenciar suas promoções](https://seller-br.tiktok.com/promotion/marketing-tools/management?tab=1 "https://seller-br.tiktok.com/promotion/marketing-tools/management?tab=1") para revisar os detalhes das promoções em andamento, próximas e desativadas.
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/072eec2fc6af47dda50d8e70cda8e4f2~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059609711&x-signature=o1M6xTrn%2BVrdRzwrzWOHuGtcoi0%3D)
+![ChatGPT Image Oct 1, 2026, 11_58_01 AM.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/13d8a5d6e3c14df2a0a7dfa67845c3e2~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2106237491&x-signature=dzvQjCa0rJkJUc165zj7MyGQQpI%3D)
 
 ## Perguntas Frequentes (FAQ)
 
