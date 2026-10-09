@@ -3,7 +3,7 @@ title: "Visão Geral da Opção \"Enviados Pela Plataforma\""
 id: 2915348630603521
 category: "Serviço de compras"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2915348630603521"
-update_time: "2026-08-31"
+update_time: "2026-10-09"
 keywords: "Sellers"
 ---
 Este artigo apresenta uma visão geral da opção "Enviados pela plataforma", que se trata da opção de envio padrão fácil de configurar e que inclui a criação de etiquetas integradas. Os vendedores podem comprar e imprimir etiquetas de envio diretamente da Central do Vendedor usando as transportadoras designadas do TikTok Shop, eliminando a necessidade de configurar um modelo de envio separado.
@@ -56,16 +56,14 @@ Os SLAs são o número máximo de dias úteis para que um pedido alcance um est�
 
 ### **Taxas básica de envio**
 
-**A partir das 00:00 (horário do Brasil) do dia 13 de julho de 2026**, o TikTok Shop reduzirá as taxas de envio para
+**A partir das 00:00 (horário do Brasil) do dia 12 de outubro de 2026**, o TikTok Shop reduzirá as taxas de envio para **todos os vendedores do TikTok Shop inscritos no serviço "Enviado pela plataforma".** O ajuste não afetará pedidos concluídos antes da data de vigência.
 
-* **Vendedores elegíveis: todos os vendedores do TikTok Shop inscritos no serviço "Enviado pela plataforma".**
-* **Rotas aplicáveis: pacotes enviados de São Paulo, Rio de Janeiro, Espírito Santo, Minas Gerais.** Os envios originados de outras áreas permanecem inalterados.
-
-As taxas de envio atualizadas\* entrarão em vigor em 13 de julho de 2026, conforme listado abaixo:![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/8693d55791b548469059261194b4c954~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2099271643&x-signature=i9aDmuSTy1NdiZr0T%2Brzm5Mi1gY%3D)![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/a9f9392d3aff4f63b395e9995e11cf82~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2099271638&x-signature=zGZ9Mhd89F4iOneO8MwXINbI2cQ%3D)\*O preço inclui o Imposto sobre Valor Agregado (IVA). Serão aplicadas taxas de sobrepeso a pacotes com mais de 40,00 kg (o valor pode variar de R$ 1,90 a R$ 22,00 por kg).  
+As taxas de envio atualizadas\* entrarão em vigor em 12 de outubro de 2026, conforme listado abaixo:  
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/e3d5474ff0064d039e12658ed8587ad7~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2106886622&x-signature=cqIzEH%2F%2FikC1NcSM5pW%2FODona8k%3D)\*O preço inclui o Imposto sobre valor agregado (IVA). Serão aplicadas taxas de sobrepeso a pacotes com mais de 40,00 kg (o valor pode variar de R$ 1,90 a R$ 48,40 por kg).  
 **Exemplo**Um pacote enviado de São Paulo para o Paraná, pesando 300g.  
 
-* Valor do envio **antes do ajuste: R$ 10,25 a R$ 25,30**
-* Valor do envio **após o ajuste: R$ 7,10 a R$ 12,00**
+* Valor do envio **antes do ajuste\*\*: R$ 7,10 a R$ 26,40**
+* Valor do envio **após o ajuste: R$ 4,90 a R$ 26,40**
 
 ### **Como calcular os custos do envio**
 
