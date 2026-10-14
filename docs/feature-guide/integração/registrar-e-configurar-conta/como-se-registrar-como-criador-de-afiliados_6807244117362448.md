@@ -1,15 +1,11 @@
 ---
-title: Como se registrar como Criador de afiliados
+title: "Como se registrar como Criador de afiliados"
 id: 6807244117362448
-category: Registrar e configurar conta
+category: "Registrar e configurar conta"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6807244117362448"
-update_time: 2025-07-15
-keywords: Creators
+update_time: "2026-10-14"
+keywords: "Creators"
 ---
-
-
-
-
 Está interessado em ingressar no TikTok Shop como Criador? Quer usar sua conta e obter ganhos por comissão? Este artigo ensinará você a se registrar como Criador usando o aplicativo TikTok.
 
 Confira estas duas etapas simples para começar.
@@ -40,11 +36,11 @@ A próxima etapa consiste em verificar se sua conta atende aos requisitos necess
 
 ## **Etapa 3: Verificar sua identidade**
 
-Depois que a inscrição for aprovada, você precisará verificar sua identidade fazendo o upload de uma **ID de foto válida** e as **informações fiscais** no **Centro de verificação**. Para ganhar e sacar a comissão pelo seu conteúdo, você precisará concluir a verificação.
+Após a aprovação da sua inscrição, você precisará verificar sua identidade enviando um **documento de identificação válido** e um **comprovante de endereço** na **Central de Verificação**. Para ganhar e sacar as comissões geradas pelo seu conteúdo, é necessário concluir essa verificação. Para mais informações, consulte **“**[**Verificação da identidade do criador**](https://seller-br.tiktok.com/university/essay?identity=1&role=2&knowledge_id=1415000913184513&from=policy&lang=pt-BR "https://seller-br.tiktok.com/university/essay?identity=1&role=2&knowledge_id=1415000913184513&from=policy&lang=pt-BR")**”**.
 
 |  |  |  |
 | --- | --- | --- |
-| image   7. Se você for um novo usuário, receberá este pop-up quando acessar pela primeira vez a Central de criadores. Toque em **Verificar** | image   8. Ao tocar em **Verificar**, você será redirecionado para o **Centro de verificação**. Aqui, você preencherá sua identidade e as informações fiscais | image   9. Depois que suas informações forem adicionadas, o sistema as analisará e, após serem aprovadas, você poderá começar a ganhar no TikTok Shop! |
+| image   7. Se você for um novo usuário, receberá este pop-up quando acessar pela primeira vez a Central de criadores. Toque em **Verificar** | img_v3_0216f_59df37c5-1295-484d-938a-55e792f810hu.jpg   8. Ao tocar em **Verificar**, você será direcionado à **Central de Verificação**, onde deverá preencher os seus dados de identificação. | image   9. Depois que suas informações forem adicionadas, o sistema as analisará e, após serem aprovadas, você poderá começar a ganhar no TikTok Shop! |
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/d3b87097344241c99e9df8c03ef87e7d~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2059646172&x-signature=99VAoXRzIa3JPp69w6bZATzBReA%3D)
 
