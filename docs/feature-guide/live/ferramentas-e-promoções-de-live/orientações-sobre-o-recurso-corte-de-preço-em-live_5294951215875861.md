@@ -3,7 +3,7 @@ title: "Orientações sobre o recurso Corte de preço em LIVE"
 id: 5294951215875861
 category: "Ferramentas e Promoções de LIVE"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5294951215875861"
-update_time: "2026-09-22"
+update_time: "2026-10-14"
 keywords: "Vendedores"
 ---
 # Corte de preço
@@ -14,15 +14,15 @@ keywords: "Vendedores"
 
 O Corte de preço é um novo recurso interativo de LIVE no qual os espectadores reduzem coletivamente o preço de um produto em tempo real durante a LIVE. Quanto mais participantes participarem, mais o preço cai.
 
-Os vendedores definem o preço mínimo do produto, a meta de número de participantes, a quantidade para o Corte de preço (estoque total) e a duração. Durante a LIVE, cada espectador pode reduzir o preço do produto uma vez por evento de Corte de preço. A plataforma determina automaticamente o valor descontado a cada vez.
+Os vendedores definem o preço inicial do produto, a meta de número de participantes para desbloquear o preço inicial, o preço mînimo, o estoque para o Corte de preço , a meta de participantes para desbloquear o preço inicial e a duração. Durante a LIVE, cada espectador pode reduzir o preço do produto uma vez por evento de Corte de preço. A plataforma determina automaticamente o valor descontado a cada vez.
 
-Quando a atividade termina, os espectadores participantes são cobrados automaticamente pelo preço final de encerramento. Se o preço mais baixo for atingido antes do cronômetro terminar e o estoque permanecer, outros espectadores também poderão aderir, e um pedido será criado automaticamente para eles pelo preço mais baixo assim que a atividade terminar. O preço nunca ficará abaixo do preço mínimo definido pelo vendedor, mesmo que o número de participantes ultrapasse a meta estabelecida.
+Quando a atividade termina, os espectadores participantes são cobrados automaticamente pelo preço final de encerramento. Se o preço mínimo for atingido antes do cronômetro terminar e o estoque permanecer, outros espectadores também poderão aderir, e um pedido será criado automaticamente para eles pelo preço mais baixo assim que a atividade terminar. O preço nunca ficará abaixo do preço mínimo definido pelo vendedor, mesmo que o número de participantes ultrapasse a meta estabelecida.
 
 **Como é o processo geral do Corte de preço?**
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2e1047594e9f4fe28894e4ee85a30624~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2105470663&x-signature=PMCL%2BYLyQ%2BRYK1Ka%2F3wF9TSy5Ag%3D)
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6f87b9ec919f45a884874da3e2040fdb~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2107337720&x-signature=oTnH%2Bc6AgOVWazQZT5mz5xvXHRk%3D)
 
-1. **Configurar os produtos:** adicione produtos da sua loja e, em seguida, defina o preço mais baixo, a meta de participantes, a quantidade para o Corte de preço e a duração.
+1. **Configurar os produtos:** adicione produtos da sua loja e, em seguida, defina o preço mínimo, a meta de participantes, a quantidade para o Corte de preço e a duração.
 2. **Aquecer a audiência:** fixe o produto do Corte de preço antes da atividade e explique como o Corte de preço funciona.
 3. **Iniciar o Corte de preço:** assim que o público demonstrar interesse, toque em "Iniciar".
 4. **Celebrar os participantes:** quando a atividade terminar, celebre os espectadores que ajudaram a reduzir o preço.
@@ -54,13 +54,13 @@ Selecione um dos produtos elegíveis exibidos e adicione-o ao carrinho de compra
 
 **Etapa 3: configure a atividade**
 
-* **Menor preço:** o preço oferecido caso o Corte de preço atinja a meta de participantes.
+* **Preço mínimo:** o preço oferecido caso o Corte de preço atinja a meta de participantes.
   + Se a meta não for atingida, os espectadores participantes pagam o preço final alcançado ao término da atividade.
 * **Meta de participantes:** o número de espectadores necessário para atingir o preço mais baixo.
-* **Quantidade do Corte de preço:** o estoque disponível para venda durante a atividade.
+* **Estoque do Corte de preço:** o estoque disponível para venda durante a atividade.
   + Deve ser igual ou superior à meta de participantes.
   + Se o estoque da loja for inferior à quantidade definida para a redução de preço, a atividade não poderá ser iniciada.
-* **Duração:** o tempo disponível para os espectadores entrarem, de 15 segundos a 20 minutos. A recomendação padrão é de 5 minutos.
+* **Duração:** o tempo disponível para os espectadores entrarem é de 15 segundos a 20 minutos. A recomendação padrão é de 5 minutos.
 
 |  |  |  |
 | --- | --- | --- |
@@ -137,7 +137,7 @@ Antes de participar do Corte de preço, os espectadores devem realizar três aç
 
 Durante um Corte de preço, cada participante pode reduzir o preço uma vez. A plataforma determina automaticamente o valor descontado a cada vez.
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/de6121ed6d7348958ca204781029af2e~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2105470677&x-signature=rvegEMOlJuruuPzP%2FIVlrplCuxs%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/da62a724f6054c2483183bf4d19abafc~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2107325195&x-signature=TePkHrfEXSDQQZqWITb7FR8W8PQ%3D)
 
 Após o Corte de preço, os espectadores aguardam o término da atividade. Dois resultados são possíveis:
 
@@ -159,7 +159,7 @@ Após o Corte de preço, os espectadores aguardam o término da atividade. Dois 
 | Quantidade do Corte de preço | 20 | 20 |
 | Saldo de estoque disponível | Restam 10 unidades para outros espectadores participarem e comprarem por US$ 50,00 após o término da atividade. | Outros espectadores não conseguem comprar porque a meta não foi atingida e o preço mais baixo não foi desbloqueado. |
 
-Espectadores com uma forma de pagamento vinculada são cobrados automaticamente pelo preço final. Se a opção PayLater for selecionada, o cliente tem **10 minutos** para concluir o pagamento antes que o pedido seja cancelado.
+Espectadores com uma forma de pagamento vinculada são cobrados automaticamente pelo preço final. Se a opção "Pagar depois" for selecionada, o cliente tem **10 minutos** para concluir o pagamento antes que o pedido seja cancelado.
 
 ## **Estratégias de Corte de preço**
 
@@ -180,7 +180,7 @@ Espectadores com uma forma de pagamento vinculada são cobrados automaticamente 
 6. **Oferece aos vendedores controle sobre o risco da promoção:** os vendedores definem o preço mínimo, a meta de participantes, a quantidade e a duração.
 7. **Funciona bem durante campanhas e picos de tráfego:** metas de participantes mais altas e estoque suficiente podem transformar picos de tráfego em mais pedidos.
 
-   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/17afe8df89144b3bbc64b65edff68e45~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2105470663&x-signature=d%2F3drR2OaYtisjaX9PezWbriwas%3D)
+   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/44210dbf0cfe40a2b93a2344eca96150~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2107325189&x-signature=586Uu3326vhH6J50lc2dqBb5nvg%3D)
 
 ## **Perguntas frequentes**
 

@@ -1,16 +1,12 @@
 ---
-title: Política de Fiscalização do Vendedor do TikTok Shop
+title: "Política de Fiscalização do Vendedor do TikTok Shop "
 id: 1444948508641040
-category: Gerenciamento de Desempenho
+category: "Gerenciamento de Desempenho"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1444948508641040"
-update_time: 2026-07-09
+update_time: "2026-10-14"
 keywords: "Seller Policy,Sellers"
 ---
-
-
-
-
-# Política de Fiscalização do Vendedor (Avaliação do Estado da Conta) (**em vigor a partir de 30 de junho de 2025)**
+# Política de Fiscalização do Vendedor (Avaliação do Estado da Conta)
 
 ![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/3c6ffa3c116f46c1b2b2d30fc1bf23a3~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2066718850&x-signature=PtQ3GLaSnSA4%2B%2BLHSpsR0tvpe44%3D)
 > **Pontos-Chave**
@@ -21,7 +17,9 @@ keywords: "Seller Policy,Sellers"
 
 Esta política descreve como o TikTok Shop lida com violações às nossas políticas. Avaliamos constantemente se sua loja está em conformidade com nossas políticas. Se sua loja violar qualquer uma de nossas políticas ou não atender aos padrões de desempenho, poderemos aplicar medidas corretivas.**Precisa entender a situação da sua loja e evitar restrições?** Sua Avaliação do Estado da Conta (AHR) é a métrica principal que você precisa acompanhar. Neste vídeo, fornecemos uma análise detalhada do sistema de pontos, como funcionam as penalidades e como você pode proteger os privilégios da sua loja.  
 
-🎬 [视频](https://v16m-default.tiktokcdn.com/3755eecdb8802e2e2ed8ed33771ef7dc/6a50bc3d/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0FtyYfwoiEQDR64l8w5IZiiHRV110UVBHAiA1/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1345&ft=cApXJCz7ThWHGWNzLGZmo0P&mime\_type=video\_mp4&rc=NWc2OjtlOjo6ZDg7NTgzNEBpam84dmw5cng3N2YzOGc3NEBgNDJeNGFeNmMxL2JgL2NiYSMuZzRqMmRjMl5hLS1kXy1zcw%3D%3D&vvpl=1&l=021783654233612fdbddc5300150210100c1dbf1f000075a1117f&btag=e00050000)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/og0mojUt8A1EiYi6yAZIwP1Dtil5wufsRFRBiD~tplv-noop.image?dr=18692&refresh_token=3077688b&x-expires=1792070078&x-signature=UT6TgO7GwVkSGIObw9P%2FgUBWqiA%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cd4a45ufog65ims75jl1g)
+
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/ce9c349e370deea519582c33c1525c64/6ad0d1be/video/tos/alisg/tos-alisg-v-9e30d3-sg/o0FtyYfwoiEQDR64l8w5IZiiHRV110UVBHAiA1/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1345&ft=cApXJCz7ThWHfOAELGZmo0P&mime_type=video_mp4&rc=NWc2OjtlOjo6ZDg7NTgzNEBpam84dmw5cng3N2YzOGc3NEBgNDJeNGFeNmMxL2JgL2NiYSMuZzRqMmRjMl5hLS1kXy1zcw%3D%3D&vvpl=1&l=021792048346358fdbddc530021012a250c1dbf1f00000ee7781a&btag=e00050000)
 
 ## **Avaliação do Estado da Conta**
 
