@@ -1,15 +1,11 @@
 ---
-title: Política de Envio de Pedidos do Cliente do TikTok Shop
+title: "Política de Envio de Pedidos do Cliente do TikTok Shop"
 id: 1442971111884545
-category: Gerenciamento de Pedidos
+category: "Gerenciamento de Pedidos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1442971111884545"
-update_time: 2026-03-06
-keywords: Seller Policy
+update_time: "2026-10-21"
+keywords: "Seller Policy"
 ---
-
-
-
-
 # Visão Geral
 
 Esta **Política de Envio de Pedidos do Cliente do TikTok Shop** engloba os requisitos de embalagem e envio para transações que ocorrem dentro do Brasil. Todos os vendedores que oferecem produtos para venda por meio do TikTok Shop devem fazê-lo de acordo com a **Política de Envio de Pedidos do Cliente do** **TikTok Shop**. As informações constantes desta política não são exaustivas e não podem ser entendidas como aconselhamento jurídico. Incentivamos os vendedores a procurar aconselhamento jurídico se tiverem quaisquer dúvidas sobre as leis e regulamentos aplicáveis aos seus produtos ou embalagens.  
@@ -79,6 +75,7 @@ No modelo **Envio pelo TikTok**, os vendedores podem entregaros pacotes em um po
 * Se os vendedores estiverem alocados no modelo **Drop-Off**, após concluírem a etapa **Organizar Envio**, deverão entregar o pacote no ponto de postagem selecionado antes do prazo de Trânsito para Envio (TTS).
 * Se os vendedores estiverem alocados no modelo **Pick-Up**, após concluírem a etapa **Organizar Envio**, a transportadora (LSP) será notificada para coletar o pacote em até 48 horas.
 * Para pedidos no modelo **Envio pelo TikTok**, assim que o LSP iniciar o processamento do pedido, o status será automaticamente atualizado para **Enviado** na Central do Vendedor. Caso haja qualquer atraso no processamento por parte do LSP, os vendedores poderão abrir um chamado por meio da Central de Ajuda.
+* O LSP deve bipar os pacotes no momento da coleta para garantir que o status atualize. Sellers devem garantir que esse processo seja feito no local, evitando atrasos na atualização da coleta.
 
 Para os tipos de envio **Envio pelo TikTok** e **Envio pelo Vendedor**, os vendedores devem garantir que o pacote esteja com o LSP dentro do SLA de envio, conforme disposto em nossa **Política de Logística do TikTok Shop**. Antes de entregar um pacote ao LSP correto, é responsabilidade do vendedor garantir que o produto e sua embalagem estejam intactos e que as etiquetas de envio corretas estejam aplicadas. O TikTok Shop recomenda que os vendedores tirem fotos dos pacotes para fins de manutenção em seus registros em caso de possíveis disputas de clientes.  
 
