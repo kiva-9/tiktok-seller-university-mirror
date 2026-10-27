@@ -3,7 +3,7 @@ title: "Política de Listagem de Produtos do TikTok Shop"
 id: 6483182812759824
 category: "Gerencie seus produtos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6483182812759824"
-update_time: "2026-09-23"
+update_time: "2026-10-27"
 keywords: "Sellers,Seller Policy"
 ---
 # Visão Geral
@@ -12,9 +12,9 @@ Bem-vindo à **Política de Listagem de Produtos do TikTok Shop**, um recurso ab
 O TikTok Shop pode tomar medidas corretivas contra vendedores ou criadores que violem esta política de acordo com nossos Termos de Serviço do Vendedor. Os produtos oferecidos no TikTok Shop devem cumprir todas as leis e regulamentos federais, estaduais e locais aplicáveis, bem como todas as políticas do TikTok Shop relacionadas a esses produtos e suas listagens.  
 Os vendedores são obrigados a cumprir os requisitos estabelecidos nesta política e nas [Diretrizes da Comunidade](https://www.tiktok.com/community-guidelines/pt/ "https://www.tiktok.com/community-guidelines/pt/") do TikTok. Esta política não se destina a ser um aconselhamento jurídico. Incentivamos os vendedores a buscar aconselhamento jurídico independente se tiverem dúvidas sobre as leis e regulamentações relativas aos seus produtos.  
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oMfVcpJfAiEQCrBmBELuZqgGleCL6Z1IDXCWzI~tplv-noop.image?dr=18692&refresh_token=fd42db59&x-expires=1790256649&x-signature=Z2hKrvXp5V0n6A4xZxCZO9gDkkA%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdapqicnog65k7obvkbn0)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oMfVcpJfAiEQCrBmBELuZqgGleCL6Z1IDXCWzI~tplv-noop.image?dr=18692&refresh_token=78363ddc&x-expires=1793108271&x-signature=0KOCK2EcUSCXRzlb6n3L3Eczxic%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my2&VideoID=v104bdg5000cdapqicnog65k7obvkbn0)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/66472a22cf0da46450512ff89a64a6a3/6ab52609/video/tos/alisg/tos-alisg-v-9e30d3-sg/oQIMVZghtfl1XCcegXJDB08iQugczXfQFB8Wrq/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1798&ft=cApXJCz7ThWHq94NLGZmo0P&mime_type=video_mp4&rc=OTM5ZDNoNWczOThkMztlNUBpM2V5cm45cmZ0ZGYzOGc3NEAzNmAwNWBgNjUxMmIvYDFeYSNraF80MmRrZm1hLS1kXy1zcw%3D%3D&vvpl=1&l=021790234904020fdbddc5300000661260c1dbf1f000019497a6d&btag=e00050000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/83a24736761b617b4e76f5ea6e37f107/6ae0a92f/video/tos/alisg/tos-alisg-v-9e30d3-sg/oQIMVZghtfl1XCcegXJDB08iQugczXfQFB8Wrq/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1798&ft=cApXJCz7ThWHdgxuLGZmo0P&mime_type=video_mp4&rc=OTM5ZDNoNWczOThkMztlNUBpM2V5cm45cmZ0ZGYzOGc3NEAzNmAwNWBgNjUxMmIvYDFeYSNraF80MmRrZm1hLS1kXy1zcw%3D%3D&vvpl=1&l=021793086526901fdbddc530031073e3b0c1dbf1f0000b6ecd363&btag=e00050000)
 
 # **Comportamentos Proibidos de Listagem de Produtos**
 
@@ -147,6 +147,15 @@ Práticas de precificação que prejudicam a confiança do cliente incluem, mas 
 * Definir uma taxa de envio exorbitante em um produto.
 * Aumentar o preço de listagem e oferecer descontos para baixar o preço final para o original ou próximo ao preço de listagem original, ou usar qualquer outro meio para enganar os clientes e dar-lhes a impressão de descontos.
 * Aumentar de forma significativa e injustificada o preço de bens ou serviços essenciais em tempos de crise, emergências ou situações de aumento da demanda, como desastres naturais, pandemias ou outros imprevistos (ou seja, manipulação de preços).
+
+## **Proteção contra Erros de Precificação e Aumento Anormal de Pedidos**
+
+* Para ajudar a proteger compradores e vendedores de erros materiais de precificação, de aumentos inesperados de pedidos e dos consequentes cancelamentos ou reembolsos em larga escala, podemos monitorar preços de produtos, volumes de pedidos e outros sinais transacionais em busca de indícios de que: (i) o preço de um produto possa ter sido definido ou exibido por erro; ou (ii) o número ou a taxa de pedidos exceda materialmente a capacidade de atendimento razoavelmente esperada pelo Vendedor (cada um, um “Evento Suspeito de Precificação ou Aumento de Pedidos”). Um Evento Suspeito de Precificação ou Aumento de Pedidos não constitui, por si só, descumprimento dos Termos de Serviço do Vendedor nem violação desta política. A identificação de Eventos Suspeitos de Precificação ou Aumento de Pedidos não tem, de modo algum, a finalidade de influenciar o preço do vendedor ou de limitar a liberdade do vendedor.
+* Aplicaremos critérios documentados e definidos ao identificar um Evento Suspeito de Precificação ou Aumento de Pedidos. Tais critérios podem incluir comparações com o histórico recente de preços do produto, com preços de mercado comparáveis, com o volume recente de pedidos e com os padrões históricos de atendimento do vendedor. Não somos obrigados a divulgar limites específicos, níveis de confiança, lógica do modelo ou outras informações quando a divulgação puder comprometer a eficácia ou a segurança do mecanismo ou facilitar a sua burla. Podemos atualizar os critérios pertinentes periodicamente.
+* Conforme autorizado nos Termos de Serviço do Vendedor, quando os critérios indicarem um Evento Suspeito de Precificação ou Aumento de Pedidos, adotaremos medidas proporcionais razoavelmente necessárias para impedir novos pedidos inesperados enquanto o evento estiver sendo verificado. Dependendo da natureza, do nível de confiança e da escala do evento, tais medidas podem incluir: (i) limitar temporariamente o número ou a taxa de novos pedidos do produto ou da conta afetada; (ii) pausar ou remover temporariamente o anúncio do produto afetado; ou (iii) exigir confirmação manual antes que pedidos adicionais sejam aceitos. Utilizaremos a medida menos restritiva razoavelmente disponível. A remoção do produto ou medidas no nível da conta serão utilizadas quando o risco não puder ser razoavelmente tratado por meio de um limite de pedidos no nível do produto ou quando os sinais pertinentes atenderem aos critérios de maior confiança.
+* Notificaremos você pelo Seller Center e/ou pelos dados de contato associados à sua Conta quando uma medida protetiva for aplicada. A notificação identificará, na medida do razoavelmente possível: (i) o produto ou a conta afetada; (ii) o motivo principal e os critérios que acionaram a medida; (iii) o tipo de medida; (iv) qualquer ação exigida de você; e (v) como você pode confirmar o preço pretendido e a capacidade de atendimento, solicitar a remoção ou o ajuste da medida, ou entrar em contato conosco para revisão.
+* Você pode confirmar, por meio do processo disponibilizado no Seller Center, que o preço do produto é intencional e que você possui estoque e capacidade operacional suficientes para atender aos pedidos previstos. Após receber a confirmação exigida e as informações de suporte, removeremos ou ajustaremos a medida protetiva, a menos que determinemos, de forma razoável, que a manutenção da medida é necessária para proteger compradores, evitar risco relevante de cancelamento ou reembolso, cumprir a legislação aplicável ou tratar de uma violação independente.
+* Uma medida protetiva será aplicada pelo período razoavelmente necessário para verificar e tratar o Evento Suspeito de Precificação ou Aumento de Pedidos, a menos que a legislação aplicável ou um fundamento independente permita um período mais longo.
 
 ## Idioma
 

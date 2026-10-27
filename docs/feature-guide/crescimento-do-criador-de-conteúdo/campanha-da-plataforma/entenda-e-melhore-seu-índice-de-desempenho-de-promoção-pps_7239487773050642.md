@@ -168,6 +168,6 @@ Em geral, um conteúdo usado em uma campanha de anúncios não pode ser excluíd
 
 ## Data de lançamento
 
-As pontuações PPS estão previstas para começar a ser aplicadas em 26 de outubro, no horário local do Brasil.
+As pontuações PPS estão previstas para começar a ser aplicadas em 27 de outubro, no horário local do Brasil.
 
 Acesse a Central do Criador com antecedência para consultar seu PPS e as recomendações de diagnóstico, e faça ajustes com base no desempenho da seleção de produtos e do conteúdo. Os benefícios específicos, a disponibilidade e os requisitos de participação estão sujeitos às páginas locais do produto e às regras das atividades no Brasil ou no México.
