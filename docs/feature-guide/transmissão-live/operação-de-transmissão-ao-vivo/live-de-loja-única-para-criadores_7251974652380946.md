@@ -3,7 +3,7 @@ title: "LIVE de loja única para criadores"
 id: 7251974652380946
 category: "Operação de transmissão ao vivo"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7251974652380946"
-update_time: "2026-10-22"
+update_time: "2026-10-27"
 keywords: ""
 ---
 # Introdução ao recurso
@@ -15,6 +15,14 @@ keywords: ""
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2341d473a05543d8b8895671e6c8bf78~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2108036040&x-signature=w3yD%2BAjzhpkV%2BmiZSOeTxEJKBpc%3D)
 
 # Manual de instruções
+
+## Como iniciar uma LIVE de loja única
+
+|  |  |
+| --- | --- |
+| **Tutorial passo a passo** | **Interface do usuário** |
+| **A. Selecionar LIVE de loja única e adicionar produtos**  **Etapa 1:** toque em **Entrada na LIVE** para iniciar o fluxo pré-LIVE.  **Etapa 2:** selecione **LIVE de vendedor único** e, em seguida, toque em **Avançar**.  **Etapa 3:** selecione a loja que deseja apresentar e, em seguida, toque em **Avançar**.  **Etapa 4:** toque em **Adicionar** para adicionar os produtos da loja. | image |
+| **B. Mudar para outra loja**  **Etapa 1:** na página da loja atual, abra o seletor **tipo de LIVE** novamente.  **Etapa 2:** mantenha **LIVE de vendedor único** e toque em **Confirmar**.  **Etapa 3:** selecione a nova loja que deseja apresentar.  **Etapa 4:** no prompt **"Mudar para [Loja]?"**, toque em **Mudar** (os produtos da loja anterior serão removidos).  **Etapa 5:** toque em **Adicionar produto primeiro** para adicionar os produtos da nova loja. | image |
 
 ## Como autorizar
 
@@ -29,14 +37,6 @@ keywords: ""
 | --- | --- |
 | **Tutorial passo a passo** | **Interface do usuário** |
 | **Etapa 1:** abra a **página LIVE de loja única** a partir do banner Mercado de produtos.  **Etapa 2:** busque os vendedores recomendados e abra a loja que você deseja apresentar.  **Etapa 3:** toque em **Acessar loja** para navegar pelo catálogo. Toque em **Adicionar** para adicionar um produto ou verifique os **detalhes de comissão** primeiro.  **Etapa 4:** toque em **Adicionar à vitrine**. Os produtos estão prontos para a sua LIVE. | image |
-
-## Como iniciar uma LIVE de loja única
-
-|  |  |
-| --- | --- |
-| **Tutorial passo a passo** | **Interface do usuário** |
-| **A. Selecionar LIVE de loja única e adicionar produtos**  **Etapa 1:** toque em **Entrada na LIVE** para iniciar o fluxo pré-LIVE.  **Etapa 2:** selecione **LIVE de vendedor único** e, em seguida, toque em **Avançar**.  **Etapa 3:** selecione a loja que deseja apresentar e, em seguida, toque em **Avançar**.  **Etapa 4:** toque em **Adicionar** para adicionar os produtos da loja. | image |
-| **B. Mudar para outra loja**  **Etapa 1:** na página da loja atual, abra o seletor **tipo de LIVE** novamente.  **Etapa 2:** mantenha **LIVE de vendedor único** e toque em **Confirmar**.  **Etapa 3:** selecione a nova loja que deseja apresentar.  **Etapa 4:** no prompt **"Mudar para [Loja]?"**, toque em **Mudar** (os produtos da loja anterior serão removidos).  **Etapa 5:** toque em **Adicionar produto primeiro** para adicionar os produtos da nova loja. | image |
 
 ## Como verificar o desempenho da LIVE de loja única
 

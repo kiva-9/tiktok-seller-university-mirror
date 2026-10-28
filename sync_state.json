@@ -1426,7 +1426,7 @@
   },
   "6483182812759824": {
     "title": "Política de Listagem de Produtos do TikTok Shop",
-    "last_modified": 1793079775457,
+    "last_modified": 1793172579100,
     "file": "docs/policy-center/gerencie-seus-produtos/política-de-listagem-de-produtos-do-tiktok-shop_6483182812759824.md"
   },
   "8322087832667905": {
@@ -2101,12 +2101,17 @@
   },
   "7251974652380946": {
     "title": "LIVE de loja única para criadores",
-    "last_modified": 1792676428020,
+    "last_modified": 1793094044509,
     "file": "docs/feature-guide/transmissão-live/operação-de-transmissão-ao-vivo/live-de-loja-única-para-criadores_7251974652380946.md"
   },
   "7239487773050642": {
     "title": " Entenda e melhore seu Índice de Desempenho de Promoção (PPS)",
-    "last_modified": 1793010647516,
+    "last_modified": 1793157872408,
     "file": "docs/feature-guide/crescimento-do-criador-de-conteúdo/campanha-da-plataforma/entenda-e-melhore-seu-índice-de-desempenho-de-promoção-pps_7239487773050642.md"
+  },
+  "1108507467941653": {
+    "title": "Relatório de IA",
+    "last_modified": 1793159847034,
+    "file": "docs/feature-guide/análise-de-dados/visão-geral-dos-dados/relatório-de-ia_1108507467941653.md"
   }
 }

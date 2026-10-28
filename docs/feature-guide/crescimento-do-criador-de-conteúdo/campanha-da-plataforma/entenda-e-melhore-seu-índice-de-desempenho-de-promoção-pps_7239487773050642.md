@@ -3,7 +3,7 @@ title: " Entenda e melhore seu Índice de Desempenho de Promoção (PPS)"
 id: 7239487773050642
 category: "Campanha da Plataforma"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7239487773050642"
-update_time: "2026-10-26"
+update_time: "2026-10-28"
 keywords: "/"
 ---
 O recurso PPS está sendo disponibilizado gradualmente. Se ele ainda não estiver visível para você, isso não afetará sua operação de forma alguma.
@@ -18,6 +18,10 @@ O PPS é composto por duas pontuações:
 * **Pontuação de Conteúdo**: reflete a qualidade e a conformidade dos seus vídeos curtos e LIVES de vendas recentes.
 
 O PPS avalia principalmente o desempenho dos últimos 30 dias e é atualizado diariamente. Selecionar produtos de qualidade e publicar conteúdo claro e em conformidade de forma consistente pode ajudar a aumentar sua pontuação gradualmente.
+
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oMYAhi7TVcOsBaPT6f8ALalwwoiNArVIn1caEC~tplv-noop.image?dr=18692&refresh_token=416fd55a&x-expires=1793196445&x-signature=GqsWSFutEteE35LIfaXcODtVGxk%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdbgml9vog65g7f3bn710)
+
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/70986f70ed5a52887ebe8fe3fd8255c3/6ae2019d/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMDJn4iEIAw1Tkcf8aiohFj7CsVaClYOBAL6Qw/?a=6556&bti=ODY2QDQwNWA%3D&&bt=857&ft=cApXJCz7ThWHzKsuLGZmo0P&mime_type=video_mp4&rc=OGQ8ODQ4OmdmZTpkZTU1ZEBpMzplaWo5cjxwZWYzOGc3NEBjNjRfLTIzNTYxL2JgY18uYSMuazA0MmRzaWRhLS1kXy1zcw%3D%3D&vvpl=1&l=021793174815201fdbddc5300010601200c1dbf1f000048aa6651&btag=e00048000)
 
 ## Quem pode receber um PPS?
 
