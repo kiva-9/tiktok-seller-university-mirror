@@ -3,14 +3,14 @@ title: " Entenda e melhore seu Índice de Desempenho de Promoção (PPS)"
 id: 7239487773050642
 category: "Campanha da Plataforma"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7239487773050642"
-update_time: "2026-10-28"
+update_time: "2026-11-02"
 keywords: "/"
 ---
 O recurso PPS está sendo disponibilizado gradualmente. Se ele ainda não estiver visível para você, isso não afetará sua operação de forma alguma.
 
 ## O que é o PPS?
 
-O Índice de Desempenho de Promoção (Promotion Performance Score, ou **PPS**) é a pontuação de qualidade de promoção que o TikTok Shop atribui a criadores afiliados, em uma escala de **0 a 5 pontos**. Ele ajuda você a entender o desempenho geral dos produtos promovidos recentemente e do conteúdo de vendas, além de indicar oportunidades de melhoria.
+O Índice de Desempenho de Promoção (Índice de Desempenho de Promoção, ou PPS) é a pontuação de qualidade de promoção que o TikTok Shop atribui a criadores afiliados, em uma escala de **0 a 5 pontos**. Ele ajuda você a entender o desempenho geral dos produtos promovidos recentemente e do conteúdo de vendas, além de indicar oportunidades de melhoria.
 
 O PPS é composto por duas pontuações:
 
@@ -19,9 +19,9 @@ O PPS é composto por duas pontuações:
 
 O PPS avalia principalmente o desempenho dos últimos 30 dias e é atualizado diariamente. Selecionar produtos de qualidade e publicar conteúdo claro e em conformidade de forma consistente pode ajudar a aumentar sua pontuação gradualmente.
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oMYAhi7TVcOsBaPT6f8ALalwwoiNArVIn1caEC~tplv-noop.image?dr=18692&refresh_token=416fd55a&x-expires=1793196445&x-signature=GqsWSFutEteE35LIfaXcODtVGxk%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdbgml9vog65g7f3bn710)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/oc9mEBxFTIr7X1AgoRL6lqQHLMePDflBQpuqQQ~tplv-noop.image?dr=18692&refresh_token=7534d4e2&x-expires=1793718949&x-signature=77l1VzDW%2BBW9I72zviDxfLSt%2FxI%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdbk7l3vog65tq23qjij0)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/70986f70ed5a52887ebe8fe3fd8255c3/6ae2019d/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMDJn4iEIAw1Tkcf8aiohFj7CsVaClYOBAL6Qw/?a=6556&bti=ODY2QDQwNWA%3D&&bt=857&ft=cApXJCz7ThWHzKsuLGZmo0P&mime_type=video_mp4&rc=OGQ8ODQ4OmdmZTpkZTU1ZEBpMzplaWo5cjxwZWYzOGc3NEBjNjRfLTIzNTYxL2JgY18uYSMuazA0MmRzaWRhLS1kXy1zcw%3D%3D&vvpl=1&l=021793174815201fdbddc5300010601200c1dbf1f000048aa6651&btag=e00048000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/8a4fac085cd11446652adb06b4e26232/6ae9faa5/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMQB6UQx3H9Dzo7LgGS1pPfqLlBFQeEqgQMITk/?a=6556&bti=ODY2QDQwNWA%3D&&bt=856&ft=cApXJCz7ThWHC8siLGZmo0P&mime_type=video_mp4&rc=NDY5aTk5ZGU2NGk8N2k3M0BpM2x0NXc5cjY6ZWYzOGc3NEAzYC5gYF5fXjUxY18wYmIxYSNnZzBuMmRzaWhhLS1kXy1zcw%3D%3D&vvpl=1&l=021793697319762fdbddc5300000491870c1dbf1f0000dadab622&btag=e00088000)
 
 ## Quem pode receber um PPS?
 
@@ -67,11 +67,11 @@ Estas são as regras detalhadas para calcular a Pontuação do Produto:
 
 Você pode consultar a Pontuação do Produto no **Marketplace de Produtos** ou na **página de detalhes do produto**, além de filtrar os produtos já adicionados na **página de gerenciamento da Vitrine**. A Pontuação do Produto fica visível para criadores e vendedores, mas não para consumidores. Ao selecionar produtos, considere não apenas a pontuação, mas também se eles combinam com seu nicho de conteúdo e com as necessidades do seu público.
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6d75e7479a40476391512efa6ddf5d05~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2108344353&x-signature=SpC6XO976q%2BdK32MMvXOXQ9HO%2B8%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0fb20e08e1e8460aae1f0a7a38cf7269~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2108979636&x-signature=gk%2BUBDIS1NaowoJx2yvgcsRS0Mk%3D)
 
 Exemplo do Marketplace de Produtos
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5a03c078645d40ebb79a538fac6df3f8~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2108344351&x-signature=GTXQHMCZnWZyH3DUb4iZEESSuso%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/b76387df9ba641cdbc9352097d21849b~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2108979635&x-signature=AEXy0kEFkVNHH0hFK3MZjiWEeNs%3D)
 
 Exemplo da Vitrine
 
