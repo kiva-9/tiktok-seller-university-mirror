@@ -3,20 +3,18 @@ title: "Restrições e requisitos para conteúdo gerado por IA"
 id: 2324329879832321
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2324329879832321"
-update_time: "2026-09-20"
+update_time: "2026-11-06"
 keywords: "Política de vendedor"
 ---
 ![葡语版头条.jpg](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/aa7f26412705434596b508327b47eb99~tplv-nk3i2mqmvs-image.jpg?lk3s=5d1a069b&x-expires=2092276469&x-signature=qVEcMxHxSH5WON7mqNe1Foy2GbU%3D)**Pontos principais**
+> *[Video publicado neste artigo: pt\_AIGC.mp4 - o arquivo nao e reenviado neste documento; manter o video original na pagina publicada.]*
+>
 > * Seja transparente e verdadeiro: conteúdo gerado por IA é permitido, mas deve haver honestidade. Não use IA para enganar, iludir ou criar impressões falsas sobre produtos, pessoas ou fatos.
 > * Divulgue claramente o uso de IA: se o seu conteúdo for total ou significativamente criado/alterado por IA, você deve sinalizá-lo como tal. Você pode fazer isso adicionando uma nota de texto/marca d'água ao seu vídeo ou usando a opção "Conteúdo gerado por IA" nas configurações de publicação da plataforma.
 > * Não se passe por outra pessoa: não use IA para imitar ou replicar a identidade, a aparência ou a voz de outra pessoa para criar endossos ou promoções falsas.
 > * Exiba os produtos com precisão: não use IA para alterar a aparência de um produto (como tamanho, cor ou características) ou para fabricar resultados irreais ou enganosos que sejam difíceis de alcançar na vida real. O produto apresentado deve corresponder exatamente ao produto que está sendo vendido.
 > * Respeite a propriedade intelectual: não use IA para criar conteúdo que use a imagem, a voz, o nome ou as marcas registradas de terceiros sem a devida autorização.
 > * Entenda as consequências: violar estas regras pode levar a ações contra o seu conteúdo (como remoção ou restrição de visibilidade) e contra a sua conta (como avisos, restrições ou até mesmo banimentos permanentes em casos de violações graves).
->
->   ![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/okEXpFVflCZUDaDdIfmZogBBE1KBoU9e5SAirI~tplv-noop.image?dr=18692&refresh_token=4bd19e97&x-expires=1789998757&x-signature=nh9Q2yVEUt6w6uyNv7DyRir%2FTv8%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my3&VideoID=v104bdg5000cdakig7nog65uvgbbikk0)
->
->   [🎬 视频 1](https://v16m-default.tiktokcdn.com/9d3d86d4b9b455b642a0d455558f036a/6ab136a5/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMDfpNfAQaUlVFYXug9CiegoEUEDKIBBr5uPSv/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1383&ft=cApXJCz7ThWHe2yHLGZmo0P&mime_type=video_mp4&rc=aTVpPDQ8ODs2aDVoZDw3aUBpM25lang5cjpsZGYzOGc3NEBjYTNgYzJjX2MxLi0vXjEtYSNoZl9zMmRrZGhhLS1kXy1zcw%3D%3D&vvpl=1&l=021789977014602fdbddc5500040b162e0c1dbf1f00007a4fdb16&btag=e00050000)
 
 ## Visão geral e escopo da política
 
@@ -26,6 +24,10 @@ Para proteger os usuários e garantir um ecossistema de conteúdo seguro e confi
 ## **O que é conteúdo gerado por IA?**
 
 **Conteúdo Gerado por IA** refere-se a vídeos, imagens, áudio, texto ou transmissões ao vivo que são total ou parcialmente gerados, editados ou sintetizados usando tecnologias de inteligência artificial. Isso inclui conteúdo que simula, altera ou recria pessoas, cenas ou eventos, bem como conteúdo que é inteiramente ficcional ou apresentado em um estilo artístico específico (por exemplo, pintura, desenho animado ou animação).  
+
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/okEXpFVflCZUDaDdIfmZogBBE1KBoU9e5SAirI~tplv-noop.image?dr=18692&refresh_token=c758cfcd&x-expires=1794062229&x-signature=1kxI39dFvB0k4ADrxsSSKiNkHrQ%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdakig7nog65uvgbbikk0)
+
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/e347757f9aedafb8e3353c51a4399819/6aef3795/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMDfpNfAQaUlVFYXug9CiegoEUEDKIBBr5uPSv/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1383&ft=cApXJCz7ThWHbVhYLGZmo0P&mime_type=video_mp4&rc=aTVpPDQ8ODs2aDVoZDw3aUBpM25lang5cjpsZGYzOGc3NEBjYTNgYzJjX2MxLi0vXjEtYSNoZl9zMmRrZGhhLS1kXy1zcw%3D%3D&vvpl=1&l=021794040486761fdbddc5300220b221f0c1dbf1f000011f85085&btag=e00090000)
 
 ## **Práticas proibidas para conteúdo gerado por IA**
 
@@ -69,14 +71,8 @@ Indique claramente que o conteúdo foi gerado por IA usando texto na tela, marca
 2. **Usar a ferramenta de divulgação da plataforma**
 
 Ao publicar o conteúdo, ative a opção **"Conteúdo gerado por IA"**. Após a ativação, uma etiqueta com a inscrição **"Divulgado pelo criador como gerado por IA"** aparecerá no canto inferior esquerdo do conteúdo, conforme mostrado abaixo.  
-
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/3aebfb3fd61e4e68bdb889472a96f8f0~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2092277516&x-signature=QLR%2Bvh3lONxCFEg%2B%2BY2ZZ9XIjcw%3D)
-
-**Como ativar a configuração "Conteúdo gerado por IA"**Precisa de ajuda? Siga as imagens do passo a passo abaixo.  
-
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/d70900a65ce745f3892ba6e18b8f196c~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2092277551&x-signature=o5e6F9kEZRc7mz42VSSF9TlmOBc%3D)
-
-**Observações importantes**
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/164bd54e68744b88be57e72833b73827~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109358775&x-signature=sz8A1GsPAV8v5WsxX%2FZ0OahMtZI%3D)**Como ativar a configuração "Conteúdo gerado por IA"**Precisa de ajuda? Siga as imagens do passo a passo abaixo.  
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/e468be84f389470b93e4fc80d1098976~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109358775&x-signature=nXsa2rR9B4dLaArPgekGVwi7eso%3D)**Observações importantes**
 
 * O conteúdo criado usando os **efeitos oficiais de IA do TikTok** será sinalizado automaticamente pela plataforma, sem necessidade de intervenção manual. Caso sejam usadas ferramentas adicionais de IA de terceiros ou não oficiais, os criadores ainda deverão cumprir os requisitos de divulgação desta política.
 * O conteúdo **não será rebaixado nem restringido apenas** pelo fato de a configuração de conteúdo gerado por IA estar ativada, desde que esteja em conformidade com as regras da plataforma, incluindo as **Diretrizes da Comunidade do TikTok**.
@@ -130,12 +126,10 @@ Usar IA para fabricar ou exagerar as identidades profissionais de especialistas,
 Esse tipo de comportamento, especialmente em áreas relacionadas à saúde, como suplementos alimentares e alimentos funcionais, será um foco fundamental da governança.   
 **Exemplos de violações incluem, entre outros**:  
 
-1. Fingir ser outra pessoa ou criar imagens profissionais, como "médicos" ou "professores", para promover produtos relacionados à saúde (incluindo alimentos, suplementos alimentares, dispositivos médicos, serviços de saúde, etc.).
+1. Fingir ser outra pessoa ou criar imagens profissionais, como "médicos" ou "professores", para promover produtos relacionados à saúde (incluindo alimentos, suplementos alimentares, dispositivos médicos, serviços de saúde, etc.).![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0ad63aeae03947489f252a279924c040~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109358771&x-signature=z2FHkFxnzq3MhR7YjzMgayKI3mc%3D)
+2. Usar humanos virtuais digitais ou imagens "profissionais" geradas por IA, apresentadas em formatos como noticiários ou palestras de especialistas, para endossar a eficácia de produtos relacionados à saúde.![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/49e84825c3db478c9a2bd6b0a5f67d50~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109358774&x-signature=eKBQxjALUyQ6nhJVnTCrA4t1fVU%3D)![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2caba617026842a9bb844e31aabe0e99~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109358765&x-signature=98C%2B4nTVYscHd5XSfB%2Bl7t11h2I%3D)
 
-   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ee98bec980cf465cacee5199ab4ae114~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2092277514&x-signature=vdevpPCwV0KLvGfTBRsCxm8k9Ds%3D)
-2. Usar humanos virtuais digitais ou imagens "profissionais" geradas por IA, apresentadas em formatos como noticiários ou palestras de especialistas, para endossar a eficácia de produtos relacionados à saúde.
-
-   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2a29c1e78d6e4b43b4411fa05a94eeea~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2092277622&x-signature=L1WEwMaOIaO4YInTtrU99vKU%2Br0%3D)
+*Figura 1 — Formato de entrevista em estúdio: a apresentadora endossa a eficácia de um suplemento alimentar com argumentos de autoridade.* 
 
 ### **Efeitos falsos ou exagerados do produto usando IA (não permitido)**
 
@@ -149,9 +143,9 @@ Não use IA para mostrar resultados que o produto não possa alcançar de forma 
 
 * Shampoo que "faz o cabelo crescer instantaneamente" ou "preenche falhas no couro cabeludo".
 * Creme dental que "remove cáries" ou "restaura os dentes instantaneamente".
-* Produtos que "curam doenças das unhas" em pouco tempo.
+* Produtos que "curam doenças das unhas" em pouco tempo.![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/62dee81d6c134f469fff75bef2df2588~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109358774&x-signature=L6pvRQwSjcZv%2BOMChFP31xWmgGY%3D)![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f7bd944c681547adbb2457da88990ea7~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109358764&x-signature=jXR8Q%2FmHVnNxiOwqBDhJWOT4PtU%3D)
 
-  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5fb792a6bcdd463e9823284d019575bf~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2092277512&x-signature=GHsJVqHxdSC2r7%2F731UhJ5X3ov4%3D)
+*Figura 2 — Depilador mostrado removendo todos os pelos em uma única passada, com resultado instantâneo difícil de alcançar na prática.* 
 
 2. **Desempenho superestimado**
 
@@ -159,43 +153,48 @@ Não use efeitos de IA para exagerar as capacidades de um produto, por exemplo:
 
 * Mostrar a remoção de sujeira de forma extrema ou irrealista.
 * Mostrar um produto funcionando perfeitamente em situações que normalmente ele não conseguiria operar.
-* Fazer com que um produto pareça adequado para todos os cenários leva os usuários a terem expectativas irrealistas em relação a ele.
+* Fazer com que um produto pareça adequado para todos os cenários leva os usuários a terem expectativas irrealistas em relação a ele.![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/60087b197e064ba3a5cff43dc0e77800~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109358780&x-signature=OJO1e6EIICzxY9yq9HUKeKExpxo%3D)![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/3e73dccb69364cb9885985c1ed4caef7~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109358770&x-signature=6NPpDpZN87r3z3kqEqMHhiCmGmw%3D)
 
-  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/c564bd82f31f4cb692e1343a80c52418~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2092277636&x-signature=OdU4M0oJHLAHKiFCChEi5Q6XAGg%3D)
+*Figura 3 — Afiador mostrado recuperando o fio de uma faca bastante danificada em poucos segundos, com efeito de corte que o produto não entrega de forma consistente.* 
 
 3. **Imagens chocantes ou que provocam medo**
 
 Não use imagens assustadoras ou chocantes geradas por IA (como órgãos danificados ou doenças) para pressionar as pessoas a comprar suplementos ou produtos de saúde, ou para enganá-las sobre a eficácia do produto.  
-
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/b1ffcd669647466c884ee978d6efbeac~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2092277515&x-signature=b22R31Czu2v%2F8lRwTRGqkabxN%2Bg%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5563f0f7a5ea408b96be8d2a7e040249~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109358770&x-signature=UJgVSOmPtMq%2FDAku6pdUjIxD1mw%3D)![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/39d04123f10f4fa8a29ca37430c27f11~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109358762&x-signature=svW414CAKt2VG89q3r2bpKzmxpk%3D)*Figura 4 — Anatomia humana gerada por IA usada para sugerir a ação interna de um suplemento, recorrendo a ossos e órgãos para induzir a compra.* 
 
 ### **Representação enganosa do produto usando IA (produto diferente da descrição)**
 
 Usar IA para fabricar, modificar ou exagerar a apresentação de produtos, de modo que o produto mostrado em vídeos ou imagens não corresponda ao produto real que está sendo vendido, é considerado publicidade enganosa e "produto diferente da descrição". Em outras palavras, se a IA alterar o tamanho, a cor, a forma, as características ou o desempenho do produto de forma que ele não corresponda mais ao produto real, isso configura publicidade enganosa.   
 **Exemplos de violações incluem, entre outros:**
 
-1. **Especificações inconsistentes do produto**
+### 1. Especificações inconsistentes do produto
 
 Não use IA para:  
 
 * Alterar o tamanho, a cor, o material ou a forma de um produto.
 * Exibir características ou desempenho que o produto não possui de fato.
 * Criar cenas que façam o produto parecer mais avançado ou diferente do que realmente é.
-* Exibir um produto com aparência diferente daquela mostrada na página do produto ou daquela que os clientes recebem.
+* Exibir um produto com aparência diferente daquela mostrada na página do produto ou daquela que os clientes recebem.![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0eb082cc7efc42b0923be7a9fc78b1d3~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109358780&x-signature=jOcKldSeJGu3ZqhlF%2BPBE%2F9UP%2B0%3D)
 
-  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/de5892e5c67f4f3aaf60897218c01c8d~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2092277516&x-signature=RLK20MSN4AdAgzLfjKi13HfkXyc%3D)
+O carro de brinquedo, que tem a mesma altura da palma da mão, é mostrado no vídeo com metade da altura de uma criança normal. A altura real do carro de brinquedo não corresponde às dimensões do produto no vídeo.  
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/d01ce30e970d43cabba11d7dcb8b867e~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109358764&x-signature=4FPbMiYBwe3JGoMlzrI2Jkjlzy8%3D)*Figura 5 — Frasco anunciado como 50 ml ao lado de uma renderização em escala muito maior, passando a impressão de volume diferente do produto vendido.* ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/68fe341475884abf9e275862a1af1f1a~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109358770&x-signature=1S653lWQH3hgqDv8GV%2Fof3ZL6mw%3D)*Figura 6 — Jogo de cama mostrado montado com mais peças do que o conjunto anunciado; na sequência, apenas uma das peças aparece em mãos.* ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/3bd27316527c49b0ad09e37a811b65d1~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109358770&x-signature=NEnG1TZH4PRYh9A0V5dHNs96mlM%3D)*Figura 7 — Calça jeans exibida com elasticidade e caimento que o tecido do produto vendido não possui.* ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6fec2b0dfad541d4a411e5d7ca2dd267~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109358762&x-signature=tOYDNh4dQOG7XoGY6y1u3%2Fl0ZnM%3D)*Figura 8 — Sandálias com tiras e fecho diferentes dos da variação anunciada na página do produto.* ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2f31a2c43fb34ef5b400e8c7099568ed~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109358763&x-signature=1FS94%2BoJgFtJ8QOEC90GPdWD4LI%3D)*Figura 9 — Estampa da camisa regenerada por IA: escudo, patrocinadores e datas com grafia e desenho diferentes dos do produto à venda.* 
 
-  O carro de brinquedo, que tem a mesma altura da palma da mão, é mostrado no vídeo com metade da altura de uma criança normal. A altura real do carro de brinquedo não corresponde às dimensões do produto no vídeo.
-
-2. **Efeitos visuais falsos ou exagerados**
+### 2. Efeitos visuais falsos ou exagerados
 
 Não use IA para:  
 
 * Transformar produtos planos (2D) em visuais falsos em 3D ou rotativos.
 * Animar produtos estáticos de maneiras irrealistas.
-* Adicionar efeitos como brilho, iluminação ou características especiais que o produto real não possui.
+* Adicionar efeitos como brilho, iluminação ou características especiais que o produto real não possui.![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/61b5a8d4211343e5a16eb2a05d660c07~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109358777&x-signature=olzT1laq8EH1j60S2MDH3C3gNak%3D)
 
-  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/233a208db331466a8e20fe7564fc8c32~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2092277645&x-signature=nDp96nayJBBVp5H%2BtN0Fjq8Tnk0%3D)
+### 3. Texto essencial ilegível, distorcido ou inventado por IA
+
+Não use IA para:  
+
+* Alterar informações de texto relevantes do produto.
+* Exibir de forma borrada, ilegível ou distorcida qualquer texto necessário para compreender as características e o desempenho do produto.![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/b5263117e4c844398b7ea564e2833ea0~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109358769&x-signature=hXhA%2FGmWjyJavrLPajAagNpPLlc%3D)
+
+*Figura 10 — Rótulo do suplemento com sabor, especificações e peso escritos com letras inventadas, impossibilitando a leitura.* ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/af8d1917de1541ce9a6ba2fd9a027c26~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109358764&x-signature=QhVKLeBm4zZGINN3%2BnG%2BKScpJv0%3D)*Figura 11 — Frase estampada no body infantil formada por palavras e caracteres sem sentido; a informação do produto não consegue ser lida.* Nos exemplos acima, o texto faz parte das informações necessárias para entender o produto. Distorcido ou ilegível, ele deixa de corresponder à descrição do item e impede que o cliente leia dados relevantes sobre características, sabor, especificações e tamanho.  
 
 ## Perguntas frequentes
 
