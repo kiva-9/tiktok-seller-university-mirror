@@ -3,7 +3,7 @@ title: "O que são funcionalidade e efeito enganosos?"
 id: 4209017896060688
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4209017896060688"
-update_time: "2026-11-06"
+update_time: "2026-11-09"
 keywords: "Criadores,Política de Criador"
 ---
 # **A importância do marketing honesto dos produtos**
@@ -25,9 +25,9 @@ O conteúdo é considerado **enganoso em termos de funcionalidade e efeito** qua
 
 O conteúdo é considerado **enganoso em termos de funcionalidade e efeito** se apresentar alegações médicas, alegações exageradas sobre saúde, conselhos enganosos, ou alegações cosméticas exageradas em relação a um produto. Se o conteúdo for considerado enganoso, o TikTok Shop removerá o conteúdo e os produtos associados da plataforma. Conteúdos enganosos podem causar problemas de segurança, experiências de compra pouco confiáveis e insatisfação do cliente.
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4mcDf2GXERgQe8LwCVBFClzIprfiOoGVDRqhY~tplv-noop.image?dr=18692&refresh_token=3022c482&x-expires=1794062283&x-signature=%2FSTBqbhKp8UCVG0glfcllwGsT8E%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdasvj1nog65rc4m385hg)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4mcDf2GXERgQe8LwCVBFClzIprfiOoGVDRqhY~tplv-noop.image?dr=18692&refresh_token=2ed05624&x-expires=1794409688&x-signature=77PsBhjUqCjN3QewZRC5zIMfeUM%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my3&VideoID=v104bdg5000cdasvj1nog65rc4m385hg)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/b29276e2a45a96a4696ab08df04e214c/6aef37cb/video/tos/alisg/tos-alisg-v-9e30d3-sg/owEEIgqffhLQhFXrGecVwhFmGYqDl1BDio2EzC/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1385&ft=cApXJCz7ThWHSVhYLGZmo0P&mime_type=video_mp4&rc=ZGQzMzQ2NjMzNTdnaDRnZkBpajg2N3U5cjR5ZGYzOGc3NEBeNjEzMzJgXy0xNGMtYWBhYSNlNWpgMmRrZ3BhLS1kXy1zcw%3D%3D&vvpl=1&l=021794040481368fdbddc5300220b221f0c1dbf1f000011aeb188&btag=e00098000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/5417a71d7cf42617880feb72e8ba6e47/6af484d8/video/tos/alisg/tos-alisg-v-9e30d3-sg/owEEIgqffhLQhFXrGecVwhFmGYqDl1BDio2EzC/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1385&ft=cApXJCz7ThWH7.BILGZmo0P&mime_type=video_mp4&rc=ZGQzMzQ2NjMzNTdnaDRnZkBpajg2N3U5cjR5ZGYzOGc3NEBeNjEzMzJgXy0xNGMtYWBhYSNlNWpgMmRrZ3BhLS1kXy1zcw%3D%3D&vvpl=1&l=021794387886381fdbddc550004024e230c1dbf1f00009821875e&btag=e00098000)
 
 ### **Alegações médicas e relacionadas à saúde**
 

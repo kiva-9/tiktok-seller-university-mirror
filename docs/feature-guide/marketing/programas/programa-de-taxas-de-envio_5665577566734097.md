@@ -3,7 +3,7 @@ title: "Programa de Taxas de Envio"
 id: 5665577566734097
 category: "Programas"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5665577566734097"
-update_time: "2026-10-20"
+update_time: "2026-11-10"
 keywords: "Sellers"
 ---
 Estamos animados em apresentar a você o Programa de Taxas de Envio, que permite que os cupons de frete grátis do TikTok Shop sejam aplicados a todos os produtos em suas lojas, melhorando a visibilidade dos produtos e as taxas de conversão.
@@ -12,9 +12,9 @@ Estamos animados em apresentar a você o Programa de Taxas de Envio, que permite
 
 O Programa de Taxas de Envio dá aos vendedores acesso a benefícios providos pelo TikTok, que ajudarão a reduzir os custos de envios para os consumidores
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4ZagIuQDOg6fCfSBEfriYBcgFA0kQDXCgKrPr~tplv-noop.image?dr=18692&refresh_token=2d86552d&x-expires=1792502495&x-signature=MZo%2BDo5l%2F2n3%2FEVYg%2Bd2dWtkaDI%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my3&VideoID=v104bdg5000cd0qvtbnog65g06gt092g)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4ZagIuQDOg6fCfSBEfriYBcgFA0kQDXCgKrPr~tplv-noop.image?dr=18692&refresh_token=b600fc25&x-expires=1794409462&x-signature=LLlStJsLkHXvff5kx4KSyyz6kH8%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my3&VideoID=v104bdg5000cd0qvtbnog65g06gt092g)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/91696fdb0e51f09ca8afb60708e618bc/6ad76adf/video/tos/alisg/tos-alisg-v-9e30d3-sg/osf5ffugaCDFOPKQgIgQgUizSA6BsQc0DXrrEJ/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1559&ft=cApXJCz7ThWHjbz_LGZmo0P&mime_type=video_mp4&rc=NztkNTU5OTY6NzhlOWg0ZEBpajx3OWo5cmV5M2YzOGc3NEA0XjI0NWJiNjAxNDY2YzJfYSMvLWQtMmRrcW5hLS1kXy1zcw%3D%3D&vvpl=1&l=021792480842340fdbddc5500000103100c1dbf1f0000af8bdd58&btag=e00048000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/57224fc23922710ed1f970d034ab6ce6/6af483f6/video/tos/alisg/tos-alisg-v-9e30d3-sg/osf5ffugaCDFOPKQgIgQgUizSA6BsQc0DXrrEJ/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1559&ft=cApXJCz7ThWHS3BILGZmo0P&mime_type=video_mp4&rc=NztkNTU5OTY6NzhlOWg0ZEBpajx3OWo5cmV5M2YzOGc3NEA0XjI0NWJiNjAxNDY2YzJfYSMvLWQtMmRrcW5hLS1kXy1zcw%3D%3D&vvpl=1&l=021794387809657fdbddc5500020f3a120c1dbf1f000007dbd4aa&btag=e00088000)
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/e3b05ce674754babb319712fed138502~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2060178762&x-signature=UgKofp%2F4uBg%2BuYQV2V8XvvtNI3k%3D)
 
@@ -31,8 +31,8 @@ De acordo com o tipo de usuário, o TikTok oferecerá diferentes opções de env
 |  |  |  |  |
 | --- | --- | --- | --- |
 | **Tipo de subsídio** | **Tipo de usuário** | **Subsídios para participantes do Programa de Taxas de Envio** | **Subsídios para não participantes do Programa de Taxas de Envio** |
-| **Subsídio de Envio** | New User | R$ 109-R$ 5  * Gasto mínimo de R$ 109, com subsídio máximo de R$ 5. * Limitado a 1 utilização por voucher | Sem subsídio |
-| Usuários recorrentes | **Níveis 1****:** R$ 9 – R$ 9, R$ 29 – R$ 20 e R$ 139 – R$ 35   * Compra mínima de R$ 9, com subsídio máximo de R$ 9 * Compra mínima de R$ 29, com subsídio máximo de R$ 20 * Compra mínima de R$ 139, com subsídio máximo de R$ 35  Até 30 utilizações por mês por voucher.**Níveis 2****:** R$ 15 – R$ 10, R$ 39 – R$ 18 e R$ 139 – R$ 40   * Compra mínima de R$ 15, com subsídio máximo de R$ 10 * Compra mínima de R$ 39, com subsídio máximo de R$ 18 * Compra mínima de R$ 139, com subsídio máximo de R$ 40  Até 30 utilizações por mês por voucher.**Níveis 3****:** R$ 20 – R$ 12, R$ 69 – R$ 30 e R$ 159 – R$ 50  * Compra mínima de R$ 20, com subsídio máximo de R$ 12 * Compra mínima de R$ 69, com subsídio máximo de R$ 30 * Compra mínima de R$ 159, com subsídio máximo de R$ 50  Até 30 utilizações por mês por voucher.Clique [Aqui](https://bytedance.larkoffice.com/wiki/RpjLw67jai10CckQBuvchJ3wnoe) "https://bytedance.larkoffice.com/wiki/RpjLw67jai10CckQBuvchJ3wnoe)") para visualizar o mapeamento entre níveis e estados | Sem subsídio |
+| **Subsídio de Envio** | New User | * Para itens ≤ R$15: Gasto mínimo de R$ 12, com subsídio máximo de R$ 20 * Limitado a 1 utilização por voucher | Sem subsídio |
+| Usuários recorrentes | **Níveis 1****:** R$ 9 – R$ 8, R$ 29 – R$ 13 e R$ 139 – R$ 21   * Compra mínima de R$ 9, com subsídio máximo de R$ 8 * Compra mínima de R$ 29, com subsídio máximo de R$ 13 * Compra mínima de R$ 139, com subsídio máximo de R$ 21  Até 30 utilizações por mês por voucher.**Níveis 2****:** R$ 15 – R$ 7, R$ 39 – R$ 12 e R$ 139 – R$ 25   * Compra mínima de R$ 15, com subsídio máximo de R$ 7 * Compra mínima de R$ 39, com subsídio máximo de R$ 12 * Compra mínima de R$ 139, com subsídio máximo de R$ 25  Até 30 utilizações por mês por voucher.**Níveis 3****:** R$ 20 – R$ 7, R$ 69 – R$ 17 e R$ 159 – R$ 28  * Compra mínima de R$ 20, com subsídio máximo de R$ 7 * Compra mínima de R$ 69, com subsídio máximo de R$ 17 * Compra mínima de R$ 159, com subsídio máximo de R$ 28  Até 30 utilizações por mês por voucher.Clique [Aqui](https://bytedance.larkoffice.com/wiki/RpjLw67jai10CckQBuvchJ3wnoe) "https://bytedance.larkoffice.com/wiki/RpjLw67jai10CckQBuvchJ3wnoe)") para visualizar o mapeamento entre níveis e estados | Sem subsídio |
 
  \*Os subsídios de envio se aplicam apenas à mesma loja, e o gasto mínimo é baseado no preço de venda dos pedidos, após quaisquer descontos diretos do produto, e o desconto final é o menor entre a taxa de envio do cliente antes de descontos e o valor máximo de desconto do cupom  
  \*Se a taxa de envio exceder o subsídio de envio fornecido pela plataforma e pelo vendedor, o comprador deverá pagar a diferença.  

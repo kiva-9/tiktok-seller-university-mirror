@@ -3,7 +3,7 @@ title: "Entendendo a política de Promoção de Produto Inconsistente do TikTok 
 id: 148058718537493
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=148058718537493"
-update_time: "2026-11-06"
+update_time: "2026-11-11"
 keywords: ""
 ---
 A violação por **Promoção de Produto Inconsistente** é uma das penalidades mais recorrentes dentro do TikTok Shop. Este artigo explica os erros frequentes que levam a esta punição e como você pode aprimorar seus vídeos e transmissões ao vivo para vender mais, melhorar a experiência dos compradores e manter limpa a sua Classificação de Integridade do Criador.
@@ -34,18 +34,16 @@ Exemplos de Promoção de Produto Inconsistente
 
   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/e3c7ae1416444dc497c5ba09dbd304c4~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109357819&x-signature=fNKdWS2AYXEBDF3q3CbWKvkvUXI%3D)
 
-*Figura 2 — Tamanho e escala enganosos: o frasco de 50 ml segurado pela apresentadora ao lado de um render do mesmo frasco em escala quase humana.*
+  *Tamanho e escala enganosos: o frasco de 50 ml segurado pela apresentadora ao lado de um render do mesmo frasco em escala quase humana.*
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/280e027f49bb459e9fca9061dc33275b~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109357824&x-signature=MjbgCxKL8Vua7F3KpSwXZksW2g4%3D)
+  ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/280e027f49bb459e9fca9061dc33275b~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109357824&x-signature=MjbgCxKL8Vua7F3KpSwXZksW2g4%3D)
 
-*Figura 4 — Tamanho e escala exagerados: galões segurados em escala desproporcional ao corpo, com texto de rótulo ilegível; conteúdo marcado como gerado por IA.*
-
+  *Tamanho e escala exagerados: galões segurados em escala desproporcional ao corpo, com texto de rótulo ilegível; conteúdo marcado como gerado por IA.*
 * Mostrar cor, estampa, textura ou desenho diferentes da variação anunciada e vinculada;
 
   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/045357af42a84e929bd15686aa9856a5~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109357819&x-signature=r4wct2WKo2efcyGix9MXZofmxxk%3D)
 
-*Figura 6 — Faixa branca vertical refletiva que não existe na variação vinculada, com chamada de preço na tela.*
-
+  *Faixa branca vertical refletiva que não existe na variação vinculada, com chamada de preço na tela.*
 * Exibir texto ilegível na tela: especificações borradas ou fora de foco, números, unidades ou atributos distorcidos, ou palavras e caracteres sem sentido.![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/84471a71106e4cab9db837e57d93e4d3~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109357824&x-signature=wBYmQSJIW8s%2BJZbuRK%2BBYrCFy%2FA%3D)
 
 #### Práticas recomendadas
@@ -99,18 +97,18 @@ Revise quadro a quadro todo texto gerado por IA antes de publicar, inclusive sob
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/792071b13e2c46aaae26a60646f80478~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109357820&x-signature=6jUzhm087RxBu8bas3pHTNfIhBE%3D)
 
-*Figura 1 — Texto ilegível ou inventado na embalagem: linhas de marca, especificação e contagem saem como pseudo-letras.*
+*Texto ilegível ou inventado na embalagem: linhas de marca, especificação e contagem saem como pseudo-letras.*
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/d1f0b4a79d4b4436b44173ced07ac8fb~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109357819&x-signature=hTLCTUDtdjZwkpIjQipd96kg81w%3D)
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/4d409e95482d424ea337631338550899~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109739212&x-signature=Vx%2BcotyccVE2SQQjBmoW6iIsgT0%3D)
 
-*Figura 3 — O título permanece correto, mas o parágrafo descritivo do rótulo vira uma sequência de caracteres sem sentido.*
+*O título permanece correto, mas o parágrafo descritivo do rótulo vira uma sequência de caracteres sem sentido.*
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f22b0db53e704b28881f9e194a51e55f~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109357822&x-signature=j7njlS6RR%2FzvuroKFn7bNplnk%2Bs%3D)
 
-*Figura 5 — Embalagem e rótulo diferentes do produto anunciado, com linhas de texto ilegíveis; conteúdo marcado como gerado por IA.*
+*Embalagem e rótulo diferentes do produto anunciado, com linhas de texto ilegíveis; conteúdo marcado como gerado por IA.*
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/c19f66edc56f4cecbb5ff7fe9531c49e~tplv-nk3i2mqmvs-image.jpeg?lk3s=5d1a069b&x-expires=2109357817&x-signature=1iKlr7VpWf5rqUCg1hP3%2Fy4PBfA%3D)
+![image-logo-mosaic.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/28991a0acb12478490c3b861843555df~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109741427&x-signature=risrSP4rxnBLn8%2BiceFEVfYEPbw%3D)
 
-*Figura 7 — Especificações parcialmente deformadas e sobreposição na tela com palavras inventadas.*
+*Especificações parcialmente deformadas e sobreposição na tela com palavras inventadas.*
 
 Para mais informações de como utilizar conteúdo gerado por IA de acordo com as políticas do TikTok Shop, leia o artigo [Restrições e requisitos para conteúdo gerado por IA](https://seller-br.tiktok.com/university/essay?knowledge_id=2324329879832321&lang=pt-BR#vis-o-geral-e-escopo-da-pol-tica "https://seller-br.tiktok.com/university/essay?knowledge_id=2324329879832321&lang=pt-BR#vis-o-geral-e-escopo-da-pol-tica").

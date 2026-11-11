@@ -3,7 +3,7 @@ title: "Restrições e requisitos para conteúdo gerado por IA"
 id: 2324329879832321
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2324329879832321"
-update_time: "2026-11-06"
+update_time: "2026-11-09"
 keywords: "Política de vendedor"
 ---
 ![葡语版头条.jpg](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/aa7f26412705434596b508327b47eb99~tplv-nk3i2mqmvs-image.jpg?lk3s=5d1a069b&x-expires=2092276469&x-signature=qVEcMxHxSH5WON7mqNe1Foy2GbU%3D)**Pontos principais**
@@ -25,9 +25,9 @@ Para proteger os usuários e garantir um ecossistema de conteúdo seguro e confi
 
 **Conteúdo Gerado por IA** refere-se a vídeos, imagens, áudio, texto ou transmissões ao vivo que são total ou parcialmente gerados, editados ou sintetizados usando tecnologias de inteligência artificial. Isso inclui conteúdo que simula, altera ou recria pessoas, cenas ou eventos, bem como conteúdo que é inteiramente ficcional ou apresentado em um estilo artístico específico (por exemplo, pintura, desenho animado ou animação).  
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/okEXpFVflCZUDaDdIfmZogBBE1KBoU9e5SAirI~tplv-noop.image?dr=18692&refresh_token=c758cfcd&x-expires=1794062229&x-signature=1kxI39dFvB0k4ADrxsSSKiNkHrQ%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdakig7nog65uvgbbikk0)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/okEXpFVflCZUDaDdIfmZogBBE1KBoU9e5SAirI~tplv-noop.image?dr=18692&refresh_token=4193cb80&x-expires=1794409631&x-signature=3V5Ik2eAPPM%2BrtSiLsf%2FbQC0nc0%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my3&VideoID=v104bdg5000cdakig7nog65uvgbbikk0)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/e347757f9aedafb8e3353c51a4399819/6aef3795/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMDfpNfAQaUlVFYXug9CiegoEUEDKIBBr5uPSv/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1383&ft=cApXJCz7ThWHbVhYLGZmo0P&mime_type=video_mp4&rc=aTVpPDQ8ODs2aDVoZDw3aUBpM25lang5cjpsZGYzOGc3NEBjYTNgYzJjX2MxLi0vXjEtYSNoZl9zMmRrZGhhLS1kXy1zcw%3D%3D&vvpl=1&l=021794040486761fdbddc5300220b221f0c1dbf1f000011f85085&btag=e00090000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/9bb322f2bd0e992413a9bacec401c48b/6af4849f/video/tos/alisg/tos-alisg-v-9e30d3-sg/oMDfpNfAQaUlVFYXug9CiegoEUEDKIBBr5uPSv/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1383&ft=cApXJCz7ThWH3.BILGZmo0P&mime_type=video_mp4&rc=aTVpPDQ8ODs2aDVoZDw3aUBpM25lang5cjpsZGYzOGc3NEBjYTNgYzJjX2MxLi0vXjEtYSNoZl9zMmRrZGhhLS1kXy1zcw%3D%3D&vvpl=1&l=021794387888284fdbddc5500020f3a120c1dbf1f0000077d9108&btag=e00090000)
 
 ## **Práticas proibidas para conteúdo gerado por IA**
 

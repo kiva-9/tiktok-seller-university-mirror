@@ -3,9 +3,11 @@ title: "Diretriz para  de Qualificação de categoria"
 id: 7734094290093831
 category: "Gerencie seus produtos"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7734094290093831"
-update_time: "2026-09-29"
+update_time: "2026-11-09"
 keywords: ""
 ---
+Use este guia para identificar as categorias cobertas, os requisitos de qualificação, as condições que podem resultar na perda da qualificação e o caminho para requalificação.  
+
 ## A quem esta Diretriz se aplica
 
 Vendedores que vendem produtos nas seguintes categorias no TikTok Shop:  
@@ -56,4 +58,7 @@ Uma loja poderá perder sua qualificação para vender as categorias listadas ac
 * SPS ≤ 4. [Clique aqui para conferir o seu desempenho na Central do vendedor](https://seller-br.tiktok.com/health-center/experience-score "https://seller-br.tiktok.com/health-center/experience-score")
 
 As categorias listadas acima são consideradas de alto risco porque podem afetar diretamente a saúde, a segurança ou o bem-estar do consumidor. Como resultado, o TikTok Shop aplica padrões de análise mais rigorosos para vendedores dessas categorias. Mesmo que sua loja atenda aos requisitos de desempenho listados acima, o TikTok Shop ainda poderá remover sua qualificação de categoria se identificarmos quaisquer preocupações relacionadas à conformidade, à segurança, às políticas ou a outros riscos. Quando relevante, o TikTok Shop também poderá levar em consideração riscos da conta identificados em lojas sob a mesma entidade empresarial ou em lojas associadas e poderá remover as qualificações de categoria correspondentes dessas lojas.  
-Uma vez que o vendedor perder a qualificação de categoria, será possível solicitá-la novamente após as métricas de desempenho atenderem aos requisitos.
+
+Uma vez que o vendedor perder a qualificação de categoria, os produtos relacionados em sua loja serão retirados pela plataforma.
+
+Uma vez que o vendedor perder a qualificação de categoria, poderá solicitá-la novamente após 30 dias.

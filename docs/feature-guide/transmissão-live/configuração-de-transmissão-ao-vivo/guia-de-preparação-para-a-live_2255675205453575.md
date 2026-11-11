@@ -3,7 +3,7 @@ title: "Guia de preparação para a LIVE"
 id: 2255675205453575
 category: "Configuração de transmissão ao vivo"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=2255675205453575"
-update_time: "2026-08-21"
+update_time: "2026-11-09"
 keywords: "Vendedores,Criadores"
 ---
 **Uma ótima transmissão ao vivo é planejada, não improvisada.**
@@ -13,6 +13,16 @@ A preparação para a LIVE não se resume a conferir configurações de recursos
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/87d205677e0e426897e20722e0308633~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102678175&x-signature=YYajMoFHN2iy29MxYmNQfegOJQA%3D)
 
 Com essa lógica de preparação estabelecida, o próximo passo é trabalhar nas três etapas principais da configuração: seleção de produtos, configuração da promoção e exposição.
+
+#### Como se preparar antes de iniciar uma LIVE
+
+Prepare sua LIVE com tutoriais em vídeo que mostram, passo a passo, como escolher produtos, configurar ferramentas de venda e planejar seu roteiro.
+
+**Como acessar:** Na página de preparação da LIVE, toque no ícone 💡 → Selecione “LIVE preparation tutorials” → Toque em “Learn”.
+
+**O que você vai aprender:** Assista ao tutorial de preparação para aprender a selecionar produtos, configurar ferramentas de venda e planejar seu roteiro.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f43b79baf41840fbb4515269b1dffc5b~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109566933&x-signature=kdeciyxfqAGwXAA6Wz1N7Lnek5c%3D)
 
 ---
 
@@ -80,6 +90,16 @@ Use o gráfico acima para planejar **quando** a Oferta relâmpago deve ser lanç
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/9dbaebc53412423aa4ed58fccfd7e8d5~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102678218&x-signature=XMpzWbh3GvE%2BKVUHZ3X%2B%2B41UD80%3D)
 
+#### Como configurar e realizar uma oferta relâmpago
+
+Confira o tutorial em vídeo para aprender a configurar uma oferta relâmpago e apresentar sua promoção por tempo limitado com clareza.
+
+**Como acessar:** Toque em “Products” → Abra a aba “Promotions” → Selecione “LIVE flash sale” → Toque no ícone 💡 no canto superior direito → Assista ao tutorial.
+
+**O que você vai aprender:** Saiba como combinar a contagem regressiva com a apresentação do produto para ajudar o público a entender a oferta e decidir pela compra.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0ddd28ef028241858d42c726f3553f41~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109566863&x-signature=4UH1DOqqim%2FG1TLdEhEpweKW2ZY%3D)
+
 ### Recompensa
 
 **Quando usar**
@@ -104,6 +124,16 @@ Use o gráfico acima para planejar **quando** a Recompensa deve ser usada para e
 **Caminho de configuração**
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/12f65df820f24e329a11daabd1599c16~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102678163&x-signature=yv9dHba6PTKo1yN15G1EChLQbY4%3D)
+
+#### Como configurar e realizar uma Recompensa
+
+Siga o tutorial em vídeo para configurar uma Recompensa e incentivar o público a interagir e passar mais tempo na sua LIVE.
+
+**Como acessar:** Toque em “Products” → Abra a aba “Promotions” → Selecione a opção de Recompensa na LIVE → Toque no ícone 💡 no canto superior direito → Assista ao tutorial.
+
+**O que você vai aprender:** Aprenda a usar a Recompensa para estimular a participação do público sem perder o ritmo da apresentação dos produtos.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/451ff9d6a1614b528d1a290932d00371~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109566884&x-signature=AJ39wF2QJ9s%2F8%2BBhZbuIK39ad%2Fk%3D)
 
 ### Cupons
 
@@ -131,6 +161,16 @@ Use o gráfico acima para decidir **quando** os cupons devem ser exibidos, a fim
 **Caminho de configuração**
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/a810c0086f1c4b66a27fd5290780490a~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2102678218&x-signature=zkOZ6F4jLq6FuLXJP%2Fd70q5C338%3D)
+
+#### Como configurar e usar cupons na LIVE
+
+Ajude o público interessado a entender quanto pode economizar. Siga o tutorial em vídeo para aprender a configurar e usar cupons na LIVE.
+
+**Como acessar:** Toque em “Products” → Abra a aba “Promotions” → Selecione “LIVE coupon” → Toque no ícone 💡 no canto superior direito → Assista ao tutorial.
+
+**O que você vai aprender:** Aprenda a configurar e exibir cupons durante a LIVE e a explicar a economia oferecida ao público.
+
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/faf14f56a26c4f9c89bfe4e1cf7a6f66~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109566960&x-signature=TJJHI7hfAMGZA7aW5KwzKaugKMs%3D)
 
 ---
 
