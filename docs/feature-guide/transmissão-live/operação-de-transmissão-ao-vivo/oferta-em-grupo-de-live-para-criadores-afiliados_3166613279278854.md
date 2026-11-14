@@ -3,7 +3,7 @@ title: "Oferta em grupo de LIVE para criadores afiliados"
 id: 3166613279278854
 category: "Operação de transmissão ao vivo"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3166613279278854"
-update_time: "2026-11-04"
+update_time: "2026-11-12"
 keywords: "Criadores"
 ---
 ## O que é a Oferta em grupo?
@@ -12,22 +12,21 @@ keywords: "Criadores"
 
 |  |  |
 | --- | --- |
-| 视频 1 封面 [🎬 视频 1](https://v16m-default.tiktokcdn.com/f12a29d4c777856288ad6db570b27f1f/6aec9d7d/video/tos/alisg/tos-alisg-v-9e30d3-sg/owinVj9ViYBuSxIKvLHKiQrBUrhuMEAIAaBC7/?a=6556&bti=ODY2QDQwNWA%3D&&bt=339&ft=cApXJCz7ThWHokwYLGZmo0P&mime_type=video_mp4&rc=NjozZzw5NDhpNmhmPDs3OUBpajt2cnU5cjNyZWYzOGc3NEBhMS1gLy4tNTAxX2AuLy5eYSNsanBpMmRraGlhLS1kXy1zcw%3D%3D&vvpl=1&l=021793870057601fdbddc5300110213170c1dbf1f000061298aa2&btag=e00088000) | Uma Oferta em grupo é um recurso interativo no qual os espectadores se unem para desbloquear um preço exclusivo. Os espectadores precisam formar um grupo de um tamanho específico para obter a oferta. Se o grupo não estiver completo quando o prazo terminar, o preço promocional não será oferecido; portanto, o desconto só é concedido quando o tamanho de grupo necessário é atingido.**Os vendedores podem criar campanhas de Ofertas em grupo e atribuí-las a criadores afiliados, permitindo que estes realizem atividades de Ofertas em grupo durante transmissões de LIVE usando os produtos dos vendedores.**Isso proporciona uma experiência interativa aos seus clientes e pode manter o público engajado, ao mesmo tempo em que impulsiona vendas em maior volume e gera mais receita de comissões para você. |
+| 视频 1 封面 [🎬 视频 1](https://v16m-default.tiktokcdn.com/577b1b818d1e1064a24cc6bea4957f8c/6af874d1/video/tos/alisg/tos-alisg-v-9e30d3-sg/owinVj9ViYBuSxIKvLHKiQrBUrhuMEAIAaBC7/?a=6556&bti=ODY2QDQwNWA%3D&&bt=339&ft=cApXJCz7ThWHgoB~LGZmo0P&mime_type=video_mp4&rc=NjozZzw5NDhpNmhmPDs3OUBpajt2cnU5cjNyZWYzOGc3NEBhMS1gLy4tNTAxX2AuLy5eYSNsanBpMmRraGlhLS1kXy1zcw%3D%3D&vvpl=1&l=021794646077835fdbddc53003601461b0c1dbf1f00009fdc597c&btag=e00088000) | Uma Oferta em grupo é um recurso interativo no qual os espectadores se unem para desbloquear um preço exclusivo. Os espectadores precisam formar um grupo de um tamanho específico para obter a oferta. Se o grupo não estiver completo quando o prazo terminar, o preço promocional não será oferecido; portanto, o desconto só é concedido quando o tamanho de grupo necessário é atingido.**Os vendedores podem criar campanhas de Ofertas em grupo e atribuí-las a criadores afiliados, permitindo que estes realizem atividades de Ofertas em grupo durante transmissões de LIVE usando os produtos dos vendedores.**Isso proporciona uma experiência interativa aos seus clientes e pode manter o público engajado, ao mesmo tempo em que impulsiona vendas em maior volume e gera mais receita de comissões para você. |
 
 **Critérios de elegibilidade**Criadores afiliados podem usar a Oferta em grupo ao atenderem a estes critérios:  
 
 * Nível do criador: L4 ou superior
 * Pontuação de Saúde do Criador (CHR) > 150
 
-**Como é o processo geral da Oferta em grupo?**![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/3d35fc316f53428c91207081cea95288~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109181191&x-signature=XGdekoVixYaxl4Gyztnz8Z7f0wI%3D)
+**Como é o processo geral da Oferta em grupo?**![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2b8c8813b27d4d6eb8855cb78d966e57~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866895&x-signature=H2d9Y%2B9Wb5KgupkFqhbfnk5wUgc%3D)
 
 1. **Adicione produtos à vitrine:** verifique o Mercado de produtos para conferir os produtos disponíveis para Ofertas em grupo e adicione-os à sua vitrine.
 2. **Adicione produtos ao carrinho de compras em LIVE:** após adicionar produtos à vitrine, inclua-os no carrinho de compras em LIVE e defina as configurações da Oferta em grupo (quantidade e duração).
 3. **Aqueça a audiência durante a LIVE:** fixe a atividade Oferta em grupo para mostrar e explicar como ela funciona.
 4. **Inicie a Oferta em grupo:** se o público demonstrar interesse, toque em "Iniciar" para começar a atividade.
-5. **Celebre os participantes:** ao final da atividade, faça uma menção especial às pessoas que formaram o grupo. Reinicie a próxima Oferta em grupo, caso ainda haja estoque disponível.
 
-   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/628edf99fc9940288eefc8047ed3d76f~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109181181&x-signature=m4UlY1c5r8hM9tejksBLEwIpK5w%3D)
+   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/e9a73ebb5f2a4346a080c637cc5dbd10~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866918&x-signature=x1Hmbz76eR59SB7clcAluEq8LYo%3D)
 
 ## Como criar uma Oferta em grupo
 
@@ -109,7 +108,7 @@ Após o término da Oferta em grupo, os criadores podem visualizar os dados agre
 | image | | |
 | Pelo aplicativo TikTok, abra a página Oferta em grupo > Clique no cartão da atividade para editá-la ou no ícone de lixeira para excluí-la. | | |
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/9754060fd0a6456b9cfe06f860fe7584~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109181161&x-signature=GbloZjab6XGidHq7DnRCJqKtExQ%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0e00d3dd548240db8bdbc19d6efcda11~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866916&x-signature=l1eAX0n2AR53O8fjNN%2BIQngnT%2FM%3D)
 
 ## Verifique a comissão dos produtos
 
@@ -127,7 +126,7 @@ Como criador afiliado, talvez seja interessante para você conferir as taxas de 
 | --- | --- |
 | image | Se você deseja revisar e gerenciar os produtos de Oferta em grupo adicionados à sua vitrine, basta acessar os produtos da sua vitrine e aplicar o filtro para visualizar por um tipo de atividade de LIVE específica *(por exemplo: Lance ao Vivo, Corte de preço de LIVE, Oferta em grupo de LIVE)*.Após a filtragem, serão exibidos apenas os produtos aplicáveis ao tipo de atividade de LIVE selecionado. |
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/654a6c3cc1074451be13d0a47ae95f4f~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109181161&x-signature=rI2yQtYiiyFL7WefcKRVPUTB1TU%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f0ba422b8bc4434598067d385e5c3239~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866917&x-signature=P6S%2F4gilfNbTIyn%2FbznEAtYHsJY%3D)
 
 ## Como os espectadores podem participar de uma Oferta em grupo
 
@@ -142,7 +141,7 @@ Assim que uma Oferta em grupo é iniciada, os espectadores podem participar das 
 Antes de participar da Oferta em grupo, os espectadores devem realizar 3 ações:  
 
 1. Escolher um SKU (aplicável apenas se a atividade de Oferta em grupo tiver múltiplos SKUs com o mesmo preço)
-2. Concordar com a Política do Comprador
+2. Concordar com a [Política do Comprador](https://sf19-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/cd477e03-290d-459a-ba5b-8c029b414855_pt-BR.html "https://sf19-draftcdn-sg.ibytedtos.com/obj/ies-hotsoon-draft-sg/magellan_ecommerce/cd477e03-290d-459a-ba5b-8c029b414855_pt-BR.html")
 3. Configurar o endereço de envio e a forma de pagamento
 
 |  |  |
@@ -172,7 +171,7 @@ Assim que um espectador entra na Oferta em grupo, há dois resultados possíveis
 | image | image |
 | Os espectadores que tiverem vinculado sua forma de pagamento serão cobrados automaticamente assim que o tamanho do grupo for atingido e o preço da oferta for desbloqueado. | Se os espectadores tiverem selecionado o PayLater como forma de pagamento, eles terão **10 minutos** para concluir o pagamento antes que o pedido seja cancelado. |
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/fe3f7ff4328942be8ce76f34d6e175d9~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109181180&x-signature=GvVEF%2BRQErf%2BfogDYDG7pbImYAY%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/99b43d6aba724df5939c2dab58404a37~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866918&x-signature=lwo%2F0HzwnhI%2FCK%2Bds5d36ftTOqI%3D)
 
 ## Benefícios para criadores
 
@@ -192,7 +191,7 @@ Os criadores afiliados podem ajustar a **quantidade e a duração das Ofertas em
 
 A Oferta em grupo oferece aos espectadores um objetivo comum a ser alcançado, tornando a sessão mais participativa e mantendo o público engajado por mais tempo.  
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5d1b1f37326c466595edabacb91cc244~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109181185&x-signature=JX8TQjKvuJfY4mYa%2FXCwiuMOj%2Fw%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/1785188bb6864c0795cf7e11ec0a83e2~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866918&x-signature=A0epZmyHq4z4tZvfnqLtoDL%2B2BQ%3D)
 
 ## Perguntas frequentes
 

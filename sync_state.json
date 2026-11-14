@@ -611,7 +611,7 @@
   },
   "5827634231625488": {
     "title": "Lance ao Vivo",
-    "last_modified": 1790547592010,
+    "last_modified": 1794502692608,
     "file": "docs/feature-guide/live/ferramentas-e-promoções-de-live/lance-ao-vivo_5827634231625488.md"
   },
   "6718910910400257": {
@@ -861,7 +861,7 @@
   },
   "2915348630603521": {
     "title": "Visão Geral da Opção \"Enviados Pela Plataforma\"",
-    "last_modified": 1791526665599,
+    "last_modified": 1794476139666,
     "file": "docs/feature-guide/pedidos/serviço-de-compras/visão-geral-da-opção-enviados-pela-plataforma_2915348630603521.md"
   },
   "2915348630701825": {
@@ -1306,32 +1306,32 @@
   },
   "6792456734754577": {
     "title": "Encontrar Criadores",
-    "last_modified": 1744795919054,
+    "last_modified": 1794532383753,
     "file": "docs/feature-guide/agência/encontrar-criadores_6792456734754577.md"
   },
   "6810747971798800": {
     "title": "Guia de autointegração para agências CAP ",
-    "last_modified": 1744821863237,
+    "last_modified": 1794532288237,
     "file": "docs/feature-guide/agência/guia-de-autointegração-para-agências-cap_6810747971798800.md"
   },
   "6807244118624016": {
     "title": "Guia de autointegração para agências TAP",
-    "last_modified": 1744822654657,
+    "last_modified": 1794531802370,
     "file": "docs/feature-guide/agência/guia-de-autointegração-para-agências-tap_6807244118624016.md"
   },
   "8093741534234385": {
     "title": "Guia de Uso  para Criadores - Conexão com agências, autorização de dados e compartilhamento de comissões",
-    "last_modified": 1744825088333,
+    "last_modified": 1794531496664,
     "file": "docs/feature-guide/agência/guia-de-uso-para-criadores-conexão-com-agências-autorização-de-dados-e-compartil_8093741534234385.md"
   },
   "8601600667698960": {
     "title": "Guia para agências - Conexão com agências, autorização de dados e compartilhamento de comissões",
-    "last_modified": 1744825108241,
+    "last_modified": 1794531135955,
     "file": "docs/feature-guide/agência/guia-para-agências-conexão-com-agências-autorização-de-dados-e-compartilhamento-_8601600667698960.md"
   },
   "6320504354424577": {
     "title": "Campanhas de Parceria",
-    "last_modified": 1774840152832,
+    "last_modified": 1794531375787,
     "file": "docs/feature-guide/agência/campanhas-de-parceria_6320504354424577.md"
   },
   "1248927723423504": {
@@ -2056,7 +2056,7 @@
   },
   "5294951215875861": {
     "title": "Orientações sobre o recurso Corte de preço em LIVE",
-    "last_modified": 1794431857293,
+    "last_modified": 1794506469009,
     "file": "docs/feature-guide/live/ferramentas-e-promoções-de-live/orientações-sobre-o-recurso-corte-de-preço-em-live_5294951215875861.md"
   },
   "6642736011380487": {
@@ -2126,12 +2126,12 @@
   },
   "3117589644642068": {
     "title": "Corte de preço de LIVE para criadores afiliados",
-    "last_modified": 1793828059875,
+    "last_modified": 1794506711609,
     "file": "docs/feature-guide/transmissão-live/operação-de-transmissão-ao-vivo/corte-de-preço-de-live-para-criadores-afiliados_3117589644642068.md"
   },
   "3166613279278854": {
     "title": "Oferta em grupo de LIVE para criadores afiliados",
-    "last_modified": 1793828111512,
+    "last_modified": 1794506960330,
     "file": "docs/feature-guide/transmissão-live/operação-de-transmissão-ao-vivo/oferta-em-grupo-de-live-para-criadores-afiliados_3166613279278854.md"
   },
   "3072452480223028": {
@@ -2163,5 +2163,15 @@
     "title": "TSP - Como afiliar seus vendedores",
     "last_modified": 1794445379650,
     "file": "docs/feature-guide/agência/tsp-como-afiliar-seus-vendedores_5842821518378772.md"
+  },
+  "6125961871787796": {
+    "title": "📚 Guia inicial para Agências | TikTok Shop",
+    "last_modified": 1794613790184,
+    "file": "docs/feature-guide/agência/guia-inicial-para-agências-tiktok-shop_6125961871787796.md"
+  },
+  "6497193873114886": {
+    "title": "Fui aprovado! E agora? -  De zero a herói!",
+    "last_modified": 1794610350964,
+    "file": "docs/feature-guide/agência/fui-aprovado-e-agora-de-zero-a-herói_6497193873114886.md"
   }
 }

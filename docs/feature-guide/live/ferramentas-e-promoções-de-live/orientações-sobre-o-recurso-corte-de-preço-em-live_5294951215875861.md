@@ -3,7 +3,7 @@ title: "Orientações sobre o recurso Corte de preço em LIVE"
 id: 5294951215875861
 category: "Ferramentas e Promoções de LIVE"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=5294951215875861"
-update_time: "2026-11-11"
+update_time: "2026-11-12"
 keywords: "Vendedores"
 ---
 # Corte de preço
@@ -14,17 +14,27 @@ keywords: "Vendedores"
 
 |  |  |
 | --- | --- |
-| 视频 1 封面 [🎬 视频 1](https://v16m-default.tiktokcdn.com/b222beab60f83ae81f254dea82c97eef/6af5dc0a/video/tos/alisg/tos-alisg-v-9e30d3-sg/ocCAi2f6GLPCeXbQIVIGH2eSEIXaBaDdDg0pwr/?a=6556&bti=ODY2QDQwNWA%3D&&bt=891&ft=cApXJCz7ThWHPwZILGZmo0P&mime_type=video_mp4&rc=MzQ0Nzo7PDk5ZDw2OWc5aUBpM3k6bWs5cm9nZWYzOGc3NEBjL18yNWItNjAxLTRiMS1hYSM2ZGhzMmQ0am5hLS1kXy1zcw%3D%3D&vvpl=1&l=021794475927293fdbddc530050072c1b0c1dbf1f0000cf3497a6&btag=e000b8000) | O Corte de preço é um novo recurso interativo de LIVE no qual os espectadores reduzem coletivamente o preço de um produto em tempo real durante a LIVE. Quanto mais participantes participarem, mais o preço cai.  Os vendedores definem o preço inicial do produto, a meta de número de participantes para desbloquear o preço inicial, o preço mînimo, o estoque para o Corte de preço , a meta de participantes para desbloquear o preço iniciale a duração. Durante a LIVE, cada espectador pode reduzir o preço do produto uma vez por evento de Corte de preço. A plataforma determina automaticamente o valor descontado a cada vez.  Quando a atividade termina, os espectadores participantes são cobrados automaticamente pelo preço final de encerramento. Se o preço mínimo for atingido antes do cronômetro terminar e o estoque permanecer, outros espectadores também poderão aderir, e um pedido será criado automaticamente para eles pelo preço mais baixo assim que a atividade terminar. O preço nunca ficará abaixo do preço mínimo definido pelo vendedor, mesmo que o número de participantes ultrapasse a meta estabelecida. |
+| 视频 1 封面 [🎬 视频 1](https://v16m-default.tiktokcdn.com/0b0796c037fbb18c21e5ad201e8ab877/6af8747f/video/tos/alisg/tos-alisg-v-9e30d3-sg/ocCAi2f6GLPCeXbQIVIGH2eSEIXaBaDdDg0pwr/?a=6556&bti=ODY2QDQwNWA%3D&&bt=891&ft=cApXJCz7ThWHpoB~LGZmo0P&mime_type=video_mp4&rc=MzQ0Nzo7PDk5ZDw2OWc5aUBpM3k6bWs5cm9nZWYzOGc3NEBjL18yNWItNjAxLTRiMS1hYSM2ZGhzMmQ0am5hLS1kXy1zcw%3D%3D&vvpl=1&l=021794646028646fdbddc53003601461b0c1dbf1f00009f51bc4e&btag=e000b8000) | O Corte de preço é um novo recurso interativo de LIVE no qual os espectadores reduzem coletivamente o preço de um produto em tempo real durante a LIVE. Quanto mais participantes participarem, mais o preço cai.  Os vendedores definem o preço inicial do produto, a meta de número de participantes para desbloquear o preço inicial, o preço mînimo, o estoque para o Corte de preço , a meta de participantes para desbloquear o preço iniciale a duração. Durante a LIVE, cada espectador pode reduzir o preço do produto uma vez por evento de Corte de preço. A plataforma determina automaticamente o valor descontado a cada vez.  Quando a atividade termina, os espectadores participantes são cobrados automaticamente pelo preço final de encerramento. Se o preço mínimo for atingido antes do cronômetro terminar e o estoque permanecer, outros espectadores também poderão aderir, e um pedido será criado automaticamente para eles pelo preço mais baixo assim que a atividade terminar. O preço nunca ficará abaixo do preço mínimo definido pelo vendedor, mesmo que o número de participantes ultrapasse a meta estabelecida. |
+
+**Critérios de elegibilidade**
+
+* **Período de experiência da loja:** concluído;
+* **Avaliação de Integridade da Conta (AHR):** ≥ 150;
+* **Pontuação Geral de Avaliação da Loja (SES):** ≥ 4,0 ou sem pontuação;
+* **Pontuação de Desempenho da Loja (SPS):** as pontuações de Produto e Cumprimento devem ser ≥ 4,0 ou estar sem pontuação.
+* **Violações:** nenhuma violação relacionada a direitos de propriedade intelectual, anúncios ou RCS;
 
 **Como é o processo geral do Corte de preço?**
 
-![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6f87b9ec919f45a884874da3e2040fdb~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2107337720&x-signature=oTnH%2Bc6AgOVWazQZT5mz5xvXHRk%3D)
+![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/d94fbf282bd44ea98ede89e149143cce~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866423&x-signature=o1jIwNuxVV7lg6G6UIAJbU76y1g%3D)
 
 1. **Configurar os produtos:** adicione produtos da sua loja e, em seguida, defina o preço mínimo, a meta de participantes, a quantidade para o Corte de preço e a duração.
 2. **Aquecer a audiência:** fixe o produto do Corte de preço antes da atividade e explique como o Corte de preço funciona.
 3. **Iniciar o Corte de preço:** assim que o público demonstrar interesse, toque em "Iniciar".
 4. **Celebrar os participantes:** quando a atividade terminar, celebre os espectadores que ajudaram a reduzir o preço.
 5. **Iniciar a próxima rodada:** o estoque é redefinido para a quantidade de Corte de preço de cada rodada, e os vendedores podem reiniciar rapidamente usando a configuração anterior.
+
+   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ae20961448d3486d98a63701871402ae~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866386&x-signature=xf8lncveGOTD0ubTkLIamlodS3w%3D)
 
 ## **Como criar um Corte de preço**
 
@@ -111,6 +121,8 @@ Os vendedores podem editar ou excluir atividades de Corte de preço antes ou dep
 | image | image | image |
 | No aplicativo TikTok, abra a página "Corte de preço" para editar a atividade ou toque no ícone de lixeira para excluí-la. | | |
 
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ea2059525a0842f3a86c923732d79f63~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866383&x-signature=LiIcLU64xyiU3oSt2kK7oVPeahE%3D)
+
 ## **Como os espectadores podem participar do Corte de preço**
 
 Assim que um vendedor inicia um Corte de preço, os espectadores podem participar por meio dos seguintes caminhos:
@@ -135,7 +147,7 @@ Antes de participar do Corte de preço, os espectadores devem realizar três aç
 
 Durante um Corte de preço, cada participante pode reduzir o preço uma vez. A plataforma determina automaticamente o valor descontado a cada vez.
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/da62a724f6054c2483183bf4d19abafc~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2107325195&x-signature=TePkHrfEXSDQQZqWITb7FR8W8PQ%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/68d51fb70bb64ddda50fbf16e7e5a6f1~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866411&x-signature=8esa7pI4T%2BK%2BdzzS0FvQSILtLB8%3D)
 
 Após o Corte de preço, os espectadores aguardam o término da atividade. Dois resultados são possíveis:
 
@@ -159,12 +171,14 @@ Após o Corte de preço, os espectadores aguardam o término da atividade. Dois 
 
 Espectadores com uma forma de pagamento vinculada são cobrados automaticamente pelo preço final. Se a opção "Pagar depois" for selecionada, o cliente tem **10 minutos** para concluir o pagamento antes que o pedido seja cancelado.
 
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/f74450622f2b4c9ab4e6850f18fc648e~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866383&x-signature=o1TnLWOphv91mcYhWQrNFlwnXew%3D)
+
 ## Como disponibilizar o Corte de Preço para Criadores Afiliados
 
 Disponibilizar o Corte de Preço para seus criadores afiliados pode aumentar o engajamento e criar uma dinâmica contínua para ampliar o tempo de visualização e o tráfego da LIVE.  
 Para configurar o Corte de Preço para criadores afiliados, acesse: **Central de Afiliados > Promoções de LIVE**
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/40369d774b1840079331a93b11fa3ca8~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109790671&x-signature=YL5ZbFMhCYrCbfqOG5Jkl4tT97Y%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/49f328f505764e20983d727d15979ebb~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866411&x-signature=%2BWEQeTH9zlJITyc5RSePcC%2FCyNA%3D)
 
 |  |  |
 | --- | --- |
@@ -173,7 +187,7 @@ Para configurar o Corte de Preço para criadores afiliados, acesse: **Central de
 | image  image | **Etapa 3: Defina os critérios dos criadores**Escolha quais criadores poderão participar da promoção e divulgar os produtos em suas LIVEs por meio do Corte de Preço.**Criadores selecionados**Se você já souber quais criadores deseja incluir, selecione **Criadores selecionados** e pesquise pelo nome de usuário.Nesse caso, somente os criadores escolhidos poderão utilizar o Corte de Preço.Ponto importante:  * Cada combinação “criador–produto” só pode ser atribuída a uma promoção por vez. * Se uma combinação já estiver incluída na Promoção A, ela não poderá ser adicionada à Promoção B.  Para incluí-la em outra promoção, será necessário remover o criador ou o produto da promoção existente ou da promoção que está sendo configurada.**Outras opções**Caso ainda não tenha definido os criadores, escolha uma das seguintes opções:  * **Todos os criadores:** qualquer criador poderá utilizar o Corte de Preço. * **Definir critérios para criadores:** somente os criadores que atenderem aos critérios selecionados poderão participar. Os critérios podem considerar perfil, público-alvo e desempenho de vendas. |
 | image | Antes e depois da publicaçãoAntes de publicar, confirme se todas as informações estão corretas. Depois da publicação:  * O período da promoção não poderá ser alterado; * As configurações do Corte de Preço não poderão ser alteradas; * A comissão de afiliado poderá apenas ser aumentada;  A promoção poderá ser editada somente para adicionar produtos ou criadores.Após o início da promoção:  * Criadores elegíveis que já tiverem adicionado o produto à vitrine poderão visualizar o Corte de Preço diretamente na página de detalhes do produto. * Criadores que ainda não promovem o produto deverão adicioná-lo à vitrine primeiro. |
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/83404e63bed44b64b8752361ed916fc3~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109790660&x-signature=L7jkaU0a5qTgEMx8smmKUR%2BiR3A%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/32254c0194b94503b301d405492719aa~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866387&x-signature=oSc7N4IaA14gc3NKrcLw0mVla9o%3D)
 
 ### Acompanhamento das promoções dos criadores afiliados
 
@@ -189,9 +203,9 @@ Após a exclusão de uma promoção agendada:
 
 Se um produto for removido pela plataforma por não atender aos padrões aplicáveis, a promoção de Corte de Preço correspondente ficará indisponível. Nesse caso, edite a promoção e remova o produto.  
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/c0e3799ef8724202a5e0bdbc08c582ee~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109790672&x-signature=KswVoESC%2Bkl3uRWW1EAmWpIZFd4%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6369b3ff9257480483899b491912eead~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866401&x-signature=TPbhlAGfbxJZuaZlBrKoRowRY8g%3D)
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/b8ea208afe314646ae4a372adc63e16f~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109790659&x-signature=JSKuHkTPQjK9lZ5zfI%2FiL6nMbFg%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/39cfb5c39cc247b59ba81479b5617c7a~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866385&x-signature=wpsdDAtmUflP0Tg1NgwylpXRmUE%3D)
 
 ## Estratégias para o Corte de Preço
 
@@ -237,7 +251,7 @@ Se um produto for removido pela plataforma por não atender aos padrões aplicá
 | **Momento** | Espectadores simultâneos, estágio do tráfego e popularidade do produto no início | Identificar o melhor momento para iniciar a atividade |
 | **Configurações da atividade** | Meta de participantes, duração, taxa de sucesso e velocidade de conclusão | Encontrar a melhor combinação de configurações para gerar conversão |
 
-![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/1ab948d1e54c43ef886a26820536f10f~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109790661&x-signature=tWs0Km95hrPIyIE0eYZRX3YzyRY%3D)
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/beacbc5b0bed4e52b49fd8909b0aa342~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866387&x-signature=3GShYbaK5n9HyRre2Ozr9GfGU6U%3D)
 
 ## **Benefícios para vendedores**
 
@@ -249,7 +263,7 @@ Se um produto for removido pela plataforma por não atender aos padrões aplicá
 6. **Oferece aos vendedores controle sobre o risco da promoção:** os vendedores definem o preço mínimo, a meta de participantes, a quantidade e a duração.
 7. **Funciona bem durante campanhas e picos de tráfego:** metas de participantes mais altas e estoque suficiente podem transformar picos de tráfego em mais pedidos.
 
-   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/44210dbf0cfe40a2b93a2344eca96150~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2107325189&x-signature=586Uu3326vhH6J50lc2dqBb5nvg%3D)
+   ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ec2b51c16b564cf384ccb59a6f7e31f4~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109866385&x-signature=GlO2Wmn88ESsNO2RjoAabx2nr0U%3D)
 
 ## **Perguntas frequentes**
 
@@ -272,3 +286,6 @@ Se um produto for removido pela plataforma por não atender aos padrões aplicá
 17. **Os espectadores podem entrar novamente depois que o vendedor reiniciar o Corte de preço para o mesmo SKU?** Sim. Os espectadores podem participar e comprar novamente em cada nova atividade.
 18. **Um pedido pode ser cancelado após ser feito?** Sim, desde que o pedido ainda não tenha sido entregue à transportadora. Uma vez enviado ou em trânsito, o cancelamento não é mais permitido.
 19. **Os compradores podem solicitar uma devolução ou reembolso?** Sim. Produtos que não são do Shopping permitem solicitações em um prazo de 6 a 15 dias corridos após a entrega; produtos do Shopping permitem de 15 a 30 dias corridos.
+20. **Como é definido o valor reduzido a cada participação no Corte de preço?**
+
+O valor de cada redução é calculado automaticamente pela plataforma e não pode ser definido pelo vendedor nem pelo espectador. No início da atividade, as reduções são maiores e diminuem à medida que o preço se aproxima do menor preço definido pelo vendedor. Cada espectador pode reduzir o preço apenas uma vez por atividade. Quando a meta de participantes é atingida, o menor preço é desbloqueado, mas o valor nunca ficará abaixo desse limite.

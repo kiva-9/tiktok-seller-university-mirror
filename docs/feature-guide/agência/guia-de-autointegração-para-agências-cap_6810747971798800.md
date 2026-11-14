@@ -1,15 +1,11 @@
 ---
-title: Guia de autointegração para agências CAP
+title: "Guia de autointegração para agências CAP "
 id: 6810747971798800
-category: Agência
+category: "Agência"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6810747971798800"
-update_time: 2025-04-16
-keywords: Creators
+update_time: "2026-11-13"
+keywords: "Creators"
 ---
-
-
-
-
 |  |  |
 | --- | --- |
 | **Desktop** image  image | **Móvel** image  image |
