@@ -3,7 +3,7 @@ title: "O que são funcionalidade e efeito enganosos?"
 id: 4209017896060688
 category: "Gerenciamento de conteúdo "
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4209017896060688"
-update_time: "2026-11-09"
+update_time: "2026-11-16"
 keywords: "Criadores,Política de Criador"
 ---
 # **A importância do marketing honesto dos produtos**
@@ -19,15 +19,13 @@ O conteúdo é considerado **enganoso em termos de funcionalidade e efeito** qua
 * O conteúdo pode estar em vários formatos, como vídeos do TikTok Shop, transmissões ao vivo e páginas de anúncios de produtos;
 * Outros tipos de conteúdo sujeitos a estas diretrizes incluem títulos de vídeos e transmissões ao vivo, descrições, hashtags, hiperlinks, links de âncora e imagens.
 
-*[Video publicado neste artigo: [PT] MFE.mp4 - o arquivo nao e reenviado neste documento; manter o video original na pagina publicada.]*
-
 ## **O que é conteúdo enganoso?**
 
 O conteúdo é considerado **enganoso em termos de funcionalidade e efeito** se apresentar alegações médicas, alegações exageradas sobre saúde, conselhos enganosos, ou alegações cosméticas exageradas em relação a um produto. Se o conteúdo for considerado enganoso, o TikTok Shop removerá o conteúdo e os produtos associados da plataforma. Conteúdos enganosos podem causar problemas de segurança, experiências de compra pouco confiáveis e insatisfação do cliente.
 
-![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4mcDf2GXERgQe8LwCVBFClzIprfiOoGVDRqhY~tplv-noop.image?dr=18692&refresh_token=2ed05624&x-expires=1794409688&x-signature=77PsBhjUqCjN3QewZRC5zIMfeUM%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my3&VideoID=v104bdg5000cdasvj1nog65rc4m385hg)
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/o4mcDf2GXERgQe8LwCVBFClzIprfiOoGVDRqhY~tplv-noop.image?dr=18692&refresh_token=497b80e5&x-expires=1794933034&x-signature=GsUHBI16KLJVzcP4p75zBTVZY7g%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdasvj1nog65rc4m385hg)
 
-[🎬 视频 1](https://v16m-default.tiktokcdn.com/5417a71d7cf42617880feb72e8ba6e47/6af484d8/video/tos/alisg/tos-alisg-v-9e30d3-sg/owEEIgqffhLQhFXrGecVwhFmGYqDl1BDio2EzC/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1385&ft=cApXJCz7ThWH7.BILGZmo0P&mime_type=video_mp4&rc=ZGQzMzQ2NjMzNTdnaDRnZkBpajg2N3U5cjR5ZGYzOGc3NEBeNjEzMzJgXy0xNGMtYWBhYSNlNWpgMmRrZ3BhLS1kXy1zcw%3D%3D&vvpl=1&l=021794387886381fdbddc550004024e230c1dbf1f00009821875e&btag=e00098000)
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/288ad91eabaf690851cab5f8352fd461/6afc812a/video/tos/alisg/tos-alisg-v-9e30d3-sg/owEEIgqffhLQhFXrGecVwhFmGYqDl1BDio2EzC/?a=6556&bti=ODY2QDQwNWA%3D&&bt=1385&ft=cApXJCz7ThWHm-BfLGZmo0P&mime_type=video_mp4&rc=ZGQzMzQ2NjMzNTdnaDRnZkBpajg2N3U5cjR5ZGYzOGc3NEBeNjEzMzJgXy0xNGMtYWBhYSNlNWpgMmRrZ3BhLS1kXy1zcw%3D%3D&vvpl=1&l=021794911232232fdbddc5300220b221f0c1dbf1f000011592e17&btag=e00098000)
 
 ### **Alegações médicas e relacionadas à saúde**
 

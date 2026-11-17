@@ -3,9 +3,13 @@ title: "Prepare sua loja para megacampanhas"
 id: 4563955062998790
 category: "Marketing"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=4563955062998790"
-update_time: "2026-10-15"
+update_time: "2026-11-17"
 keywords: "/"
 ---
+![视频 1 封面](https://p16-common-sign.tiktokcdn.com/tos-alisg-p-9e30d3-sg/owP99DecQig2dODXoD3EzwztsITrBeFhV7CdKf~tplv-noop.image?dr=18692&refresh_token=6d225148&x-expires=1794932852&x-signature=ZaLeKuNq%2FbqRdGr5Ozd2%2BMHLBO8%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=5d1a069b&idc=my&VideoID=v104bdg5000cdbttptnog65k7bm3g72g)
+
+[🎬 视频 1](https://v16m-default.tiktokcdn.com/c2086c3df9898e1064adc8edb0ce0daa/6afc8074/video/tos/alisg/tos-alisg-v-9e30d3-sg/oIvBSU6pIiA74zuFTNciQM9E9Qa3Y7HBvwOv0/?a=6556&bti=ODY2QDQwNWA%3D&&bt=526&ft=cApXJCz7ThWHe4BfLGZmo0P&mime_type=video_mp4&rc=OjU7Njo8Nmc8MzNoNDw4ZEBpajo2ZW45cnd3ZWYzOGc3NEAxYl81YTNjXzIxMC0yYWNjYSMvZGo0MmRrbXFhLS1kXy1zcw%3D%3D&vvpl=1&l=021794911222318fdbddc5300220b221f0c1dbf1f0000110c285f&btag=e00088000)
+
 **Recomendações antes de lançar megacampanhas**
 
 * **Desempenho da loja:** verifique sua elegibilidade por meio da Pontuação de desempenho da loja (SPS) e da Avaliação de integridade da conta (AHR).
