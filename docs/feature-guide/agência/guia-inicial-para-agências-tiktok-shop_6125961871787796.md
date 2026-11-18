@@ -3,7 +3,7 @@ title: "📚 Guia inicial para Agências | TikTok Shop"
 id: 6125961871787796
 category: "Agência"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6125961871787796"
-update_time: "2026-11-16"
+update_time: "2026-11-17"
 keywords: "guia,agências"
 ---
 ![image.png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/ee504a9a5709457db4353c91bd5d6ed6~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2109861965&x-signature=F8PKi9EqZU4CQ0BUzLijlsUr29U%3D)

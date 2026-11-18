@@ -3,7 +3,7 @@ title: "Oferta em grupo de LIVE para criadores afiliados"
 id: 3166613279278854
 category: "Operação de transmissão ao vivo"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=3166613279278854"
-update_time: "2026-11-12"
+update_time: "2026-11-17"
 keywords: "Criadores"
 ---
 ## O que é a Oferta em grupo?
@@ -12,7 +12,7 @@ keywords: "Criadores"
 
 |  |  |
 | --- | --- |
-| 视频 1 封面 [🎬 视频 1](https://v16m-default.tiktokcdn.com/577b1b818d1e1064a24cc6bea4957f8c/6af874d1/video/tos/alisg/tos-alisg-v-9e30d3-sg/owinVj9ViYBuSxIKvLHKiQrBUrhuMEAIAaBC7/?a=6556&bti=ODY2QDQwNWA%3D&&bt=339&ft=cApXJCz7ThWHgoB~LGZmo0P&mime_type=video_mp4&rc=NjozZzw5NDhpNmhmPDs3OUBpajt2cnU5cjNyZWYzOGc3NEBhMS1gLy4tNTAxX2AuLy5eYSNsanBpMmRraGlhLS1kXy1zcw%3D%3D&vvpl=1&l=021794646077835fdbddc53003601461b0c1dbf1f00009fdc597c&btag=e00088000) | Uma Oferta em grupo é um recurso interativo no qual os espectadores se unem para desbloquear um preço exclusivo. Os espectadores precisam formar um grupo de um tamanho específico para obter a oferta. Se o grupo não estiver completo quando o prazo terminar, o preço promocional não será oferecido; portanto, o desconto só é concedido quando o tamanho de grupo necessário é atingido.**Os vendedores podem criar campanhas de Ofertas em grupo e atribuí-las a criadores afiliados, permitindo que estes realizem atividades de Ofertas em grupo durante transmissões de LIVE usando os produtos dos vendedores.**Isso proporciona uma experiência interativa aos seus clientes e pode manter o público engajado, ao mesmo tempo em que impulsiona vendas em maior volume e gera mais receita de comissões para você. |
+| 视频 1 封面 [🎬 视频 1](https://v16m-default.tiktokcdn.com/50743a948b7238a9fc69f3655d1a3edf/6afdcaec/video/tos/alisg/tos-alisg-v-9e30d3-sg/owinVj9ViYBuSxIKvLHKiQrBUrhuMEAIAaBC7/?a=6556&bti=ODY2QDQwNWA%3D&&bt=339&ft=cApXJCz7ThWHqb1fLGZmo0P&mime_type=video_mp4&rc=NjozZzw5NDhpNmhmPDs3OUBpajt2cnU5cjNyZWYzOGc3NEBhMS1gLy4tNTAxX2AuLy5eYSNsanBpMmRraGlhLS1kXy1zcw%3D%3D&vvpl=1&l=021794995800327fdbddc5300000661260c1dbf1f00006946accf&btag=e00088000) | Uma Oferta em grupo é um recurso interativo no qual os espectadores se unem para desbloquear um preço exclusivo. Os espectadores precisam formar um grupo de um tamanho específico para obter a oferta. Se o grupo não estiver completo quando o prazo terminar, o preço promocional não será oferecido; portanto, o desconto só é concedido quando o tamanho de grupo necessário é atingido.**Os vendedores podem criar campanhas de Ofertas em grupo e atribuí-las a criadores afiliados, permitindo que estes realizem atividades de Ofertas em grupo durante transmissões de LIVE usando os produtos dos vendedores.**Isso proporciona uma experiência interativa aos seus clientes e pode manter o público engajado, ao mesmo tempo em que impulsiona vendas em maior volume e gera mais receita de comissões para você. |
 
 **Critérios de elegibilidade**Criadores afiliados podem usar a Oferta em grupo ao atenderem a estes critérios:  
 
@@ -30,7 +30,10 @@ keywords: "Criadores"
 
 ## Como criar uma Oferta em grupo
 
-Criadores afiliados podem configurar a Oferta em grupo pelo Gerenciador de LIVE (PC) > Console de LIVE, ou pelo aplicativo TikTok, antes ou durante uma LIVE.  
+|  |  |
+| --- | --- |
+| Criadores afiliados podem configurar a Oferta em grupo pelo Gerenciador de LIVE (PC) > Console de LIVE, ou pelo aplicativo TikTok, antes ou durante uma LIVE. | 视频 2 封面 [🎬 视频 2](https://v16m-default.tiktokcdn.com/e6e7ac3a49345b2f4582ccca80aa9d5e/6afdcb29/video/tos/alisg/tos-alisg-v-9e30d3-sg/oogDfK5NEDOQEUFBVrBisxMfTUsrC1Xf8IDADr/?a=6556&bti=ODY2QDQwNWA%3D&&bt=736&ft=cApXJCz7ThWHqb1fLGZmo0P&mime_type=video_mp4&rc=ZzM5aDpoZjdpZTM5NzU1OkBpajNzcnA5cmdmZWYzOGc3NEBhMS4tLl8yXl4xNi8zMC0vYSNzX2IxMmRjXnJhLS1kXy1zcw%3D%3D&vvpl=1&l=021794995800328fdbddc5300000661260c1dbf1f00006960fde5&btag=e00090000) |
+
 **Etapa 1: acesse o Mercado de produtos e adicione à sua vitrine os produtos disponíveis para Ofertas em grupo**Quaisquer produtos em Oferta em grupo disponibilizados pelos vendedores podem ser encontrados por meio da página de produtos em Oferta em grupo de LIVE, ou filtrando as atividades de LIVE e selecionando a opção Oferta em grupo.  
 
 |  |  |
