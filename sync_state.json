@@ -975,9 +975,9 @@
     "file": "docs/feature-guide/finanças/recebendo-pagamento/agendar-seus-pagamentos_6481737900607249.md"
   },
   "4578714399901441": {
-    "title": "Política para venda de créditos",
-    "last_modified": 1783383120115,
-    "file": "docs/feature-guide/finanças/recebendo-pagamento/política-para-venda-de-créditos_4578714399901441.md"
+    "title": "Liquidação de recebíveis de cartão para instituições financeiras terceiras",
+    "last_modified": 1795145474512,
+    "file": "docs/feature-guide/finanças/recebendo-pagamento/liquidação-de-recebíveis-de-cartão-para-instituições-financeiras-terceiras_4578714399901441.md"
   },
   "24428156307201": {
     "title": "Tarifa de Comissão da Plataforma",
@@ -2191,7 +2191,7 @@
   },
   "8355657758312212": {
     "title": "Visão geral do serviço Bulky 3PL",
-    "last_modified": 1795025364302,
+    "last_modified": 1795099475996,
     "file": "docs/feature-guide/pedidos/serviço-de-compras/visão-geral-do-serviço-bulky-3pl_8355657758312212.md"
   }
 }
