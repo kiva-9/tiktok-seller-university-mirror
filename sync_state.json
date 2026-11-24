@@ -2191,7 +2191,12 @@
   },
   "8355657758312212": {
     "title": "Visão geral do serviço Bulky 3PL",
-    "last_modified": 1795099475996,
+    "last_modified": 1795463619030,
     "file": "docs/feature-guide/pedidos/serviço-de-compras/visão-geral-do-serviço-bulky-3pl_8355657758312212.md"
+  },
+  "1157356544296722": {
+    "title": "Configuração do Lance ao Vivo para criadores",
+    "last_modified": 1795458731473,
+    "file": "docs/feature-guide/live/ferramentas-e-promoções-de-live/configuração-do-lance-ao-vivo-para-criadores_1157356544296722.md"
   }
 }

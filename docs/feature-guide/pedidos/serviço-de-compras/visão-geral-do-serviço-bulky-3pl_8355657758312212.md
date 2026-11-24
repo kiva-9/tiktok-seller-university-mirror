@@ -3,7 +3,7 @@ title: "Visão geral do serviço Bulky 3PL"
 id: 8355657758312212
 category: "Serviço de compras"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=8355657758312212"
-update_time: "2026-11-19"
+update_time: "2026-11-23"
 keywords: ""
 ---
 ## 1. Volumosos 3PL em comparação com o serviço padrão
@@ -29,7 +29,7 @@ keywords: ""
 
 O TikTok Shop envia o pedido ao ERP do vendedor. O ERP ou sistema designado cria a remessa com o transportador e retorna ao TikTok Shop o número de rastreamento, o status RTS e os principais eventos de rastreamento.
 
-暂时无法在飞书文档外展示此内容  
+![whiteboard_exported_image (1).png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/10f01390208f459baa41997000c21594~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2110823604&x-signature=OKK1ubKcocXb5bFtmowYMSqDdmk%3D)
 
 O vendedor deve garantir que o número de rastreamento , o status do pedido e os principais eventos de rastreamento sejam transmitidos corretamente e no prazo. Informações de rastreamento ausentes ou atrasadas podem afetar os indicadores de fulfillment.
 
