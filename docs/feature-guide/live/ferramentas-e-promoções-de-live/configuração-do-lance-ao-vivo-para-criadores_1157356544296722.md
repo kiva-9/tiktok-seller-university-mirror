@@ -3,7 +3,7 @@ title: "Configuração do Lance ao Vivo para criadores"
 id: 1157356544296722
 category: "Ferramentas e Promoções de LIVE"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1157356544296722"
-update_time: "2026-11-23"
+update_time: "2026-11-24"
 keywords: ""
 ---
 # O que são os produtos do [Lance ao Vivo](https://seller-br.tiktok.com/university/essay?knowledge_id=5827634231625488&role=1&course_type=1&from=search "https://seller-br.tiktok.com/university/essay?knowledge_id=5827634231625488&role=1&course_type=1&from=search")
@@ -30,7 +30,7 @@ O Lance ao Vivo na colaboração direcionada e aberta permite que você ofereça
 
 # **Por que usar**
 
-O Lance ao Vivo transforma as Compras em LIVE em uma experiência interativa e em tempo real que acelera a tomada de decisão, o engajamento social e aumenta a conversão por meio de lances e entretenimento.
+O Lance ao Vivo transforma as Compras em LIVE em uma experiência interativa e em tempo real que pode acelerar a tomada de decisão, o engajamento social e aumenta a conversão por meio de lances e entretenimento.
 
 **📈 Alcance mais criadores:** a colaboração aberta mostra seus produtos de lance para criadores elegíveis no Marketplace, para que você não precise convidá-los individualmente.
 
@@ -58,7 +58,7 @@ O Lance ao Vivo transforma as Compras em LIVE em uma experiência interativa e e
 
 |  |  |
 | --- | --- |
-| A colaboração direcionada pode ser usada para **convidar criadores diretamente**, e pode ser usada ao mesmo tempo que a colaboração aberta.   1. **Importante:** se você ativar o botão "Apenas para Lance ao Vivo", os criadores não poderão promover o produto como um produto de preço fixo. Portanto, você precisará criar um convite regular separado para isso. 2. **Crie um convite para o lance:** na sessão Conteúdo de convites, escolha **LIVE com produtos à venda** como o Tipo de conteúdo e ative o botão **Apenas para Lance ao Vivo**.  * **Lance inicial**: o preço mínimo para começar o lance do criador. Esse valor também define o limite mínimo da faixa de preço usada para o Nível 1 do seu nível de comissão. * **Comissão do lance**: permite que os criadores recebam comissão com a venda do produto em um Lance ao Vivo. Configure de dois a três níveis de comissão com base no preço final da venda. * **Estoque do lance:** o número de unidades (por SKU) reservadas para o lance. Esse estoque é distribuído entre os criadores elegíveis e pode ser aumentado ou diminuído a qualquer momento com base na disponibilidade restante. * **Escolha os produtos e defina os termos do lance:** você pode escolher entre produtos com o formato de venda duplo (preço fixo e lance) e produtos apenas para o lance criados anteriormente.   **Observação:**   * Os criadores podem alterar o preço do lance inicial, mas só podem aumentá-lo a partir desse valor. * Esse lance inicial pode ser definido diferentemente do que você definiu na Central do vendedor para o seu anúncio. O valor aqui não afetará o definido no anúncio.   No momento, os vendedores podem definir o preço do lance inicial somente no nível do SPU e não no nível do SKU. Após o envio do convite, os vendedores poderão atualizar as taxas de comissão, mas elas só poderão ser aumentadas e não diminuídas. Além disso, o estoque também poderá ser aumentado e não diminuído. | image  image  image  image  image |
+| A colaboração direcionada pode ser usada para **convidar criadores diretamente**, e pode ser usada ao mesmo tempo que a colaboração aberta.   1. **Importante:** se você ativar o botão "Apenas para Lance ao Vivo", os criadores não poderão promover o produto como um produto de preço fixo. Portanto, você precisará criar um convite regular separado para isso. 2. **Crie um convite para o lance:** na sessão Conteúdo de convites, escolha **LIVE com produtos à venda** como o Tipo de conteúdo e ative o botão **Apenas para Lance ao Vivo**.  * **Lance inicial**: o preço mínimo para começar o lance do criador. Esse valor também define o limite mínimo da faixa de preço usada para o Nível 1 do seu nível de comissão. * **Comissão do lance**: permite que os criadores recebam comissão com a venda do produto em um Lance ao Vivo. Configure de dois a três níveis de comissão com base no preço final da venda. * **Estoque do lance:** o número de unidades (por SKU) reservadas para o lance. Esse estoque é distribuído entre os criadores elegíveis e pode ser aumentado ou diminuído a qualquer momento com base na disponibilidade restante. * **Escolha os produtos e defina os termos do lance:** você pode escolher entre produtos com o formato de venda duplo (preço fixo e lance) e produtos apenas para o lance criados anteriormente.   **Observação:**   * Os criadores podem alterar o preço do lance inicial, mas só podem aumentá-lo a partir desse valor. * Esse lance inicial pode ser definido diferentemente do que você definiu na Central do vendedor para o seu anúncio. O valor aqui não afetará o definido no anúncio.   No momento, os vendedores podem definir o preço do lance inicial somente no nível do SPU e não no nível do SKU. Após o envio do convite, os vendedores poderão atualizar as taxas de comissão, mas elas só poderão ser aumentadas e não diminuídas. Além disso, o estoque também poderá ser aumentado e não diminuído. | image  image |
 
 ## **Etapa 3: gerencie as amostras grátis para os produtos do lance**
 
