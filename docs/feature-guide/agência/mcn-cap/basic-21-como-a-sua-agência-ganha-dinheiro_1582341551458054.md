@@ -3,7 +3,7 @@ title: "[Basic] 2.1 · Como a sua agência ganha dinheiro? "
 id: 1582341551458054
 category: "MCN/CAP"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=1582341551458054"
-update_time: "2026-11-24"
+update_time: "2026-11-26"
 keywords: "onboarding,agências,agência"
 ---
 ![5e74b3990fc9469e9049aec8c807e465~tplv-nk3i2mqmvs-image.gif](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0ad1895a847d46bb9de8cd9966b4d854~tplv-nk3i2mqmvs-image.gif?lk3s=5d1a069b&x-expires=2110905688&x-signature=oTo5x33Ln5KAtDgaN4eDZFSDsw4%3D)![Copy of Incubation - Webinar - TTS (2).png](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/3862bdeaa6d344a7bb9fe75c6a3334da~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2110905690&x-signature=yZ64NGcHCmkU4RAaYxj5AARRq%2Fo%3D)Este é o segundo artigo da nossa série! Depois de conhecer o Partner Center e os primeiros passos da operação, é hora de entender como a sua agência ganha dinheiro no TikTok Shop: como funcionam as comissões nos modelos CAP e TAP, como os ganhos são divididos com os criadores e quais são as regras dos incentivos da plataforma. Quer conferir os outros conteúdos da série? [Clique aqui](https://seller-br.tiktok.com/university/essay?identity=1&role=2&knowledge_id=6125961871787796&from=feature_guide "https://seller-br.tiktok.com/university/essay?identity=1&role=2&knowledge_id=6125961871787796&from=feature_guide") para acessar o índice geral do nosso guia.  

@@ -1,15 +1,11 @@
 ---
-title: Pontuação de desempenho da loja
+title: "Pontuação de desempenho da loja "
 id: 7517966208927489
-category: Gerenciamento de Desempenho
+category: "Gerenciamento de Desempenho"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7517966208927489"
-update_time: 2026-07-07
+update_time: "2026-11-27"
 keywords: "Vendedores,Política de vendedor"
 ---
-
-
-
-
 # **1. O que é a Pontuação de Desempenho da Loja?**
 
 **A Pontuação de Desempenho da Loja (SPS)** é um sistema dinâmico de pontuação de zero a cinco (0-5) que resume como sua loja se desempenha em três áreas principais da experiência do cliente:  
@@ -125,3 +121,10 @@ Não. Os seguintes pedidos, avaliações e solicitações não são contabilizad
 * Pedidos sinalizados por sistemas de controle de risco, como pedidos falsos, manipulação de avaliações ou avaliações maliciosas
 * Amostras grátis enviadas a criadores
 * Edições ou atualizações em avaliações negativas existentes
+
+# 8. Recurso de Pontuação e Diretrizes de Operação
+
+|  |  |
+| --- | --- |
+| **Vá para a página de apelação** | Existem 3 maneiras de acessar a página de apelação1、No canto superior direito da página inicial do SPS, clique em "Centro de recursos" image 2、Role até a parte inferior da página inicial do SPS e clique no botão de apelação à esquerda na seção "Precisa de suporte?" image 3、Vá para a página de detalhes da análise métrica, role para a parte inferior e clique no botão "Recorrer do pedido" na seção "Pedidos afetados" image |
+| **Apresentar um pedido de recurso** | ADepois de entrar na página de recurso, clique no botão "Adicionar novo recurso" no canto superior direito para acessar a página de detalhes do recurso image Selecione a métrica necessária para recorrer e o motivo do recurso image Adicione os pedidos necessários para apelar e envie materiais de apelação de apoio onde os uploads de imagens e vídeos são suportados. image Após o envio, você pode ver o recurso iniciado no Centro de Apelação e verificar as atualizações do status do recurso e detalhes relacionados image |

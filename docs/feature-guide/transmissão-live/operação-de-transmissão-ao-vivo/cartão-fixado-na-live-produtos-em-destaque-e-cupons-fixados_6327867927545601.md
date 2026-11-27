@@ -1,15 +1,11 @@
 ---
 title: "Cartão Fixado na LIVE: produtos em destaque e cupons fixados"
 id: 6327867927545601
-category: Operação de transmissão ao vivo
+category: "Operação de transmissão ao vivo"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=6327867927545601"
-update_time: 2025-11-04
+update_time: "2026-11-27"
 keywords: "Criadores,Vendedores"
 ---
-
-
-
-
 Este artigo mostra o que é o Cartão Fixado na LIVE, como ele pode ajudar a fixar cartões de produto ou de cupom durante a sua LIVE, quais tipos de cupons podem ser fixados durante a LIVE e como o público pode resgatá-los.  
 
 |  |  |  |
@@ -90,6 +86,20 @@ A fixação de um cartão de cupom pode ser feita por meio do aplicativo TikTok 
 | image | image | Uma janela pop-up de confirmação aparecerá, onde você poderá revisar os detalhes do cupom.Clique em Fixar. |
 | image | image | Depois de fixado, o cupom exibirá o status "Fixado" ao lado da tarefa definida para o cupom.Ao clicar em "Desafixar", você pode:  * alterar a tarefa do cupom e fixá-lo novamente; ou * desafixar o cupom atual e fixar outro cupom de sua escolha. |
 | image  image | image  image | Ao clicar em Desafixar, será exibida uma janela pop-up de confirmação, e o status do cupom voltará para "Fixar".Observação: Ao desafixar o cupom, ele deixará de ser exibido na transmissão ao vivo, mas continuará sendo exibido no painel de cupons do Carrinho de compras em LIVE. *Saiba mais abaixo na seção [Como resgatar um cupom].* |
+
+### Refixação automática: Mantenha seu conteúdo fixado automaticamente
+
+**O que é a Refixação automática?**
+
+A Refixação automática é um recurso que fixa novamente seu conteúdo automaticamente (card de produto ou card de cupom) quando o card fixado expira para os espectadores (após 60s). Uma vez ativado, você não precisa mais fixar manualmente durante a LIVE — o sistema faz isso por você, seja fixando um produto ou um cupom.
+
+A configuração é permanente: permanece ativa entre sessões de LIVE e sincroniza entre PC e App.
+
+**Como ativar a Refixação automática**
+
+![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/60c57ffb26fc4b3e84c8f4fd2c721419~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2111131931&x-signature=OTt5Tbego0s59Q3iox%2F1khhzEn8%3D)
+
+Pronto — o sistema agora vai refixar seu conteúdo (produto ou cupom) automaticamente sempre que o card expirar. Se preferir fixar o conteúdo novamente de forma manual, você pode voltar a essas configurações a qualquer momento e desativar a Refixação automática.
 
 ![image](https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/6122e33e5f01477596e3ce236cf7e756~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2077516884&x-signature=bBhRiGUqHgVJpSa2KQrThDfdTtg%3D)
 

@@ -3,7 +3,7 @@ title: "Lance ao Vivo para criadores"
 id: 7981671100417798
 category: "Operação de transmissão ao vivo"
 url: "https://seller-br.tiktok.com/university/essay?knowledge_id=7981671100417798"
-update_time: "2026-11-24"
+update_time: "2026-11-26"
 keywords: "Criadores"
 ---
 ## O que é o Lance ao Vivo para criadores?
@@ -18,7 +18,7 @@ Os vendedores definem uma comissão de lance por faixas e um lance inicial míni
 
 ## Critérios de elegibilidade
 
-Para fazer um lance durante uma LIVE, um criador deve atender aos seguintes critérios:  
+Para fazer um Lance ao Vivo durante uma LIVE, um criador deve atender aos seguintes critérios:  
 
 * Classificação da integridade do criador > 150
 * Nível de e-commerce do criador > 2
@@ -34,11 +34,8 @@ O Lance ao Vivo transforma as compras em LIVE em uma experiência interativa e e
 
 ### Etapa 1: descubra os produtos de lance e adicione-os à vitrine
 
-Existem duas maneiras de descobrir produtos de lance:  
-
 |  |  |
 | --- | --- |
-| 1. Encontrar produtos do lance no Mercado de produtos Acesse a guia "Descobrir" e execute uma das seguintes ações:  * Selecione a guia "Lance ao Vivo". * Toque em "Filtros" e, em seguida, na seção "Formato de venda", selecione a opção "Lance ao Vivo" disponível. Cada cartão de produto exibe a comissão de lance e o lance inicial.  Se o produto estiver disponível para lance, você pode optar por promovê-lo como um produto com preço fixo ou por meio de um Lance ao Vivo.Ao adicionar um produto à vitrine, todos os tipos de comissão disponíveis para esse produto são ativados, incluindo as configurações padrão e de lance. Não é necessário fazer uma adição separada para cada tipo. | image |
 | 2. Receber convites para colaboração   * Acesse a seção "Convites para Collab" e procure os convites marcados como "Lance ao Vivo". Esse selo indica que o produto só pode ser promovido por meio de um Lance ao Vivo, e não como um produto com preço fixo.   + Clique no convite para ver o lance inicial, a comissão de lance e o estoque por SKU de cada produto e, em seguida, adicione-o à sua vitrine. * Se você também recebeu um convite de colaboração regular para o mesmo produto do mesmo vendedor, também poderá promover esse produto como um item de preço fixo. | image |
 
 ### Etapa 2: solicite uma amostra grátis
